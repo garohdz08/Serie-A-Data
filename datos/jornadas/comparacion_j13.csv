@@ -1,0 +1,34 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+13,PARTIDO,Como - Sassuolo,COINCIDE,,2025-11-28T19:45Z 2-0 (2 goles),2025-11-28T19:45Z 2-0 (2 goles),736908,13981548
+13,GOL,Como - Sassuolo,COINCIDE,,14' Anastasios Douvikas (Como),14' Anastasios Douvikas (Como),736908,13981548
+13,GOL,Como - Sassuolo,COINCIDE,,53' Alberto Moreno (Como),53' Alberto Moreno (Como),736908,13981548
+13,PARTIDO,Genoa - Hellas Verona,COINCIDE,,2025-11-29T14:00Z 2-1 (3 goles),2025-11-29T14:00Z 2-1 (3 goles),736907,13981547
+13,GOL,Genoa - Hellas Verona,COINCIDE,,21' Rafik Belghali (Hellas Verona),21' Rafik Belghali (Hellas Verona),736907,13981547
+13,GOL,Genoa - Hellas Verona,COINCIDE,,40' Lorenzo Colombo (Genoa),40' Lorenzo Colombo (Genoa),736907,13981547
+13,GOL,Genoa - Hellas Verona,COINCIDE,,62' Morten Thorsby (Genoa),62' Morten Thorsby (Genoa),736907,13981547
+13,PARTIDO,Parma - Udinese,COINCIDE,,2025-11-29T14:00Z 0-2 (2 goles),2025-11-29T14:00Z 0-2 (2 goles),736911,13981544
+13,GOL,Parma - Udinese,COINCIDE,,11' Nicolò Zaniolo (Udinese),11' Nicolò Zaniolo (Udinese),736911,13981544
+13,GOL,Parma - Udinese,COINCIDE,,65' Keinan Davis (Udinese) PEN,65' Keinan Davis (Udinese) PEN,736911,13981544
+13,PARTIDO,Juventus - Cagliari,COINCIDE,,2025-11-29T17:00Z 2-1 (3 goles),2025-11-29T17:00Z 2-1 (3 goles),736906,13981551
+13,GOL,Juventus - Cagliari,COINCIDE,,26' Sebastiano Esposito (Cagliari),26' Sebastiano Esposito (Cagliari),736906,13981551
+13,GOL,Juventus - Cagliari,DISCREPA,goleador,27' Kenan Yildiz (Juventus),27' Kenan Yıldız (Juventus),736906,13981551
+13,GOL,Juventus - Cagliari,DISCREPA,goleador,45+1' Kenan Yildiz (Juventus),45+1' Kenan Yıldız (Juventus),736906,13981551
+13,PARTIDO,AC Milan - Lazio,COINCIDE,,2025-11-29T19:45Z 1-0 (1 goles),2025-11-29T19:45Z 1-0 (1 goles),736904,13981545
+13,GOL,AC Milan - Lazio,COINCIDE,,51' Rafael Leão (AC Milan),51' Rafael Leão (AC Milan),736904,13981545
+13,PARTIDO,Lecce - Torino,COINCIDE,,2025-11-30T11:30Z 2-1 (3 goles),2025-11-30T11:30Z 2-1 (3 goles),736905,13981546
+13,GOL,Lecce - Torino,COINCIDE,,20' Lassana Coulibaly (Lecce),20' Lassana Coulibaly (Lecce),736905,13981546
+13,GOL,Lecce - Torino,COINCIDE,,22' Lameck Banda (Lecce),22' Lameck Banda (Lecce),736905,13981546
+13,GOL,Lecce - Torino,COINCIDE,,57' Ché Adams (Torino),57' Che Adams (Torino),736905,13981546
+13,PARTIDO,Pisa - Internazionale,COINCIDE,,2025-11-30T14:00Z 0-2 (2 goles),2025-11-30T14:00Z 0-2 (2 goles),736912,13981543
+13,GOL,Pisa - Internazionale,COINCIDE,,69' Lautaro Martínez (Internazionale),69' Lautaro Martínez (Inter),736912,13981543
+13,GOL,Pisa - Internazionale,COINCIDE,,83' Lautaro Martínez (Internazionale),83' Lautaro Martínez (Inter),736912,13981543
+13,PARTIDO,Atalanta - Fiorentina,COINCIDE,,2025-11-30T17:00Z 2-0 (2 goles),2025-11-30T17:00Z 2-0 (2 goles),736910,13981549
+13,GOL,Atalanta - Fiorentina,COINCIDE,,41' Odilon Kossounou (Atalanta),41' Odilon Kossounou (Atalanta),736910,13981549
+13,GOL,Atalanta - Fiorentina,COINCIDE,,51' Ademola Lookman (Atalanta),51' Ademola Lookman (Atalanta),736910,13981549
+13,PARTIDO,AS Roma - Napoli,COINCIDE,,2025-11-30T19:45Z 0-1 (1 goles),2025-11-30T19:45Z 0-1 (1 goles),736913,13981540
+13,GOL,AS Roma - Napoli,COINCIDE,,36' David Neres (Napoli),36' David Neres (SSC Napoli),736913,13981540
+13,PARTIDO,Bologna - Cremonese,COINCIDE,,2025-12-01T19:45Z 1-3 (4 goles),2025-12-01T19:45Z 1-3 (4 goles),736909,13981550
+13,GOL,Bologna - Cremonese,COINCIDE,,31' Martín Payero (Cremonese),31' Martín Payero (Cremonese),736909,13981550
+13,GOL,Bologna - Cremonese,COINCIDE,,35' Jamie Vardy (Cremonese),35' Jamie Vardy (Cremonese),736909,13981550
+13,GOL,Bologna - Cremonese,COINCIDE,,45+3' Riccardo Orsolini (Bologna) PEN,45+3' Riccardo Orsolini (Bologna) PEN,736909,13981550
+13,GOL,Bologna - Cremonese,COINCIDE,,50' Jamie Vardy (Cremonese),50' Jamie Vardy (Cremonese),736909,13981550
