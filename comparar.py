@@ -1,36 +1,33 @@
 #!/usr/bin/env python3
-"""Compara ESPN vs Sofascore (Jornada 1) partido por partido y gol por gol, y valida cada fuente.
+"""Compara ESPN vs Sofascore partido por partido y gol por gol, y valida cada fuente.
 
-Lee datos/*_partidos_j1.csv y datos/*_goles_j1.csv (generados por descargar_jornada.py).
-Escribe y imprime en crudo (CSV):
-  datos/comparacion_j1.csv   nivel=PARTIDO|GOL, estado=COINCIDE|DISCREPA|SOLO_ESPN|SOLO_SOFASCORE
-  datos/validaciones_j1.csv  una fila por chequeo fallido (o OK si todo pasa)
+Uso:
+  python3 comparar.py --jornada 5      # lee datos/jornadas/*_jNN.csv, escribe comparacion_jNN.csv y validaciones_jNN.csv
+  python3 comparar.py --todas          # junta las jornadas disponibles en datos/comparacion_temporada.csv y
+                                       # datos/validaciones_temporada.csv
+
+comparacion: nivel=PARTIDO|GOL, estado=COINCIDE|DISCREPA|SOLO_ESPN|SOLO_SOFASCORE.
+validaciones (una fila por incumplimiento, o OK): suma de goles = marcador, minutos 1-120, sin duplicados.
+La comparacion ignora tildes/mayusculas y alias de equipo (nombres.py); los valores crudos van en el CSV.
 """
+import argparse
 import csv
 import sys
-import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
-D = Path(__file__).parent / "datos"
+from nombres import equipo, norm
+
+DATOS = Path(__file__).parent / "datos"
+JORNADAS = DATOS / "jornadas"
 FUENTES = ("espn", "sofascore")
-
-# Unica normalizacion de nombres de equipo entre fuentes (alias -> clave comun).
-ALIAS = {"internazionale": "inter", "ssc napoli": "napoli"}
-
-
-def norm(s):
-    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower().strip()
-    return " ".join(s.split())
+COMP_COLS = ["jornada", "nivel", "partido", "estado", "campos_discrepantes",
+             "espn_valor", "sofascore_valor", "espn_id", "sofascore_id"]
+VAL_COLS = ["jornada", "fuente", "partido", "chequeo", "detalle"]
 
 
-def equipo(s):
-    n = norm(s)
-    return ALIAS.get(n, n)
-
-
-def leer(nombre):
-    with open(D / nombre, encoding="utf-8") as f:
+def leer(ruta):
+    with open(ruta, encoding="utf-8") as f:
         return list(csv.DictReader(f))
 
 
@@ -39,7 +36,7 @@ def clave(p):
 
 
 def validar(fuente, partidos, goles):
-    """Devuelve filas (fuente, partido, chequeo, detalle) por cada incumplimiento."""
+    """Devuelve (chequeo, partido, detalle) por cada incumplimiento."""
     bad = []
     por_partido = defaultdict(list)
     for g in goles:
@@ -47,26 +44,28 @@ def validar(fuente, partidos, goles):
     for p in partidos:
         etiqueta = f"{p['local']} - {p['visitante']}"
         gs = por_partido[p["partido_id"]]
+        if p["goles_local"] == "" or p["goles_visitante"] == "":
+            bad.append((etiqueta, "partido_sin_marcador", f"estado={p['estado']}"))
+            continue
         gl = sum(1 for g in gs if g["equipo"] == p["local"])
         gv = sum(1 for g in gs if g["equipo"] == p["visitante"])
         if (gl, gv) != (int(p["goles_local"]), int(p["goles_visitante"])):
-            bad.append((fuente, etiqueta, "suma_goles_vs_marcador",
+            bad.append((etiqueta, "suma_goles_vs_marcador",
                         f"marcador {p['goles_local']}-{p['goles_visitante']} pero goles listados {gl}-{gv}"))
-        vistos = Counter((g["minuto_txt"], norm(g["goleador"]), g["equipo"]) for g in gs)
-        for k, n in vistos.items():
-            if n > 1:
-                bad.append((fuente, etiqueta, "gol_duplicado", f"{k} x{n}"))
+        for k, c in Counter((g["minuto_txt"], norm(g["goleador"]), g["equipo"]) for g in gs).items():
+            if c > 1:
+                bad.append((etiqueta, "gol_duplicado", f"{k} x{c}"))
         for g in gs:
             m, a = int(g["minuto"]), int(g["anadido"])
             if not 1 <= m <= 120 or not 0 <= a <= 30:
-                bad.append((fuente, etiqueta, "minuto_fuera_de_rango", f"{g['minuto_txt']} {g['goleador']}"))
+                bad.append((etiqueta, "minuto_fuera_de_rango", f"{g['minuto_txt']} {g['goleador']}"))
             if g["equipo"] not in (p["local"], p["visitante"]):
-                bad.append((fuente, etiqueta, "equipo_ajeno_al_partido", g["equipo"]))
+                bad.append((etiqueta, "equipo_ajeno_al_partido", g["equipo"]))
     return bad
 
 
 def emparejar(ge, gs):
-    """Empareja goles de un mismo partido: exacto -> (equipo,minuto) -> (equipo,goleador) -> resto."""
+    """Empareja goles de un partido: exacto -> (equipo,minuto) -> (equipo,goleador) -> resto sin pareja."""
     def k_ex(g): return (equipo(g["equipo"]), g["minuto_txt"], norm(g["goleador"]))
     def k_min(g): return (equipo(g["equipo"]), g["minuto_txt"])
     def k_nom(g): return (equipo(g["equipo"]), norm(g["goleador"]))
@@ -76,75 +75,96 @@ def emparejar(ge, gs):
             b = next((x for x in gs if kf(x) == kf(a)), None)
             if b:
                 pares.append((a, b)); ge.remove(a); gs.remove(b)
-    pares += [(a, None) for a in ge] + [(None, b) for b in gs]
-    return pares
+    return pares + [(a, None) for a in ge] + [(None, b) for b in gs]
 
 
-def main():
-    P = {f: leer(f"{f}_partidos_j1.csv") for f in FUENTES}
-    G = {f: leer(f"{f}_goles_j1.csv") for f in FUENTES}
+def fmt(g):
+    return (f"{g['minuto_txt']}' {g['goleador']} ({g['equipo']})"
+            f"{' PEN' if g['penal'] == 'True' else ''}{' AUTOGOL' if g['autogol'] == 'True' else ''}")
 
-    # ---- validaciones por fuente
-    val = []
-    for f in FUENTES:
-        val += validar(f, P[f], G[f])
 
-    # ---- comparacion
-    pe = {clave(p): p for p in P["espn"]}
-    ps = {clave(p): p for p in P["sofascore"]}
-    cols = ["nivel", "partido", "estado", "campos_discrepantes",
-            "espn_valor", "sofascore_valor", "espn_id", "sofascore_id"]
+def comparar_jornada(n):
+    """Devuelve (filas_comparacion, filas_validacion) o None si faltan CSV."""
+    rutas = {(f, t): JORNADAS / f"{f}_{t}_j{n:02d}.csv" for f in FUENTES for t in ("partidos", "goles")}
+    faltan = [r.name for r in rutas.values() if not r.exists()]
+    if faltan:
+        print(f"J{n:02d}: faltan {faltan}; se omite", file=sys.stderr)
+        return None
+    P = {f: leer(rutas[f, "partidos"]) for f in FUENTES}
+    G = {f: leer(rutas[f, "goles"]) for f in FUENTES}
+    val = [dict(jornada=n, fuente=f, partido=pt, chequeo=ch, detalle=d)
+           for f in FUENTES for pt, ch, d in validar(f, P[f], G[f])]
+    pe, ps = {clave(p): p for p in P["espn"]}, {clave(p): p for p in P["sofascore"]}
     filas = []
     for k in sorted(set(pe) | set(ps), key=lambda k: (pe.get(k) or ps[k])["fecha_utc"] + str(k)):
         a, b = pe.get(k), ps.get(k)
         nombre = " - ".join((a or b)[x] for x in ("local", "visitante"))
         if not (a and b):
-            filas.append(dict(nivel="PARTIDO", partido=nombre, estado="SOLO_ESPN" if a else "SOLO_SOFASCORE",
-                              campos_discrepantes="partido", espn_id=a and a["partido_id"],
-                              sofascore_id=b and b["partido_id"]))
+            filas.append(dict(jornada=n, nivel="PARTIDO", partido=nombre,
+                              estado="SOLO_ESPN" if a else "SOLO_SOFASCORE", campos_discrepantes="partido",
+                              espn_id=a and a["partido_id"], sofascore_id=b and b["partido_id"]))
             continue
-        difs = []
-        if a["fecha_utc"] != b["fecha_utc"]: difs.append(("fecha_utc", a["fecha_utc"], b["fecha_utc"]))
-        ma, mb = f"{a['goles_local']}-{a['goles_visitante']}", f"{b['goles_local']}-{b['goles_visitante']}"
-        if ma != mb: difs.append(("marcador", ma, mb))
         ge = [g for g in G["espn"] if g["partido_id"] == a["partido_id"]]
         gs = [g for g in G["sofascore"] if g["partido_id"] == b["partido_id"]]
-        if len(ge) != len(gs): difs.append(("n_goles", len(ge), len(gs)))
-        filas.append(dict(nivel="PARTIDO", partido=nombre, estado="DISCREPA" if difs else "COINCIDE",
-                          campos_discrepantes="|".join(d[0] for d in difs),
-                          espn_valor=f"{ma} ({len(ge)} goles)", sofascore_valor=f"{mb} ({len(gs)} goles)",
+        ma, mb = f"{a['goles_local']}-{a['goles_visitante']}", f"{b['goles_local']}-{b['goles_visitante']}"
+        difs = []
+        if a["fecha_utc"] != b["fecha_utc"]: difs.append("fecha_utc")
+        if ma != mb: difs.append("marcador")
+        if len(ge) != len(gs): difs.append("n_goles")
+        filas.append(dict(jornada=n, nivel="PARTIDO", partido=nombre, estado="DISCREPA" if difs else "COINCIDE",
+                          campos_discrepantes="|".join(difs),
+                          espn_valor=f"{a['fecha_utc']} {ma} ({len(ge)} goles)",
+                          sofascore_valor=f"{b['fecha_utc']} {mb} ({len(gs)} goles)",
                           espn_id=a["partido_id"], sofascore_id=b["partido_id"]))
         for ga, gb in emparejar(ge, gs):
             if not (ga and gb):
                 g = ga or gb
-                filas.append(dict(nivel="GOL", partido=nombre,
+                filas.append(dict(jornada=n, nivel="GOL", partido=nombre,
                                   estado="SOLO_ESPN" if ga else "SOLO_SOFASCORE", campos_discrepantes="gol",
-                                  **{("espn_valor" if ga else "sofascore_valor"):
-                                     f"{g['minuto_txt']}' {g['goleador']} ({g['equipo']})"},
+                                  **{"espn_valor" if ga else "sofascore_valor": fmt(g)},
                                   espn_id=a["partido_id"], sofascore_id=b["partido_id"]))
                 continue
-            d = []
-            if equipo(ga["equipo"]) != equipo(gb["equipo"]): d.append("equipo")
-            if ga["minuto_txt"] != gb["minuto_txt"]: d.append("minuto")
-            if norm(ga["goleador"]) != norm(gb["goleador"]): d.append("goleador")
-            if ga["penal"] != gb["penal"]: d.append("penal")
-            if ga["autogol"] != gb["autogol"]: d.append("autogol")
-            fmt = lambda g: (f"{g['minuto_txt']}' {g['goleador']} ({g['equipo']})"
-                             f"{' PEN' if g['penal'] == 'True' else ''}{' AUTOGOL' if g['autogol'] == 'True' else ''}")
-            filas.append(dict(nivel="GOL", partido=nombre, estado="DISCREPA" if d else "COINCIDE",
+            d = [c for c, bad in (("equipo", equipo(ga["equipo"]) != equipo(gb["equipo"])),
+                                  ("minuto", ga["minuto_txt"] != gb["minuto_txt"]),
+                                  ("goleador", norm(ga["goleador"]) != norm(gb["goleador"])),
+                                  ("penal", ga["penal"] != gb["penal"]),
+                                  ("autogol", ga["autogol"] != gb["autogol"])) if bad]
+            filas.append(dict(jornada=n, nivel="GOL", partido=nombre, estado="DISCREPA" if d else "COINCIDE",
                               campos_discrepantes="|".join(d), espn_valor=fmt(ga), sofascore_valor=fmt(gb),
                               espn_id=a["partido_id"], sofascore_id=b["partido_id"]))
+    return filas, val
 
-    with open(D / "comparacion_j1.csv", "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=cols); w.writeheader(); w.writerows(filas)
-    with open(D / "validaciones_j1.csv", "w", newline="", encoding="utf-8") as fh:
-        w = csv.writer(fh); w.writerow(["fuente", "partido", "chequeo", "detalle"])
-        w.writerows(val or [("todas", "", "OK", "suma=marcador, minutos 1-120, sin duplicados")])
 
-    for nombre in ("comparacion_j1.csv", "validaciones_j1.csv"):
-        print(f"### datos/{nombre}")
-        print((D / nombre).read_text(encoding="utf-8"), end="")
-    return 1 if val or any(r["estado"] != "COINCIDE" for r in filas) else 0
+def escribir(ruta, cols, filas):
+    with open(ruta, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        if not filas and cols is VAL_COLS:
+            filas = [dict(jornada="todas", chequeo="OK", detalle="suma=marcador, minutos 1-120, sin duplicados")]
+        w.writerows(filas)
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--jornada", type=int)
+    ap.add_argument("--todas", action="store_true")
+    a = ap.parse_args()
+    jornadas = range(1, 39) if a.todas else [a.jornada or 1]
+    comp, val = [], []
+    for n in jornadas:
+        r = comparar_jornada(n)
+        if r is None:
+            continue
+        comp += r[0]; val += r[1]
+        if not a.todas:
+            escribir(JORNADAS / f"comparacion_j{n:02d}.csv", COMP_COLS, r[0])
+            escribir(JORNADAS / f"validaciones_j{n:02d}.csv", VAL_COLS, r[1])
+    if a.todas:
+        escribir(DATOS / "comparacion_temporada.csv", COMP_COLS, comp)
+        escribir(DATOS / "validaciones_temporada.csv", VAL_COLS, val)
+    malos = [r for r in comp if r["estado"] != "COINCIDE"]
+    print(f"comparacion: {len(comp)} filas, {len(malos)} no coinciden; validaciones: {len(val)} incumplimientos")
+    return 1 if malos or val else 0
 
 
 if __name__ == "__main__":

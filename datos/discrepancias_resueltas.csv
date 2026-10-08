@@ -1,0 +1,2 @@
+jornada,partido,goleador,campo,espn_crudo,sofascore_crudo,worldfootball_crudo,decision,estado,criterio
+1,Internazionale - Torino,Lautaro Martínez,minuto,"clock.displayValue=""51'""; clock.value=3060.0s; wallclock=2025-08-25T19:55:42Z",time=52; addedTime=None; incident id=321277530,NO DISPONIBLE: www.worldfootball.net CONNECT 403 (el proxy del entorno deniega el host),SIN DECIDIR,PENDIENTE_TERCERA_FUENTE,"No se elige entre 51' y 52' sin tercera fuente independiente; no se usa memoria. Tras habilitar www.worldfootball.net en Network access del entorno, repetir la consulta."

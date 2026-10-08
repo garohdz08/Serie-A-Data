@@ -1,0 +1,32 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+1,PARTIDO,Genoa - Lecce,COINCIDE,,2025-08-23T16:30Z 0-0 (0 goles),2025-08-23T16:30Z 0-0 (0 goles),736790,13981422
+1,PARTIDO,Sassuolo - Napoli,COINCIDE,,2025-08-23T16:30Z 0-2 (2 goles),2025-08-23T16:30Z 0-2 (2 goles),736784,13981431
+1,GOL,Sassuolo - Napoli,COINCIDE,,17' Scott McTominay (Napoli),17' Scott McTominay (SSC Napoli),736784,13981431
+1,GOL,Sassuolo - Napoli,COINCIDE,,57' Kevin De Bruyne (Napoli),57' Kevin De Bruyne (SSC Napoli),736784,13981431
+1,PARTIDO,AC Milan - Cremonese,COINCIDE,,2025-08-23T18:45Z 1-2 (3 goles),2025-08-23T18:45Z 1-2 (3 goles),736793,13981439
+1,GOL,AC Milan - Cremonese,COINCIDE,,28' Federico Baschirotto (Cremonese),28' Federico Baschirotto (Cremonese),736793,13981439
+1,GOL,AC Milan - Cremonese,COINCIDE,,45+1' Strahinja Pavlovic (AC Milan),45+1' Strahinja Pavlović (AC Milan),736793,13981439
+1,GOL,AC Milan - Cremonese,COINCIDE,,61' Federico Bonazzoli (Cremonese),61' Federico Bonazzoli (Cremonese),736793,13981439
+1,PARTIDO,AS Roma - Bologna,COINCIDE,,2025-08-23T18:45Z 1-0 (1 goles),2025-08-23T18:45Z 1-0 (1 goles),736785,13981428
+1,GOL,AS Roma - Bologna,COINCIDE,,53' Wesley (AS Roma),53' Wesley (AS Roma),736785,13981428
+1,PARTIDO,Cagliari - Fiorentina,COINCIDE,,2025-08-24T16:30Z 1-1 (2 goles),2025-08-24T16:30Z 1-1 (2 goles),736788,13981425
+1,GOL,Cagliari - Fiorentina,COINCIDE,,68' Rolando Mandragora (Fiorentina),68' Rolando Mandragora (Fiorentina),736788,13981425
+1,GOL,Cagliari - Fiorentina,COINCIDE,,90+4' Sebastiano Luperto (Cagliari),90+4' Sebastiano Luperto (Cagliari),736788,13981425
+1,PARTIDO,Como - Lazio,COINCIDE,,2025-08-24T16:30Z 2-0 (2 goles),2025-08-24T16:30Z 2-0 (2 goles),736789,13981423
+1,GOL,Como - Lazio,COINCIDE,,47' Anastasios Douvikas (Como),47' Anastasios Douvikas (Como),736789,13981423
+1,GOL,Como - Lazio,COINCIDE,,73' Nico Paz (Como),73' Nico Paz (Como),736789,13981423
+1,PARTIDO,Atalanta - Pisa,COINCIDE,,2025-08-24T18:45Z 1-1 (2 goles),2025-08-24T18:45Z 1-1 (2 goles),736787,13981444
+1,GOL,Atalanta - Pisa,COINCIDE,,26' Isak Hien (Pisa) AUTOGOL,26' Isak Hien (Pisa) AUTOGOL,736787,13981444
+1,GOL,Atalanta - Pisa,COINCIDE,,50' Gianluca Scamacca (Atalanta),50' Gianluca Scamacca (Atalanta),736787,13981444
+1,PARTIDO,Juventus - Parma,COINCIDE,,2025-08-24T18:45Z 2-0 (2 goles),2025-08-24T18:45Z 2-0 (2 goles),736792,13981424
+1,GOL,Juventus - Parma,COINCIDE,,59' Jonathan David (Juventus),59' Jonathan David (Juventus),736792,13981424
+1,GOL,Juventus - Parma,COINCIDE,,84' Dusan Vlahovic (Juventus),84' Dušan Vlahović (Juventus),736792,13981424
+1,PARTIDO,Udinese - Hellas Verona,COINCIDE,,2025-08-25T16:30Z 1-1 (2 goles),2025-08-25T16:30Z 1-1 (2 goles),736786,13981438
+1,GOL,Udinese - Hellas Verona,COINCIDE,,53' Thomas Kristensen (Udinese),53' Thomas Kristensen (Udinese),736786,13981438
+1,GOL,Udinese - Hellas Verona,COINCIDE,,73' Suat Serdar (Hellas Verona),73' Suat Serdar (Hellas Verona),736786,13981438
+1,PARTIDO,Internazionale - Torino,COINCIDE,,2025-08-25T18:45Z 5-0 (5 goles),2025-08-25T18:45Z 5-0 (5 goles),736791,13981421
+1,GOL,Internazionale - Torino,COINCIDE,,18' Alessandro Bastoni (Internazionale),18' Alessandro Bastoni (Inter),736791,13981421
+1,GOL,Internazionale - Torino,COINCIDE,,36' Marcus Thuram (Internazionale),36' Marcus Thuram (Inter),736791,13981421
+1,GOL,Internazionale - Torino,COINCIDE,,62' Marcus Thuram (Internazionale),62' Marcus Thuram (Inter),736791,13981421
+1,GOL,Internazionale - Torino,COINCIDE,,72' Ange-Yoan Bonny (Internazionale),72' Ange-Yoan Bonny (Inter),736791,13981421
+1,GOL,Internazionale - Torino,DISCREPA,minuto,51' Lautaro Martínez (Internazionale),52' Lautaro Martínez (Inter),736791,13981421
