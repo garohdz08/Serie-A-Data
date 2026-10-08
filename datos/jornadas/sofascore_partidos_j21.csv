@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+sofascore,13981629,2026-01-16T19:45Z,Pisa,Atalanta,1,1,finished
+sofascore,13981630,2026-01-17T14:00Z,Udinese,Inter,0,1,finished
+sofascore,13981633,2026-01-17T17:00Z,SSC Napoli,Sassuolo,1,0,finished
+sofascore,13981625,2026-01-17T19:45Z,Cagliari,Juventus,1,0,finished
+sofascore,13981627,2026-01-18T11:30Z,Parma,Genoa,0,0,finished
+sofascore,13981620,2026-01-18T14:00Z,Bologna,Fiorentina,1,2,finished
+sofascore,13981634,2026-01-18T17:00Z,Torino,AS Roma,0,2,finished
+sofascore,13981628,2026-01-18T19:45Z,AC Milan,Lecce,1,0,finished
+sofascore,13981622,2026-01-19T17:30Z,Cremonese,Hellas Verona,0,0,finished
+sofascore,13981626,2026-01-19T19:45Z,Lazio,Como,0,3,finished

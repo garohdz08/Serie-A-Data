@@ -1,0 +1,25 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+21,PARTIDO,Pisa - Atalanta,COINCIDE,,2026-01-16T19:45Z 1-1 (2 goles),2026-01-16T19:45Z 1-1 (2 goles),736991,13981629
+21,GOL,Pisa - Atalanta,COINCIDE,,83' Nikola Krstovic (Atalanta),83' Nikola Krstović (Atalanta),736991,13981629
+21,GOL,Pisa - Atalanta,COINCIDE,,87' Rafiu Durosinmi (Pisa),87' Rafiu Durosinmi (Pisa),736991,13981629
+21,PARTIDO,Udinese - Internazionale,COINCIDE,,2026-01-17T14:00Z 0-1 (1 goles),2026-01-17T14:00Z 0-1 (1 goles),736989,13981630
+21,GOL,Udinese - Internazionale,COINCIDE,,20' Lautaro Martínez (Internazionale),20' Lautaro Martínez (Inter),736989,13981630
+21,PARTIDO,Napoli - Sassuolo,COINCIDE,,2026-01-17T17:00Z 1-0 (1 goles),2026-01-17T17:00Z 1-0 (1 goles),736993,13981633
+21,GOL,Napoli - Sassuolo,COINCIDE,,7' Stanislav Lobotka (Napoli),7' Stanislav Lobotka (SSC Napoli),736993,13981633
+21,PARTIDO,Cagliari - Juventus,COINCIDE,,2026-01-17T19:45Z 1-0 (1 goles),2026-01-17T19:45Z 1-0 (1 goles),736986,13981625
+21,GOL,Cagliari - Juventus,COINCIDE,,65' Luca Mazzitelli (Cagliari),65' Luca Mazzitelli (Cagliari),736986,13981625
+21,PARTIDO,Parma - Genoa,COINCIDE,,2026-01-18T11:30Z 0-0 (0 goles),2026-01-18T11:30Z 0-0 (0 goles),736992,13981627
+21,PARTIDO,Bologna - Fiorentina,COINCIDE,,2026-01-18T14:00Z 1-2 (3 goles),2026-01-18T14:00Z 1-2 (3 goles),736987,13981620
+21,GOL,Bologna - Fiorentina,COINCIDE,,19' Rolando Mandragora (Fiorentina),19' Rolando Mandragora (Fiorentina),736987,13981620
+21,GOL,Bologna - Fiorentina,COINCIDE,,45' Roberto Piccoli (Fiorentina),45' Roberto Piccoli (Fiorentina),736987,13981620
+21,GOL,Bologna - Fiorentina,COINCIDE,,88' Giovanni Fabbian (Bologna),88' Giovanni Fabbian (Bologna),736987,13981620
+21,PARTIDO,Torino - AS Roma,COINCIDE,,2026-01-18T17:00Z 0-2 (2 goles),2026-01-18T17:00Z 0-2 (2 goles),736990,13981634
+21,GOL,Torino - AS Roma,COINCIDE,,26' Donyell Malen (AS Roma),26' Donyell Malen (AS Roma),736990,13981634
+21,GOL,Torino - AS Roma,COINCIDE,,72' Paulo Dybala (AS Roma),72' Paulo Dybala (AS Roma),736990,13981634
+21,PARTIDO,AC Milan - Lecce,COINCIDE,,2026-01-18T19:45Z 1-0 (1 goles),2026-01-18T19:45Z 1-0 (1 goles),736988,13981628
+21,GOL,AC Milan - Lecce,COINCIDE,,76' Niclas Füllkrug (AC Milan),76' Niclas Füllkrug (AC Milan),736988,13981628
+21,PARTIDO,Cremonese - Hellas Verona,COINCIDE,,2026-01-19T17:30Z 0-0 (0 goles),2026-01-19T17:30Z 0-0 (0 goles),736985,13981622
+21,PARTIDO,Lazio - Como,COINCIDE,,2026-01-19T19:45Z 0-3 (3 goles),2026-01-19T19:45Z 0-3 (3 goles),736984,13981626
+21,GOL,Lazio - Como,COINCIDE,,2' Martin Baturina (Como),2' Martin Baturina (Como),736984,13981626
+21,GOL,Lazio - Como,COINCIDE,,24' Nico Paz (Como),24' Nico Paz (Como),736984,13981626
+21,GOL,Lazio - Como,COINCIDE,,49' Nico Paz (Como),49' Nico Paz (Como),736984,13981626
