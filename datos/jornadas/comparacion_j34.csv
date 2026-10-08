@@ -1,0 +1,35 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+34,PARTIDO,Napoli - Cremonese,COINCIDE,,2026-04-24T18:45Z 4-0 (4 goles),2026-04-24T18:45Z 4-0 (4 goles),737116,13980105
+34,GOL,Napoli - Cremonese,COINCIDE,,3' Scott McTominay (Napoli),3' Scott McTominay (SSC Napoli),737116,13980105
+34,GOL,Napoli - Cremonese,COINCIDE,,45' Filippo Terracciano (Napoli) AUTOGOL,45' Filippo Terracciano (SSC Napoli) AUTOGOL,737116,13980105
+34,GOL,Napoli - Cremonese,COINCIDE,,45+3' Kevin De Bruyne (Napoli),45+3' Kevin De Bruyne (SSC Napoli),737116,13980105
+34,GOL,Napoli - Cremonese,COINCIDE,,52' Alisson Santos (Napoli),52' Alisson Santos (SSC Napoli),737116,13980105
+34,PARTIDO,Parma - Pisa,COINCIDE,,2026-04-25T13:00Z 1-0 (1 goles),2026-04-25T13:00Z 1-0 (1 goles),737115,13980107
+34,GOL,Parma - Pisa,COINCIDE,,82' Nesta Elphege (Parma),82' Nesta Elphege (Parma),737115,13980107
+34,PARTIDO,Bologna - AS Roma,COINCIDE,,2026-04-25T16:00Z 0-2 (2 goles),2026-04-25T16:00Z 0-2 (2 goles),737114,13980113
+34,GOL,Bologna - AS Roma,COINCIDE,,7' Donyell Malen (AS Roma),7' Donyell Malen (AS Roma),737114,13980113
+34,GOL,Bologna - AS Roma,COINCIDE,,45+1' Neil El Aynaoui (AS Roma),45+1' Neil El Aynaoui (AS Roma),737114,13980113
+34,PARTIDO,Hellas Verona - Lecce,COINCIDE,,2026-04-25T18:45Z 0-0 (0 goles),2026-04-25T18:45Z 0-0 (0 goles),737119,13980114
+34,PARTIDO,Fiorentina - Sassuolo,COINCIDE,,2026-04-26T10:30Z 0-0 (0 goles),2026-04-26T10:30Z 0-0 (0 goles),737121,13980110
+34,PARTIDO,Genoa - Como,COINCIDE,,2026-04-26T13:00Z 0-2 (2 goles),2026-04-26T13:00Z 0-2 (2 goles),737120,13980109
+34,GOL,Genoa - Como,COINCIDE,,10' Anastasios Douvikas (Como),10' Anastasios Douvikas (Como),737120,13980109
+34,GOL,Genoa - Como,COINCIDE,,68' Assane Diao (Como),68' Assane Diao (Como),737120,13980109
+34,PARTIDO,Torino - Internazionale,COINCIDE,,2026-04-26T16:00Z 2-2 (4 goles),2026-04-26T16:00Z 2-2 (4 goles),737118,13980104
+34,GOL,Torino - Internazionale,COINCIDE,,23' Marcus Thuram (Internazionale),23' Marcus Thuram (Inter),737118,13980104
+34,GOL,Torino - Internazionale,COINCIDE,,61' Yann Bisseck (Internazionale),61' Yann Bisseck (Inter),737118,13980104
+34,GOL,Torino - Internazionale,COINCIDE,,70' Giovanni Simeone (Torino),70' Giovanni Simeone (Torino),737118,13980104
+34,GOL,Torino - Internazionale,COINCIDE,,79' Nikola Vlasic (Torino) PEN,79' Nikola Vlašić (Torino) PEN,737118,13980104
+34,PARTIDO,AC Milan - Juventus,COINCIDE,,2026-04-26T18:45Z 0-0 (0 goles),2026-04-26T18:45Z 0-0 (0 goles),737117,13980106
+34,PARTIDO,Cagliari - Atalanta,COINCIDE,,2026-04-27T16:30Z 3-2 (5 goles),2026-04-27T16:30Z 3-2 (5 goles),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,1' Paul Mendy (Cagliari),1' Paul Mendy (Cagliari),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,8' Paul Mendy (Cagliari),8' Paul Mendy (Cagliari),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,40' Gianluca Scamacca (Atalanta),40' Gianluca Scamacca (Atalanta),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,45' Gianluca Scamacca (Atalanta),45' Gianluca Scamacca (Atalanta),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,47' Gennaro Borrelli (Cagliari),47' Gennaro Borrelli (Cagliari),737122,13980111
+34,PARTIDO,Lazio - Udinese,COINCIDE,,2026-04-27T18:45Z 3-3 (6 goles),2026-04-27T18:45Z 3-3 (6 goles),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,18' Kingsley Ehizibue (Udinese),18' Kingsley Ehizibue (Udinese),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,50' Luca Pellegrini (Lazio),50' Luca Pellegrini (Lazio),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,80' Pedro (Lazio),80' Pedro (Lazio),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,86' Arthur Atta (Udinese),86' Arthur Atta (Udinese),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,90+3' Arthur Atta (Udinese),90+3' Arthur Atta (Udinese),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,90+5' Daniel Maldini (Lazio),90+5' Daniel Maldini (Lazio),737123,13980112
