@@ -1,0 +1,40 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+14,PARTIDO,Sassuolo - Fiorentina,COINCIDE,,2025-12-06T14:00Z 3-1 (4 goles),2025-12-06T14:00Z 3-1 (4 goles),736915,13981558
+14,GOL,Sassuolo - Fiorentina,COINCIDE,,9' Rolando Mandragora (Fiorentina) PEN,9' Rolando Mandragora (Fiorentina) PEN,736915,13981558
+14,GOL,Sassuolo - Fiorentina,COINCIDE,,13' Cristian Volpato (Sassuolo),13' Cristian Volpato (Sassuolo),736915,13981558
+14,GOL,Sassuolo - Fiorentina,COINCIDE,,45+1' Tarik Muharemovic (Sassuolo),45+1' Tarik Muharemović (Sassuolo),736915,13981558
+14,GOL,Sassuolo - Fiorentina,COINCIDE,,65' Ismaël Koné (Sassuolo),65' Ismael Koné (Sassuolo),736915,13981558
+14,PARTIDO,Internazionale - Como,COINCIDE,,2025-12-06T17:00Z 4-0 (4 goles),2025-12-06T17:00Z 4-0 (4 goles),736919,13981559
+14,GOL,Internazionale - Como,COINCIDE,,11' Lautaro Martínez (Internazionale),11' Lautaro Martínez (Inter),736919,13981559
+14,GOL,Internazionale - Como,COINCIDE,,59' Marcus Thuram (Internazionale),59' Marcus Thuram (Inter),736919,13981559
+14,GOL,Internazionale - Como,COINCIDE,,81' Hakan Çalhanoglu (Internazionale),81' Hakan Çalhanoğlu (Inter),736919,13981559
+14,GOL,Internazionale - Como,COINCIDE,,86' Carlos Augusto (Internazionale),86' Carlos Augusto (Inter),736919,13981559
+14,PARTIDO,Hellas Verona - Atalanta,COINCIDE,,2025-12-06T19:45Z 3-1 (4 goles),2025-12-06T19:45Z 3-1 (4 goles),736920,13981553
+14,GOL,Hellas Verona - Atalanta,COINCIDE,,28' Rafik Belghali (Hellas Verona),28' Rafik Belghali (Hellas Verona),736920,13981553
+14,GOL,Hellas Verona - Atalanta,COINCIDE,,36' Giovane (Hellas Verona),36' Giovane (Hellas Verona),736920,13981553
+14,GOL,Hellas Verona - Atalanta,COINCIDE,,71' Antoine Bernede (Hellas Verona),71' Antoine Bernede (Hellas Verona),736920,13981553
+14,GOL,Hellas Verona - Atalanta,COINCIDE,,81' Gianluca Scamacca (Atalanta) PEN,81' Gianluca Scamacca (Atalanta) PEN,736920,13981553
+14,PARTIDO,Cremonese - Lecce,COINCIDE,,2025-12-07T11:30Z 2-0 (2 goles),2025-12-07T11:30Z 2-0 (2 goles),736921,13981563
+14,GOL,Cremonese - Lecce,COINCIDE,,53' Federico Bonazzoli (Cremonese) PEN,53' Federico Bonazzoli (Cremonese) PEN,736921,13981563
+14,GOL,Cremonese - Lecce,COINCIDE,,78' Antonio Sanabria (Cremonese),78' Antonio Sanabria (Cremonese),736921,13981563
+14,PARTIDO,Cagliari - AS Roma,COINCIDE,,2025-12-07T14:00Z 1-0 (1 goles),2025-12-07T14:00Z 1-0 (1 goles),736922,13981560
+14,GOL,Cagliari - AS Roma,COINCIDE,,82' Gianluca Gaetano (Cagliari),82' Gianluca Gaetano (Cagliari),736922,13981560
+14,PARTIDO,Lazio - Bologna,COINCIDE,,2025-12-07T17:00Z 1-1 (2 goles),2025-12-07T17:00Z 1-1 (2 goles),736923,13981556
+14,GOL,Lazio - Bologna,COINCIDE,,38' Gustav Isaksen (Lazio),38' Gustav Isaksen (Lazio),736923,13981556
+14,GOL,Lazio - Bologna,COINCIDE,,40' Jens Odgaard (Bologna),40' Jens Odgaard (Bologna),736923,13981556
+14,PARTIDO,Napoli - Juventus,COINCIDE,,2025-12-07T19:45Z 2-1 (3 goles),2025-12-07T19:45Z 2-1 (3 goles),736917,13981557
+14,GOL,Napoli - Juventus,COINCIDE,,7' Rasmus Højlund (Napoli),7' Rasmus Højlund (SSC Napoli),736917,13981557
+14,GOL,Napoli - Juventus,COINCIDE,,78' Rasmus Højlund (Napoli),78' Rasmus Højlund (SSC Napoli),736917,13981557
+14,GOL,Napoli - Juventus,DISCREPA,goleador,59' Kenan Yildiz (Juventus),59' Kenan Yıldız (Juventus),736917,13981557
+14,PARTIDO,Pisa - Parma,COINCIDE,,2025-12-08T14:00Z 0-1 (1 goles),2025-12-08T14:00Z 0-1 (1 goles),736916,13981555
+14,GOL,Pisa - Parma,COINCIDE,,40' Adrian Benedyczak (Parma) PEN,40' Adrian Benedyczak (Parma) PEN,736916,13981555
+14,PARTIDO,Udinese - Genoa,COINCIDE,,2025-12-08T17:00Z 1-2 (3 goles),2025-12-08T17:00Z 1-2 (3 goles),736918,13981552
+14,GOL,Udinese - Genoa,COINCIDE,,34' Ruslan Malinovskyi (Genoa) PEN,34' Ruslan Malinovskyi (Genoa) PEN,736918,13981552
+14,GOL,Udinese - Genoa,COINCIDE,,65' Jakub Piotrowski (Udinese),65' Jakub Piotrowski (Udinese),736918,13981552
+14,GOL,Udinese - Genoa,COINCIDE,,83' Brooke Norton-Cuffy (Genoa),83' Brooke Norton-Cuffy (Genoa),736918,13981552
+14,PARTIDO,Torino - AC Milan,COINCIDE,,2025-12-08T19:45Z 2-3 (5 goles),2025-12-08T19:45Z 2-3 (5 goles),736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,10' Nikola Vlasic (Torino) PEN,10' Nikola Vlašić (Torino) PEN,736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,17' Duván Zapata (Torino),17' Duván Zapata (Torino),736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,24' Adrien Rabiot (AC Milan),24' Adrien Rabiot (AC Milan),736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,67' Christian Pulisic (AC Milan),67' Christian Pulišić (AC Milan),736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,77' Christian Pulisic (AC Milan),77' Christian Pulišić (AC Milan),736914,13981554
