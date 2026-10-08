@@ -1,0 +1,22 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+7,PARTIDO,Lecce - Sassuolo,COINCIDE,,2025-10-18T13:00Z 0-0 (0 goles),2025-10-18T13:00Z 0-0 (0 goles),736845,13981490
+7,PARTIDO,Pisa - Hellas Verona,COINCIDE,,2025-10-18T13:00Z 0-0 (0 goles),2025-10-18T13:00Z 0-0 (0 goles),736847,13981484
+7,PARTIDO,Torino - Napoli,COINCIDE,,2025-10-18T16:00Z 1-0 (1 goles),2025-10-18T16:00Z 1-0 (1 goles),736849,13981479
+7,GOL,Torino - Napoli,COINCIDE,,32' Giovanni Simeone (Torino),32' Giovanni Simeone (Torino),736849,13981479
+7,PARTIDO,AS Roma - Internazionale,COINCIDE,,2025-10-18T18:45Z 0-1 (1 goles),2025-10-18T18:45Z 0-1 (1 goles),736848,13981485
+7,GOL,AS Roma - Internazionale,COINCIDE,,6' Ange-Yoan Bonny (Internazionale),6' Ange-Yoan Bonny (Inter),736848,13981485
+7,PARTIDO,Como - Juventus,COINCIDE,,2025-10-19T10:30Z 2-0 (2 goles),2025-10-19T10:30Z 2-0 (2 goles),736852,13981482
+7,GOL,Como - Juventus,COINCIDE,,79' Nico Paz (Como),79' Nico Paz (Como),736852,13981482
+7,GOL,Como - Juventus,DISCREPA,goleador,4' Marc-Oliver Kempf (Como),4' Marc Kempf (Como),736852,13981482
+7,PARTIDO,Cagliari - Bologna,COINCIDE,,2025-10-19T13:00Z 0-2 (2 goles),2025-10-19T13:00Z 0-2 (2 goles),736851,13981495
+7,GOL,Cagliari - Bologna,COINCIDE,,31' Emil Holm (Bologna),31' Emil Holm (Bologna),736851,13981495
+7,GOL,Cagliari - Bologna,COINCIDE,,80' Riccardo Orsolini (Bologna),80' Riccardo Orsolini (Bologna),736851,13981495
+7,PARTIDO,Genoa - Parma,COINCIDE,,2025-10-19T13:00Z 0-0 (0 goles),2025-10-19T13:00Z 0-0 (0 goles),736844,13981494
+7,PARTIDO,Atalanta - Lazio,COINCIDE,,2025-10-19T16:00Z 0-0 (0 goles),2025-10-19T16:00Z 0-0 (0 goles),736850,13981487
+7,PARTIDO,AC Milan - Fiorentina,COINCIDE,,2025-10-19T18:45Z 2-1 (3 goles),2025-10-19T18:45Z 2-1 (3 goles),736846,13981486
+7,GOL,AC Milan - Fiorentina,COINCIDE,,55' Robin Gosens (Fiorentina),55' Robin Gosens (Fiorentina),736846,13981486
+7,GOL,AC Milan - Fiorentina,COINCIDE,,63' Rafael Leão (AC Milan),63' Rafael Leão (AC Milan),736846,13981486
+7,GOL,AC Milan - Fiorentina,COINCIDE,,86' Rafael Leão (AC Milan) PEN,86' Rafael Leão (AC Milan) PEN,736846,13981486
+7,PARTIDO,Cremonese - Udinese,COINCIDE,,2025-10-20T18:45Z 1-1 (2 goles),2025-10-20T18:45Z 1-1 (2 goles),736853,13981491
+7,GOL,Cremonese - Udinese,COINCIDE,,4' Filippo Terracciano (Cremonese),4' Filippo Terracciano (Cremonese),736853,13981491
+7,GOL,Cremonese - Udinese,COINCIDE,,51' Nicolò Zaniolo (Udinese),51' Nicolò Zaniolo (Udinese),736853,13981491

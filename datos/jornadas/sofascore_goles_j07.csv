@@ -1,0 +1,12 @@
+fuente,partido_id,fecha_utc,local,visitante,gol_n,minuto_txt,minuto,anadido,goleador,equipo,penal,autogol,marcador_local_tras_gol,marcador_visitante_tras_gol,nota
+sofascore,13981479,2025-10-18T16:00Z,Torino,SSC Napoli,1,32,32,0,Giovanni Simeone,Torino,False,False,1,0,
+sofascore,13981485,2025-10-18T18:45Z,AS Roma,Inter,1,6,6,0,Ange-Yoan Bonny,Inter,False,False,0,1,
+sofascore,13981482,2025-10-19T10:30Z,Como,Juventus,1,4,4,0,Marc Kempf,Como,False,False,1,0,
+sofascore,13981482,2025-10-19T10:30Z,Como,Juventus,2,79,79,0,Nico Paz,Como,False,False,2,0,
+sofascore,13981495,2025-10-19T13:00Z,Cagliari,Bologna,1,31,31,0,Emil Holm,Bologna,False,False,0,1,
+sofascore,13981495,2025-10-19T13:00Z,Cagliari,Bologna,2,80,80,0,Riccardo Orsolini,Bologna,False,False,0,2,
+sofascore,13981486,2025-10-19T18:45Z,AC Milan,Fiorentina,1,55,55,0,Robin Gosens,Fiorentina,False,False,0,1,
+sofascore,13981486,2025-10-19T18:45Z,AC Milan,Fiorentina,2,63,63,0,Rafael Leão,AC Milan,False,False,1,1,
+sofascore,13981486,2025-10-19T18:45Z,AC Milan,Fiorentina,3,86,86,0,Rafael Leão,AC Milan,True,False,2,1,
+sofascore,13981491,2025-10-20T18:45Z,Cremonese,Udinese,1,4,4,0,Filippo Terracciano,Cremonese,False,False,1,0,
+sofascore,13981491,2025-10-20T18:45Z,Cremonese,Udinese,2,51,51,0,Nicolò Zaniolo,Udinese,False,False,1,1,

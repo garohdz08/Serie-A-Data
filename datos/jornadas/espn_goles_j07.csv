@@ -1,0 +1,12 @@
+fuente,partido_id,fecha_utc,local,visitante,gol_n,minuto_txt,minuto,anadido,goleador,equipo,penal,autogol,marcador_local_tras_gol,marcador_visitante_tras_gol,nota
+espn,736849,2025-10-18T16:00Z,Torino,Napoli,1,32,32,0,Giovanni Simeone,Torino,False,False,,,
+espn,736848,2025-10-18T18:45Z,AS Roma,Internazionale,1,6,6,0,Ange-Yoan Bonny,Internazionale,False,False,,,
+espn,736852,2025-10-19T10:30Z,Como,Juventus,1,4,4,0,Marc-Oliver Kempf,Como,False,False,,,
+espn,736852,2025-10-19T10:30Z,Como,Juventus,2,79,79,0,Nico Paz,Como,False,False,,,
+espn,736851,2025-10-19T13:00Z,Cagliari,Bologna,1,31,31,0,Emil Holm,Bologna,False,False,,,
+espn,736851,2025-10-19T13:00Z,Cagliari,Bologna,2,80,80,0,Riccardo Orsolini,Bologna,False,False,,,
+espn,736846,2025-10-19T18:45Z,AC Milan,Fiorentina,1,55,55,0,Robin Gosens,Fiorentina,False,False,,,
+espn,736846,2025-10-19T18:45Z,AC Milan,Fiorentina,2,63,63,0,Rafael Leão,AC Milan,False,False,,,
+espn,736846,2025-10-19T18:45Z,AC Milan,Fiorentina,3,86,86,0,Rafael Leão,AC Milan,True,False,,,
+espn,736853,2025-10-20T18:45Z,Cremonese,Udinese,1,4,4,0,Filippo Terracciano,Cremonese,False,False,,,
+espn,736853,2025-10-20T18:45Z,Cremonese,Udinese,2,51,51,0,Nicolò Zaniolo,Udinese,False,False,,,
