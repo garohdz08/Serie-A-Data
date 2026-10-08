@@ -1,0 +1,34 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+37,PARTIDO,AS Roma - Lazio,COINCIDE,,2026-05-17T10:00Z 2-0 (2 goles),2026-05-17T10:00Z 2-0 (2 goles),737148,13980063
+37,GOL,AS Roma - Lazio,COINCIDE,,40' Gianluca Mancini (AS Roma),40' Gianluca Mancini (AS Roma),737148,13980063
+37,GOL,AS Roma - Lazio,COINCIDE,,66' Gianluca Mancini (AS Roma),66' Gianluca Mancini (AS Roma),737148,13980063
+37,PARTIDO,Como - Parma,COINCIDE,,2026-05-17T10:00Z 1-0 (1 goles),2026-05-17T10:00Z 1-0 (1 goles),737153,13980069
+37,GOL,Como - Parma,COINCIDE,,58' Alberto Moreno (Como),58' Alberto Moreno (Como),737153,13980069
+37,PARTIDO,Genoa - AC Milan,COINCIDE,,2026-05-17T10:00Z 1-2 (3 goles),2026-05-17T10:00Z 1-2 (3 goles),737152,13980068
+37,GOL,Genoa - AC Milan,COINCIDE,,50' Christopher Nkunku (AC Milan) PEN,50' Christopher Nkunku (AC Milan) PEN,737152,13980068
+37,GOL,Genoa - AC Milan,COINCIDE,,81' Zachary Athekame (AC Milan),81' Zachary Athekame (AC Milan),737152,13980068
+37,GOL,Genoa - AC Milan,COINCIDE,,86' Johan Vásquez (Genoa),86' Johan Vásquez (Genoa),737152,13980068
+37,PARTIDO,Juventus - Fiorentina,COINCIDE,,2026-05-17T10:00Z 0-2 (2 goles),2026-05-17T10:00Z 0-2 (2 goles),737150,13980075
+37,GOL,Juventus - Fiorentina,COINCIDE,,34' Cher Ndour (Fiorentina),34' Cher Ndour (Fiorentina),737150,13980075
+37,GOL,Juventus - Fiorentina,COINCIDE,,83' Rolando Mandragora (Fiorentina),83' Rolando Mandragora (Fiorentina),737150,13980075
+37,PARTIDO,Pisa - Napoli,COINCIDE,,2026-05-17T10:00Z 0-3 (3 goles),2026-05-17T10:00Z 0-3 (3 goles),737149,13980065
+37,GOL,Pisa - Napoli,COINCIDE,,21' Scott McTominay (Napoli),21' Scott McTominay (SSC Napoli),737149,13980065
+37,GOL,Pisa - Napoli,COINCIDE,,27' Amir Rrahmani (Napoli),27' Amir Rrahmani (SSC Napoli),737149,13980065
+37,GOL,Pisa - Napoli,COINCIDE,,90+2' Rasmus Højlund (Napoli),90+2' Rasmus Højlund (SSC Napoli),737149,13980065
+37,PARTIDO,Internazionale - Hellas Verona,COINCIDE,,2026-05-17T13:00Z 1-1 (2 goles),2026-05-17T13:00Z 1-1 (2 goles),737151,13980067
+37,GOL,Internazionale - Hellas Verona,COINCIDE,,47' Andrias Edmundsson (Internazionale) AUTOGOL,47' Andrias Edmundsson (Inter) AUTOGOL,737151,13980067
+37,GOL,Internazionale - Hellas Verona,COINCIDE,,90+1' Kieron Bowie (Hellas Verona),90+1' Kieron Bowie (Hellas Verona),737151,13980067
+37,PARTIDO,Atalanta - Bologna,COINCIDE,,2026-05-17T16:00Z 0-1 (1 goles),2026-05-17T16:00Z 0-1 (1 goles),737144,13980058
+37,GOL,Atalanta - Bologna,COINCIDE,,78' Riccardo Orsolini (Bologna),78' Riccardo Orsolini (Bologna),737144,13980058
+37,PARTIDO,Cagliari - Torino,COINCIDE,,2026-05-17T18:45Z 2-1 (3 goles),2026-05-17T18:45Z 2-1 (3 goles),737145,13980060
+37,GOL,Cagliari - Torino,COINCIDE,,37' Rafael Obrador (Torino),37' Rafael Obrador (Torino),737145,13980060
+37,GOL,Cagliari - Torino,COINCIDE,,39' Sebastiano Esposito (Cagliari),39' Sebastiano Esposito (Cagliari),737145,13980060
+37,GOL,Cagliari - Torino,COINCIDE,,45+2' Yerry Mina (Cagliari),45+2' Yerry Mina (Cagliari),737145,13980060
+37,PARTIDO,Sassuolo - Lecce,COINCIDE,,2026-05-17T18:45Z 2-3 (5 goles),2026-05-17T18:45Z 2-3 (5 goles),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,14' Walid Cheddira (Lecce),14' Walid Cheddira (Lecce),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,20' Armand Laurienté (Sassuolo),20' Armand Laurienté (Sassuolo),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,25' Walid Cheddira (Lecce),25' Walid Cheddira (Lecce),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,82' Andrea Pinamonti (Sassuolo),82' Andrea Pinamonti (Sassuolo),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,90+6' Nikola Stulic (Lecce),90+6' Nikola Štulić (Lecce),737147,13980078
+37,PARTIDO,Udinese - Cremonese,COINCIDE,,2026-05-17T18:45Z 0-1 (1 goles),2026-05-17T18:45Z 0-1 (1 goles),737146,13980076
+37,GOL,Udinese - Cremonese,COINCIDE,,9' Jamie Vardy (Cremonese),9' Jamie Vardy (Cremonese),737146,13980076
