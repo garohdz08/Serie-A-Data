@@ -1,0 +1,46 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+12,PARTIDO,Cagliari - Genoa,COINCIDE,,2025-11-22T14:00Z 3-3 (6 goles),2025-11-22T14:00Z 3-3 (6 goles),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,18' Vitinha (Genoa),18' Vitinha (Genoa),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,33' Gennaro Borrelli (Cagliari),33' Gennaro Borrelli (Cagliari),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,41' Leo Østigard (Genoa),41' Leo Østigård (Genoa),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,43' Sebastiano Esposito (Cagliari),43' Sebastiano Esposito (Cagliari),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,60' Gennaro Borrelli (Cagliari),60' Gennaro Borrelli (Cagliari),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,83' Aarón Martín (Genoa),83' Aarón Martín (Genoa),736903,13981542
+12,PARTIDO,Udinese - Bologna,COINCIDE,,2025-11-22T14:00Z 0-3 (3 goles),2025-11-22T14:00Z 0-3 (3 goles),736902,13981534
+12,GOL,Udinese - Bologna,COINCIDE,,54' Tommaso Pobega (Bologna),54' Tommaso Pobega (Bologna),736902,13981534
+12,GOL,Udinese - Bologna,COINCIDE,,59' Tommaso Pobega (Bologna),59' Tommaso Pobega (Bologna),736902,13981534
+12,GOL,Udinese - Bologna,COINCIDE,,90+4' Federico Bernardeschi (Bologna),90+4' Federico Bernardeschi (Bologna),736902,13981534
+12,PARTIDO,Fiorentina - Juventus,COINCIDE,,2025-11-22T17:00Z 1-1 (2 goles),2025-11-22T17:00Z 1-1 (2 goles),736896,13981539
+12,GOL,Fiorentina - Juventus,COINCIDE,,45+5' Filip Kostic (Juventus),45+5' Filip Kostić (Juventus),736896,13981539
+12,GOL,Fiorentina - Juventus,COINCIDE,,48' Rolando Mandragora (Fiorentina),48' Rolando Mandragora (Fiorentina),736896,13981539
+12,PARTIDO,Napoli - Atalanta,COINCIDE,,2025-11-22T19:45Z 3-1 (4 goles),2025-11-22T19:45Z 3-1 (4 goles),736900,13981533
+12,GOL,Napoli - Atalanta,COINCIDE,,17' David Neres (Napoli),17' David Neres (SSC Napoli),736900,13981533
+12,GOL,Napoli - Atalanta,COINCIDE,,38' David Neres (Napoli),38' David Neres (SSC Napoli),736900,13981533
+12,GOL,Napoli - Atalanta,COINCIDE,,45' Noa Lang (Napoli),45' Noa Lang (SSC Napoli),736900,13981533
+12,GOL,Napoli - Atalanta,COINCIDE,,52' Gianluca Scamacca (Atalanta),52' Gianluca Scamacca (Atalanta),736900,13981533
+12,PARTIDO,Hellas Verona - Parma,COINCIDE,,2025-11-23T11:30Z 1-2 (3 goles),2025-11-23T11:30Z 1-2 (3 goles),736895,13981532
+12,GOL,Hellas Verona - Parma,COINCIDE,,18' Mateo Pellegrino (Parma),18' Mateo Pellegrino (Parma),736895,13981532
+12,GOL,Hellas Verona - Parma,COINCIDE,,65' Giovane (Hellas Verona),65' Giovane (Hellas Verona),736895,13981532
+12,GOL,Hellas Verona - Parma,COINCIDE,,80' Mateo Pellegrino (Parma),80' Mateo Pellegrino (Parma),736895,13981532
+12,PARTIDO,Cremonese - AS Roma,COINCIDE,,2025-11-23T14:00Z 1-3 (4 goles),2025-11-23T14:00Z 1-3 (4 goles),736897,13981541
+12,GOL,Cremonese - AS Roma,COINCIDE,,17' Matìas Soulè (AS Roma),17' Matías Soulé (AS Roma),736897,13981541
+12,GOL,Cremonese - AS Roma,COINCIDE,,64' Evan Ferguson (AS Roma),64' Evan Ferguson (AS Roma),736897,13981541
+12,GOL,Cremonese - AS Roma,COINCIDE,,69' Wesley (AS Roma),69' Wesley (AS Roma),736897,13981541
+12,GOL,Cremonese - AS Roma,COINCIDE,,90+3' Francesco Folino (Cremonese),90+3' Francesco Folino (Cremonese),736897,13981541
+12,PARTIDO,Lazio - Lecce,COINCIDE,,2025-11-23T17:00Z 2-0 (2 goles),2025-11-23T17:00Z 2-0 (2 goles),736901,13981537
+12,GOL,Lazio - Lecce,COINCIDE,,29' Matteo Guendouzi (Lazio),29' Mattéo Guendouzi (Lazio),736901,13981537
+12,GOL,Lazio - Lecce,COINCIDE,,90+5' Tijjani Noslin (Lazio),90+5' Tijjani Noslin (Lazio),736901,13981537
+12,PARTIDO,Internazionale - AC Milan,COINCIDE,,2025-11-23T19:45Z 0-1 (1 goles),2025-11-23T19:45Z 0-1 (1 goles),736894,13981538
+12,GOL,Internazionale - AC Milan,COINCIDE,,54' Christian Pulisic (AC Milan),54' Christian Pulišić (AC Milan),736894,13981538
+12,PARTIDO,Torino - Como,COINCIDE,,2025-11-24T17:30Z 1-5 (6 goles),2025-11-24T17:30Z 1-5 (6 goles),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,36' Jayden Addai (Como),36' Jayden Addai (Como),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,45+2' Nikola Vlasic (Torino) PEN,45+2' Nikola Vlašić (Torino) PEN,736898,13981535
+12,GOL,Torino - Como,COINCIDE,,52' Jayden Addai (Como),52' Jayden Addai (Como),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,71' Jacobo Ramón (Como),71' Jacobo Ramón (Como),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,76' Nico Paz (Como),76' Nico Paz (Como),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,86' Martin Baturina (Como),86' Martin Baturina (Como),736898,13981535
+12,PARTIDO,Sassuolo - Pisa,COINCIDE,,2025-11-24T19:45Z 2-2 (4 goles),2025-11-24T19:45Z 2-2 (4 goles),736899,13981536
+12,GOL,Sassuolo - Pisa,COINCIDE,,4' M'Bala Nzola (Pisa) PEN,4' M'bala Nzola (Pisa) PEN,736899,13981536
+12,GOL,Sassuolo - Pisa,COINCIDE,,6' Nemanja Matic (Sassuolo),6' Nemanja Matić (Sassuolo),736899,13981536
+12,GOL,Sassuolo - Pisa,COINCIDE,,90+5' Kristian Thorstvedt (Sassuolo),90+5' Kristian Thorstvedt (Sassuolo),736899,13981536
+12,GOL,Sassuolo - Pisa,DISCREPA,goleador,81' Henrik Meister (Pisa),81' Henrik Wendel Meister (Pisa),736899,13981536
