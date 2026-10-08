@@ -1,0 +1,36 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+5,PARTIDO,Como - Cremonese,COINCIDE,,2025-09-27T13:00Z 1-1 (2 goles),2025-09-27T13:00Z 1-1 (2 goles),736826,13981462
+5,GOL,Como - Cremonese,COINCIDE,,32' Nico Paz (Como),32' Nico Paz (Como),736826,13981462
+5,GOL,Como - Cremonese,COINCIDE,,69' Federico Baschirotto (Cremonese),69' Federico Baschirotto (Cremonese),736826,13981462
+5,PARTIDO,Juventus - Atalanta,COINCIDE,,2025-09-27T16:00Z 1-1 (2 goles),2025-09-27T16:00Z 1-1 (2 goles),736824,13981465
+5,GOL,Juventus - Atalanta,COINCIDE,,45+1' Kamaldeen Sulemana (Atalanta),45+1' Kamaldeen Sulemana (Atalanta),736824,13981465
+5,GOL,Juventus - Atalanta,COINCIDE,,78' Juan Cabal (Juventus),78' Juan Cabal (Juventus),736824,13981465
+5,PARTIDO,Cagliari - Internazionale,COINCIDE,,2025-09-27T18:45Z 0-2 (2 goles),2025-09-27T18:45Z 0-2 (2 goles),736827,13981459
+5,GOL,Cagliari - Internazionale,COINCIDE,,9' Lautaro Martínez (Internazionale),9' Lautaro Martínez (Inter),736827,13981459
+5,GOL,Cagliari - Internazionale,COINCIDE,,82' Pio Esposito (Internazionale),82' Pio Esposito (Inter),736827,13981459
+5,PARTIDO,Sassuolo - Udinese,COINCIDE,,2025-09-28T10:30Z 3-1 (4 goles),2025-09-28T10:30Z 3-1 (4 goles),736829,13981476
+5,GOL,Sassuolo - Udinese,COINCIDE,,8' Armand Laurienté (Sassuolo),8' Armand Laurienté (Sassuolo),736829,13981476
+5,GOL,Sassuolo - Udinese,COINCIDE,,12' Ismaël Koné (Sassuolo),12' Ismael Koné (Sassuolo),736829,13981476
+5,GOL,Sassuolo - Udinese,COINCIDE,,55' Keinan Davis (Udinese),55' Keinan Davis (Udinese),736829,13981476
+5,GOL,Sassuolo - Udinese,COINCIDE,,81' Edoardo Iannoni (Sassuolo),81' Edoardo Iannoni (Sassuolo),736829,13981476
+5,PARTIDO,AS Roma - Hellas Verona,COINCIDE,,2025-09-28T13:00Z 2-0 (2 goles),2025-09-28T13:00Z 2-0 (2 goles),736830,13981469
+5,GOL,AS Roma - Hellas Verona,COINCIDE,,7' Artem Dovbyk (AS Roma),7' Artem Dovbyk (AS Roma),736830,13981469
+5,GOL,AS Roma - Hellas Verona,COINCIDE,,79' Matìas Soulè (AS Roma),79' Matías Soulé (AS Roma),736830,13981469
+5,PARTIDO,Pisa - Fiorentina,COINCIDE,,2025-09-28T13:00Z 0-0 (0 goles),2025-09-28T13:00Z 0-0 (0 goles),736831,13981467
+5,PARTIDO,Lecce - Bologna,COINCIDE,,2025-09-28T16:00Z 2-2 (4 goles),2025-09-28T16:00Z 2-2 (4 goles),736828,13981468
+5,GOL,Lecce - Bologna,COINCIDE,,13' Lassana Coulibaly (Lecce),13' Lassana Coulibaly (Lecce),736828,13981468
+5,GOL,Lecce - Bologna,COINCIDE,,45+1' Riccardo Orsolini (Bologna) PEN,45+1' Riccardo Orsolini (Bologna) PEN,736828,13981468
+5,GOL,Lecce - Bologna,COINCIDE,,71' Jens Odgaard (Bologna),71' Jens Odgaard (Bologna),736828,13981468
+5,GOL,Lecce - Bologna,COINCIDE,,90+4' Francesco Camarda (Lecce),90+4' Francesco Camarda (Lecce),736828,13981468
+5,PARTIDO,AC Milan - Napoli,COINCIDE,,2025-09-28T18:45Z 2-1 (3 goles),2025-09-28T18:45Z 2-1 (3 goles),736833,13981472
+5,GOL,AC Milan - Napoli,COINCIDE,,3' Alexis Saelemaekers (AC Milan),3' Alexis Saelemaekers (AC Milan),736833,13981472
+5,GOL,AC Milan - Napoli,COINCIDE,,31' Christian Pulisic (AC Milan),31' Christian Pulišić (AC Milan),736833,13981472
+5,GOL,AC Milan - Napoli,COINCIDE,,60' Kevin De Bruyne (Napoli) PEN,60' Kevin De Bruyne (SSC Napoli) PEN,736833,13981472
+5,PARTIDO,Parma - Torino,COINCIDE,,2025-09-29T16:30Z 2-1 (3 goles),2025-09-29T16:30Z 2-1 (3 goles),736832,13981466
+5,GOL,Parma - Torino,COINCIDE,,36' Mateo Pellegrino (Parma) PEN,36' Mateo Pellegrino (Parma) PEN,736832,13981466
+5,GOL,Parma - Torino,COINCIDE,,50' Cyril Ngonge (Torino),50' Cyril Ngonge (Torino),736832,13981466
+5,GOL,Parma - Torino,COINCIDE,,72' Mateo Pellegrino (Parma),72' Mateo Pellegrino (Parma),736832,13981466
+5,PARTIDO,Genoa - Lazio,COINCIDE,,2025-09-29T18:45Z 0-3 (3 goles),2025-09-29T18:45Z 0-3 (3 goles),736825,13981464
+5,GOL,Genoa - Lazio,COINCIDE,,4' Matteo Cancellieri (Lazio),4' Matteo Cancellieri (Lazio),736825,13981464
+5,GOL,Genoa - Lazio,COINCIDE,,30' Valentín Castellanos (Lazio),30' Valentín Castellanos (Lazio),736825,13981464
+5,GOL,Genoa - Lazio,COINCIDE,,63' Mattia Zaccagni (Lazio),63' Mattia Zaccagni (Lazio),736825,13981464
