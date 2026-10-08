@@ -1,0 +1,33 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+10,PARTIDO,Udinese - Atalanta,COINCIDE,,2025-11-01T14:00Z 1-0 (1 goles),2025-11-01T14:00Z 1-0 (1 goles),736881,13981516
+10,GOL,Udinese - Atalanta,COINCIDE,,40' Nicolò Zaniolo (Udinese),40' Nicolò Zaniolo (Udinese),736881,13981516
+10,PARTIDO,Napoli - Como,COINCIDE,,2025-11-01T17:00Z 0-0 (0 goles),2025-11-01T17:00Z 0-0 (0 goles),736875,13981514
+10,PARTIDO,Cremonese - Juventus,COINCIDE,,2025-11-01T19:45Z 1-2 (3 goles),2025-11-01T19:45Z 1-2 (3 goles),736880,13981510
+10,GOL,Cremonese - Juventus,COINCIDE,,2' Filip Kostic (Juventus),2' Filip Kostić (Juventus),736880,13981510
+10,GOL,Cremonese - Juventus,COINCIDE,,68' Andrea Cambiaso (Juventus),68' Andrea Cambiaso (Juventus),736880,13981510
+10,GOL,Cremonese - Juventus,COINCIDE,,83' Jamie Vardy (Cremonese),83' Jamie Vardy (Cremonese),736880,13981510
+10,PARTIDO,Hellas Verona - Internazionale,COINCIDE,,2025-11-02T11:30Z 1-2 (3 goles),2025-11-02T11:30Z 1-2 (3 goles),736883,13981518
+10,GOL,Hellas Verona - Internazionale,COINCIDE,,16' Piotr Zielinski (Internazionale),16' Piotr Zieliński (Inter),736883,13981518
+10,GOL,Hellas Verona - Internazionale,COINCIDE,,40' Giovane (Hellas Verona),40' Giovane (Hellas Verona),736883,13981518
+10,GOL,Hellas Verona - Internazionale,COINCIDE,,90+3' Martin Frese (Internazionale) AUTOGOL,90+3' Martin Frese (Inter) AUTOGOL,736883,13981518
+10,PARTIDO,Fiorentina - Lecce,COINCIDE,,2025-11-02T14:00Z 0-1 (1 goles),2025-11-02T14:00Z 0-1 (1 goles),736879,13981513
+10,GOL,Fiorentina - Lecce,COINCIDE,,23' Medon Berisha (Lecce),23' Medon Berisha (Lecce),736879,13981513
+10,PARTIDO,Torino - Pisa,COINCIDE,,2025-11-02T14:00Z 2-2 (4 goles),2025-11-02T14:00Z 2-2 (4 goles),736882,13981520
+10,GOL,Torino - Pisa,COINCIDE,,13' Stefano Moreo (Pisa),13' Stefano Moreo (Pisa),736882,13981520
+10,GOL,Torino - Pisa,COINCIDE,,29' Stefano Moreo (Pisa) PEN,29' Stefano Moreo (Pisa) PEN,736882,13981520
+10,GOL,Torino - Pisa,COINCIDE,,42' Giovanni Simeone (Torino),42' Giovanni Simeone (Torino),736882,13981520
+10,GOL,Torino - Pisa,COINCIDE,,45+3' Ché Adams (Torino),45+3' Che Adams (Torino),736882,13981520
+10,PARTIDO,Parma - Bologna,COINCIDE,,2025-11-02T17:00Z 1-3 (4 goles),2025-11-02T17:00Z 1-3 (4 goles),736874,13981522
+10,GOL,Parma - Bologna,COINCIDE,,1' Adrián Bernabé (Parma),1' Adrián Bernabé (Parma),736874,13981522
+10,GOL,Parma - Bologna,COINCIDE,,17' Santiago Castro (Bologna),17' Santiago Castro (Bologna),736874,13981522
+10,GOL,Parma - Bologna,COINCIDE,,68' Santiago Castro (Bologna),68' Santiago Castro (Bologna),736874,13981522
+10,GOL,Parma - Bologna,COINCIDE,,90+2' Juan Miranda (Bologna),90+2' Juan Miranda (Bologna),736874,13981522
+10,PARTIDO,AC Milan - AS Roma,COINCIDE,,2025-11-02T19:45Z 1-0 (1 goles),2025-11-02T19:45Z 1-0 (1 goles),736876,13981517
+10,GOL,AC Milan - AS Roma,COINCIDE,,39' Strahinja Pavlovic (AC Milan),39' Strahinja Pavlović (AC Milan),736876,13981517
+10,PARTIDO,Sassuolo - Genoa,COINCIDE,,2025-11-03T17:30Z 1-2 (3 goles),2025-11-03T17:30Z 1-2 (3 goles),736878,13981524
+10,GOL,Sassuolo - Genoa,COINCIDE,,18' Ruslan Malinovskyi (Genoa),18' Ruslan Malinovskyi (Genoa),736878,13981524
+10,GOL,Sassuolo - Genoa,COINCIDE,,47' Domenico Berardi (Sassuolo),47' Domenico Berardi (Sassuolo),736878,13981524
+10,GOL,Sassuolo - Genoa,COINCIDE,,90+3' Leo Østigard (Genoa),90+3' Leo Østigård (Genoa),736878,13981524
+10,PARTIDO,Lazio - Cagliari,COINCIDE,,2025-11-03T19:45Z 2-0 (2 goles),2025-11-03T19:45Z 2-0 (2 goles),736877,13981515
+10,GOL,Lazio - Cagliari,COINCIDE,,65' Gustav Isaksen (Lazio),65' Gustav Isaksen (Lazio),736877,13981515
+10,GOL,Lazio - Cagliari,COINCIDE,,90+1' Mattia Zaccagni (Lazio),90+1' Mattia Zaccagni (Lazio),736877,13981515
