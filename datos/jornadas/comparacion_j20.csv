@@ -1,0 +1,39 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+20,PARTIDO,Como - Bologna,COINCIDE,,2026-01-10T14:00Z 1-1 (2 goles),2026-01-10T14:00Z 1-1 (2 goles),736976,13981616
+20,GOL,Como - Bologna,COINCIDE,,49' Nicolò Cambiaghi (Bologna),49' Nicolò Cambiaghi (Bologna),736976,13981616
+20,GOL,Como - Bologna,COINCIDE,,90+4' Martin Baturina (Como),90+4' Martin Baturina (Como),736976,13981616
+20,PARTIDO,Udinese - Pisa,COINCIDE,,2026-01-10T14:00Z 2-2 (4 goles),2026-01-10T14:00Z 2-2 (4 goles),736978,13981624
+20,GOL,Udinese - Pisa,COINCIDE,,13' Matteo Tramoni (Pisa),13' Matteo Tramoni (Pisa),736978,13981624
+20,GOL,Udinese - Pisa,COINCIDE,,19' Christian Kabasele (Udinese),19' Christian Kabasele (Udinese),736978,13981624
+20,GOL,Udinese - Pisa,COINCIDE,,40' Keinan Davis (Udinese) PEN,40' Keinan Davis (Udinese) PEN,736978,13981624
+20,GOL,Udinese - Pisa,DISCREPA,goleador,67' Henrik Meister (Pisa),67' Henrik Wendel Meister (Pisa),736978,13981624
+20,PARTIDO,AS Roma - Sassuolo,COINCIDE,,2026-01-10T17:00Z 2-0 (2 goles),2026-01-10T17:00Z 2-0 (2 goles),736982,13981619
+20,GOL,AS Roma - Sassuolo,COINCIDE,,76' Manu Koné (AS Roma),76' Manu Koné (AS Roma),736982,13981619
+20,GOL,AS Roma - Sassuolo,COINCIDE,,79' Matìas Soulè (AS Roma),79' Matías Soulé (AS Roma),736982,13981619
+20,PARTIDO,Atalanta - Torino,COINCIDE,,2026-01-10T19:45Z 2-0 (2 goles),2026-01-10T19:45Z 2-0 (2 goles),736977,13981613
+20,GOL,Atalanta - Torino,COINCIDE,,13' Charles De Ketelaere (Atalanta),13' Charles De Ketelaere (Atalanta),736977,13981613
+20,GOL,Atalanta - Torino,COINCIDE,,90+5' Mario Pasalic (Atalanta),90+5' Mario Pašalić (Atalanta),736977,13981613
+20,PARTIDO,Lecce - Parma,COINCIDE,,2026-01-11T11:30Z 1-2 (3 goles),2026-01-11T11:30Z 1-2 (3 goles),736981,13981621
+20,GOL,Lecce - Parma,COINCIDE,,1' Nikola Stulic (Lecce),1' Nikola Štulić (Lecce),736981,13981621
+20,GOL,Lecce - Parma,COINCIDE,,64' Tiago Gabriel (Parma) AUTOGOL,64' Tiago Gabriel (Parma) AUTOGOL,736981,13981621
+20,GOL,Lecce - Parma,COINCIDE,,72' Mateo Pellegrino (Parma),72' Mateo Pellegrino (Parma),736981,13981621
+20,PARTIDO,Fiorentina - AC Milan,COINCIDE,,2026-01-11T14:00Z 1-1 (2 goles),2026-01-11T14:00Z 1-1 (2 goles),736975,13981614
+20,GOL,Fiorentina - AC Milan,COINCIDE,,66' Pietro Comuzzo (Fiorentina),66' Pietro Comuzzo (Fiorentina),736975,13981614
+20,GOL,Fiorentina - AC Milan,COINCIDE,,90' Christopher Nkunku (AC Milan),90' Christopher Nkunku (AC Milan),736975,13981614
+20,PARTIDO,Hellas Verona - Lazio,COINCIDE,,2026-01-11T17:00Z 0-1 (1 goles),2026-01-11T17:00Z 0-1 (1 goles),736983,13981615
+20,GOL,Hellas Verona - Lazio,COINCIDE,,79' Victor Nelsson (Lazio) AUTOGOL,79' Victor Nelsson (Lazio) AUTOGOL,736983,13981615
+20,PARTIDO,Internazionale - Napoli,COINCIDE,,2026-01-11T19:45Z 2-2 (4 goles),2026-01-11T19:45Z 2-2 (4 goles),736979,13981618
+20,GOL,Internazionale - Napoli,COINCIDE,,9' Federico Dimarco (Internazionale),9' Federico Dimarco (Inter),736979,13981618
+20,GOL,Internazionale - Napoli,COINCIDE,,26' Scott McTominay (Napoli),26' Scott McTominay (SSC Napoli),736979,13981618
+20,GOL,Internazionale - Napoli,COINCIDE,,73' Hakan Çalhanoglu (Internazionale) PEN,73' Hakan Çalhanoğlu (Inter) PEN,736979,13981618
+20,GOL,Internazionale - Napoli,COINCIDE,,81' Scott McTominay (Napoli),81' Scott McTominay (SSC Napoli),736979,13981618
+20,PARTIDO,Genoa - Cagliari,COINCIDE,,2026-01-12T17:30Z 3-0 (3 goles),2026-01-12T17:30Z 3-0 (3 goles),736974,13981617
+20,GOL,Genoa - Cagliari,COINCIDE,,7' Lorenzo Colombo (Genoa),7' Lorenzo Colombo (Genoa),736974,13981617
+20,GOL,Genoa - Cagliari,COINCIDE,,75' Morten Frendrup (Genoa),75' Morten Frendrup (Genoa),736974,13981617
+20,GOL,Genoa - Cagliari,COINCIDE,,78' Leo Østigard (Genoa),78' Leo Østigård (Genoa),736974,13981617
+20,PARTIDO,Juventus - Cremonese,COINCIDE,,2026-01-12T19:45Z 5-0 (5 goles),2026-01-12T19:45Z 5-0 (5 goles),736980,13981623
+20,GOL,Juventus - Cremonese,COINCIDE,,15' Jonathan David (Juventus),15' Jonathan David (Juventus),736980,13981623
+20,GOL,Juventus - Cremonese,COINCIDE,,48' Filippo Terracciano (Juventus) AUTOGOL,48' Filippo Terracciano (Juventus) AUTOGOL,736980,13981623
+20,GOL,Juventus - Cremonese,COINCIDE,,64' Weston McKennie (Juventus),64' Weston McKennie (Juventus),736980,13981623
+20,GOL,Juventus - Cremonese,DISCREPA,goleador,12' Bremer (Juventus),12' Gleison Bremer (Juventus),736980,13981623
+20,GOL,Juventus - Cremonese,DISCREPA,goleador,35' Kenan Yildiz (Juventus),35' Kenan Yıldız (Juventus),736980,13981623
