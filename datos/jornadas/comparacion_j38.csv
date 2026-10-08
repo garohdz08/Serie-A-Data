@@ -1,0 +1,39 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+38,PARTIDO,Fiorentina - Atalanta,COINCIDE,,2026-05-22T18:45Z 1-1 (2 goles),2026-05-22T18:45Z 1-1 (2 goles),737161,13980080
+38,GOL,Fiorentina - Atalanta,COINCIDE,,39' Roberto Piccoli (Fiorentina),39' Roberto Piccoli (Fiorentina),737161,13980080
+38,GOL,Fiorentina - Atalanta,COINCIDE,,82' Pietro Comuzzo (Atalanta) AUTOGOL,82' Pietro Comuzzo (Atalanta) AUTOGOL,737161,13980080
+38,PARTIDO,Bologna - Internazionale,COINCIDE,,2026-05-23T16:00Z 3-3 (6 goles),2026-05-23T16:00Z 3-3 (6 goles),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,22' Federico Dimarco (Internazionale),22' Federico Dimarco (Inter),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,25' Federico Bernardeschi (Bologna),25' Federico Bernardeschi (Bologna),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,42' Tommaso Pobega (Bologna),42' Tommaso Pobega (Bologna),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,48' Piotr Zielinski (Bologna) AUTOGOL,48' Piotr Zieliński (Bologna) AUTOGOL,737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,64' Pio Esposito (Internazionale),64' Pio Esposito (Inter),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,86' Andy Diouf (Internazionale),86' Andy Diouf (Inter),737154,13980079
+38,PARTIDO,Lazio - Pisa,COINCIDE,,2026-05-23T18:45Z 2-1 (3 goles),2026-05-23T18:45Z 2-1 (3 goles),737159,13980072
+38,GOL,Lazio - Pisa,COINCIDE,,23' Stefano Moreo (Pisa),23' Stefano Moreo (Pisa),737159,13980072
+38,GOL,Lazio - Pisa,COINCIDE,,33' Fisayo Dele-Bashiru (Lazio),33' Fisayo Dele-Bashiru (Lazio),737159,13980072
+38,GOL,Lazio - Pisa,COINCIDE,,35' Pedro (Lazio),35' Pedro (Lazio),737159,13980072
+38,PARTIDO,Parma - Sassuolo,COINCIDE,,2026-05-24T13:00Z 1-0 (1 goles),2026-05-24T13:00Z 1-0 (1 goles),737155,13980074
+38,GOL,Parma - Sassuolo,COINCIDE,,80' Mateo Pellegrino (Parma),80' Mateo Pellegrino (Parma),737155,13980074
+38,PARTIDO,Napoli - Udinese,COINCIDE,,2026-05-24T16:00Z 1-0 (1 goles),2026-05-24T16:00Z 1-0 (1 goles),737156,13980061
+38,GOL,Napoli - Udinese,COINCIDE,,24' Rasmus Højlund (Napoli),24' Rasmus Højlund (SSC Napoli),737156,13980061
+38,PARTIDO,AC Milan - Cagliari,COINCIDE,,2026-05-24T18:45Z 1-2 (3 goles),2026-05-24T18:45Z 1-2 (3 goles),737157,13980071
+38,GOL,AC Milan - Cagliari,COINCIDE,,2' Alexis Saelemaekers (AC Milan),2' Alexis Saelemaekers (AC Milan),737157,13980071
+38,GOL,AC Milan - Cagliari,COINCIDE,,20' Gennaro Borrelli (Cagliari),20' Gennaro Borrelli (Cagliari),737157,13980071
+38,GOL,AC Milan - Cagliari,COINCIDE,,57' Juan Rodríguez (Cagliari),57' Juan Rodríguez (Cagliari),737157,13980071
+38,PARTIDO,Cremonese - Como,COINCIDE,,2026-05-24T18:45Z 1-4 (5 goles),2026-05-24T18:45Z 1-4 (5 goles),737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,36' Jesús Rodriguez (Como),36' Jesús Rodriguez (Como),737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,51' Anastasios Douvikas (Como),51' Anastasios Douvikas (Como),737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,55' Federico Bonazzoli (Cremonese) PEN,55' Federico Bonazzoli (Cremonese) PEN,737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,74' Lucas Da Cunha (Como) PEN,74' Lucas Da Cunha (Como) PEN,737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,81' Lucas Da Cunha (Como),81' Lucas Da Cunha (Como),737162,13980070
+38,PARTIDO,Hellas Verona - AS Roma,COINCIDE,,2026-05-24T18:45Z 0-2 (2 goles),2026-05-24T18:45Z 0-2 (2 goles),737160,13980064
+38,GOL,Hellas Verona - AS Roma,COINCIDE,,56' Donyell Malen (AS Roma),56' Donyell Malen (AS Roma),737160,13980064
+38,GOL,Hellas Verona - AS Roma,COINCIDE,,90+3' Stephan El Shaarawy (AS Roma),90+3' Stephan El Shaarawy (AS Roma),737160,13980064
+38,PARTIDO,Lecce - Genoa,COINCIDE,,2026-05-24T18:45Z 1-0 (1 goles),2026-05-24T18:45Z 1-0 (1 goles),737163,13980066
+38,GOL,Lecce - Genoa,COINCIDE,,6' Lameck Banda (Lecce),6' Lameck Banda (Lecce),737163,13980066
+38,PARTIDO,Torino - Juventus,COINCIDE,,2026-05-24T19:45Z 2-2 (4 goles),2026-05-24T19:45Z 2-2 (4 goles),737158,13980077
+38,GOL,Torino - Juventus,COINCIDE,,24' Dusan Vlahovic (Juventus),24' Dušan Vlahović (Juventus),737158,13980077
+38,GOL,Torino - Juventus,COINCIDE,,54' Dusan Vlahovic (Juventus),54' Dušan Vlahović (Juventus),737158,13980077
+38,GOL,Torino - Juventus,COINCIDE,,60' Cesare Casadei (Torino),60' Cesare Casadei (Torino),737158,13980077
+38,GOL,Torino - Juventus,COINCIDE,,84' Ché Adams (Torino),84' Che Adams (Torino),737158,13980077
