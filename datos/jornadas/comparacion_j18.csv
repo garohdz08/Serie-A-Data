@@ -1,0 +1,30 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+18,PARTIDO,Cagliari - AC Milan,COINCIDE,,2026-01-02T19:45Z 0-1 (1 goles),2026-01-02T19:45Z 0-1 (1 goles),736955,13981602
+18,GOL,Cagliari - AC Milan,COINCIDE,,50' Rafael Leão (AC Milan),50' Rafael Leão (AC Milan),736955,13981602
+18,PARTIDO,Como - Udinese,COINCIDE,,2026-01-03T11:30Z 1-0 (1 goles),2026-01-03T11:30Z 1-0 (1 goles),736956,13981600
+18,GOL,Como - Udinese,COINCIDE,,18' Lucas Da Cunha (Como) PEN,18' Lucas Da Cunha (Como) PEN,736956,13981600
+18,PARTIDO,Genoa - Pisa,COINCIDE,,2026-01-03T14:00Z 1-1 (2 goles),2026-01-03T14:00Z 1-1 (2 goles),736963,13981598
+18,GOL,Genoa - Pisa,COINCIDE,,15' Lorenzo Colombo (Genoa),15' Lorenzo Colombo (Genoa),736963,13981598
+18,GOL,Genoa - Pisa,COINCIDE,,38' Mehdi Léris (Pisa),38' Mehdi Léris (Pisa),736963,13981598
+18,PARTIDO,Sassuolo - Parma,COINCIDE,,2026-01-03T14:00Z 1-1 (2 goles),2026-01-03T14:00Z 1-1 (2 goles),736958,13981595
+18,GOL,Sassuolo - Parma,COINCIDE,,12' Kristian Thorstvedt (Sassuolo),12' Kristian Thorstvedt (Sassuolo),736958,13981595
+18,GOL,Sassuolo - Parma,COINCIDE,,24' Mateo Pellegrino (Parma),24' Mateo Pellegrino (Parma),736958,13981595
+18,PARTIDO,Juventus - Lecce,COINCIDE,,2026-01-03T17:00Z 1-1 (2 goles),2026-01-03T17:00Z 1-1 (2 goles),736961,13981596
+18,GOL,Juventus - Lecce,COINCIDE,,45+1' Lameck Banda (Lecce),45+1' Lameck Banda (Lecce),736961,13981596
+18,GOL,Juventus - Lecce,COINCIDE,,49' Weston McKennie (Juventus),49' Weston McKennie (Juventus),736961,13981596
+18,PARTIDO,Atalanta - AS Roma,COINCIDE,,2026-01-03T19:45Z 1-0 (1 goles),2026-01-03T19:45Z 1-0 (1 goles),736954,13981594
+18,GOL,Atalanta - AS Roma,COINCIDE,,12' Giorgio Scalvini (Atalanta),12' Giorgio Scalvini (Atalanta),736954,13981594
+18,PARTIDO,Lazio - Napoli,COINCIDE,,2026-01-04T11:30Z 0-2 (2 goles),2026-01-04T11:30Z 0-2 (2 goles),736962,13981592
+18,GOL,Lazio - Napoli,COINCIDE,,13' Leonardo Spinazzola (Napoli),13' Leonardo Spinazzola (SSC Napoli),736962,13981592
+18,GOL,Lazio - Napoli,COINCIDE,,32' Amir Rrahmani (Napoli),32' Amir Rrahmani (SSC Napoli),736962,13981592
+18,PARTIDO,Fiorentina - Cremonese,COINCIDE,,2026-01-04T14:00Z 1-0 (1 goles),2026-01-04T14:00Z 1-0 (1 goles),736957,13981599
+18,GOL,Fiorentina - Cremonese,COINCIDE,,90+2' Moise Kean (Fiorentina),90+2' Moise Kean (Fiorentina),736957,13981599
+18,PARTIDO,Hellas Verona - Torino,COINCIDE,,2026-01-04T17:00Z 0-3 (3 goles),2026-01-04T17:00Z 0-3 (3 goles),736959,13981593
+18,GOL,Hellas Verona - Torino,COINCIDE,,10' Giovanni Simeone (Torino),10' Giovanni Simeone (Torino),736959,13981593
+18,GOL,Hellas Verona - Torino,COINCIDE,,87' Cesare Casadei (Torino),87' Cesare Casadei (Torino),736959,13981593
+18,GOL,Hellas Verona - Torino,COINCIDE,,90+1' Alieu Njie (Torino),90+1' Alieu Njie (Torino),736959,13981593
+18,PARTIDO,Internazionale - Bologna,COINCIDE,,2026-01-04T19:45Z 3-1 (4 goles),2026-01-04T19:45Z 3-1 (4 goles),736960,13981597
+18,GOL,Internazionale - Bologna,COINCIDE,,39' Piotr Zielinski (Internazionale),39' Piotr Zieliński (Inter),736960,13981597
+18,GOL,Internazionale - Bologna,COINCIDE,,48' Lautaro Martínez (Internazionale),48' Lautaro Martínez (Inter),736960,13981597
+18,GOL,Internazionale - Bologna,COINCIDE,,74' Marcus Thuram (Internazionale),74' Marcus Thuram (Inter),736960,13981597
+18,GOL,Internazionale - Bologna,COINCIDE,,83' Santiago Castro (Bologna),83' Santiago Castro (Bologna),736960,13981597
