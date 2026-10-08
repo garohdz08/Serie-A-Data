@@ -1,0 +1,34 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+30,PARTIDO,Cagliari - Napoli,COINCIDE,,2026-03-20T17:30Z 0-1 (1 goles),2026-03-20T17:30Z 0-1 (1 goles),737081,13981717
+30,GOL,Cagliari - Napoli,COINCIDE,,2' Scott McTominay (Napoli),2' Scott McTominay (SSC Napoli),737081,13981717
+30,PARTIDO,Genoa - Udinese,COINCIDE,,2026-03-20T19:45Z 0-2 (2 goles),2026-03-20T19:45Z 0-2 (2 goles),737083,13981716
+30,GOL,Genoa - Udinese,COINCIDE,,66' Jurgen Ekkelenkamp (Udinese),66' Jürgen Ekkelenkamp (Udinese),737083,13981716
+30,GOL,Genoa - Udinese,COINCIDE,,90+6' Keinan Davis (Udinese),90+6' Keinan Davis (Udinese),737083,13981716
+30,PARTIDO,Parma - Cremonese,COINCIDE,,2026-03-21T14:00Z 0-2 (2 goles),2026-03-21T14:00Z 0-2 (2 goles),737075,13981721
+30,GOL,Parma - Cremonese,COINCIDE,,54' Youssef Maleh (Cremonese),54' Youssef Maleh (Cremonese),737075,13981721
+30,GOL,Parma - Cremonese,COINCIDE,,68' Jari Vandeputte (Cremonese),68' Jari Vandeputte (Cremonese),737075,13981721
+30,PARTIDO,AC Milan - Torino,COINCIDE,,2026-03-21T17:00Z 3-2 (5 goles),2026-03-21T17:00Z 3-2 (5 goles),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,36' Strahinja Pavlovic (AC Milan),36' Strahinja Pavlović (AC Milan),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,44' Giovanni Simeone (Torino),44' Giovanni Simeone (Torino),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,54' Adrien Rabiot (AC Milan),54' Adrien Rabiot (AC Milan),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,56' Youssouf Fofana (AC Milan),56' Youssouf Fofana (AC Milan),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,83' Nikola Vlasic (Torino) PEN,83' Nikola Vlašić (Torino) PEN,737076,13981724
+30,PARTIDO,Juventus - Sassuolo,COINCIDE,,2026-03-21T19:45Z 1-1 (2 goles),2026-03-21T19:45Z 1-1 (2 goles),737077,13981719
+30,GOL,Juventus - Sassuolo,COINCIDE,,52' Andrea Pinamonti (Sassuolo),52' Andrea Pinamonti (Sassuolo),737077,13981719
+30,GOL,Juventus - Sassuolo,DISCREPA,goleador,14' Kenan Yildiz (Juventus),14' Kenan Yıldız (Juventus),737077,13981719
+30,PARTIDO,Como - Pisa,COINCIDE,,2026-03-22T11:30Z 5-0 (5 goles),2026-03-22T11:30Z 5-0 (5 goles),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,7' Assane Diao (Como),7' Assane Diao (Como),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,29' Anastasios Douvikas (Como),29' Anastasios Douvikas (Como),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,48' Martin Baturina (Como),48' Martin Baturina (Como),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,75' Nico Paz (Como),75' Nico Paz (Como),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,81' Máximo Perrone (Como),81' Máximo Perrone (Como),737080,13981718
+30,PARTIDO,Atalanta - Hellas Verona,COINCIDE,,2026-03-22T14:00Z 1-0 (1 goles),2026-03-22T14:00Z 1-0 (1 goles),737074,13981709
+30,GOL,Atalanta - Hellas Verona,COINCIDE,,37' Davide Zappacosta (Atalanta),37' Davide Zappacosta (Atalanta),737074,13981709
+30,PARTIDO,Bologna - Lazio,COINCIDE,,2026-03-22T14:00Z 0-2 (2 goles),2026-03-22T14:00Z 0-2 (2 goles),737082,13981713
+30,GOL,Bologna - Lazio,COINCIDE,,72' Kenneth Taylor (Lazio),72' Kenneth Taylor (Lazio),737082,13981713
+30,GOL,Bologna - Lazio,COINCIDE,,82' Kenneth Taylor (Lazio),82' Kenneth Taylor (Lazio),737082,13981713
+30,PARTIDO,AS Roma - Lecce,COINCIDE,,2026-03-22T17:00Z 1-0 (1 goles),2026-03-22T17:00Z 1-0 (1 goles),737078,13981722
+30,GOL,AS Roma - Lecce,COINCIDE,,57' Robinio Vaz (AS Roma),57' Robinio Vaz (AS Roma),737078,13981722
+30,PARTIDO,Fiorentina - Internazionale,COINCIDE,,2026-03-22T19:45Z 1-1 (2 goles),2026-03-22T19:45Z 1-1 (2 goles),737079,13981715
+30,GOL,Fiorentina - Internazionale,COINCIDE,,1' Pio Esposito (Internazionale),1' Pio Esposito (Inter),737079,13981715
+30,GOL,Fiorentina - Internazionale,COINCIDE,,77' Cher Ndour (Fiorentina),77' Cher Ndour (Fiorentina),737079,13981715
