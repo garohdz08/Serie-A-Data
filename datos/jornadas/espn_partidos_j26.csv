@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+espn,737038,2026-02-20T19:45Z,Sassuolo,Hellas Verona,3,0,STATUS_FULL_TIME
+espn,737043,2026-02-21T14:00Z,Juventus,Como,0,2,STATUS_FULL_TIME
+espn,737037,2026-02-21T17:00Z,Lecce,Internazionale,0,2,STATUS_FULL_TIME
+espn,737041,2026-02-21T19:45Z,Cagliari,Lazio,0,0,STATUS_FULL_TIME
+espn,737039,2026-02-22T11:30Z,Genoa,Torino,3,0,STATUS_FULL_TIME
+espn,737034,2026-02-22T14:00Z,Atalanta,Napoli,2,1,STATUS_FULL_TIME
+espn,737036,2026-02-22T17:00Z,AC Milan,Parma,0,1,STATUS_FULL_TIME
+espn,737035,2026-02-22T19:45Z,AS Roma,Cremonese,3,0,STATUS_FULL_TIME
+espn,737040,2026-02-23T17:30Z,Fiorentina,Pisa,1,0,STATUS_FULL_TIME
+espn,737042,2026-02-23T19:45Z,Bologna,Udinese,1,0,STATUS_FULL_TIME

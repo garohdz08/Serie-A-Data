@@ -1,0 +1,30 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+26,PARTIDO,Sassuolo - Hellas Verona,COINCIDE,,2026-02-20T19:45Z 3-0 (3 goles),2026-02-20T19:45Z 3-0 (3 goles),737038,13981681
+26,GOL,Sassuolo - Hellas Verona,COINCIDE,,40' Andrea Pinamonti (Sassuolo),40' Andrea Pinamonti (Sassuolo),737038,13981681
+26,GOL,Sassuolo - Hellas Verona,COINCIDE,,44' Domenico Berardi (Sassuolo),44' Domenico Berardi (Sassuolo),737038,13981681
+26,GOL,Sassuolo - Hellas Verona,COINCIDE,,62' Domenico Berardi (Sassuolo),62' Domenico Berardi (Sassuolo),737038,13981681
+26,PARTIDO,Juventus - Como,COINCIDE,,2026-02-21T14:00Z 0-2 (2 goles),2026-02-21T14:00Z 0-2 (2 goles),737043,13981678
+26,GOL,Juventus - Como,COINCIDE,,11' Mërgim Vojvoda (Como),11' Mërgim Vojvoda (Como),737043,13981678
+26,GOL,Juventus - Como,COINCIDE,,61' Maxence Caqueret (Como),61' Maxence Caqueret (Como),737043,13981678
+26,PARTIDO,Lecce - Internazionale,COINCIDE,,2026-02-21T17:00Z 0-2 (2 goles),2026-02-21T17:00Z 0-2 (2 goles),737037,13981679
+26,GOL,Lecce - Internazionale,COINCIDE,,75' Henrikh Mkhitaryan (Internazionale),75' Henrikh Mkhitaryan (Inter),737037,13981679
+26,GOL,Lecce - Internazionale,COINCIDE,,82' Manuel Akanji (Internazionale),82' Manuel Akanji (Inter),737037,13981679
+26,PARTIDO,Cagliari - Lazio,COINCIDE,,2026-02-21T19:45Z 0-0 (0 goles),2026-02-21T19:45Z 0-0 (0 goles),737041,13981674
+26,PARTIDO,Genoa - Torino,COINCIDE,,2026-02-22T11:30Z 3-0 (3 goles),2026-02-22T11:30Z 3-0 (3 goles),737039,13981676
+26,GOL,Genoa - Torino,COINCIDE,,21' Brooke Norton-Cuffy (Genoa),21' Brooke Norton-Cuffy (Genoa),737039,13981676
+26,GOL,Genoa - Torino,COINCIDE,,40' Caleb Ekuban (Genoa),40' Caleb Ekuban (Genoa),737039,13981676
+26,GOL,Genoa - Torino,COINCIDE,,83' Junior Messias (Genoa),83' Junior Messias (Genoa),737039,13981676
+26,PARTIDO,Atalanta - Napoli,COINCIDE,,2026-02-22T14:00Z 2-1 (3 goles),2026-02-22T14:00Z 2-1 (3 goles),737034,13981673
+26,GOL,Atalanta - Napoli,COINCIDE,,18' Sam Beukema (Napoli),18' Sam Beukema (SSC Napoli),737034,13981673
+26,GOL,Atalanta - Napoli,COINCIDE,,61' Mario Pasalic (Atalanta),61' Mario Pašalić (Atalanta),737034,13981673
+26,GOL,Atalanta - Napoli,COINCIDE,,81' Lazar Samardzic (Atalanta),81' Lazar Samardžić (Atalanta),737034,13981673
+26,PARTIDO,AC Milan - Parma,COINCIDE,,2026-02-22T17:00Z 0-1 (1 goles),2026-02-22T17:00Z 0-1 (1 goles),737036,13981680
+26,GOL,AC Milan - Parma,COINCIDE,,80' Mariano Troilo (Parma),80' Mariano Troilo (Parma),737036,13981680
+26,PARTIDO,AS Roma - Cremonese,COINCIDE,,2026-02-22T19:45Z 3-0 (3 goles),2026-02-22T19:45Z 3-0 (3 goles),737035,13981682
+26,GOL,AS Roma - Cremonese,COINCIDE,,59' Bryan Cristante (AS Roma),59' Bryan Cristante (AS Roma),737035,13981682
+26,GOL,AS Roma - Cremonese,COINCIDE,,77' Evan Ndicka (AS Roma),77' Evan Ndicka (AS Roma),737035,13981682
+26,GOL,AS Roma - Cremonese,COINCIDE,,86' Niccolò Pisilli (AS Roma),86' Niccolò Pisilli (AS Roma),737035,13981682
+26,PARTIDO,Fiorentina - Pisa,COINCIDE,,2026-02-23T17:30Z 1-0 (1 goles),2026-02-23T17:30Z 1-0 (1 goles),737040,13981677
+26,GOL,Fiorentina - Pisa,COINCIDE,,13' Moise Kean (Fiorentina),13' Moise Kean (Fiorentina),737040,13981677
+26,PARTIDO,Bologna - Udinese,COINCIDE,,2026-02-23T19:45Z 1-0 (1 goles),2026-02-23T19:45Z 1-0 (1 goles),737042,13981675
+26,GOL,Bologna - Udinese,COINCIDE,,75' Federico Bernardeschi (Bologna) PEN,75' Federico Bernardeschi (Bologna) PEN,737042,13981675
