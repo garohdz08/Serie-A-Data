@@ -1,0 +1,37 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+4,PARTIDO,Lecce - Cagliari,COINCIDE,,2025-09-19T18:45Z 1-2 (3 goles),2025-09-19T18:45Z 1-2 (3 goles),736820,13981455
+4,GOL,Lecce - Cagliari,COINCIDE,,5' Tiago Gabriel (Lecce),5' Tiago Gabriel (Lecce),736820,13981455
+4,GOL,Lecce - Cagliari,COINCIDE,,33' Andrea Belotti (Cagliari),33' Andrea Belotti (Cagliari),736820,13981455
+4,GOL,Lecce - Cagliari,COINCIDE,,71' Andrea Belotti (Cagliari) PEN,71' Andrea Belotti (Cagliari) PEN,736820,13981455
+4,PARTIDO,Bologna - Genoa,COINCIDE,,2025-09-20T13:00Z 2-1 (3 goles),2025-09-20T13:00Z 2-1 (3 goles),736817,13981460
+4,GOL,Bologna - Genoa,COINCIDE,,63' Mikael Ellertsson (Genoa),63' Mikael Ellertsson (Genoa),736817,13981460
+4,GOL,Bologna - Genoa,COINCIDE,,73' Santiago Castro (Bologna),73' Santiago Castro (Bologna),736817,13981460
+4,GOL,Bologna - Genoa,COINCIDE,,90+9' Riccardo Orsolini (Bologna) PEN,90+9' Riccardo Orsolini (Bologna) PEN,736817,13981460
+4,PARTIDO,Hellas Verona - Juventus,COINCIDE,,2025-09-20T16:00Z 1-1 (2 goles),2025-09-20T16:00Z 1-1 (2 goles),736814,13981452
+4,GOL,Hellas Verona - Juventus,COINCIDE,,19' Francisco Conceição (Juventus),19' Francisco Conceição (Juventus),736814,13981452
+4,GOL,Hellas Verona - Juventus,COINCIDE,,44' Gift Orban (Hellas Verona) PEN,44' Gift Orban (Hellas Verona) PEN,736814,13981452
+4,PARTIDO,Udinese - AC Milan,COINCIDE,,2025-09-20T18:45Z 0-3 (3 goles),2025-09-20T18:45Z 0-3 (3 goles),736818,13981453
+4,GOL,Udinese - AC Milan,COINCIDE,,46' Youssouf Fofana (AC Milan),46' Youssouf Fofana (AC Milan),736818,13981453
+4,GOL,Udinese - AC Milan,COINCIDE,,53' Christian Pulisic (AC Milan),53' Christian Pulišić (AC Milan),736818,13981453
+4,GOL,Udinese - AC Milan,DISCREPA,minuto,39' Christian Pulisic (AC Milan),40' Christian Pulišić (AC Milan),736818,13981453
+4,PARTIDO,Lazio - AS Roma,COINCIDE,,2025-09-21T10:30Z 0-1 (1 goles),2025-09-21T10:30Z 0-1 (1 goles),736819,13981457
+4,GOL,Lazio - AS Roma,COINCIDE,,38' Lorenzo Pellegrini (AS Roma),38' Lorenzo Pellegrini (AS Roma),736819,13981457
+4,PARTIDO,Cremonese - Parma,COINCIDE,,2025-09-21T13:00Z 0-0 (0 goles),2025-09-21T13:00Z 0-0 (0 goles),736816,13981463
+4,PARTIDO,Torino - Atalanta,COINCIDE,,2025-09-21T13:00Z 0-3 (3 goles),2025-09-21T13:00Z 0-3 (3 goles),736822,13981454
+4,GOL,Torino - Atalanta,COINCIDE,,30' Nikola Krstovic (Atalanta),30' Nikola Krstović (Atalanta),736822,13981454
+4,GOL,Torino - Atalanta,COINCIDE,,34' Kamaldeen Sulemana (Atalanta),34' Kamaldeen Sulemana (Atalanta),736822,13981454
+4,GOL,Torino - Atalanta,COINCIDE,,38' Nikola Krstovic (Atalanta),38' Nikola Krstović (Atalanta),736822,13981454
+4,PARTIDO,Fiorentina - Como,COINCIDE,,2025-09-21T16:00Z 1-2 (3 goles),2025-09-21T16:00Z 1-2 (3 goles),736815,13981461
+4,GOL,Fiorentina - Como,COINCIDE,,6' Rolando Mandragora (Fiorentina),6' Rolando Mandragora (Fiorentina),736815,13981461
+4,GOL,Fiorentina - Como,COINCIDE,,90+4' Jayden Addai (Como),90+4' Jayden Addai (Como),736815,13981461
+4,GOL,Fiorentina - Como,DISCREPA,goleador,65' Marc-Oliver Kempf (Como),65' Marc Kempf (Como),736815,13981461
+4,PARTIDO,Internazionale - Sassuolo,COINCIDE,,2025-09-21T18:45Z 2-1 (3 goles),2025-09-21T18:45Z 2-1 (3 goles),736823,13981456
+4,GOL,Internazionale - Sassuolo,COINCIDE,,14' Federico Dimarco (Internazionale),14' Federico Dimarco (Inter),736823,13981456
+4,GOL,Internazionale - Sassuolo,COINCIDE,,81' Tarik Muharemovic (Internazionale) AUTOGOL,81' Tarik Muharemović (Inter) AUTOGOL,736823,13981456
+4,GOL,Internazionale - Sassuolo,COINCIDE,,84' Walid Cheddira (Sassuolo),84' Walid Cheddira (Sassuolo),736823,13981456
+4,PARTIDO,Napoli - Pisa,COINCIDE,,2025-09-22T18:45Z 3-2 (5 goles),2025-09-22T18:45Z 3-2 (5 goles),736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,39' Billy Gilmour (Napoli),39' Billy Gilmour (SSC Napoli),736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,60' M'Bala Nzola (Pisa) PEN,60' M'bala Nzola (Pisa) PEN,736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,73' Leonardo Spinazzola (Napoli),73' Leonardo Spinazzola (SSC Napoli),736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,82' Lorenzo Lucca (Napoli),82' Lorenzo Lucca (SSC Napoli),736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,90' Lorran (Pisa),90' Lorran (Pisa),736821,13981458
