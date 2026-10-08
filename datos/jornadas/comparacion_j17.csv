@@ -1,0 +1,34 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+17,PARTIDO,Parma - Fiorentina,COINCIDE,,2025-12-27T11:30Z 1-0 (1 goles),2025-12-27T11:30Z 1-0 (1 goles),736953,13981587
+17,GOL,Parma - Fiorentina,COINCIDE,,48' Oliver Sørensen (Parma),48' Oliver Sørensen (Parma),736953,13981587
+17,PARTIDO,Lecce - Como,COINCIDE,,2025-12-27T14:00Z 0-3 (3 goles),2025-12-27T14:00Z 0-3 (3 goles),736950,13981590
+17,GOL,Lecce - Como,COINCIDE,,20' Nico Paz (Como),20' Nico Paz (Como),736950,13981590
+17,GOL,Lecce - Como,COINCIDE,,66' Jacobo Ramón (Como),66' Jacobo Ramón (Como),736950,13981590
+17,GOL,Lecce - Como,COINCIDE,,75' Anastasios Douvikas (Como),75' Anastasios Douvikas (Como),736950,13981590
+17,PARTIDO,Torino - Cagliari,COINCIDE,,2025-12-27T14:00Z 1-2 (3 goles),2025-12-27T14:00Z 1-2 (3 goles),736945,13981584
+17,GOL,Torino - Cagliari,COINCIDE,,27' Nikola Vlasic (Torino),27' Nikola Vlašić (Torino),736945,13981584
+17,GOL,Torino - Cagliari,COINCIDE,,45' Matteo Prati (Cagliari),45' Matteo Prati (Cagliari),736945,13981584
+17,GOL,Torino - Cagliari,DISCREPA,goleador,66' Semih Kiliçsoy (Cagliari),66' Semih Kılıçsoy (Cagliari),736945,13981584
+17,PARTIDO,Udinese - Lazio,COINCIDE,,2025-12-27T17:00Z 1-1 (2 goles),2025-12-27T17:00Z 1-1 (2 goles),736948,13981583
+17,GOL,Udinese - Lazio,COINCIDE,,80' Oumar Solet (Lazio) AUTOGOL,80' Oumar Solet (Lazio) AUTOGOL,736948,13981583
+17,GOL,Udinese - Lazio,COINCIDE,,90+5' Keinan Davis (Udinese),90+5' Keinan Davis (Udinese),736948,13981583
+17,PARTIDO,Pisa - Juventus,COINCIDE,,2025-12-27T19:45Z 0-2 (2 goles),2025-12-27T19:45Z 0-2 (2 goles),736947,13981585
+17,GOL,Pisa - Juventus,COINCIDE,,73' Pierre Kalulu (Juventus),73' Pierre Kalulu (Juventus),736947,13981585
+17,GOL,Pisa - Juventus,DISCREPA,goleador,90+2' Kenan Yildiz (Juventus),90+2' Kenan Yıldız (Juventus),736947,13981585
+17,PARTIDO,AC Milan - Hellas Verona,COINCIDE,,2025-12-28T11:30Z 3-0 (3 goles),2025-12-28T11:30Z 3-0 (3 goles),736949,13981588
+17,GOL,AC Milan - Hellas Verona,COINCIDE,,45+1' Christian Pulisic (AC Milan),45+1' Christian Pulišić (AC Milan),736949,13981588
+17,GOL,AC Milan - Hellas Verona,COINCIDE,,48' Christopher Nkunku (AC Milan) PEN,48' Christopher Nkunku (AC Milan) PEN,736949,13981588
+17,GOL,AC Milan - Hellas Verona,COINCIDE,,53' Christopher Nkunku (AC Milan),53' Christopher Nkunku (AC Milan),736949,13981588
+17,PARTIDO,Cremonese - Napoli,COINCIDE,,2025-12-28T14:00Z 0-2 (2 goles),2025-12-28T14:00Z 0-2 (2 goles),736951,13981582
+17,GOL,Cremonese - Napoli,COINCIDE,,13' Rasmus Højlund (Napoli),13' Rasmus Højlund (SSC Napoli),736951,13981582
+17,GOL,Cremonese - Napoli,COINCIDE,,45' Rasmus Højlund (Napoli),45' Rasmus Højlund (SSC Napoli),736951,13981582
+17,PARTIDO,Bologna - Sassuolo,COINCIDE,,2025-12-28T17:00Z 1-1 (2 goles),2025-12-28T17:00Z 1-1 (2 goles),736952,13981589
+17,GOL,Bologna - Sassuolo,COINCIDE,,47' Giovanni Fabbian (Bologna),47' Giovanni Fabbian (Bologna),736952,13981589
+17,GOL,Bologna - Sassuolo,COINCIDE,,63' Tarik Muharemovic (Sassuolo),63' Tarik Muharemović (Sassuolo),736952,13981589
+17,PARTIDO,Atalanta - Internazionale,COINCIDE,,2025-12-28T19:45Z 0-1 (1 goles),2025-12-28T19:45Z 0-1 (1 goles),736944,13981591
+17,GOL,Atalanta - Internazionale,COINCIDE,,65' Lautaro Martínez (Internazionale),65' Lautaro Martínez (Inter),736944,13981591
+17,PARTIDO,AS Roma - Genoa,COINCIDE,,2025-12-29T19:45Z 3-1 (4 goles),2025-12-29T19:45Z 3-1 (4 goles),736946,13981586
+17,GOL,AS Roma - Genoa,COINCIDE,,14' Matìas Soulè (AS Roma),14' Matías Soulé (AS Roma),736946,13981586
+17,GOL,AS Roma - Genoa,COINCIDE,,19' Manu Koné (AS Roma),19' Manu Koné (AS Roma),736946,13981586
+17,GOL,AS Roma - Genoa,COINCIDE,,31' Evan Ferguson (AS Roma),31' Evan Ferguson (AS Roma),736946,13981586
+17,GOL,AS Roma - Genoa,COINCIDE,,87' Jeff Ekhator (Genoa),87' Jeff Ekhator (Genoa),736946,13981586
