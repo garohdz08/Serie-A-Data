@@ -1,0 +1,30 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+33,PARTIDO,Sassuolo - Como,COINCIDE,,2026-04-17T16:30Z 2-1 (3 goles),2026-04-17T16:30Z 2-1 (3 goles),737107,13980103
+33,GOL,Sassuolo - Como,COINCIDE,,42' Cristian Volpato (Sassuolo),42' Cristian Volpato (Sassuolo),737107,13980103
+33,GOL,Sassuolo - Como,COINCIDE,,44' M'Bala Nzola (Sassuolo),44' M'bala Nzola (Sassuolo),737107,13980103
+33,GOL,Sassuolo - Como,COINCIDE,,45+2' Nico Paz (Como),45+2' Nico Paz (Como),737107,13980103
+33,PARTIDO,Internazionale - Cagliari,COINCIDE,,2026-04-17T18:45Z 3-0 (3 goles),2026-04-17T18:45Z 3-0 (3 goles),737113,13981744
+33,GOL,Internazionale - Cagliari,COINCIDE,,52' Marcus Thuram (Internazionale),52' Marcus Thuram (Inter),737113,13981744
+33,GOL,Internazionale - Cagliari,COINCIDE,,56' Nicolò Barella (Internazionale),56' Nicolò Barella (Inter),737113,13981744
+33,GOL,Internazionale - Cagliari,COINCIDE,,90+2' Piotr Zielinski (Internazionale),90+2' Piotr Zieliński (Inter),737113,13981744
+33,PARTIDO,Udinese - Parma,COINCIDE,,2026-04-18T13:00Z 0-1 (1 goles),2026-04-18T13:00Z 0-1 (1 goles),737106,13980108
+33,GOL,Udinese - Parma,COINCIDE,,51' Nesta Elphege (Parma),51' Nesta Elphege (Parma),737106,13980108
+33,PARTIDO,Napoli - Lazio,COINCIDE,,2026-04-18T16:00Z 0-2 (2 goles),2026-04-18T16:00Z 0-2 (2 goles),737110,13980101
+33,GOL,Napoli - Lazio,COINCIDE,,6' Matteo Cancellieri (Lazio),6' Matteo Cancellieri (Lazio),737110,13980101
+33,GOL,Napoli - Lazio,COINCIDE,,57' Toma Basic (Lazio),57' Toma Bašić (Lazio),737110,13980101
+33,PARTIDO,AS Roma - Atalanta,COINCIDE,,2026-04-18T18:45Z 1-1 (2 goles),2026-04-18T18:45Z 1-1 (2 goles),737108,13980102
+33,GOL,AS Roma - Atalanta,COINCIDE,,12' Nikola Krstovic (Atalanta),12' Nikola Krstović (Atalanta),737108,13980102
+33,GOL,AS Roma - Atalanta,COINCIDE,,45' Mario Hermoso (AS Roma),45' Mario Hermoso (AS Roma),737108,13980102
+33,PARTIDO,Cremonese - Torino,COINCIDE,,2026-04-19T10:30Z 0-0 (0 goles),2026-04-19T10:30Z 0-0 (0 goles),737104,13981743
+33,PARTIDO,Hellas Verona - AC Milan,COINCIDE,,2026-04-19T13:00Z 0-1 (1 goles),2026-04-19T13:00Z 0-1 (1 goles),737105,13980115
+33,GOL,Hellas Verona - AC Milan,COINCIDE,,41' Adrien Rabiot (AC Milan),41' Adrien Rabiot (AC Milan),737105,13980115
+33,PARTIDO,Pisa - Genoa,COINCIDE,,2026-04-19T16:00Z 1-2 (3 goles),2026-04-19T16:00Z 1-2 (3 goles),737109,13980100
+33,GOL,Pisa - Genoa,COINCIDE,,19' Simone Canestrelli (Pisa),19' Simone Canestrelli (Pisa),737109,13980100
+33,GOL,Pisa - Genoa,COINCIDE,,41' Jeff Ekhator (Genoa),41' Jeff Ekhator (Genoa),737109,13980100
+33,GOL,Pisa - Genoa,COINCIDE,,55' Lorenzo Colombo (Genoa) PEN,55' Lorenzo Colombo (Genoa) PEN,737109,13980100
+33,PARTIDO,Juventus - Bologna,COINCIDE,,2026-04-19T18:45Z 2-0 (2 goles),2026-04-19T18:45Z 2-0 (2 goles),737112,13980098
+33,GOL,Juventus - Bologna,COINCIDE,,2' Jonathan David (Juventus),2' Jonathan David (Juventus),737112,13980098
+33,GOL,Juventus - Bologna,COINCIDE,,57' Khéphren Thuram (Juventus),57' Khéphren Thuram (Juventus),737112,13980098
+33,PARTIDO,Lecce - Fiorentina,COINCIDE,,2026-04-20T18:45Z 1-1 (2 goles),2026-04-20T18:45Z 1-1 (2 goles),737111,13980099
+33,GOL,Lecce - Fiorentina,COINCIDE,,30' Jack Harrison (Fiorentina),30' Jack Harrison (Fiorentina),737111,13980099
+33,GOL,Lecce - Fiorentina,COINCIDE,,71' Tiago Gabriel (Lecce),71' Tiago Gabriel (Lecce),737111,13980099
