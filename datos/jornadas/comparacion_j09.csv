@@ -1,0 +1,33 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+9,PARTIDO,Lecce - Napoli,COINCIDE,,2025-10-28T17:30Z 0-1 (1 goles),2025-10-28T17:30Z 0-1 (1 goles),736866,13981509
+9,GOL,Lecce - Napoli,COINCIDE,,69' Frank Anguissa (Napoli),69' Frank Anguissa (SSC Napoli),736866,13981509
+9,PARTIDO,Atalanta - AC Milan,COINCIDE,,2025-10-28T19:45Z 1-1 (2 goles),2025-10-28T19:45Z 1-1 (2 goles),736864,13981501
+9,GOL,Atalanta - AC Milan,COINCIDE,,4' Samuele Ricci (AC Milan),4' Samuele Ricci (AC Milan),736864,13981501
+9,GOL,Atalanta - AC Milan,COINCIDE,,35' Ademola Lookman (Atalanta),35' Ademola Lookman (Atalanta),736864,13981501
+9,PARTIDO,AS Roma - Parma,COINCIDE,,2025-10-29T17:30Z 2-1 (3 goles),2025-10-29T17:30Z 2-1 (3 goles),736868,13981512
+9,GOL,AS Roma - Parma,COINCIDE,,63' Mario Hermoso (AS Roma),63' Mario Hermoso (AS Roma),736868,13981512
+9,GOL,AS Roma - Parma,COINCIDE,,81' Artem Dovbyk (AS Roma),81' Artem Dovbyk (AS Roma),736868,13981512
+9,GOL,AS Roma - Parma,COINCIDE,,86' Alessandro Circati (Parma),86' Alessandro Circati (Parma),736868,13981512
+9,PARTIDO,Como - Hellas Verona,COINCIDE,,2025-10-29T17:30Z 3-1 (4 goles),2025-10-29T17:30Z 3-1 (4 goles),736870,13981507
+9,GOL,Como - Hellas Verona,COINCIDE,,9' Anastasios Douvikas (Como),9' Anastasios Douvikas (Como),736870,13981507
+9,GOL,Como - Hellas Verona,COINCIDE,,25' Suat Serdar (Hellas Verona),25' Suat Serdar (Hellas Verona),736870,13981507
+9,GOL,Como - Hellas Verona,COINCIDE,,62' Stefan Posch (Como),62' Stefan Posch (Como),736870,13981507
+9,GOL,Como - Hellas Verona,COINCIDE,,90+2' Mërgim Vojvoda (Como),90+2' Mërgim Vojvoda (Como),736870,13981507
+9,PARTIDO,Juventus - Udinese,COINCIDE,,2025-10-29T17:30Z 3-1 (4 goles),2025-10-29T17:30Z 3-1 (4 goles),736867,13981508
+9,GOL,Juventus - Udinese,COINCIDE,,5' Dusan Vlahovic (Juventus) PEN,5' Dušan Vlahović (Juventus) PEN,736867,13981508
+9,GOL,Juventus - Udinese,COINCIDE,,45+1' Nicolò Zaniolo (Udinese),45+1' Nicolò Zaniolo (Udinese),736867,13981508
+9,GOL,Juventus - Udinese,COINCIDE,,67' Federico Gatti (Juventus),67' Federico Gatti (Juventus),736867,13981508
+9,GOL,Juventus - Udinese,DISCREPA,goleador,90+6' Kenan Yildiz (Juventus) PEN,90+6' Kenan Yıldız (Juventus) PEN,736867,13981508
+9,PARTIDO,Bologna - Torino,COINCIDE,,2025-10-29T19:45Z 0-0 (0 goles),2025-10-29T19:45Z 0-0 (0 goles),736872,13981504
+9,PARTIDO,Genoa - Cremonese,COINCIDE,,2025-10-29T19:45Z 0-2 (2 goles),2025-10-29T19:45Z 0-2 (2 goles),736869,13981505
+9,GOL,Genoa - Cremonese,COINCIDE,,4' Federico Bonazzoli (Cremonese),4' Federico Bonazzoli (Cremonese),736869,13981505
+9,GOL,Genoa - Cremonese,COINCIDE,,49' Federico Bonazzoli (Cremonese),49' Federico Bonazzoli (Cremonese),736869,13981505
+9,PARTIDO,Internazionale - Fiorentina,COINCIDE,,2025-10-29T19:45Z 3-0 (3 goles),2025-10-29T19:45Z 3-0 (3 goles),736873,13981506
+9,GOL,Internazionale - Fiorentina,COINCIDE,,66' Hakan Çalhanoglu (Internazionale),66' Hakan Çalhanoğlu (Inter),736873,13981506
+9,GOL,Internazionale - Fiorentina,COINCIDE,,71' Petar Sucic (Internazionale),71' Petar Sučić (Inter),736873,13981506
+9,GOL,Internazionale - Fiorentina,COINCIDE,,88' Hakan Çalhanoglu (Internazionale) PEN,88' Hakan Çalhanoğlu (Inter) PEN,736873,13981506
+9,PARTIDO,Cagliari - Sassuolo,COINCIDE,,2025-10-30T17:30Z 1-2 (3 goles),2025-10-30T17:30Z 1-2 (3 goles),736871,13981503
+9,GOL,Cagliari - Sassuolo,COINCIDE,,54' Armand Laurienté (Sassuolo),54' Armand Laurienté (Sassuolo),736871,13981503
+9,GOL,Cagliari - Sassuolo,COINCIDE,,65' Andrea Pinamonti (Sassuolo),65' Andrea Pinamonti (Sassuolo),736871,13981503
+9,GOL,Cagliari - Sassuolo,COINCIDE,,73' Sebastiano Esposito (Cagliari),73' Sebastiano Esposito (Cagliari),736871,13981503
+9,PARTIDO,Pisa - Lazio,COINCIDE,,2025-10-30T19:45Z 0-0 (0 goles),2025-10-30T19:45Z 0-0 (0 goles),736865,13981511
