@@ -1,0 +1,39 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+25,PARTIDO,Pisa - AC Milan,COINCIDE,,2026-02-13T19:45Z 1-2 (3 goles),2026-02-13T19:45Z 1-2 (3 goles),737028,13981670
+25,GOL,Pisa - AC Milan,COINCIDE,,39' Ruben Loftus-Cheek (AC Milan),39' Ruben Loftus-Cheek (AC Milan),737028,13981670
+25,GOL,Pisa - AC Milan,COINCIDE,,71' Felipe Loyola (Pisa),71' Felipe Loyola (Pisa),737028,13981670
+25,GOL,Pisa - AC Milan,COINCIDE,,85' Luka Modric (AC Milan),85' Luka Modrić (AC Milan),737028,13981670
+25,PARTIDO,Como - Fiorentina,COINCIDE,,2026-02-14T14:00Z 1-2 (3 goles),2026-02-14T14:00Z 1-2 (3 goles),737025,13981667
+25,GOL,Como - Fiorentina,COINCIDE,,26' Nicolò Fagioli (Fiorentina),26' Nicolò Fagioli (Fiorentina),737025,13981667
+25,GOL,Como - Fiorentina,COINCIDE,,54' Moise Kean (Fiorentina) PEN,54' Moise Kean (Fiorentina) PEN,737025,13981667
+25,GOL,Como - Fiorentina,COINCIDE,,77' Fabiano Parisi (Como) AUTOGOL,77' Fabiano Parisi (Como) AUTOGOL,737025,13981667
+25,PARTIDO,Lazio - Atalanta,COINCIDE,,2026-02-14T17:00Z 0-2 (2 goles),2026-02-14T17:00Z 0-2 (2 goles),737031,13981659
+25,GOL,Lazio - Atalanta,COINCIDE,,41' Éderson (Atalanta) PEN,41' Éderson (Atalanta) PEN,737031,13981659
+25,GOL,Lazio - Atalanta,COINCIDE,,60' Nicola Zalewski (Atalanta),60' Nicola Zalewski (Atalanta),737031,13981659
+25,PARTIDO,Internazionale - Juventus,COINCIDE,,2026-02-14T19:45Z 3-2 (5 goles),2026-02-14T19:45Z 3-2 (5 goles),737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,17' Andrea Cambiaso (Internazionale) AUTOGOL,17' Andrea Cambiaso (Inter) AUTOGOL,737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,26' Andrea Cambiaso (Juventus),26' Andrea Cambiaso (Juventus),737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,76' Pio Esposito (Internazionale),76' Pio Esposito (Inter),737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,83' Manuel Locatelli (Juventus),83' Manuel Locatelli (Juventus),737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,90' Piotr Zielinski (Internazionale),90' Piotr Zieliński (Inter),737032,13981671
+25,PARTIDO,Udinese - Sassuolo,COINCIDE,,2026-02-15T11:30Z 1-2 (3 goles),2026-02-15T11:30Z 1-2 (3 goles),737026,13981672
+25,GOL,Udinese - Sassuolo,COINCIDE,,10' Oumar Solet (Udinese),10' Oumar Solet (Udinese),737026,13981672
+25,GOL,Udinese - Sassuolo,COINCIDE,,56' Armand Laurienté (Sassuolo),56' Armand Laurienté (Sassuolo),737026,13981672
+25,GOL,Udinese - Sassuolo,COINCIDE,,58' Andrea Pinamonti (Sassuolo),58' Andrea Pinamonti (Sassuolo),737026,13981672
+25,PARTIDO,Cremonese - Genoa,COINCIDE,,2026-02-15T14:00Z 0-0 (0 goles),2026-02-15T14:00Z 0-0 (0 goles),737033,13981657
+25,PARTIDO,Parma - Hellas Verona,COINCIDE,,2026-02-15T14:00Z 2-1 (3 goles),2026-02-15T14:00Z 2-1 (3 goles),737029,13981668
+25,GOL,Parma - Hellas Verona,COINCIDE,,4' Adrián Bernabé (Parma),4' Adrián Bernabé (Parma),737029,13981668
+25,GOL,Parma - Hellas Verona,COINCIDE,,43' Abdou Harroui (Hellas Verona) PEN,43' Abdou Harroui (Hellas Verona) PEN,737029,13981668
+25,GOL,Parma - Hellas Verona,COINCIDE,,90+3' Mateo Pellegrino (Parma),90+3' Mateo Pellegrino (Parma),737029,13981668
+25,PARTIDO,Torino - Bologna,COINCIDE,,2026-02-15T17:00Z 1-2 (3 goles),2026-02-15T17:00Z 1-2 (3 goles),737027,13981669
+25,GOL,Torino - Bologna,COINCIDE,,49' Nikola Moro (Bologna),49' Nikola Moro (Bologna),737027,13981669
+25,GOL,Torino - Bologna,COINCIDE,,62' Nikola Vlasic (Torino),62' Nikola Vlašić (Torino),737027,13981669
+25,GOL,Torino - Bologna,COINCIDE,,70' Santiago Castro (Bologna),70' Santiago Castro (Bologna),737027,13981669
+25,PARTIDO,Napoli - AS Roma,COINCIDE,,2026-02-15T19:45Z 2-2 (4 goles),2026-02-15T19:45Z 2-2 (4 goles),737030,13981665
+25,GOL,Napoli - AS Roma,COINCIDE,,7' Donyell Malen (AS Roma),7' Donyell Malen (AS Roma),737030,13981665
+25,GOL,Napoli - AS Roma,COINCIDE,,40' Leonardo Spinazzola (Napoli),40' Leonardo Spinazzola (SSC Napoli),737030,13981665
+25,GOL,Napoli - AS Roma,COINCIDE,,71' Donyell Malen (AS Roma) PEN,71' Donyell Malen (AS Roma) PEN,737030,13981665
+25,GOL,Napoli - AS Roma,COINCIDE,,82' Alisson Santos (Napoli),82' Alisson Santos (SSC Napoli),737030,13981665
+25,PARTIDO,Cagliari - Lecce,COINCIDE,,2026-02-16T19:45Z 0-2 (2 goles),2026-02-16T19:45Z 0-2 (2 goles),737024,13981663
+25,GOL,Cagliari - Lecce,COINCIDE,,64' Omri Gandelman (Lecce),64' Omri Gandelman (Lecce),737024,13981663
+25,GOL,Cagliari - Lecce,COINCIDE,,76' Ylber Ramadani (Lecce),76' Ylber Ramadani (Lecce),737024,13981663
