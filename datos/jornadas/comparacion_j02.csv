@@ -1,0 +1,31 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+2,PARTIDO,Cremonese - Sassuolo,COINCIDE,,2025-08-29T16:30Z 3-2 (5 goles),2025-08-29T16:30Z 3-2 (5 goles),736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,37' Filippo Terracciano (Cremonese),37' Filippo Terracciano (Cremonese),736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,39' Franco Vázquez (Cremonese),39' Franco Vázquez (Cremonese),736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,63' Andrea Pinamonti (Sassuolo),63' Andrea Pinamonti (Sassuolo),736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,73' Domenico Berardi (Sassuolo) PEN,73' Domenico Berardi (Sassuolo) PEN,736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,90+3' Manuel De Luca (Cremonese) PEN,90+3' Manuel De Luca (Cremonese) PEN,736802,13981443
+2,PARTIDO,Lecce - AC Milan,COINCIDE,,2025-08-29T18:45Z 0-2 (2 goles),2025-08-29T18:45Z 0-2 (2 goles),736803,13981447
+2,GOL,Lecce - AC Milan,COINCIDE,,66' Ruben Loftus-Cheek (AC Milan),66' Ruben Loftus-Cheek (AC Milan),736803,13981447
+2,GOL,Lecce - AC Milan,COINCIDE,,86' Christian Pulisic (AC Milan),86' Christian Pulišić (AC Milan),736803,13981447
+2,PARTIDO,Bologna - Como,COINCIDE,,2025-08-30T16:30Z 1-0 (1 goles),2025-08-30T16:30Z 1-0 (1 goles),736794,13981433
+2,GOL,Bologna - Como,COINCIDE,,59' Riccardo Orsolini (Bologna),59' Riccardo Orsolini (Bologna),736794,13981433
+2,PARTIDO,Parma - Atalanta,COINCIDE,,2025-08-30T16:30Z 1-1 (2 goles),2025-08-30T16:30Z 1-1 (2 goles),736796,13981426
+2,GOL,Parma - Atalanta,COINCIDE,,79' Mario Pasalic (Atalanta),79' Mario Pašalić (Atalanta),736796,13981426
+2,GOL,Parma - Atalanta,COINCIDE,,85' Patrick Cutrone (Parma),85' Patrick Cutrone (Parma),736796,13981426
+2,PARTIDO,Napoli - Cagliari,COINCIDE,,2025-08-30T18:45Z 1-0 (1 goles),2025-08-30T18:45Z 1-0 (1 goles),736797,13981436
+2,GOL,Napoli - Cagliari,COINCIDE,,90+5' Frank Anguissa (Napoli),90+5' Frank Anguissa (SSC Napoli),736797,13981436
+2,PARTIDO,Pisa - AS Roma,COINCIDE,,2025-08-30T18:45Z 0-1 (1 goles),2025-08-30T18:45Z 0-1 (1 goles),736795,13981441
+2,GOL,Pisa - AS Roma,COINCIDE,,55' Matìas Soulè (AS Roma),55' Matías Soulé (AS Roma),736795,13981441
+2,PARTIDO,Genoa - Juventus,COINCIDE,,2025-08-31T16:30Z 0-1 (1 goles),2025-08-31T16:30Z 0-1 (1 goles),736801,13981448
+2,GOL,Genoa - Juventus,COINCIDE,,73' Dusan Vlahovic (Juventus),73' Dušan Vlahović (Juventus),736801,13981448
+2,PARTIDO,Torino - Fiorentina,COINCIDE,,2025-08-31T16:30Z 0-0 (0 goles),2025-08-31T16:30Z 0-0 (0 goles),736798,13981429
+2,PARTIDO,Internazionale - Udinese,COINCIDE,,2025-08-31T18:45Z 1-2 (3 goles),2025-08-31T18:45Z 1-2 (3 goles),736800,13981432
+2,GOL,Internazionale - Udinese,COINCIDE,,17' Denzel Dumfries (Internazionale),17' Denzel Dumfries (Inter),736800,13981432
+2,GOL,Internazionale - Udinese,COINCIDE,,29' Keinan Davis (Udinese) PEN,29' Keinan Davis (Udinese) PEN,736800,13981432
+2,GOL,Internazionale - Udinese,COINCIDE,,40' Arthur Atta (Udinese),40' Arthur Atta (Udinese),736800,13981432
+2,PARTIDO,Lazio - Hellas Verona,COINCIDE,,2025-08-31T18:45Z 4-0 (4 goles),2025-08-31T18:45Z 4-0 (4 goles),736799,13981446
+2,GOL,Lazio - Hellas Verona,COINCIDE,,3' Matteo Guendouzi (Lazio),3' Mattéo Guendouzi (Lazio),736799,13981446
+2,GOL,Lazio - Hellas Verona,COINCIDE,,10' Mattia Zaccagni (Lazio),10' Mattia Zaccagni (Lazio),736799,13981446
+2,GOL,Lazio - Hellas Verona,COINCIDE,,41' Valentín Castellanos (Lazio),41' Valentín Castellanos (Lazio),736799,13981446
+2,GOL,Lazio - Hellas Verona,COINCIDE,,82' Boulaye Dia (Lazio),82' Boulaye Dia (Lazio),736799,13981446
