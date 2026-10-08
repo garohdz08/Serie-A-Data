@@ -21,8 +21,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 19,PARTIDO,Lazio - Fiorentina,COINCIDE,,2026-01-07T19:45Z 2-2 (4 goles),2026-01-07T19:45Z 2-2 (4 goles),736966,13981605
 19,GOL,Lazio - Fiorentina,COINCIDE,,52' Danilo Cataldi (Lazio),52' Danilo Cataldi (Lazio),736966,13981605
 19,GOL,Lazio - Fiorentina,COINCIDE,,56' Robin Gosens (Fiorentina),56' Robin Gosens (Fiorentina),736966,13981605
+19,GOL,Lazio - Fiorentina,COINCIDE,,89' Albert Gudmundsson (Fiorentina) PEN,89' Albert Guðmundsson (Fiorentina) PEN,736966,13981605
 19,GOL,Lazio - Fiorentina,COINCIDE,,90+5' Pedro (Lazio) PEN,90+5' Pedro (Lazio) PEN,736966,13981605
-19,GOL,Lazio - Fiorentina,DISCREPA,goleador,89' Albert Gudmundsson (Fiorentina) PEN,89' Albert Guðmundsson (Fiorentina) PEN,736966,13981605
 19,PARTIDO,Parma - Internazionale,COINCIDE,,2026-01-07T19:45Z 0-2 (2 goles),2026-01-07T19:45Z 0-2 (2 goles),736970,13981610
 19,GOL,Parma - Internazionale,COINCIDE,,42' Federico Dimarco (Internazionale),42' Federico Dimarco (Inter),736970,13981610
 19,GOL,Parma - Internazionale,COINCIDE,,90+8' Marcus Thuram (Internazionale),90+8' Marcus Thuram (Inter),736970,13981610

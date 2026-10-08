@@ -24,7 +24,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 4,PARTIDO,Fiorentina - Como,COINCIDE,,2025-09-21T16:00Z 1-2 (3 goles),2025-09-21T16:00Z 1-2 (3 goles),736815,13981461
 4,GOL,Fiorentina - Como,COINCIDE,,6' Rolando Mandragora (Fiorentina),6' Rolando Mandragora (Fiorentina),736815,13981461
 4,GOL,Fiorentina - Como,COINCIDE,,90+4' Jayden Addai (Como),90+4' Jayden Addai (Como),736815,13981461
-4,GOL,Fiorentina - Como,DISCREPA,goleador,65' Marc-Oliver Kempf (Como),65' Marc Kempf (Como),736815,13981461
+4,GOL,Fiorentina - Como,DISCREPA,goleador_variante,65' Marc-Oliver Kempf (Como),65' Marc Kempf (Como),736815,13981461
 4,PARTIDO,Internazionale - Sassuolo,COINCIDE,,2025-09-21T18:45Z 2-1 (3 goles),2025-09-21T18:45Z 2-1 (3 goles),736823,13981456
 4,GOL,Internazionale - Sassuolo,COINCIDE,,14' Federico Dimarco (Internazionale),14' Federico Dimarco (Inter),736823,13981456
 4,GOL,Internazionale - Sassuolo,COINCIDE,,81' Tarik Muharemovic (Internazionale) AUTOGOL,81' Tarik Muharemović (Inter) AUTOGOL,736823,13981456

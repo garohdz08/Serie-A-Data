@@ -6,11 +6,11 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 27,GOL,Como - Lecce,COINCIDE,,13' Lassana Coulibaly (Lecce),13' Lassana Coulibaly (Lecce),737052,13981683
 27,GOL,Como - Lecce,COINCIDE,,18' Anastasios Douvikas (Como),18' Anastasios Douvikas (Como),737052,13981683
 27,GOL,Como - Lecce,COINCIDE,,36' Jesús Rodriguez (Como),36' Jesús Rodriguez (Como),737052,13981683
-27,GOL,Como - Lecce,DISCREPA,goleador,44' Marc-Oliver Kempf (Como),44' Marc Kempf (Como),737052,13981683
+27,GOL,Como - Lecce,DISCREPA,goleador_variante,44' Marc-Oliver Kempf (Como),44' Marc Kempf (Como),737052,13981683
 27,PARTIDO,Hellas Verona - Napoli,COINCIDE,,2026-02-28T17:00Z 1-2 (3 goles),2026-02-28T17:00Z 1-2 (3 goles),737050,13981694
 27,GOL,Hellas Verona - Napoli,COINCIDE,,2' Rasmus Højlund (Napoli),2' Rasmus Højlund (SSC Napoli),737050,13981694
+27,GOL,Hellas Verona - Napoli,COINCIDE,,64' Jean-Daniel Akpa Akpro (Hellas Verona),64' Jean Daniel Akpa-Akpro (Hellas Verona),737050,13981694
 27,GOL,Hellas Verona - Napoli,COINCIDE,,90+6' Romelu Lukaku (Napoli),90+6' Romelu Lukaku (SSC Napoli),737050,13981694
-27,GOL,Hellas Verona - Napoli,DISCREPA,goleador,64' Jean-Daniel Akpa Akpro (Hellas Verona),64' Jean Daniel Akpa-Akpro (Hellas Verona),737050,13981694
 27,PARTIDO,Internazionale - Genoa,COINCIDE,,2026-02-28T19:45Z 2-0 (2 goles),2026-02-28T19:45Z 2-0 (2 goles),737049,13981684
 27,GOL,Internazionale - Genoa,COINCIDE,,31' Federico Dimarco (Internazionale),31' Federico Dimarco (Inter),737049,13981684
 27,GOL,Internazionale - Genoa,COINCIDE,,70' Hakan Çalhanoglu (Internazionale) PEN,70' Hakan Çalhanoğlu (Inter) PEN,737049,13981684

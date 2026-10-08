@@ -1,0 +1,62 @@
+== Jornadas con CSV por fuente (de 38)
+espn: 38 jornadas
+sofascore: 38 jornadas
+
+== Partidos totales (esperado 380)
+espn: filas=380 disputados=380 ids_unicos=380 pares_local-visitante_unicos=380 estados={'STATUS_FULL_TIME': 380}
+sofascore: filas=385 disputados=380 ids_unicos=385 pares_local-visitante_unicos=380 estados={'finished': 380, 'postponed': 5}
+   no disputado J16 id=13981567 2025-12-21T14:00Z Como - AC Milan (postponed); gemelo disputado: [('14844296', '2026-01-15T19:45Z')]
+   no disputado J16 id=13981576 2025-12-21T14:00Z Hellas Verona - Bologna (postponed); gemelo disputado: [('14844293', '2026-01-15T17:30Z')]
+   no disputado J16 id=13981574 2025-12-21T14:00Z Inter - Lecce (postponed); gemelo disputado: [('14844287', '2026-01-14T19:45Z')]
+   no disputado J16 id=13981578 2025-12-21T14:00Z SSC Napoli - Parma (postponed); gemelo disputado: [('14844295', '2026-01-14T17:30Z')]
+   no disputado J24 id=13981661 2026-02-08T14:00Z AC Milan - Como (postponed); gemelo disputado: [('15462526', '2026-02-18T19:45Z')]
+
+== Partidos por equipo (esperado 38 cada uno)
+espn: 20 equipos; con != 38: ninguno
+sofascore: 20 equipos; con != 38: ninguno
+
+== Goles, penales y autogoles por fuente
+fuente,goles,penales,autogoles,suma_marcadores
+espn,922,81,22,922
+sofascore,922,81,22,922
+
+== Comparacion ESPN vs Sofascore
+nivel,estado,filas
+GOL,COINCIDE,902
+GOL,DISCREPA,20
+PARTIDO,COINCIDE,380
+
+-- Discrepancias (todas las filas que no COINCIDEN), CSV crudo
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
+"1","GOL","Internazionale - Torino","DISCREPA","minuto","51' Lautaro Martínez (Internazionale)","52' Lautaro Martínez (Inter)"
+"4","GOL","Udinese - AC Milan","DISCREPA","minuto","39' Christian Pulisic (AC Milan)","40' Christian Pulišić (AC Milan)"
+"4","GOL","Fiorentina - Como","DISCREPA","goleador_variante","65' Marc-Oliver Kempf (Como)","65' Marc Kempf (Como)"
+"7","GOL","Como - Juventus","DISCREPA","goleador_variante","4' Marc-Oliver Kempf (Como)","4' Marc Kempf (Como)"
+"8","GOL","Fiorentina - Bologna","DISCREPA","minuto","73' Albert Gudmundsson (Fiorentina) PEN","74' Albert Guðmundsson (Fiorentina) PEN"
+"12","GOL","Sassuolo - Pisa","DISCREPA","goleador_variante","81' Henrik Meister (Pisa)","81' Henrik Wendel Meister (Pisa)"
+"16","GOL","Como - AC Milan","DISCREPA","goleador_variante","10' Marc-Oliver Kempf (Como)","10' Marc Kempf (Como)"
+"20","GOL","Udinese - Pisa","DISCREPA","goleador_variante","67' Henrik Meister (Pisa)","67' Henrik Wendel Meister (Pisa)"
+"20","GOL","Juventus - Cremonese","DISCREPA","goleador_variante","12' Bremer (Juventus)","12' Gleison Bremer (Juventus)"
+"22","GOL","Como - Torino","DISCREPA","goleador_variante","70' Nicolas Kühn (Como)","70' Nicolas-Gerrit Kühn (Como)"
+"23","GOL","Cagliari - Hellas Verona","DISCREPA","goleador_variante","84' Sulemana (Cagliari)","84' Ibrahim Sulemana (Cagliari)"
+"23","GOL","Parma - Juventus","DISCREPA","goleador_variante","15' Bremer (Juventus)","15' Gleison Bremer (Juventus)"
+"23","GOL","Parma - Juventus","DISCREPA","goleador_variante","54' Bremer (Juventus)","54' Gleison Bremer (Juventus)"
+"27","GOL","Como - Lecce","DISCREPA","goleador_variante","44' Marc-Oliver Kempf (Como)","44' Marc Kempf (Como)"
+"28","GOL","Bologna - Hellas Verona","DISCREPA","goleador_variante","49' Jon Rowe (Bologna)","49' Jonathan Rowe (Bologna)"
+"31","GOL","Cremonese - Bologna","DISCREPA","goleador_distinto","3' Joao Victor (Bologna)","3' João Mário (Bologna)"
+"31","GOL","Cremonese - Bologna","DISCREPA","goleador_variante","16' Jon Rowe (Bologna)","16' Jonathan Rowe (Bologna)"
+"31","GOL","Juventus - Genoa","DISCREPA","goleador_variante","4' Bremer (Juventus)","4' Gleison Bremer (Juventus)"
+"36","GOL","Torino - Sassuolo","DISCREPA","goleador_variante","70' Marcus Holmgren Pedersen (Torino)","70' Marcus Pedersen (Torino)"
+"36","GOL","Napoli - Bologna","DISCREPA","goleador_variante","90+1' Jon Rowe (Bologna)","90+1' Jonathan Rowe (Bologna)"
+
+resumen por tipo: {'minuto': 3, 'goleador_variante': 16, 'goleador_distinto': 1}
+minuto=3 goleador_distinto=1 goleador_variante(nombre corto/largo)=16 sin_pareja=0
+
+== Validaciones (suma=marcador, minutos 1-120, sin duplicados)
+OK en todas las jornadas y fuentes
+
+== Eventos de ESPN en los scoreboard descargados que no estan en ninguna jornada
+0 eventos
+
+== Llamadas fallidas (datos/fallos.csv)
+ninguna (no existe fallos.csv)

@@ -6,7 +6,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 20,GOL,Udinese - Pisa,COINCIDE,,13' Matteo Tramoni (Pisa),13' Matteo Tramoni (Pisa),736978,13981624
 20,GOL,Udinese - Pisa,COINCIDE,,19' Christian Kabasele (Udinese),19' Christian Kabasele (Udinese),736978,13981624
 20,GOL,Udinese - Pisa,COINCIDE,,40' Keinan Davis (Udinese) PEN,40' Keinan Davis (Udinese) PEN,736978,13981624
-20,GOL,Udinese - Pisa,DISCREPA,goleador,67' Henrik Meister (Pisa),67' Henrik Wendel Meister (Pisa),736978,13981624
+20,GOL,Udinese - Pisa,DISCREPA,goleador_variante,67' Henrik Meister (Pisa),67' Henrik Wendel Meister (Pisa),736978,13981624
 20,PARTIDO,AS Roma - Sassuolo,COINCIDE,,2026-01-10T17:00Z 2-0 (2 goles),2026-01-10T17:00Z 2-0 (2 goles),736982,13981619
 20,GOL,AS Roma - Sassuolo,COINCIDE,,76' Manu Koné (AS Roma),76' Manu Koné (AS Roma),736982,13981619
 20,GOL,AS Roma - Sassuolo,COINCIDE,,79' Matìas Soulè (AS Roma),79' Matías Soulé (AS Roma),736982,13981619
@@ -33,7 +33,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 20,GOL,Genoa - Cagliari,COINCIDE,,78' Leo Østigard (Genoa),78' Leo Østigård (Genoa),736974,13981617
 20,PARTIDO,Juventus - Cremonese,COINCIDE,,2026-01-12T19:45Z 5-0 (5 goles),2026-01-12T19:45Z 5-0 (5 goles),736980,13981623
 20,GOL,Juventus - Cremonese,COINCIDE,,15' Jonathan David (Juventus),15' Jonathan David (Juventus),736980,13981623
+20,GOL,Juventus - Cremonese,COINCIDE,,35' Kenan Yildiz (Juventus),35' Kenan Yıldız (Juventus),736980,13981623
 20,GOL,Juventus - Cremonese,COINCIDE,,48' Filippo Terracciano (Juventus) AUTOGOL,48' Filippo Terracciano (Juventus) AUTOGOL,736980,13981623
 20,GOL,Juventus - Cremonese,COINCIDE,,64' Weston McKennie (Juventus),64' Weston McKennie (Juventus),736980,13981623
-20,GOL,Juventus - Cremonese,DISCREPA,goleador,12' Bremer (Juventus),12' Gleison Bremer (Juventus),736980,13981623
-20,GOL,Juventus - Cremonese,DISCREPA,goleador,35' Kenan Yildiz (Juventus),35' Kenan Yıldız (Juventus),736980,13981623
+20,GOL,Juventus - Cremonese,DISCREPA,goleador_variante,12' Bremer (Juventus),12' Gleison Bremer (Juventus),736980,13981623

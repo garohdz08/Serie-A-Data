@@ -7,7 +7,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 7,GOL,AS Roma - Internazionale,COINCIDE,,6' Ange-Yoan Bonny (Internazionale),6' Ange-Yoan Bonny (Inter),736848,13981485
 7,PARTIDO,Como - Juventus,COINCIDE,,2025-10-19T10:30Z 2-0 (2 goles),2025-10-19T10:30Z 2-0 (2 goles),736852,13981482
 7,GOL,Como - Juventus,COINCIDE,,79' Nico Paz (Como),79' Nico Paz (Como),736852,13981482
-7,GOL,Como - Juventus,DISCREPA,goleador,4' Marc-Oliver Kempf (Como),4' Marc Kempf (Como),736852,13981482
+7,GOL,Como - Juventus,DISCREPA,goleador_variante,4' Marc-Oliver Kempf (Como),4' Marc Kempf (Como),736852,13981482
 7,PARTIDO,Cagliari - Bologna,COINCIDE,,2025-10-19T13:00Z 0-2 (2 goles),2025-10-19T13:00Z 0-2 (2 goles),736851,13981495
 7,GOL,Cagliari - Bologna,COINCIDE,,31' Emil Holm (Bologna),31' Emil Holm (Bologna),736851,13981495
 7,GOL,Cagliari - Bologna,COINCIDE,,80' Riccardo Orsolini (Bologna),80' Riccardo Orsolini (Bologna),736851,13981495

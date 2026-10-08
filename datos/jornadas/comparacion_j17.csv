@@ -8,13 +8,13 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 17,PARTIDO,Torino - Cagliari,COINCIDE,,2025-12-27T14:00Z 1-2 (3 goles),2025-12-27T14:00Z 1-2 (3 goles),736945,13981584
 17,GOL,Torino - Cagliari,COINCIDE,,27' Nikola Vlasic (Torino),27' Nikola Vlašić (Torino),736945,13981584
 17,GOL,Torino - Cagliari,COINCIDE,,45' Matteo Prati (Cagliari),45' Matteo Prati (Cagliari),736945,13981584
-17,GOL,Torino - Cagliari,DISCREPA,goleador,66' Semih Kiliçsoy (Cagliari),66' Semih Kılıçsoy (Cagliari),736945,13981584
+17,GOL,Torino - Cagliari,COINCIDE,,66' Semih Kiliçsoy (Cagliari),66' Semih Kılıçsoy (Cagliari),736945,13981584
 17,PARTIDO,Udinese - Lazio,COINCIDE,,2025-12-27T17:00Z 1-1 (2 goles),2025-12-27T17:00Z 1-1 (2 goles),736948,13981583
 17,GOL,Udinese - Lazio,COINCIDE,,80' Oumar Solet (Lazio) AUTOGOL,80' Oumar Solet (Lazio) AUTOGOL,736948,13981583
 17,GOL,Udinese - Lazio,COINCIDE,,90+5' Keinan Davis (Udinese),90+5' Keinan Davis (Udinese),736948,13981583
 17,PARTIDO,Pisa - Juventus,COINCIDE,,2025-12-27T19:45Z 0-2 (2 goles),2025-12-27T19:45Z 0-2 (2 goles),736947,13981585
 17,GOL,Pisa - Juventus,COINCIDE,,73' Pierre Kalulu (Juventus),73' Pierre Kalulu (Juventus),736947,13981585
-17,GOL,Pisa - Juventus,DISCREPA,goleador,90+2' Kenan Yildiz (Juventus),90+2' Kenan Yıldız (Juventus),736947,13981585
+17,GOL,Pisa - Juventus,COINCIDE,,90+2' Kenan Yildiz (Juventus),90+2' Kenan Yıldız (Juventus),736947,13981585
 17,PARTIDO,AC Milan - Hellas Verona,COINCIDE,,2025-12-28T11:30Z 3-0 (3 goles),2025-12-28T11:30Z 3-0 (3 goles),736949,13981588
 17,GOL,AC Milan - Hellas Verona,COINCIDE,,45+1' Christian Pulisic (AC Milan),45+1' Christian Pulišić (AC Milan),736949,13981588
 17,GOL,AC Milan - Hellas Verona,COINCIDE,,48' Christopher Nkunku (AC Milan) PEN,48' Christopher Nkunku (AC Milan) PEN,736949,13981588

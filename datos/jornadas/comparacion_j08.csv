@@ -10,7 +10,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 8,GOL,Udinese - Lecce,COINCIDE,,37' Keinan Davis (Udinese),37' Keinan Davis (Udinese),736856,13981493
 8,GOL,Udinese - Lecce,COINCIDE,,59' Medon Berisha (Lecce),59' Medon Berisha (Lecce),736856,13981493
 8,GOL,Udinese - Lecce,COINCIDE,,89' Adam Buksa (Udinese),89' Adam Buksa (Udinese),736856,13981493
-8,GOL,Udinese - Lecce,DISCREPA,goleador,90+6' Konan N’Dri (Lecce),90+6' Konan N'Dri (Lecce),736856,13981493
+8,GOL,Udinese - Lecce,COINCIDE,,90+6' Konan N’Dri (Lecce),90+6' Konan N'Dri (Lecce),736856,13981493
 8,PARTIDO,Napoli - Internazionale,COINCIDE,,2025-10-25T16:00Z 3-1 (4 goles),2025-10-25T16:00Z 3-1 (4 goles),736860,13981498
 8,GOL,Napoli - Internazionale,COINCIDE,,33' Kevin De Bruyne (Napoli) PEN,33' Kevin De Bruyne (SSC Napoli) PEN,736860,13981498
 8,GOL,Napoli - Internazionale,COINCIDE,,54' Scott McTominay (Napoli),54' Scott McTominay (SSC Napoli),736860,13981498
@@ -34,7 +34,6 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 8,GOL,Fiorentina - Bologna,COINCIDE,,25' Santiago Castro (Bologna),25' Santiago Castro (Bologna),736855,13981502
 8,GOL,Fiorentina - Bologna,COINCIDE,,52' Nicolò Cambiaghi (Bologna),52' Nicolò Cambiaghi (Bologna),736855,13981502
 8,GOL,Fiorentina - Bologna,COINCIDE,,90+4' Moise Kean (Fiorentina) PEN,90+4' Moise Kean (Fiorentina) PEN,736855,13981502
-8,GOL,Fiorentina - Bologna,SOLO_ESPN,gol,73' Albert Gudmundsson (Fiorentina) PEN,,736855,13981502
-8,GOL,Fiorentina - Bologna,SOLO_SOFASCORE,gol,,74' Albert Guðmundsson (Fiorentina) PEN,736855,13981502
+8,GOL,Fiorentina - Bologna,DISCREPA,minuto,73' Albert Gudmundsson (Fiorentina) PEN,74' Albert Guðmundsson (Fiorentina) PEN,736855,13981502
 8,PARTIDO,Lazio - Juventus,COINCIDE,,2025-10-26T19:45Z 1-0 (1 goles),2025-10-26T19:45Z 1-0 (1 goles),736862,13981500
 8,GOL,Lazio - Juventus,COINCIDE,,9' Toma Basic (Lazio),9' Toma Bašić (Lazio),736862,13981500

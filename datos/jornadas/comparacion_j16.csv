@@ -7,17 +7,17 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 16,PARTIDO,Cagliari - Pisa,COINCIDE,,2025-12-21T11:30Z 2-2 (4 goles),2025-12-21T11:30Z 2-2 (4 goles),736934,13981581
 16,GOL,Cagliari - Pisa,COINCIDE,,45' Matteo Tramoni (Pisa) PEN,45' Matteo Tramoni (Pisa) PEN,736934,13981581
 16,GOL,Cagliari - Pisa,COINCIDE,,59' Michael Folorunsho (Cagliari),59' Michael Folorunsho (Cagliari),736934,13981581
+16,GOL,Cagliari - Pisa,COINCIDE,,71' Semih Kiliçsoy (Cagliari),71' Semih Kılıçsoy (Cagliari),736934,13981581
 16,GOL,Cagliari - Pisa,COINCIDE,,89' Stefano Moreo (Pisa),89' Stefano Moreo (Pisa),736934,13981581
-16,GOL,Cagliari - Pisa,DISCREPA,goleador,71' Semih Kiliçsoy (Cagliari),71' Semih Kılıçsoy (Cagliari),736934,13981581
 16,PARTIDO,Sassuolo - Torino,COINCIDE,,2025-12-21T14:00Z 0-1 (1 goles),2025-12-21T14:00Z 0-1 (1 goles),736936,13981580
 16,GOL,Sassuolo - Torino,COINCIDE,,66' Nikola Vlasic (Torino) PEN,66' Nikola Vlašić (Torino) PEN,736936,13981580
 16,PARTIDO,Fiorentina - Udinese,COINCIDE,,2025-12-21T17:00Z 5-1 (6 goles),2025-12-21T17:00Z 5-1 (6 goles),736943,13981568
 16,GOL,Fiorentina - Udinese,COINCIDE,,21' Rolando Mandragora (Fiorentina),21' Rolando Mandragora (Fiorentina),736943,13981568
+16,GOL,Fiorentina - Udinese,COINCIDE,,42' Albert Gudmundsson (Fiorentina),42' Albert Guðmundsson (Fiorentina),736943,13981568
 16,GOL,Fiorentina - Udinese,COINCIDE,,45+5' Cher Ndour (Fiorentina),45+5' Cher Ndour (Fiorentina),736943,13981568
 16,GOL,Fiorentina - Udinese,COINCIDE,,56' Moise Kean (Fiorentina),56' Moise Kean (Fiorentina),736943,13981568
 16,GOL,Fiorentina - Udinese,COINCIDE,,66' Oumar Solet (Udinese),66' Oumar Solet (Udinese),736943,13981568
 16,GOL,Fiorentina - Udinese,COINCIDE,,68' Moise Kean (Fiorentina),68' Moise Kean (Fiorentina),736943,13981568
-16,GOL,Fiorentina - Udinese,DISCREPA,goleador,42' Albert Gudmundsson (Fiorentina),42' Albert Guðmundsson (Fiorentina),736943,13981568
 16,PARTIDO,Genoa - Atalanta,COINCIDE,,2025-12-21T19:45Z 0-1 (1 goles),2025-12-21T19:45Z 0-1 (1 goles),736942,13981579
 16,GOL,Genoa - Atalanta,COINCIDE,,90+4' Isak Hien (Atalanta),90+4' Isak Hien (Atalanta),736942,13981579
 16,PARTIDO,Napoli - Parma,COINCIDE,,2026-01-14T17:30Z 0-0 (0 goles),2026-01-14T17:30Z 0-0 (0 goles),736937,14844295
@@ -33,4 +33,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 16,GOL,Como - AC Milan,COINCIDE,,45+1' Christopher Nkunku (AC Milan) PEN,45+1' Christopher Nkunku (AC Milan) PEN,736935,14844296
 16,GOL,Como - AC Milan,COINCIDE,,55' Adrien Rabiot (AC Milan),55' Adrien Rabiot (AC Milan),736935,14844296
 16,GOL,Como - AC Milan,COINCIDE,,88' Adrien Rabiot (AC Milan),88' Adrien Rabiot (AC Milan),736935,14844296
-16,GOL,Como - AC Milan,DISCREPA,goleador,10' Marc-Oliver Kempf (Como),10' Marc Kempf (Como),736935,14844296
+16,GOL,Como - AC Milan,DISCREPA,goleador_variante,10' Marc-Oliver Kempf (Como),10' Marc Kempf (Como),736935,14844296

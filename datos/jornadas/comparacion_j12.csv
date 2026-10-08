@@ -43,4 +43,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 12,GOL,Sassuolo - Pisa,COINCIDE,,4' M'Bala Nzola (Pisa) PEN,4' M'bala Nzola (Pisa) PEN,736899,13981536
 12,GOL,Sassuolo - Pisa,COINCIDE,,6' Nemanja Matic (Sassuolo),6' Nemanja Matić (Sassuolo),736899,13981536
 12,GOL,Sassuolo - Pisa,COINCIDE,,90+5' Kristian Thorstvedt (Sassuolo),90+5' Kristian Thorstvedt (Sassuolo),736899,13981536
-12,GOL,Sassuolo - Pisa,DISCREPA,goleador,81' Henrik Meister (Pisa),81' Henrik Wendel Meister (Pisa),736899,13981536
+12,GOL,Sassuolo - Pisa,DISCREPA,goleador_variante,81' Henrik Meister (Pisa),81' Henrik Wendel Meister (Pisa),736899,13981536

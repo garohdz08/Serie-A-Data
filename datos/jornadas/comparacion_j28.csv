@@ -15,8 +15,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 28,PARTIDO,Juventus - Pisa,COINCIDE,,2026-03-07T19:45Z 4-0 (4 goles),2026-03-07T19:45Z 4-0 (4 goles),737057,13981697
 28,GOL,Juventus - Pisa,COINCIDE,,54' Andrea Cambiaso (Juventus),54' Andrea Cambiaso (Juventus),737057,13981697
 28,GOL,Juventus - Pisa,COINCIDE,,65' Khéphren Thuram (Juventus),65' Khéphren Thuram (Juventus),737057,13981697
+28,GOL,Juventus - Pisa,COINCIDE,,75' Kenan Yildiz (Juventus),75' Kenan Yıldız (Juventus),737057,13981697
 28,GOL,Juventus - Pisa,COINCIDE,,90+3' Jérémie Boga (Juventus),90+3' Jérémie Boga (Juventus),737057,13981697
-28,GOL,Juventus - Pisa,DISCREPA,goleador,75' Kenan Yildiz (Juventus),75' Kenan Yıldız (Juventus),737057,13981697
 28,PARTIDO,Lecce - Cremonese,COINCIDE,,2026-03-08T11:30Z 2-1 (3 goles),2026-03-08T11:30Z 2-1 (3 goles),737055,13981701
 28,GOL,Lecce - Cremonese,COINCIDE,,22' Santiago Pierotti (Lecce),22' Santiago Pierotti (Lecce),737055,13981701
 28,GOL,Lecce - Cremonese,COINCIDE,,38' Nikola Stulic (Lecce) PEN,38' Nikola Štulić (Lecce) PEN,737055,13981701
@@ -24,7 +24,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 28,PARTIDO,Bologna - Hellas Verona,COINCIDE,,2026-03-08T14:00Z 1-2 (3 goles),2026-03-08T14:00Z 1-2 (3 goles),737061,13981692
 28,GOL,Bologna - Hellas Verona,COINCIDE,,53' Martin Frese (Hellas Verona),53' Martin Frese (Hellas Verona),737061,13981692
 28,GOL,Bologna - Hellas Verona,COINCIDE,,57' Kieron Bowie (Hellas Verona),57' Kieron Bowie (Hellas Verona),737061,13981692
-28,GOL,Bologna - Hellas Verona,DISCREPA,goleador,49' Jon Rowe (Bologna),49' Jonathan Rowe (Bologna),737061,13981692
+28,GOL,Bologna - Hellas Verona,DISCREPA,goleador_variante,49' Jon Rowe (Bologna),49' Jonathan Rowe (Bologna),737061,13981692
 28,PARTIDO,Fiorentina - Parma,COINCIDE,,2026-03-08T14:00Z 0-0 (0 goles),2026-03-08T14:00Z 0-0 (0 goles),737059,13981696
 28,PARTIDO,Genoa - AS Roma,COINCIDE,,2026-03-08T17:00Z 2-1 (3 goles),2026-03-08T17:00Z 2-1 (3 goles),737058,13981698
 28,GOL,Genoa - AS Roma,COINCIDE,,52' Junior Messias (Genoa) PEN,52' Junior Messias (Genoa) PEN,737058,13981698

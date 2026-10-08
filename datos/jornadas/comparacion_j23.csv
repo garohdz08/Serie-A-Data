@@ -16,9 +16,9 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 23,GOL,Napoli - Fiorentina,COINCIDE,,57' Manor Solomon (Fiorentina),57' Manor Solomon (Fiorentina),737007,13981647
 23,PARTIDO,Cagliari - Hellas Verona,COINCIDE,,2026-01-31T19:45Z 4-0 (4 goles),2026-01-31T19:45Z 4-0 (4 goles),737011,13981644
 23,GOL,Cagliari - Hellas Verona,COINCIDE,,36' Luca Mazzitelli (Cagliari),36' Luca Mazzitelli (Cagliari),737011,13981644
+23,GOL,Cagliari - Hellas Verona,COINCIDE,,45+2' Semih Kiliçsoy (Cagliari),45+2' Semih Kılıçsoy (Cagliari),737011,13981644
 23,GOL,Cagliari - Hellas Verona,COINCIDE,,90+1' Riyad Idrissi (Cagliari),90+1' Riyad Idrissi (Cagliari),737011,13981644
-23,GOL,Cagliari - Hellas Verona,DISCREPA,goleador,45+2' Semih Kiliçsoy (Cagliari),45+2' Semih Kılıçsoy (Cagliari),737011,13981644
-23,GOL,Cagliari - Hellas Verona,DISCREPA,goleador,84' Sulemana (Cagliari),84' Ibrahim Sulemana (Cagliari),737011,13981644
+23,GOL,Cagliari - Hellas Verona,DISCREPA,goleador_variante,84' Sulemana (Cagliari),84' Ibrahim Sulemana (Cagliari),737011,13981644
 23,PARTIDO,Torino - Lecce,COINCIDE,,2026-02-01T11:30Z 1-0 (1 goles),2026-02-01T11:30Z 1-0 (1 goles),737004,13981653
 23,GOL,Torino - Lecce,COINCIDE,,29' Ché Adams (Torino),29' Che Adams (Torino),737004,13981653
 23,PARTIDO,Como - Atalanta,COINCIDE,,2026-02-01T14:00Z 0-0 (0 goles),2026-02-01T14:00Z 0-0 (0 goles),737010,13981645
@@ -29,8 +29,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 23,GOL,Parma - Juventus,COINCIDE,,37' Weston McKennie (Juventus),37' Weston McKennie (Juventus),737006,13981648
 23,GOL,Parma - Juventus,COINCIDE,,51' Andrea Cambiaso (Parma) AUTOGOL,51' Andrea Cambiaso (Parma) AUTOGOL,737006,13981648
 23,GOL,Parma - Juventus,COINCIDE,,64' Jonathan David (Juventus),64' Jonathan David (Juventus),737006,13981648
-23,GOL,Parma - Juventus,DISCREPA,goleador,15' Bremer (Juventus),15' Gleison Bremer (Juventus),737006,13981648
-23,GOL,Parma - Juventus,DISCREPA,goleador,54' Bremer (Juventus),54' Gleison Bremer (Juventus),737006,13981648
+23,GOL,Parma - Juventus,DISCREPA,goleador_variante,15' Bremer (Juventus),15' Gleison Bremer (Juventus),737006,13981648
+23,GOL,Parma - Juventus,DISCREPA,goleador_variante,54' Bremer (Juventus),54' Gleison Bremer (Juventus),737006,13981648
 23,PARTIDO,Udinese - AS Roma,COINCIDE,,2026-02-02T19:45Z 1-0 (1 goles),2026-02-02T19:45Z 1-0 (1 goles),737008,13981651
 23,GOL,Udinese - AS Roma,COINCIDE,,49' Jurgen Ekkelenkamp (Udinese),49' Jürgen Ekkelenkamp (Udinese),737008,13981651
 23,PARTIDO,Bologna - AC Milan,COINCIDE,,2026-02-03T19:45Z 0-3 (3 goles),2026-02-03T19:45Z 0-3 (3 goles),737012,15370282

@@ -2,7 +2,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 36,PARTIDO,Torino - Sassuolo,COINCIDE,,2026-05-08T18:45Z 2-1 (3 goles),2026-05-08T18:45Z 2-1 (3 goles),737143,13980073
 36,GOL,Torino - Sassuolo,COINCIDE,,51' Kristian Thorstvedt (Sassuolo),51' Kristian Thorstvedt (Sassuolo),737143,13980073
 36,GOL,Torino - Sassuolo,COINCIDE,,66' Giovanni Simeone (Torino),66' Giovanni Simeone (Torino),737143,13980073
-36,GOL,Torino - Sassuolo,DISCREPA,goleador,70' Marcus Holmgren Pedersen (Torino),70' Marcus Pedersen (Torino),737143,13980073
+36,GOL,Torino - Sassuolo,DISCREPA,goleador_variante,70' Marcus Holmgren Pedersen (Torino),70' Marcus Pedersen (Torino),737143,13980073
 36,PARTIDO,Cagliari - Udinese,COINCIDE,,2026-05-09T13:00Z 0-2 (2 goles),2026-05-09T13:00Z 0-2 (2 goles),737142,13980088
 36,GOL,Cagliari - Udinese,COINCIDE,,56' Adam Buksa (Udinese),56' Adam Buksa (Udinese),737142,13980088
 36,GOL,Cagliari - Udinese,COINCIDE,,90+6' Idrissa Gueye (Udinese),90+6' Idrissa Gueye (Udinese),737142,13980088
@@ -36,4 +36,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 36,GOL,Napoli - Bologna,COINCIDE,,34' Riccardo Orsolini (Bologna) PEN,34' Riccardo Orsolini (Bologna) PEN,737135,13980089
 36,GOL,Napoli - Bologna,COINCIDE,,45+2' Giovanni Di Lorenzo (Napoli),45+2' Giovanni Di Lorenzo (SSC Napoli),737135,13980089
 36,GOL,Napoli - Bologna,COINCIDE,,48' Alisson Santos (Napoli),48' Alisson Santos (SSC Napoli),737135,13980089
-36,GOL,Napoli - Bologna,DISCREPA,goleador,90+1' Jon Rowe (Bologna),90+1' Jonathan Rowe (Bologna),737135,13980089
+36,GOL,Napoli - Bologna,DISCREPA,goleador_variante,90+1' Jon Rowe (Bologna),90+1' Jonathan Rowe (Bologna),737135,13980089

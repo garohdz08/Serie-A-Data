@@ -11,6 +11,7 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+from comparar import FINALES, sin_aplazados
 from nombres import equipo
 
 DATOS = Path(__file__).parent / "datos"
@@ -50,14 +51,19 @@ def main():
     for f in FUENTES:
         ids = {x["partido_id"] for x in P[f]}
         pares = {(equipo(x["local"]), equipo(x["visitante"])) for x in P[f]}
-        p(f"{f}: filas={len(P[f])} ids_unicos={len(ids)} pares_local-visitante_unicos={len(pares)}")
-        por_estado = Counter(x["estado"] for x in P[f])
-        p(f"   estados: {dict(por_estado)}")
+        disputados = [x for x in P[f] if x["estado"] in FINALES]
+        p(f"{f}: filas={len(P[f])} disputados={len(disputados)} ids_unicos={len(ids)} "
+          f"pares_local-visitante_unicos={len(pares)} estados={dict(Counter(x['estado'] for x in P[f]))}")
+        for x in P[f]:
+            if x["estado"] not in FINALES:
+                gem = [y for y in disputados if (y["local"], y["visitante"]) == (x["local"], x["visitante"])]
+                p(f"   no disputado J{x['jornada']:02d} id={x['partido_id']} {x['fecha_utc']} {x['local']} - {x['visitante']} "
+                  f"({x['estado']}); gemelo disputado: {[(y['partido_id'], y['fecha_utc']) for y in gem] or 'NINGUNO'}")
 
     p("\n== Partidos por equipo (esperado 38 cada uno)")
     for f in FUENTES:
         c = Counter()
-        for x in P[f]:
+        for x in sin_aplazados(P[f]):
             c[equipo(x["local"])] += 1
             c[equipo(x["visitante"])] += 1
         malos = {e: n for e, n in c.items() if n != 38}
@@ -90,6 +96,12 @@ def main():
                 p(",".join('"' + (x[k] or "").replace('"', '""') + '"' for k in cols))
         c2 = Counter(x["campos_discrepantes"] for x in comp if x["estado"] != "COINCIDE")
         p(f"\nresumen por tipo: {dict(c2)}")
+        tipo = {k: v for k, v in c2.items()}
+        minuto = sum(v for k, v in tipo.items() if "minuto" in k)
+        distinto = sum(v for k, v in tipo.items() if "goleador_distinto" in k)
+        variante = sum(v for k, v in tipo.items() if "goleador_variante" in k)
+        p(f"minuto={minuto} goleador_distinto={distinto} goleador_variante(nombre corto/largo)={variante} "
+          f"sin_pareja={sum(v for k, v in tipo.items() if k == 'gol')}")
     else:
         p("(falta comparacion_temporada.csv: ejecutar comparar.py --todas)")
 

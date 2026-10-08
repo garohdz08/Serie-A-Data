@@ -7,11 +7,11 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 31,GOL,Hellas Verona - Fiorentina,COINCIDE,,82' Nicolò Fagioli (Fiorentina),82' Nicolò Fagioli (Fiorentina),737091,13981732
 31,PARTIDO,Lazio - Parma,COINCIDE,,2026-04-04T18:45Z 1-1 (2 goles),2026-04-04T18:45Z 1-1 (2 goles),737093,13981729
 31,GOL,Lazio - Parma,COINCIDE,,77' Tijjani Noslin (Lazio),77' Tijjani Noslin (Lazio),737093,13981729
-31,GOL,Lazio - Parma,DISCREPA,goleador,15' Enrico Del Prato (Parma),15' Enrico Delprato (Parma),737093,13981729
+31,GOL,Lazio - Parma,COINCIDE,,15' Enrico Del Prato (Parma),15' Enrico Delprato (Parma),737093,13981729
 31,PARTIDO,Cremonese - Bologna,COINCIDE,,2026-04-05T13:00Z 1-2 (3 goles),2026-04-05T13:00Z 1-2 (3 goles),737092,13981725
 31,GOL,Cremonese - Bologna,COINCIDE,,90+1' Federico Bonazzoli (Cremonese) PEN,90+1' Federico Bonazzoli (Cremonese) PEN,737092,13981725
-31,GOL,Cremonese - Bologna,DISCREPA,goleador,3' Joao Victor (Bologna),3' João Mário (Bologna),737092,13981725
-31,GOL,Cremonese - Bologna,DISCREPA,goleador,16' Jon Rowe (Bologna),16' Jonathan Rowe (Bologna),737092,13981725
+31,GOL,Cremonese - Bologna,DISCREPA,goleador_distinto,3' Joao Victor (Bologna),3' João Mário (Bologna),737092,13981725
+31,GOL,Cremonese - Bologna,DISCREPA,goleador_variante,16' Jon Rowe (Bologna),16' Jonathan Rowe (Bologna),737092,13981725
 31,PARTIDO,Pisa - Torino,COINCIDE,,2026-04-05T16:00Z 0-1 (1 goles),2026-04-05T16:00Z 0-1 (1 goles),737085,13981728
 31,GOL,Pisa - Torino,COINCIDE,,80' Ché Adams (Torino),80' Che Adams (Torino),737085,13981728
 31,PARTIDO,Internazionale - AS Roma,COINCIDE,,2026-04-05T18:45Z 5-2 (7 goles),2026-04-05T18:45Z 5-2 (7 goles),737090,13981720
@@ -29,6 +29,6 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 31,GOL,Lecce - Atalanta,COINCIDE,,73' Giacomo Raspadori (Atalanta),73' Giacomo Raspadori (Atalanta),737087,13981726
 31,PARTIDO,Juventus - Genoa,COINCIDE,,2026-04-06T16:00Z 2-0 (2 goles),2026-04-06T16:00Z 2-0 (2 goles),737089,13981723
 31,GOL,Juventus - Genoa,COINCIDE,,17' Weston McKennie (Juventus),17' Weston McKennie (Juventus),737089,13981723
-31,GOL,Juventus - Genoa,DISCREPA,goleador,4' Bremer (Juventus),4' Gleison Bremer (Juventus),737089,13981723
+31,GOL,Juventus - Genoa,DISCREPA,goleador_variante,4' Bremer (Juventus),4' Gleison Bremer (Juventus),737089,13981723
 31,PARTIDO,Napoli - AC Milan,COINCIDE,,2026-04-06T18:45Z 1-0 (1 goles),2026-04-06T18:45Z 1-0 (1 goles),737086,13981727
 31,GOL,Napoli - AC Milan,COINCIDE,,79' Matteo Politano (Napoli),79' Matteo Politano (SSC Napoli),737086,13981727

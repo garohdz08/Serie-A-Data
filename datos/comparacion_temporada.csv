@@ -1,0 +1,1303 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+1,PARTIDO,Genoa - Lecce,COINCIDE,,2025-08-23T16:30Z 0-0 (0 goles),2025-08-23T16:30Z 0-0 (0 goles),736790,13981422
+1,PARTIDO,Sassuolo - Napoli,COINCIDE,,2025-08-23T16:30Z 0-2 (2 goles),2025-08-23T16:30Z 0-2 (2 goles),736784,13981431
+1,GOL,Sassuolo - Napoli,COINCIDE,,17' Scott McTominay (Napoli),17' Scott McTominay (SSC Napoli),736784,13981431
+1,GOL,Sassuolo - Napoli,COINCIDE,,57' Kevin De Bruyne (Napoli),57' Kevin De Bruyne (SSC Napoli),736784,13981431
+1,PARTIDO,AC Milan - Cremonese,COINCIDE,,2025-08-23T18:45Z 1-2 (3 goles),2025-08-23T18:45Z 1-2 (3 goles),736793,13981439
+1,GOL,AC Milan - Cremonese,COINCIDE,,28' Federico Baschirotto (Cremonese),28' Federico Baschirotto (Cremonese),736793,13981439
+1,GOL,AC Milan - Cremonese,COINCIDE,,45+1' Strahinja Pavlovic (AC Milan),45+1' Strahinja Pavlović (AC Milan),736793,13981439
+1,GOL,AC Milan - Cremonese,COINCIDE,,61' Federico Bonazzoli (Cremonese),61' Federico Bonazzoli (Cremonese),736793,13981439
+1,PARTIDO,AS Roma - Bologna,COINCIDE,,2025-08-23T18:45Z 1-0 (1 goles),2025-08-23T18:45Z 1-0 (1 goles),736785,13981428
+1,GOL,AS Roma - Bologna,COINCIDE,,53' Wesley (AS Roma),53' Wesley (AS Roma),736785,13981428
+1,PARTIDO,Cagliari - Fiorentina,COINCIDE,,2025-08-24T16:30Z 1-1 (2 goles),2025-08-24T16:30Z 1-1 (2 goles),736788,13981425
+1,GOL,Cagliari - Fiorentina,COINCIDE,,68' Rolando Mandragora (Fiorentina),68' Rolando Mandragora (Fiorentina),736788,13981425
+1,GOL,Cagliari - Fiorentina,COINCIDE,,90+4' Sebastiano Luperto (Cagliari),90+4' Sebastiano Luperto (Cagliari),736788,13981425
+1,PARTIDO,Como - Lazio,COINCIDE,,2025-08-24T16:30Z 2-0 (2 goles),2025-08-24T16:30Z 2-0 (2 goles),736789,13981423
+1,GOL,Como - Lazio,COINCIDE,,47' Anastasios Douvikas (Como),47' Anastasios Douvikas (Como),736789,13981423
+1,GOL,Como - Lazio,COINCIDE,,73' Nico Paz (Como),73' Nico Paz (Como),736789,13981423
+1,PARTIDO,Atalanta - Pisa,COINCIDE,,2025-08-24T18:45Z 1-1 (2 goles),2025-08-24T18:45Z 1-1 (2 goles),736787,13981444
+1,GOL,Atalanta - Pisa,COINCIDE,,26' Isak Hien (Pisa) AUTOGOL,26' Isak Hien (Pisa) AUTOGOL,736787,13981444
+1,GOL,Atalanta - Pisa,COINCIDE,,50' Gianluca Scamacca (Atalanta),50' Gianluca Scamacca (Atalanta),736787,13981444
+1,PARTIDO,Juventus - Parma,COINCIDE,,2025-08-24T18:45Z 2-0 (2 goles),2025-08-24T18:45Z 2-0 (2 goles),736792,13981424
+1,GOL,Juventus - Parma,COINCIDE,,59' Jonathan David (Juventus),59' Jonathan David (Juventus),736792,13981424
+1,GOL,Juventus - Parma,COINCIDE,,84' Dusan Vlahovic (Juventus),84' Dušan Vlahović (Juventus),736792,13981424
+1,PARTIDO,Udinese - Hellas Verona,COINCIDE,,2025-08-25T16:30Z 1-1 (2 goles),2025-08-25T16:30Z 1-1 (2 goles),736786,13981438
+1,GOL,Udinese - Hellas Verona,COINCIDE,,53' Thomas Kristensen (Udinese),53' Thomas Kristensen (Udinese),736786,13981438
+1,GOL,Udinese - Hellas Verona,COINCIDE,,73' Suat Serdar (Hellas Verona),73' Suat Serdar (Hellas Verona),736786,13981438
+1,PARTIDO,Internazionale - Torino,COINCIDE,,2025-08-25T18:45Z 5-0 (5 goles),2025-08-25T18:45Z 5-0 (5 goles),736791,13981421
+1,GOL,Internazionale - Torino,COINCIDE,,18' Alessandro Bastoni (Internazionale),18' Alessandro Bastoni (Inter),736791,13981421
+1,GOL,Internazionale - Torino,COINCIDE,,36' Marcus Thuram (Internazionale),36' Marcus Thuram (Inter),736791,13981421
+1,GOL,Internazionale - Torino,COINCIDE,,62' Marcus Thuram (Internazionale),62' Marcus Thuram (Inter),736791,13981421
+1,GOL,Internazionale - Torino,COINCIDE,,72' Ange-Yoan Bonny (Internazionale),72' Ange-Yoan Bonny (Inter),736791,13981421
+1,GOL,Internazionale - Torino,DISCREPA,minuto,51' Lautaro Martínez (Internazionale),52' Lautaro Martínez (Inter),736791,13981421
+2,PARTIDO,Cremonese - Sassuolo,COINCIDE,,2025-08-29T16:30Z 3-2 (5 goles),2025-08-29T16:30Z 3-2 (5 goles),736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,37' Filippo Terracciano (Cremonese),37' Filippo Terracciano (Cremonese),736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,39' Franco Vázquez (Cremonese),39' Franco Vázquez (Cremonese),736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,63' Andrea Pinamonti (Sassuolo),63' Andrea Pinamonti (Sassuolo),736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,73' Domenico Berardi (Sassuolo) PEN,73' Domenico Berardi (Sassuolo) PEN,736802,13981443
+2,GOL,Cremonese - Sassuolo,COINCIDE,,90+3' Manuel De Luca (Cremonese) PEN,90+3' Manuel De Luca (Cremonese) PEN,736802,13981443
+2,PARTIDO,Lecce - AC Milan,COINCIDE,,2025-08-29T18:45Z 0-2 (2 goles),2025-08-29T18:45Z 0-2 (2 goles),736803,13981447
+2,GOL,Lecce - AC Milan,COINCIDE,,66' Ruben Loftus-Cheek (AC Milan),66' Ruben Loftus-Cheek (AC Milan),736803,13981447
+2,GOL,Lecce - AC Milan,COINCIDE,,86' Christian Pulisic (AC Milan),86' Christian Pulišić (AC Milan),736803,13981447
+2,PARTIDO,Bologna - Como,COINCIDE,,2025-08-30T16:30Z 1-0 (1 goles),2025-08-30T16:30Z 1-0 (1 goles),736794,13981433
+2,GOL,Bologna - Como,COINCIDE,,59' Riccardo Orsolini (Bologna),59' Riccardo Orsolini (Bologna),736794,13981433
+2,PARTIDO,Parma - Atalanta,COINCIDE,,2025-08-30T16:30Z 1-1 (2 goles),2025-08-30T16:30Z 1-1 (2 goles),736796,13981426
+2,GOL,Parma - Atalanta,COINCIDE,,79' Mario Pasalic (Atalanta),79' Mario Pašalić (Atalanta),736796,13981426
+2,GOL,Parma - Atalanta,COINCIDE,,85' Patrick Cutrone (Parma),85' Patrick Cutrone (Parma),736796,13981426
+2,PARTIDO,Napoli - Cagliari,COINCIDE,,2025-08-30T18:45Z 1-0 (1 goles),2025-08-30T18:45Z 1-0 (1 goles),736797,13981436
+2,GOL,Napoli - Cagliari,COINCIDE,,90+5' Frank Anguissa (Napoli),90+5' Frank Anguissa (SSC Napoli),736797,13981436
+2,PARTIDO,Pisa - AS Roma,COINCIDE,,2025-08-30T18:45Z 0-1 (1 goles),2025-08-30T18:45Z 0-1 (1 goles),736795,13981441
+2,GOL,Pisa - AS Roma,COINCIDE,,55' Matìas Soulè (AS Roma),55' Matías Soulé (AS Roma),736795,13981441
+2,PARTIDO,Genoa - Juventus,COINCIDE,,2025-08-31T16:30Z 0-1 (1 goles),2025-08-31T16:30Z 0-1 (1 goles),736801,13981448
+2,GOL,Genoa - Juventus,COINCIDE,,73' Dusan Vlahovic (Juventus),73' Dušan Vlahović (Juventus),736801,13981448
+2,PARTIDO,Torino - Fiorentina,COINCIDE,,2025-08-31T16:30Z 0-0 (0 goles),2025-08-31T16:30Z 0-0 (0 goles),736798,13981429
+2,PARTIDO,Internazionale - Udinese,COINCIDE,,2025-08-31T18:45Z 1-2 (3 goles),2025-08-31T18:45Z 1-2 (3 goles),736800,13981432
+2,GOL,Internazionale - Udinese,COINCIDE,,17' Denzel Dumfries (Internazionale),17' Denzel Dumfries (Inter),736800,13981432
+2,GOL,Internazionale - Udinese,COINCIDE,,29' Keinan Davis (Udinese) PEN,29' Keinan Davis (Udinese) PEN,736800,13981432
+2,GOL,Internazionale - Udinese,COINCIDE,,40' Arthur Atta (Udinese),40' Arthur Atta (Udinese),736800,13981432
+2,PARTIDO,Lazio - Hellas Verona,COINCIDE,,2025-08-31T18:45Z 4-0 (4 goles),2025-08-31T18:45Z 4-0 (4 goles),736799,13981446
+2,GOL,Lazio - Hellas Verona,COINCIDE,,3' Matteo Guendouzi (Lazio),3' Mattéo Guendouzi (Lazio),736799,13981446
+2,GOL,Lazio - Hellas Verona,COINCIDE,,10' Mattia Zaccagni (Lazio),10' Mattia Zaccagni (Lazio),736799,13981446
+2,GOL,Lazio - Hellas Verona,COINCIDE,,41' Valentín Castellanos (Lazio),41' Valentín Castellanos (Lazio),736799,13981446
+2,GOL,Lazio - Hellas Verona,COINCIDE,,82' Boulaye Dia (Lazio),82' Boulaye Dia (Lazio),736799,13981446
+3,PARTIDO,Cagliari - Parma,COINCIDE,,2025-09-13T13:00Z 2-0 (2 goles),2025-09-13T13:00Z 2-0 (2 goles),736811,13981427
+3,GOL,Cagliari - Parma,COINCIDE,,33' Yerry Mina (Cagliari),33' Yerry Mina (Cagliari),736811,13981427
+3,GOL,Cagliari - Parma,COINCIDE,,77' Mattia Felici (Cagliari),77' Mattia Felici (Cagliari),736811,13981427
+3,PARTIDO,Juventus - Internazionale,COINCIDE,,2025-09-13T16:00Z 4-3 (7 goles),2025-09-13T16:00Z 4-3 (7 goles),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,14' Lloyd Kelly (Juventus),14' Lloyd Kelly (Juventus),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,30' Hakan Çalhanoglu (Internazionale),30' Hakan Çalhanoğlu (Inter),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,38' Kenan Yildiz (Juventus),38' Kenan Yıldız (Juventus),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,65' Hakan Çalhanoglu (Internazionale),65' Hakan Çalhanoğlu (Inter),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,76' Marcus Thuram (Internazionale),76' Marcus Thuram (Inter),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,82' Khéphren Thuram (Juventus),82' Khéphren Thuram (Juventus),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,90+1' Vasilije Adzic (Juventus),90+1' Vasilije Adžić (Juventus),736807,13981435
+3,PARTIDO,Fiorentina - Napoli,COINCIDE,,2025-09-13T18:45Z 1-3 (4 goles),2025-09-13T18:45Z 1-3 (4 goles),736809,13981442
+3,GOL,Fiorentina - Napoli,COINCIDE,,6' Kevin De Bruyne (Napoli) PEN,6' Kevin De Bruyne (SSC Napoli) PEN,736809,13981442
+3,GOL,Fiorentina - Napoli,COINCIDE,,14' Rasmus Højlund (Napoli),14' Rasmus Højlund (SSC Napoli),736809,13981442
+3,GOL,Fiorentina - Napoli,COINCIDE,,51' Sam Beukema (Napoli),51' Sam Beukema (SSC Napoli),736809,13981442
+3,GOL,Fiorentina - Napoli,COINCIDE,,79' Luca Ranieri (Fiorentina),79' Luca Ranieri (Fiorentina),736809,13981442
+3,PARTIDO,AS Roma - Torino,COINCIDE,,2025-09-14T10:30Z 0-1 (1 goles),2025-09-14T10:30Z 0-1 (1 goles),736804,13981434
+3,GOL,AS Roma - Torino,COINCIDE,,59' Giovanni Simeone (Torino),59' Giovanni Simeone (Torino),736804,13981434
+3,PARTIDO,Atalanta - Lecce,COINCIDE,,2025-09-14T13:00Z 4-1 (5 goles),2025-09-14T13:00Z 4-1 (5 goles),736812,13981450
+3,GOL,Atalanta - Lecce,COINCIDE,,37' Giorgio Scalvini (Atalanta),37' Giorgio Scalvini (Atalanta),736812,13981450
+3,GOL,Atalanta - Lecce,COINCIDE,,51' Charles De Ketelaere (Atalanta),51' Charles De Ketelaere (Atalanta),736812,13981450
+3,GOL,Atalanta - Lecce,COINCIDE,,70' Nicola Zalewski (Atalanta),70' Nicola Zalewski (Atalanta),736812,13981450
+3,GOL,Atalanta - Lecce,COINCIDE,,73' Charles De Ketelaere (Atalanta),73' Charles De Ketelaere (Atalanta),736812,13981450
+3,GOL,Atalanta - Lecce,COINCIDE,,82' Konan N’Dri (Lecce),82' Konan N'Dri (Lecce),736812,13981450
+3,PARTIDO,Pisa - Udinese,COINCIDE,,2025-09-14T13:00Z 0-1 (1 goles),2025-09-14T13:00Z 0-1 (1 goles),736805,13981445
+3,GOL,Pisa - Udinese,COINCIDE,,14' Iker Bravo (Udinese),14' Iker Bravo (Udinese),736805,13981445
+3,PARTIDO,Sassuolo - Lazio,COINCIDE,,2025-09-14T16:00Z 1-0 (1 goles),2025-09-14T16:00Z 1-0 (1 goles),736813,13981449
+3,GOL,Sassuolo - Lazio,COINCIDE,,70' Alieu Fadera (Sassuolo),70' Alieu Fadera (Sassuolo),736813,13981449
+3,PARTIDO,AC Milan - Bologna,COINCIDE,,2025-09-14T18:45Z 1-0 (1 goles),2025-09-14T18:45Z 1-0 (1 goles),736806,13981437
+3,GOL,AC Milan - Bologna,COINCIDE,,61' Luka Modric (AC Milan),61' Luka Modrić (AC Milan),736806,13981437
+3,PARTIDO,Hellas Verona - Cremonese,COINCIDE,,2025-09-15T16:30Z 0-0 (0 goles),2025-09-15T16:30Z 0-0 (0 goles),736808,13981451
+3,PARTIDO,Como - Genoa,COINCIDE,,2025-09-15T18:45Z 1-1 (2 goles),2025-09-15T18:45Z 1-1 (2 goles),736810,13981430
+3,GOL,Como - Genoa,COINCIDE,,13' Nico Paz (Como),13' Nico Paz (Como),736810,13981430
+3,GOL,Como - Genoa,COINCIDE,,90+2' Caleb Ekuban (Genoa),90+2' Caleb Ekuban (Genoa),736810,13981430
+4,PARTIDO,Lecce - Cagliari,COINCIDE,,2025-09-19T18:45Z 1-2 (3 goles),2025-09-19T18:45Z 1-2 (3 goles),736820,13981455
+4,GOL,Lecce - Cagliari,COINCIDE,,5' Tiago Gabriel (Lecce),5' Tiago Gabriel (Lecce),736820,13981455
+4,GOL,Lecce - Cagliari,COINCIDE,,33' Andrea Belotti (Cagliari),33' Andrea Belotti (Cagliari),736820,13981455
+4,GOL,Lecce - Cagliari,COINCIDE,,71' Andrea Belotti (Cagliari) PEN,71' Andrea Belotti (Cagliari) PEN,736820,13981455
+4,PARTIDO,Bologna - Genoa,COINCIDE,,2025-09-20T13:00Z 2-1 (3 goles),2025-09-20T13:00Z 2-1 (3 goles),736817,13981460
+4,GOL,Bologna - Genoa,COINCIDE,,63' Mikael Ellertsson (Genoa),63' Mikael Ellertsson (Genoa),736817,13981460
+4,GOL,Bologna - Genoa,COINCIDE,,73' Santiago Castro (Bologna),73' Santiago Castro (Bologna),736817,13981460
+4,GOL,Bologna - Genoa,COINCIDE,,90+9' Riccardo Orsolini (Bologna) PEN,90+9' Riccardo Orsolini (Bologna) PEN,736817,13981460
+4,PARTIDO,Hellas Verona - Juventus,COINCIDE,,2025-09-20T16:00Z 1-1 (2 goles),2025-09-20T16:00Z 1-1 (2 goles),736814,13981452
+4,GOL,Hellas Verona - Juventus,COINCIDE,,19' Francisco Conceição (Juventus),19' Francisco Conceição (Juventus),736814,13981452
+4,GOL,Hellas Verona - Juventus,COINCIDE,,44' Gift Orban (Hellas Verona) PEN,44' Gift Orban (Hellas Verona) PEN,736814,13981452
+4,PARTIDO,Udinese - AC Milan,COINCIDE,,2025-09-20T18:45Z 0-3 (3 goles),2025-09-20T18:45Z 0-3 (3 goles),736818,13981453
+4,GOL,Udinese - AC Milan,COINCIDE,,46' Youssouf Fofana (AC Milan),46' Youssouf Fofana (AC Milan),736818,13981453
+4,GOL,Udinese - AC Milan,COINCIDE,,53' Christian Pulisic (AC Milan),53' Christian Pulišić (AC Milan),736818,13981453
+4,GOL,Udinese - AC Milan,DISCREPA,minuto,39' Christian Pulisic (AC Milan),40' Christian Pulišić (AC Milan),736818,13981453
+4,PARTIDO,Lazio - AS Roma,COINCIDE,,2025-09-21T10:30Z 0-1 (1 goles),2025-09-21T10:30Z 0-1 (1 goles),736819,13981457
+4,GOL,Lazio - AS Roma,COINCIDE,,38' Lorenzo Pellegrini (AS Roma),38' Lorenzo Pellegrini (AS Roma),736819,13981457
+4,PARTIDO,Cremonese - Parma,COINCIDE,,2025-09-21T13:00Z 0-0 (0 goles),2025-09-21T13:00Z 0-0 (0 goles),736816,13981463
+4,PARTIDO,Torino - Atalanta,COINCIDE,,2025-09-21T13:00Z 0-3 (3 goles),2025-09-21T13:00Z 0-3 (3 goles),736822,13981454
+4,GOL,Torino - Atalanta,COINCIDE,,30' Nikola Krstovic (Atalanta),30' Nikola Krstović (Atalanta),736822,13981454
+4,GOL,Torino - Atalanta,COINCIDE,,34' Kamaldeen Sulemana (Atalanta),34' Kamaldeen Sulemana (Atalanta),736822,13981454
+4,GOL,Torino - Atalanta,COINCIDE,,38' Nikola Krstovic (Atalanta),38' Nikola Krstović (Atalanta),736822,13981454
+4,PARTIDO,Fiorentina - Como,COINCIDE,,2025-09-21T16:00Z 1-2 (3 goles),2025-09-21T16:00Z 1-2 (3 goles),736815,13981461
+4,GOL,Fiorentina - Como,COINCIDE,,6' Rolando Mandragora (Fiorentina),6' Rolando Mandragora (Fiorentina),736815,13981461
+4,GOL,Fiorentina - Como,COINCIDE,,90+4' Jayden Addai (Como),90+4' Jayden Addai (Como),736815,13981461
+4,GOL,Fiorentina - Como,DISCREPA,goleador_variante,65' Marc-Oliver Kempf (Como),65' Marc Kempf (Como),736815,13981461
+4,PARTIDO,Internazionale - Sassuolo,COINCIDE,,2025-09-21T18:45Z 2-1 (3 goles),2025-09-21T18:45Z 2-1 (3 goles),736823,13981456
+4,GOL,Internazionale - Sassuolo,COINCIDE,,14' Federico Dimarco (Internazionale),14' Federico Dimarco (Inter),736823,13981456
+4,GOL,Internazionale - Sassuolo,COINCIDE,,81' Tarik Muharemovic (Internazionale) AUTOGOL,81' Tarik Muharemović (Inter) AUTOGOL,736823,13981456
+4,GOL,Internazionale - Sassuolo,COINCIDE,,84' Walid Cheddira (Sassuolo),84' Walid Cheddira (Sassuolo),736823,13981456
+4,PARTIDO,Napoli - Pisa,COINCIDE,,2025-09-22T18:45Z 3-2 (5 goles),2025-09-22T18:45Z 3-2 (5 goles),736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,39' Billy Gilmour (Napoli),39' Billy Gilmour (SSC Napoli),736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,60' M'Bala Nzola (Pisa) PEN,60' M'bala Nzola (Pisa) PEN,736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,73' Leonardo Spinazzola (Napoli),73' Leonardo Spinazzola (SSC Napoli),736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,82' Lorenzo Lucca (Napoli),82' Lorenzo Lucca (SSC Napoli),736821,13981458
+4,GOL,Napoli - Pisa,COINCIDE,,90' Lorran (Pisa),90' Lorran (Pisa),736821,13981458
+5,PARTIDO,Como - Cremonese,COINCIDE,,2025-09-27T13:00Z 1-1 (2 goles),2025-09-27T13:00Z 1-1 (2 goles),736826,13981462
+5,GOL,Como - Cremonese,COINCIDE,,32' Nico Paz (Como),32' Nico Paz (Como),736826,13981462
+5,GOL,Como - Cremonese,COINCIDE,,69' Federico Baschirotto (Cremonese),69' Federico Baschirotto (Cremonese),736826,13981462
+5,PARTIDO,Juventus - Atalanta,COINCIDE,,2025-09-27T16:00Z 1-1 (2 goles),2025-09-27T16:00Z 1-1 (2 goles),736824,13981465
+5,GOL,Juventus - Atalanta,COINCIDE,,45+1' Kamaldeen Sulemana (Atalanta),45+1' Kamaldeen Sulemana (Atalanta),736824,13981465
+5,GOL,Juventus - Atalanta,COINCIDE,,78' Juan Cabal (Juventus),78' Juan Cabal (Juventus),736824,13981465
+5,PARTIDO,Cagliari - Internazionale,COINCIDE,,2025-09-27T18:45Z 0-2 (2 goles),2025-09-27T18:45Z 0-2 (2 goles),736827,13981459
+5,GOL,Cagliari - Internazionale,COINCIDE,,9' Lautaro Martínez (Internazionale),9' Lautaro Martínez (Inter),736827,13981459
+5,GOL,Cagliari - Internazionale,COINCIDE,,82' Pio Esposito (Internazionale),82' Pio Esposito (Inter),736827,13981459
+5,PARTIDO,Sassuolo - Udinese,COINCIDE,,2025-09-28T10:30Z 3-1 (4 goles),2025-09-28T10:30Z 3-1 (4 goles),736829,13981476
+5,GOL,Sassuolo - Udinese,COINCIDE,,8' Armand Laurienté (Sassuolo),8' Armand Laurienté (Sassuolo),736829,13981476
+5,GOL,Sassuolo - Udinese,COINCIDE,,12' Ismaël Koné (Sassuolo),12' Ismael Koné (Sassuolo),736829,13981476
+5,GOL,Sassuolo - Udinese,COINCIDE,,55' Keinan Davis (Udinese),55' Keinan Davis (Udinese),736829,13981476
+5,GOL,Sassuolo - Udinese,COINCIDE,,81' Edoardo Iannoni (Sassuolo),81' Edoardo Iannoni (Sassuolo),736829,13981476
+5,PARTIDO,AS Roma - Hellas Verona,COINCIDE,,2025-09-28T13:00Z 2-0 (2 goles),2025-09-28T13:00Z 2-0 (2 goles),736830,13981469
+5,GOL,AS Roma - Hellas Verona,COINCIDE,,7' Artem Dovbyk (AS Roma),7' Artem Dovbyk (AS Roma),736830,13981469
+5,GOL,AS Roma - Hellas Verona,COINCIDE,,79' Matìas Soulè (AS Roma),79' Matías Soulé (AS Roma),736830,13981469
+5,PARTIDO,Pisa - Fiorentina,COINCIDE,,2025-09-28T13:00Z 0-0 (0 goles),2025-09-28T13:00Z 0-0 (0 goles),736831,13981467
+5,PARTIDO,Lecce - Bologna,COINCIDE,,2025-09-28T16:00Z 2-2 (4 goles),2025-09-28T16:00Z 2-2 (4 goles),736828,13981468
+5,GOL,Lecce - Bologna,COINCIDE,,13' Lassana Coulibaly (Lecce),13' Lassana Coulibaly (Lecce),736828,13981468
+5,GOL,Lecce - Bologna,COINCIDE,,45+1' Riccardo Orsolini (Bologna) PEN,45+1' Riccardo Orsolini (Bologna) PEN,736828,13981468
+5,GOL,Lecce - Bologna,COINCIDE,,71' Jens Odgaard (Bologna),71' Jens Odgaard (Bologna),736828,13981468
+5,GOL,Lecce - Bologna,COINCIDE,,90+4' Francesco Camarda (Lecce),90+4' Francesco Camarda (Lecce),736828,13981468
+5,PARTIDO,AC Milan - Napoli,COINCIDE,,2025-09-28T18:45Z 2-1 (3 goles),2025-09-28T18:45Z 2-1 (3 goles),736833,13981472
+5,GOL,AC Milan - Napoli,COINCIDE,,3' Alexis Saelemaekers (AC Milan),3' Alexis Saelemaekers (AC Milan),736833,13981472
+5,GOL,AC Milan - Napoli,COINCIDE,,31' Christian Pulisic (AC Milan),31' Christian Pulišić (AC Milan),736833,13981472
+5,GOL,AC Milan - Napoli,COINCIDE,,60' Kevin De Bruyne (Napoli) PEN,60' Kevin De Bruyne (SSC Napoli) PEN,736833,13981472
+5,PARTIDO,Parma - Torino,COINCIDE,,2025-09-29T16:30Z 2-1 (3 goles),2025-09-29T16:30Z 2-1 (3 goles),736832,13981466
+5,GOL,Parma - Torino,COINCIDE,,36' Mateo Pellegrino (Parma) PEN,36' Mateo Pellegrino (Parma) PEN,736832,13981466
+5,GOL,Parma - Torino,COINCIDE,,50' Cyril Ngonge (Torino),50' Cyril Ngonge (Torino),736832,13981466
+5,GOL,Parma - Torino,COINCIDE,,72' Mateo Pellegrino (Parma),72' Mateo Pellegrino (Parma),736832,13981466
+5,PARTIDO,Genoa - Lazio,COINCIDE,,2025-09-29T18:45Z 0-3 (3 goles),2025-09-29T18:45Z 0-3 (3 goles),736825,13981464
+5,GOL,Genoa - Lazio,COINCIDE,,4' Matteo Cancellieri (Lazio),4' Matteo Cancellieri (Lazio),736825,13981464
+5,GOL,Genoa - Lazio,COINCIDE,,30' Valentín Castellanos (Lazio),30' Valentín Castellanos (Lazio),736825,13981464
+5,GOL,Genoa - Lazio,COINCIDE,,63' Mattia Zaccagni (Lazio),63' Mattia Zaccagni (Lazio),736825,13981464
+6,PARTIDO,Hellas Verona - Sassuolo,COINCIDE,,2025-10-03T18:45Z 0-1 (1 goles),2025-10-03T18:45Z 0-1 (1 goles),736837,13981481
+6,GOL,Hellas Verona - Sassuolo,COINCIDE,,71' Andrea Pinamonti (Sassuolo),71' Andrea Pinamonti (Sassuolo),736837,13981481
+6,PARTIDO,Lazio - Torino,COINCIDE,,2025-10-04T13:00Z 3-3 (6 goles),2025-10-04T13:00Z 3-3 (6 goles),736840,13981473
+6,GOL,Lazio - Torino,COINCIDE,,16' Giovanni Simeone (Torino),16' Giovanni Simeone (Torino),736840,13981473
+6,GOL,Lazio - Torino,COINCIDE,,24' Matteo Cancellieri (Lazio),24' Matteo Cancellieri (Lazio),736840,13981473
+6,GOL,Lazio - Torino,COINCIDE,,40' Matteo Cancellieri (Lazio),40' Matteo Cancellieri (Lazio),736840,13981473
+6,GOL,Lazio - Torino,COINCIDE,,73' Ché Adams (Torino),73' Che Adams (Torino),736840,13981473
+6,GOL,Lazio - Torino,COINCIDE,,90+3' Saúl Coco (Torino),90+3' Saúl Coco (Torino),736840,13981473
+6,GOL,Lazio - Torino,COINCIDE,,90+13' Danilo Cataldi (Lazio) PEN,90+13' Danilo Cataldi (Lazio) PEN,736840,13981473
+6,PARTIDO,Parma - Lecce,COINCIDE,,2025-10-04T13:00Z 0-1 (1 goles),2025-10-04T13:00Z 0-1 (1 goles),736843,13981480
+6,GOL,Parma - Lecce,COINCIDE,,38' Riccardo Sottil (Lecce),38' Riccardo Sottil (Lecce),736843,13981480
+6,PARTIDO,Internazionale - Cremonese,COINCIDE,,2025-10-04T16:00Z 4-1 (5 goles),2025-10-04T16:00Z 4-1 (5 goles),736842,13981475
+6,GOL,Internazionale - Cremonese,COINCIDE,,6' Lautaro Martínez (Internazionale),6' Lautaro Martínez (Inter),736842,13981475
+6,GOL,Internazionale - Cremonese,COINCIDE,,38' Ange-Yoan Bonny (Internazionale),38' Ange-Yoan Bonny (Inter),736842,13981475
+6,GOL,Internazionale - Cremonese,COINCIDE,,55' Federico Dimarco (Internazionale),55' Federico Dimarco (Inter),736842,13981475
+6,GOL,Internazionale - Cremonese,COINCIDE,,57' Nicolò Barella (Internazionale),57' Nicolò Barella (Inter),736842,13981475
+6,GOL,Internazionale - Cremonese,COINCIDE,,87' Federico Bonazzoli (Cremonese),87' Federico Bonazzoli (Cremonese),736842,13981475
+6,PARTIDO,Atalanta - Como,COINCIDE,,2025-10-04T18:45Z 1-1 (2 goles),2025-10-04T18:45Z 1-1 (2 goles),736834,13981483
+6,GOL,Atalanta - Como,COINCIDE,,6' Lazar Samardzic (Atalanta),6' Lazar Samardžić (Atalanta),736834,13981483
+6,GOL,Atalanta - Como,COINCIDE,,19' Máximo Perrone (Como),19' Máximo Perrone (Como),736834,13981483
+6,PARTIDO,Udinese - Cagliari,COINCIDE,,2025-10-05T10:30Z 1-1 (2 goles),2025-10-05T10:30Z 1-1 (2 goles),736838,13981477
+6,GOL,Udinese - Cagliari,COINCIDE,,25' Gennaro Borrelli (Cagliari),25' Gennaro Borrelli (Cagliari),736838,13981477
+6,GOL,Udinese - Cagliari,COINCIDE,,58' Christian Kabasele (Udinese),58' Christian Kabasele (Udinese),736838,13981477
+6,PARTIDO,Bologna - Pisa,COINCIDE,,2025-10-05T13:00Z 4-0 (4 goles),2025-10-05T13:00Z 4-0 (4 goles),736835,13981470
+6,GOL,Bologna - Pisa,COINCIDE,,24' Nicolò Cambiaghi (Bologna),24' Nicolò Cambiaghi (Bologna),736835,13981470
+6,GOL,Bologna - Pisa,COINCIDE,,38' Nikola Moro (Bologna),38' Nikola Moro (Bologna),736835,13981470
+6,GOL,Bologna - Pisa,COINCIDE,,40' Riccardo Orsolini (Bologna),40' Riccardo Orsolini (Bologna),736835,13981470
+6,GOL,Bologna - Pisa,COINCIDE,,53' Jens Odgaard (Bologna),53' Jens Odgaard (Bologna),736835,13981470
+6,PARTIDO,Fiorentina - AS Roma,COINCIDE,,2025-10-05T13:00Z 1-2 (3 goles),2025-10-05T13:00Z 1-2 (3 goles),736836,13981478
+6,GOL,Fiorentina - AS Roma,COINCIDE,,14' Moise Kean (Fiorentina),14' Moise Kean (Fiorentina),736836,13981478
+6,GOL,Fiorentina - AS Roma,COINCIDE,,22' Matìas Soulè (AS Roma),22' Matías Soulé (AS Roma),736836,13981478
+6,GOL,Fiorentina - AS Roma,COINCIDE,,30' Bryan Cristante (AS Roma),30' Bryan Cristante (AS Roma),736836,13981478
+6,PARTIDO,Napoli - Genoa,COINCIDE,,2025-10-05T16:00Z 2-1 (3 goles),2025-10-05T16:00Z 2-1 (3 goles),736839,13981474
+6,GOL,Napoli - Genoa,COINCIDE,,33' Jeff Ekhator (Genoa),33' Jeff Ekhator (Genoa),736839,13981474
+6,GOL,Napoli - Genoa,COINCIDE,,57' Frank Anguissa (Napoli),57' Frank Anguissa (SSC Napoli),736839,13981474
+6,GOL,Napoli - Genoa,COINCIDE,,75' Rasmus Højlund (Napoli),75' Rasmus Højlund (SSC Napoli),736839,13981474
+6,PARTIDO,Juventus - AC Milan,COINCIDE,,2025-10-05T18:45Z 0-0 (0 goles),2025-10-05T18:45Z 0-0 (0 goles),736841,13981471
+7,PARTIDO,Lecce - Sassuolo,COINCIDE,,2025-10-18T13:00Z 0-0 (0 goles),2025-10-18T13:00Z 0-0 (0 goles),736845,13981490
+7,PARTIDO,Pisa - Hellas Verona,COINCIDE,,2025-10-18T13:00Z 0-0 (0 goles),2025-10-18T13:00Z 0-0 (0 goles),736847,13981484
+7,PARTIDO,Torino - Napoli,COINCIDE,,2025-10-18T16:00Z 1-0 (1 goles),2025-10-18T16:00Z 1-0 (1 goles),736849,13981479
+7,GOL,Torino - Napoli,COINCIDE,,32' Giovanni Simeone (Torino),32' Giovanni Simeone (Torino),736849,13981479
+7,PARTIDO,AS Roma - Internazionale,COINCIDE,,2025-10-18T18:45Z 0-1 (1 goles),2025-10-18T18:45Z 0-1 (1 goles),736848,13981485
+7,GOL,AS Roma - Internazionale,COINCIDE,,6' Ange-Yoan Bonny (Internazionale),6' Ange-Yoan Bonny (Inter),736848,13981485
+7,PARTIDO,Como - Juventus,COINCIDE,,2025-10-19T10:30Z 2-0 (2 goles),2025-10-19T10:30Z 2-0 (2 goles),736852,13981482
+7,GOL,Como - Juventus,COINCIDE,,79' Nico Paz (Como),79' Nico Paz (Como),736852,13981482
+7,GOL,Como - Juventus,DISCREPA,goleador_variante,4' Marc-Oliver Kempf (Como),4' Marc Kempf (Como),736852,13981482
+7,PARTIDO,Cagliari - Bologna,COINCIDE,,2025-10-19T13:00Z 0-2 (2 goles),2025-10-19T13:00Z 0-2 (2 goles),736851,13981495
+7,GOL,Cagliari - Bologna,COINCIDE,,31' Emil Holm (Bologna),31' Emil Holm (Bologna),736851,13981495
+7,GOL,Cagliari - Bologna,COINCIDE,,80' Riccardo Orsolini (Bologna),80' Riccardo Orsolini (Bologna),736851,13981495
+7,PARTIDO,Genoa - Parma,COINCIDE,,2025-10-19T13:00Z 0-0 (0 goles),2025-10-19T13:00Z 0-0 (0 goles),736844,13981494
+7,PARTIDO,Atalanta - Lazio,COINCIDE,,2025-10-19T16:00Z 0-0 (0 goles),2025-10-19T16:00Z 0-0 (0 goles),736850,13981487
+7,PARTIDO,AC Milan - Fiorentina,COINCIDE,,2025-10-19T18:45Z 2-1 (3 goles),2025-10-19T18:45Z 2-1 (3 goles),736846,13981486
+7,GOL,AC Milan - Fiorentina,COINCIDE,,55' Robin Gosens (Fiorentina),55' Robin Gosens (Fiorentina),736846,13981486
+7,GOL,AC Milan - Fiorentina,COINCIDE,,63' Rafael Leão (AC Milan),63' Rafael Leão (AC Milan),736846,13981486
+7,GOL,AC Milan - Fiorentina,COINCIDE,,86' Rafael Leão (AC Milan) PEN,86' Rafael Leão (AC Milan) PEN,736846,13981486
+7,PARTIDO,Cremonese - Udinese,COINCIDE,,2025-10-20T18:45Z 1-1 (2 goles),2025-10-20T18:45Z 1-1 (2 goles),736853,13981491
+7,GOL,Cremonese - Udinese,COINCIDE,,4' Filippo Terracciano (Cremonese),4' Filippo Terracciano (Cremonese),736853,13981491
+7,GOL,Cremonese - Udinese,COINCIDE,,51' Nicolò Zaniolo (Udinese),51' Nicolò Zaniolo (Udinese),736853,13981491
+8,PARTIDO,AC Milan - Pisa,COINCIDE,,2025-10-24T18:45Z 2-2 (4 goles),2025-10-24T18:45Z 2-2 (4 goles),736861,13981499
+8,GOL,AC Milan - Pisa,COINCIDE,,7' Rafael Leão (AC Milan),7' Rafael Leão (AC Milan),736861,13981499
+8,GOL,AC Milan - Pisa,COINCIDE,,60' Juan Cuadrado (Pisa) PEN,60' Juan Cuadrado (Pisa) PEN,736861,13981499
+8,GOL,AC Milan - Pisa,COINCIDE,,86' M'Bala Nzola (Pisa),86' M'bala Nzola (Pisa),736861,13981499
+8,GOL,AC Milan - Pisa,COINCIDE,,90+3' Zachary Athekame (AC Milan),90+3' Zachary Athekame (AC Milan),736861,13981499
+8,PARTIDO,Parma - Como,COINCIDE,,2025-10-25T13:00Z 0-0 (0 goles),2025-10-25T13:00Z 0-0 (0 goles),736859,13981497
+8,PARTIDO,Udinese - Lecce,COINCIDE,,2025-10-25T13:00Z 3-2 (5 goles),2025-10-25T13:00Z 3-2 (5 goles),736856,13981493
+8,GOL,Udinese - Lecce,COINCIDE,,16' Jesper Karlström (Udinese),16' Jesper Karlström (Udinese),736856,13981493
+8,GOL,Udinese - Lecce,COINCIDE,,37' Keinan Davis (Udinese),37' Keinan Davis (Udinese),736856,13981493
+8,GOL,Udinese - Lecce,COINCIDE,,59' Medon Berisha (Lecce),59' Medon Berisha (Lecce),736856,13981493
+8,GOL,Udinese - Lecce,COINCIDE,,89' Adam Buksa (Udinese),89' Adam Buksa (Udinese),736856,13981493
+8,GOL,Udinese - Lecce,COINCIDE,,90+6' Konan N’Dri (Lecce),90+6' Konan N'Dri (Lecce),736856,13981493
+8,PARTIDO,Napoli - Internazionale,COINCIDE,,2025-10-25T16:00Z 3-1 (4 goles),2025-10-25T16:00Z 3-1 (4 goles),736860,13981498
+8,GOL,Napoli - Internazionale,COINCIDE,,33' Kevin De Bruyne (Napoli) PEN,33' Kevin De Bruyne (SSC Napoli) PEN,736860,13981498
+8,GOL,Napoli - Internazionale,COINCIDE,,54' Scott McTominay (Napoli),54' Scott McTominay (SSC Napoli),736860,13981498
+8,GOL,Napoli - Internazionale,COINCIDE,,59' Hakan Çalhanoglu (Internazionale) PEN,59' Hakan Çalhanoğlu (Inter) PEN,736860,13981498
+8,GOL,Napoli - Internazionale,COINCIDE,,66' Frank Anguissa (Napoli),66' Frank Anguissa (SSC Napoli),736860,13981498
+8,PARTIDO,Cremonese - Atalanta,COINCIDE,,2025-10-25T18:45Z 1-1 (2 goles),2025-10-25T18:45Z 1-1 (2 goles),736854,13981488
+8,GOL,Cremonese - Atalanta,COINCIDE,,78' Jamie Vardy (Cremonese),78' Jamie Vardy (Cremonese),736854,13981488
+8,GOL,Cremonese - Atalanta,COINCIDE,,84' Marco Brescianini (Atalanta),84' Marco Brescianini (Atalanta),736854,13981488
+8,PARTIDO,Torino - Genoa,COINCIDE,,2025-10-26T11:30Z 2-1 (3 goles),2025-10-26T11:30Z 2-1 (3 goles),736857,13981492
+8,GOL,Torino - Genoa,COINCIDE,,7' Morten Thorsby (Genoa),7' Morten Thorsby (Genoa),736857,13981492
+8,GOL,Torino - Genoa,COINCIDE,,63' Stefano Sabelli (Torino) AUTOGOL,63' Stefano Sabelli (Torino) AUTOGOL,736857,13981492
+8,GOL,Torino - Genoa,COINCIDE,,90' Guillermo Maripán (Torino),90' Guillermo Maripán (Torino),736857,13981492
+8,PARTIDO,Hellas Verona - Cagliari,COINCIDE,,2025-10-26T14:00Z 2-2 (4 goles),2025-10-26T14:00Z 2-2 (4 goles),736863,13981489
+8,GOL,Hellas Verona - Cagliari,COINCIDE,,23' Roberto Gagliardini (Hellas Verona),23' Roberto Gagliardini (Hellas Verona),736863,13981489
+8,GOL,Hellas Verona - Cagliari,COINCIDE,,59' Gift Orban (Hellas Verona),59' Gift Orban (Hellas Verona),736863,13981489
+8,GOL,Hellas Verona - Cagliari,COINCIDE,,77' Riyad Idrissi (Cagliari),77' Riyad Idrissi (Cagliari),736863,13981489
+8,GOL,Hellas Verona - Cagliari,COINCIDE,,90+2' Mattia Felici (Cagliari),90+2' Mattia Felici (Cagliari),736863,13981489
+8,PARTIDO,Sassuolo - AS Roma,COINCIDE,,2025-10-26T14:00Z 0-1 (1 goles),2025-10-26T14:00Z 0-1 (1 goles),736858,13981496
+8,GOL,Sassuolo - AS Roma,COINCIDE,,16' Paulo Dybala (AS Roma),16' Paulo Dybala (AS Roma),736858,13981496
+8,PARTIDO,Fiorentina - Bologna,COINCIDE,,2025-10-26T17:00Z 2-2 (4 goles),2025-10-26T17:00Z 2-2 (4 goles),736855,13981502
+8,GOL,Fiorentina - Bologna,COINCIDE,,25' Santiago Castro (Bologna),25' Santiago Castro (Bologna),736855,13981502
+8,GOL,Fiorentina - Bologna,COINCIDE,,52' Nicolò Cambiaghi (Bologna),52' Nicolò Cambiaghi (Bologna),736855,13981502
+8,GOL,Fiorentina - Bologna,COINCIDE,,90+4' Moise Kean (Fiorentina) PEN,90+4' Moise Kean (Fiorentina) PEN,736855,13981502
+8,GOL,Fiorentina - Bologna,DISCREPA,minuto,73' Albert Gudmundsson (Fiorentina) PEN,74' Albert Guðmundsson (Fiorentina) PEN,736855,13981502
+8,PARTIDO,Lazio - Juventus,COINCIDE,,2025-10-26T19:45Z 1-0 (1 goles),2025-10-26T19:45Z 1-0 (1 goles),736862,13981500
+8,GOL,Lazio - Juventus,COINCIDE,,9' Toma Basic (Lazio),9' Toma Bašić (Lazio),736862,13981500
+9,PARTIDO,Lecce - Napoli,COINCIDE,,2025-10-28T17:30Z 0-1 (1 goles),2025-10-28T17:30Z 0-1 (1 goles),736866,13981509
+9,GOL,Lecce - Napoli,COINCIDE,,69' Frank Anguissa (Napoli),69' Frank Anguissa (SSC Napoli),736866,13981509
+9,PARTIDO,Atalanta - AC Milan,COINCIDE,,2025-10-28T19:45Z 1-1 (2 goles),2025-10-28T19:45Z 1-1 (2 goles),736864,13981501
+9,GOL,Atalanta - AC Milan,COINCIDE,,4' Samuele Ricci (AC Milan),4' Samuele Ricci (AC Milan),736864,13981501
+9,GOL,Atalanta - AC Milan,COINCIDE,,35' Ademola Lookman (Atalanta),35' Ademola Lookman (Atalanta),736864,13981501
+9,PARTIDO,AS Roma - Parma,COINCIDE,,2025-10-29T17:30Z 2-1 (3 goles),2025-10-29T17:30Z 2-1 (3 goles),736868,13981512
+9,GOL,AS Roma - Parma,COINCIDE,,63' Mario Hermoso (AS Roma),63' Mario Hermoso (AS Roma),736868,13981512
+9,GOL,AS Roma - Parma,COINCIDE,,81' Artem Dovbyk (AS Roma),81' Artem Dovbyk (AS Roma),736868,13981512
+9,GOL,AS Roma - Parma,COINCIDE,,86' Alessandro Circati (Parma),86' Alessandro Circati (Parma),736868,13981512
+9,PARTIDO,Como - Hellas Verona,COINCIDE,,2025-10-29T17:30Z 3-1 (4 goles),2025-10-29T17:30Z 3-1 (4 goles),736870,13981507
+9,GOL,Como - Hellas Verona,COINCIDE,,9' Anastasios Douvikas (Como),9' Anastasios Douvikas (Como),736870,13981507
+9,GOL,Como - Hellas Verona,COINCIDE,,25' Suat Serdar (Hellas Verona),25' Suat Serdar (Hellas Verona),736870,13981507
+9,GOL,Como - Hellas Verona,COINCIDE,,62' Stefan Posch (Como),62' Stefan Posch (Como),736870,13981507
+9,GOL,Como - Hellas Verona,COINCIDE,,90+2' Mërgim Vojvoda (Como),90+2' Mërgim Vojvoda (Como),736870,13981507
+9,PARTIDO,Juventus - Udinese,COINCIDE,,2025-10-29T17:30Z 3-1 (4 goles),2025-10-29T17:30Z 3-1 (4 goles),736867,13981508
+9,GOL,Juventus - Udinese,COINCIDE,,5' Dusan Vlahovic (Juventus) PEN,5' Dušan Vlahović (Juventus) PEN,736867,13981508
+9,GOL,Juventus - Udinese,COINCIDE,,45+1' Nicolò Zaniolo (Udinese),45+1' Nicolò Zaniolo (Udinese),736867,13981508
+9,GOL,Juventus - Udinese,COINCIDE,,67' Federico Gatti (Juventus),67' Federico Gatti (Juventus),736867,13981508
+9,GOL,Juventus - Udinese,COINCIDE,,90+6' Kenan Yildiz (Juventus) PEN,90+6' Kenan Yıldız (Juventus) PEN,736867,13981508
+9,PARTIDO,Bologna - Torino,COINCIDE,,2025-10-29T19:45Z 0-0 (0 goles),2025-10-29T19:45Z 0-0 (0 goles),736872,13981504
+9,PARTIDO,Genoa - Cremonese,COINCIDE,,2025-10-29T19:45Z 0-2 (2 goles),2025-10-29T19:45Z 0-2 (2 goles),736869,13981505
+9,GOL,Genoa - Cremonese,COINCIDE,,4' Federico Bonazzoli (Cremonese),4' Federico Bonazzoli (Cremonese),736869,13981505
+9,GOL,Genoa - Cremonese,COINCIDE,,49' Federico Bonazzoli (Cremonese),49' Federico Bonazzoli (Cremonese),736869,13981505
+9,PARTIDO,Internazionale - Fiorentina,COINCIDE,,2025-10-29T19:45Z 3-0 (3 goles),2025-10-29T19:45Z 3-0 (3 goles),736873,13981506
+9,GOL,Internazionale - Fiorentina,COINCIDE,,66' Hakan Çalhanoglu (Internazionale),66' Hakan Çalhanoğlu (Inter),736873,13981506
+9,GOL,Internazionale - Fiorentina,COINCIDE,,71' Petar Sucic (Internazionale),71' Petar Sučić (Inter),736873,13981506
+9,GOL,Internazionale - Fiorentina,COINCIDE,,88' Hakan Çalhanoglu (Internazionale) PEN,88' Hakan Çalhanoğlu (Inter) PEN,736873,13981506
+9,PARTIDO,Cagliari - Sassuolo,COINCIDE,,2025-10-30T17:30Z 1-2 (3 goles),2025-10-30T17:30Z 1-2 (3 goles),736871,13981503
+9,GOL,Cagliari - Sassuolo,COINCIDE,,54' Armand Laurienté (Sassuolo),54' Armand Laurienté (Sassuolo),736871,13981503
+9,GOL,Cagliari - Sassuolo,COINCIDE,,65' Andrea Pinamonti (Sassuolo),65' Andrea Pinamonti (Sassuolo),736871,13981503
+9,GOL,Cagliari - Sassuolo,COINCIDE,,73' Sebastiano Esposito (Cagliari),73' Sebastiano Esposito (Cagliari),736871,13981503
+9,PARTIDO,Pisa - Lazio,COINCIDE,,2025-10-30T19:45Z 0-0 (0 goles),2025-10-30T19:45Z 0-0 (0 goles),736865,13981511
+10,PARTIDO,Udinese - Atalanta,COINCIDE,,2025-11-01T14:00Z 1-0 (1 goles),2025-11-01T14:00Z 1-0 (1 goles),736881,13981516
+10,GOL,Udinese - Atalanta,COINCIDE,,40' Nicolò Zaniolo (Udinese),40' Nicolò Zaniolo (Udinese),736881,13981516
+10,PARTIDO,Napoli - Como,COINCIDE,,2025-11-01T17:00Z 0-0 (0 goles),2025-11-01T17:00Z 0-0 (0 goles),736875,13981514
+10,PARTIDO,Cremonese - Juventus,COINCIDE,,2025-11-01T19:45Z 1-2 (3 goles),2025-11-01T19:45Z 1-2 (3 goles),736880,13981510
+10,GOL,Cremonese - Juventus,COINCIDE,,2' Filip Kostic (Juventus),2' Filip Kostić (Juventus),736880,13981510
+10,GOL,Cremonese - Juventus,COINCIDE,,68' Andrea Cambiaso (Juventus),68' Andrea Cambiaso (Juventus),736880,13981510
+10,GOL,Cremonese - Juventus,COINCIDE,,83' Jamie Vardy (Cremonese),83' Jamie Vardy (Cremonese),736880,13981510
+10,PARTIDO,Hellas Verona - Internazionale,COINCIDE,,2025-11-02T11:30Z 1-2 (3 goles),2025-11-02T11:30Z 1-2 (3 goles),736883,13981518
+10,GOL,Hellas Verona - Internazionale,COINCIDE,,16' Piotr Zielinski (Internazionale),16' Piotr Zieliński (Inter),736883,13981518
+10,GOL,Hellas Verona - Internazionale,COINCIDE,,40' Giovane (Hellas Verona),40' Giovane (Hellas Verona),736883,13981518
+10,GOL,Hellas Verona - Internazionale,COINCIDE,,90+3' Martin Frese (Internazionale) AUTOGOL,90+3' Martin Frese (Inter) AUTOGOL,736883,13981518
+10,PARTIDO,Fiorentina - Lecce,COINCIDE,,2025-11-02T14:00Z 0-1 (1 goles),2025-11-02T14:00Z 0-1 (1 goles),736879,13981513
+10,GOL,Fiorentina - Lecce,COINCIDE,,23' Medon Berisha (Lecce),23' Medon Berisha (Lecce),736879,13981513
+10,PARTIDO,Torino - Pisa,COINCIDE,,2025-11-02T14:00Z 2-2 (4 goles),2025-11-02T14:00Z 2-2 (4 goles),736882,13981520
+10,GOL,Torino - Pisa,COINCIDE,,13' Stefano Moreo (Pisa),13' Stefano Moreo (Pisa),736882,13981520
+10,GOL,Torino - Pisa,COINCIDE,,29' Stefano Moreo (Pisa) PEN,29' Stefano Moreo (Pisa) PEN,736882,13981520
+10,GOL,Torino - Pisa,COINCIDE,,42' Giovanni Simeone (Torino),42' Giovanni Simeone (Torino),736882,13981520
+10,GOL,Torino - Pisa,COINCIDE,,45+3' Ché Adams (Torino),45+3' Che Adams (Torino),736882,13981520
+10,PARTIDO,Parma - Bologna,COINCIDE,,2025-11-02T17:00Z 1-3 (4 goles),2025-11-02T17:00Z 1-3 (4 goles),736874,13981522
+10,GOL,Parma - Bologna,COINCIDE,,1' Adrián Bernabé (Parma),1' Adrián Bernabé (Parma),736874,13981522
+10,GOL,Parma - Bologna,COINCIDE,,17' Santiago Castro (Bologna),17' Santiago Castro (Bologna),736874,13981522
+10,GOL,Parma - Bologna,COINCIDE,,68' Santiago Castro (Bologna),68' Santiago Castro (Bologna),736874,13981522
+10,GOL,Parma - Bologna,COINCIDE,,90+2' Juan Miranda (Bologna),90+2' Juan Miranda (Bologna),736874,13981522
+10,PARTIDO,AC Milan - AS Roma,COINCIDE,,2025-11-02T19:45Z 1-0 (1 goles),2025-11-02T19:45Z 1-0 (1 goles),736876,13981517
+10,GOL,AC Milan - AS Roma,COINCIDE,,39' Strahinja Pavlovic (AC Milan),39' Strahinja Pavlović (AC Milan),736876,13981517
+10,PARTIDO,Sassuolo - Genoa,COINCIDE,,2025-11-03T17:30Z 1-2 (3 goles),2025-11-03T17:30Z 1-2 (3 goles),736878,13981524
+10,GOL,Sassuolo - Genoa,COINCIDE,,18' Ruslan Malinovskyi (Genoa),18' Ruslan Malinovskyi (Genoa),736878,13981524
+10,GOL,Sassuolo - Genoa,COINCIDE,,47' Domenico Berardi (Sassuolo),47' Domenico Berardi (Sassuolo),736878,13981524
+10,GOL,Sassuolo - Genoa,COINCIDE,,90+3' Leo Østigard (Genoa),90+3' Leo Østigård (Genoa),736878,13981524
+10,PARTIDO,Lazio - Cagliari,COINCIDE,,2025-11-03T19:45Z 2-0 (2 goles),2025-11-03T19:45Z 2-0 (2 goles),736877,13981515
+10,GOL,Lazio - Cagliari,COINCIDE,,65' Gustav Isaksen (Lazio),65' Gustav Isaksen (Lazio),736877,13981515
+10,GOL,Lazio - Cagliari,COINCIDE,,90+1' Mattia Zaccagni (Lazio),90+1' Mattia Zaccagni (Lazio),736877,13981515
+11,PARTIDO,Pisa - Cremonese,COINCIDE,,2025-11-07T19:45Z 1-0 (1 goles),2025-11-07T19:45Z 1-0 (1 goles),736886,13981525
+11,GOL,Pisa - Cremonese,COINCIDE,,75' Idrissa Touré (Pisa),75' Idrissa Touré (Pisa),736886,13981525
+11,PARTIDO,Como - Cagliari,COINCIDE,,2025-11-08T14:00Z 0-0 (0 goles),2025-11-08T14:00Z 0-0 (0 goles),736884,13981529
+11,PARTIDO,Lecce - Hellas Verona,COINCIDE,,2025-11-08T14:00Z 0-0 (0 goles),2025-11-08T14:00Z 0-0 (0 goles),736888,13981526
+11,PARTIDO,Juventus - Torino,COINCIDE,,2025-11-08T17:00Z 0-0 (0 goles),2025-11-08T17:00Z 0-0 (0 goles),736889,13981531
+11,PARTIDO,Parma - AC Milan,COINCIDE,,2025-11-08T19:45Z 2-2 (4 goles),2025-11-08T19:45Z 2-2 (4 goles),736887,13981528
+11,GOL,Parma - AC Milan,COINCIDE,,12' Alexis Saelemaekers (AC Milan),12' Alexis Saelemaekers (AC Milan),736887,13981528
+11,GOL,Parma - AC Milan,COINCIDE,,25' Rafael Leão (AC Milan) PEN,25' Rafael Leão (AC Milan) PEN,736887,13981528
+11,GOL,Parma - AC Milan,COINCIDE,,45+1' Adrián Bernabé (Parma),45+1' Adrián Bernabé (Parma),736887,13981528
+11,GOL,Parma - AC Milan,COINCIDE,,62' Enrico Del Prato (Parma),62' Enrico Delprato (Parma),736887,13981528
+11,PARTIDO,Atalanta - Sassuolo,COINCIDE,,2025-11-09T11:30Z 0-3 (3 goles),2025-11-09T11:30Z 0-3 (3 goles),736893,13981521
+11,GOL,Atalanta - Sassuolo,COINCIDE,,29' Domenico Berardi (Sassuolo) PEN,29' Domenico Berardi (Sassuolo) PEN,736893,13981521
+11,GOL,Atalanta - Sassuolo,COINCIDE,,47' Andrea Pinamonti (Sassuolo),47' Andrea Pinamonti (Sassuolo),736893,13981521
+11,GOL,Atalanta - Sassuolo,COINCIDE,,66' Domenico Berardi (Sassuolo),66' Domenico Berardi (Sassuolo),736893,13981521
+11,PARTIDO,Bologna - Napoli,COINCIDE,,2025-11-09T14:00Z 2-0 (2 goles),2025-11-09T14:00Z 2-0 (2 goles),736892,13981519
+11,GOL,Bologna - Napoli,COINCIDE,,50' Thijs Dallinga (Bologna),50' Thijs Dallinga (Bologna),736892,13981519
+11,GOL,Bologna - Napoli,COINCIDE,,66' Jhon Lucumí (Bologna),66' Jhon Lucumí (Bologna),736892,13981519
+11,PARTIDO,Genoa - Fiorentina,COINCIDE,,2025-11-09T14:00Z 2-2 (4 goles),2025-11-09T14:00Z 2-2 (4 goles),736891,13981530
+11,GOL,Genoa - Fiorentina,COINCIDE,,15' Leo Østigard (Genoa),15' Leo Østigård (Genoa),736891,13981530
+11,GOL,Genoa - Fiorentina,COINCIDE,,20' Albert Gudmundsson (Fiorentina) PEN,20' Albert Guðmundsson (Fiorentina) PEN,736891,13981530
+11,GOL,Genoa - Fiorentina,COINCIDE,,57' Roberto Piccoli (Fiorentina),57' Roberto Piccoli (Fiorentina),736891,13981530
+11,GOL,Genoa - Fiorentina,COINCIDE,,60' Lorenzo Colombo (Genoa),60' Lorenzo Colombo (Genoa),736891,13981530
+11,PARTIDO,AS Roma - Udinese,COINCIDE,,2025-11-09T17:00Z 2-0 (2 goles),2025-11-09T17:00Z 2-0 (2 goles),736885,13981523
+11,GOL,AS Roma - Udinese,COINCIDE,,42' Lorenzo Pellegrini (AS Roma) PEN,42' Lorenzo Pellegrini (AS Roma) PEN,736885,13981523
+11,GOL,AS Roma - Udinese,COINCIDE,,61' Zeki Çelik (AS Roma),61' Zeki Çelik (AS Roma),736885,13981523
+11,PARTIDO,Internazionale - Lazio,COINCIDE,,2025-11-09T19:45Z 2-0 (2 goles),2025-11-09T19:45Z 2-0 (2 goles),736890,13981527
+11,GOL,Internazionale - Lazio,COINCIDE,,3' Lautaro Martínez (Internazionale),3' Lautaro Martínez (Inter),736890,13981527
+11,GOL,Internazionale - Lazio,COINCIDE,,61' Ange-Yoan Bonny (Internazionale),61' Ange-Yoan Bonny (Inter),736890,13981527
+12,PARTIDO,Cagliari - Genoa,COINCIDE,,2025-11-22T14:00Z 3-3 (6 goles),2025-11-22T14:00Z 3-3 (6 goles),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,18' Vitinha (Genoa),18' Vitinha (Genoa),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,33' Gennaro Borrelli (Cagliari),33' Gennaro Borrelli (Cagliari),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,41' Leo Østigard (Genoa),41' Leo Østigård (Genoa),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,43' Sebastiano Esposito (Cagliari),43' Sebastiano Esposito (Cagliari),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,60' Gennaro Borrelli (Cagliari),60' Gennaro Borrelli (Cagliari),736903,13981542
+12,GOL,Cagliari - Genoa,COINCIDE,,83' Aarón Martín (Genoa),83' Aarón Martín (Genoa),736903,13981542
+12,PARTIDO,Udinese - Bologna,COINCIDE,,2025-11-22T14:00Z 0-3 (3 goles),2025-11-22T14:00Z 0-3 (3 goles),736902,13981534
+12,GOL,Udinese - Bologna,COINCIDE,,54' Tommaso Pobega (Bologna),54' Tommaso Pobega (Bologna),736902,13981534
+12,GOL,Udinese - Bologna,COINCIDE,,59' Tommaso Pobega (Bologna),59' Tommaso Pobega (Bologna),736902,13981534
+12,GOL,Udinese - Bologna,COINCIDE,,90+4' Federico Bernardeschi (Bologna),90+4' Federico Bernardeschi (Bologna),736902,13981534
+12,PARTIDO,Fiorentina - Juventus,COINCIDE,,2025-11-22T17:00Z 1-1 (2 goles),2025-11-22T17:00Z 1-1 (2 goles),736896,13981539
+12,GOL,Fiorentina - Juventus,COINCIDE,,45+5' Filip Kostic (Juventus),45+5' Filip Kostić (Juventus),736896,13981539
+12,GOL,Fiorentina - Juventus,COINCIDE,,48' Rolando Mandragora (Fiorentina),48' Rolando Mandragora (Fiorentina),736896,13981539
+12,PARTIDO,Napoli - Atalanta,COINCIDE,,2025-11-22T19:45Z 3-1 (4 goles),2025-11-22T19:45Z 3-1 (4 goles),736900,13981533
+12,GOL,Napoli - Atalanta,COINCIDE,,17' David Neres (Napoli),17' David Neres (SSC Napoli),736900,13981533
+12,GOL,Napoli - Atalanta,COINCIDE,,38' David Neres (Napoli),38' David Neres (SSC Napoli),736900,13981533
+12,GOL,Napoli - Atalanta,COINCIDE,,45' Noa Lang (Napoli),45' Noa Lang (SSC Napoli),736900,13981533
+12,GOL,Napoli - Atalanta,COINCIDE,,52' Gianluca Scamacca (Atalanta),52' Gianluca Scamacca (Atalanta),736900,13981533
+12,PARTIDO,Hellas Verona - Parma,COINCIDE,,2025-11-23T11:30Z 1-2 (3 goles),2025-11-23T11:30Z 1-2 (3 goles),736895,13981532
+12,GOL,Hellas Verona - Parma,COINCIDE,,18' Mateo Pellegrino (Parma),18' Mateo Pellegrino (Parma),736895,13981532
+12,GOL,Hellas Verona - Parma,COINCIDE,,65' Giovane (Hellas Verona),65' Giovane (Hellas Verona),736895,13981532
+12,GOL,Hellas Verona - Parma,COINCIDE,,80' Mateo Pellegrino (Parma),80' Mateo Pellegrino (Parma),736895,13981532
+12,PARTIDO,Cremonese - AS Roma,COINCIDE,,2025-11-23T14:00Z 1-3 (4 goles),2025-11-23T14:00Z 1-3 (4 goles),736897,13981541
+12,GOL,Cremonese - AS Roma,COINCIDE,,17' Matìas Soulè (AS Roma),17' Matías Soulé (AS Roma),736897,13981541
+12,GOL,Cremonese - AS Roma,COINCIDE,,64' Evan Ferguson (AS Roma),64' Evan Ferguson (AS Roma),736897,13981541
+12,GOL,Cremonese - AS Roma,COINCIDE,,69' Wesley (AS Roma),69' Wesley (AS Roma),736897,13981541
+12,GOL,Cremonese - AS Roma,COINCIDE,,90+3' Francesco Folino (Cremonese),90+3' Francesco Folino (Cremonese),736897,13981541
+12,PARTIDO,Lazio - Lecce,COINCIDE,,2025-11-23T17:00Z 2-0 (2 goles),2025-11-23T17:00Z 2-0 (2 goles),736901,13981537
+12,GOL,Lazio - Lecce,COINCIDE,,29' Matteo Guendouzi (Lazio),29' Mattéo Guendouzi (Lazio),736901,13981537
+12,GOL,Lazio - Lecce,COINCIDE,,90+5' Tijjani Noslin (Lazio),90+5' Tijjani Noslin (Lazio),736901,13981537
+12,PARTIDO,Internazionale - AC Milan,COINCIDE,,2025-11-23T19:45Z 0-1 (1 goles),2025-11-23T19:45Z 0-1 (1 goles),736894,13981538
+12,GOL,Internazionale - AC Milan,COINCIDE,,54' Christian Pulisic (AC Milan),54' Christian Pulišić (AC Milan),736894,13981538
+12,PARTIDO,Torino - Como,COINCIDE,,2025-11-24T17:30Z 1-5 (6 goles),2025-11-24T17:30Z 1-5 (6 goles),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,36' Jayden Addai (Como),36' Jayden Addai (Como),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,45+2' Nikola Vlasic (Torino) PEN,45+2' Nikola Vlašić (Torino) PEN,736898,13981535
+12,GOL,Torino - Como,COINCIDE,,52' Jayden Addai (Como),52' Jayden Addai (Como),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,71' Jacobo Ramón (Como),71' Jacobo Ramón (Como),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,76' Nico Paz (Como),76' Nico Paz (Como),736898,13981535
+12,GOL,Torino - Como,COINCIDE,,86' Martin Baturina (Como),86' Martin Baturina (Como),736898,13981535
+12,PARTIDO,Sassuolo - Pisa,COINCIDE,,2025-11-24T19:45Z 2-2 (4 goles),2025-11-24T19:45Z 2-2 (4 goles),736899,13981536
+12,GOL,Sassuolo - Pisa,COINCIDE,,4' M'Bala Nzola (Pisa) PEN,4' M'bala Nzola (Pisa) PEN,736899,13981536
+12,GOL,Sassuolo - Pisa,COINCIDE,,6' Nemanja Matic (Sassuolo),6' Nemanja Matić (Sassuolo),736899,13981536
+12,GOL,Sassuolo - Pisa,COINCIDE,,90+5' Kristian Thorstvedt (Sassuolo),90+5' Kristian Thorstvedt (Sassuolo),736899,13981536
+12,GOL,Sassuolo - Pisa,DISCREPA,goleador_variante,81' Henrik Meister (Pisa),81' Henrik Wendel Meister (Pisa),736899,13981536
+13,PARTIDO,Como - Sassuolo,COINCIDE,,2025-11-28T19:45Z 2-0 (2 goles),2025-11-28T19:45Z 2-0 (2 goles),736908,13981548
+13,GOL,Como - Sassuolo,COINCIDE,,14' Anastasios Douvikas (Como),14' Anastasios Douvikas (Como),736908,13981548
+13,GOL,Como - Sassuolo,COINCIDE,,53' Alberto Moreno (Como),53' Alberto Moreno (Como),736908,13981548
+13,PARTIDO,Genoa - Hellas Verona,COINCIDE,,2025-11-29T14:00Z 2-1 (3 goles),2025-11-29T14:00Z 2-1 (3 goles),736907,13981547
+13,GOL,Genoa - Hellas Verona,COINCIDE,,21' Rafik Belghali (Hellas Verona),21' Rafik Belghali (Hellas Verona),736907,13981547
+13,GOL,Genoa - Hellas Verona,COINCIDE,,40' Lorenzo Colombo (Genoa),40' Lorenzo Colombo (Genoa),736907,13981547
+13,GOL,Genoa - Hellas Verona,COINCIDE,,62' Morten Thorsby (Genoa),62' Morten Thorsby (Genoa),736907,13981547
+13,PARTIDO,Parma - Udinese,COINCIDE,,2025-11-29T14:00Z 0-2 (2 goles),2025-11-29T14:00Z 0-2 (2 goles),736911,13981544
+13,GOL,Parma - Udinese,COINCIDE,,11' Nicolò Zaniolo (Udinese),11' Nicolò Zaniolo (Udinese),736911,13981544
+13,GOL,Parma - Udinese,COINCIDE,,65' Keinan Davis (Udinese) PEN,65' Keinan Davis (Udinese) PEN,736911,13981544
+13,PARTIDO,Juventus - Cagliari,COINCIDE,,2025-11-29T17:00Z 2-1 (3 goles),2025-11-29T17:00Z 2-1 (3 goles),736906,13981551
+13,GOL,Juventus - Cagliari,COINCIDE,,26' Sebastiano Esposito (Cagliari),26' Sebastiano Esposito (Cagliari),736906,13981551
+13,GOL,Juventus - Cagliari,COINCIDE,,27' Kenan Yildiz (Juventus),27' Kenan Yıldız (Juventus),736906,13981551
+13,GOL,Juventus - Cagliari,COINCIDE,,45+1' Kenan Yildiz (Juventus),45+1' Kenan Yıldız (Juventus),736906,13981551
+13,PARTIDO,AC Milan - Lazio,COINCIDE,,2025-11-29T19:45Z 1-0 (1 goles),2025-11-29T19:45Z 1-0 (1 goles),736904,13981545
+13,GOL,AC Milan - Lazio,COINCIDE,,51' Rafael Leão (AC Milan),51' Rafael Leão (AC Milan),736904,13981545
+13,PARTIDO,Lecce - Torino,COINCIDE,,2025-11-30T11:30Z 2-1 (3 goles),2025-11-30T11:30Z 2-1 (3 goles),736905,13981546
+13,GOL,Lecce - Torino,COINCIDE,,20' Lassana Coulibaly (Lecce),20' Lassana Coulibaly (Lecce),736905,13981546
+13,GOL,Lecce - Torino,COINCIDE,,22' Lameck Banda (Lecce),22' Lameck Banda (Lecce),736905,13981546
+13,GOL,Lecce - Torino,COINCIDE,,57' Ché Adams (Torino),57' Che Adams (Torino),736905,13981546
+13,PARTIDO,Pisa - Internazionale,COINCIDE,,2025-11-30T14:00Z 0-2 (2 goles),2025-11-30T14:00Z 0-2 (2 goles),736912,13981543
+13,GOL,Pisa - Internazionale,COINCIDE,,69' Lautaro Martínez (Internazionale),69' Lautaro Martínez (Inter),736912,13981543
+13,GOL,Pisa - Internazionale,COINCIDE,,83' Lautaro Martínez (Internazionale),83' Lautaro Martínez (Inter),736912,13981543
+13,PARTIDO,Atalanta - Fiorentina,COINCIDE,,2025-11-30T17:00Z 2-0 (2 goles),2025-11-30T17:00Z 2-0 (2 goles),736910,13981549
+13,GOL,Atalanta - Fiorentina,COINCIDE,,41' Odilon Kossounou (Atalanta),41' Odilon Kossounou (Atalanta),736910,13981549
+13,GOL,Atalanta - Fiorentina,COINCIDE,,51' Ademola Lookman (Atalanta),51' Ademola Lookman (Atalanta),736910,13981549
+13,PARTIDO,AS Roma - Napoli,COINCIDE,,2025-11-30T19:45Z 0-1 (1 goles),2025-11-30T19:45Z 0-1 (1 goles),736913,13981540
+13,GOL,AS Roma - Napoli,COINCIDE,,36' David Neres (Napoli),36' David Neres (SSC Napoli),736913,13981540
+13,PARTIDO,Bologna - Cremonese,COINCIDE,,2025-12-01T19:45Z 1-3 (4 goles),2025-12-01T19:45Z 1-3 (4 goles),736909,13981550
+13,GOL,Bologna - Cremonese,COINCIDE,,31' Martín Payero (Cremonese),31' Martín Payero (Cremonese),736909,13981550
+13,GOL,Bologna - Cremonese,COINCIDE,,35' Jamie Vardy (Cremonese),35' Jamie Vardy (Cremonese),736909,13981550
+13,GOL,Bologna - Cremonese,COINCIDE,,45+3' Riccardo Orsolini (Bologna) PEN,45+3' Riccardo Orsolini (Bologna) PEN,736909,13981550
+13,GOL,Bologna - Cremonese,COINCIDE,,50' Jamie Vardy (Cremonese),50' Jamie Vardy (Cremonese),736909,13981550
+14,PARTIDO,Sassuolo - Fiorentina,COINCIDE,,2025-12-06T14:00Z 3-1 (4 goles),2025-12-06T14:00Z 3-1 (4 goles),736915,13981558
+14,GOL,Sassuolo - Fiorentina,COINCIDE,,9' Rolando Mandragora (Fiorentina) PEN,9' Rolando Mandragora (Fiorentina) PEN,736915,13981558
+14,GOL,Sassuolo - Fiorentina,COINCIDE,,13' Cristian Volpato (Sassuolo),13' Cristian Volpato (Sassuolo),736915,13981558
+14,GOL,Sassuolo - Fiorentina,COINCIDE,,45+1' Tarik Muharemovic (Sassuolo),45+1' Tarik Muharemović (Sassuolo),736915,13981558
+14,GOL,Sassuolo - Fiorentina,COINCIDE,,65' Ismaël Koné (Sassuolo),65' Ismael Koné (Sassuolo),736915,13981558
+14,PARTIDO,Internazionale - Como,COINCIDE,,2025-12-06T17:00Z 4-0 (4 goles),2025-12-06T17:00Z 4-0 (4 goles),736919,13981559
+14,GOL,Internazionale - Como,COINCIDE,,11' Lautaro Martínez (Internazionale),11' Lautaro Martínez (Inter),736919,13981559
+14,GOL,Internazionale - Como,COINCIDE,,59' Marcus Thuram (Internazionale),59' Marcus Thuram (Inter),736919,13981559
+14,GOL,Internazionale - Como,COINCIDE,,81' Hakan Çalhanoglu (Internazionale),81' Hakan Çalhanoğlu (Inter),736919,13981559
+14,GOL,Internazionale - Como,COINCIDE,,86' Carlos Augusto (Internazionale),86' Carlos Augusto (Inter),736919,13981559
+14,PARTIDO,Hellas Verona - Atalanta,COINCIDE,,2025-12-06T19:45Z 3-1 (4 goles),2025-12-06T19:45Z 3-1 (4 goles),736920,13981553
+14,GOL,Hellas Verona - Atalanta,COINCIDE,,28' Rafik Belghali (Hellas Verona),28' Rafik Belghali (Hellas Verona),736920,13981553
+14,GOL,Hellas Verona - Atalanta,COINCIDE,,36' Giovane (Hellas Verona),36' Giovane (Hellas Verona),736920,13981553
+14,GOL,Hellas Verona - Atalanta,COINCIDE,,71' Antoine Bernede (Hellas Verona),71' Antoine Bernede (Hellas Verona),736920,13981553
+14,GOL,Hellas Verona - Atalanta,COINCIDE,,81' Gianluca Scamacca (Atalanta) PEN,81' Gianluca Scamacca (Atalanta) PEN,736920,13981553
+14,PARTIDO,Cremonese - Lecce,COINCIDE,,2025-12-07T11:30Z 2-0 (2 goles),2025-12-07T11:30Z 2-0 (2 goles),736921,13981563
+14,GOL,Cremonese - Lecce,COINCIDE,,53' Federico Bonazzoli (Cremonese) PEN,53' Federico Bonazzoli (Cremonese) PEN,736921,13981563
+14,GOL,Cremonese - Lecce,COINCIDE,,78' Antonio Sanabria (Cremonese),78' Antonio Sanabria (Cremonese),736921,13981563
+14,PARTIDO,Cagliari - AS Roma,COINCIDE,,2025-12-07T14:00Z 1-0 (1 goles),2025-12-07T14:00Z 1-0 (1 goles),736922,13981560
+14,GOL,Cagliari - AS Roma,COINCIDE,,82' Gianluca Gaetano (Cagliari),82' Gianluca Gaetano (Cagliari),736922,13981560
+14,PARTIDO,Lazio - Bologna,COINCIDE,,2025-12-07T17:00Z 1-1 (2 goles),2025-12-07T17:00Z 1-1 (2 goles),736923,13981556
+14,GOL,Lazio - Bologna,COINCIDE,,38' Gustav Isaksen (Lazio),38' Gustav Isaksen (Lazio),736923,13981556
+14,GOL,Lazio - Bologna,COINCIDE,,40' Jens Odgaard (Bologna),40' Jens Odgaard (Bologna),736923,13981556
+14,PARTIDO,Napoli - Juventus,COINCIDE,,2025-12-07T19:45Z 2-1 (3 goles),2025-12-07T19:45Z 2-1 (3 goles),736917,13981557
+14,GOL,Napoli - Juventus,COINCIDE,,7' Rasmus Højlund (Napoli),7' Rasmus Højlund (SSC Napoli),736917,13981557
+14,GOL,Napoli - Juventus,COINCIDE,,59' Kenan Yildiz (Juventus),59' Kenan Yıldız (Juventus),736917,13981557
+14,GOL,Napoli - Juventus,COINCIDE,,78' Rasmus Højlund (Napoli),78' Rasmus Højlund (SSC Napoli),736917,13981557
+14,PARTIDO,Pisa - Parma,COINCIDE,,2025-12-08T14:00Z 0-1 (1 goles),2025-12-08T14:00Z 0-1 (1 goles),736916,13981555
+14,GOL,Pisa - Parma,COINCIDE,,40' Adrian Benedyczak (Parma) PEN,40' Adrian Benedyczak (Parma) PEN,736916,13981555
+14,PARTIDO,Udinese - Genoa,COINCIDE,,2025-12-08T17:00Z 1-2 (3 goles),2025-12-08T17:00Z 1-2 (3 goles),736918,13981552
+14,GOL,Udinese - Genoa,COINCIDE,,34' Ruslan Malinovskyi (Genoa) PEN,34' Ruslan Malinovskyi (Genoa) PEN,736918,13981552
+14,GOL,Udinese - Genoa,COINCIDE,,65' Jakub Piotrowski (Udinese),65' Jakub Piotrowski (Udinese),736918,13981552
+14,GOL,Udinese - Genoa,COINCIDE,,83' Brooke Norton-Cuffy (Genoa),83' Brooke Norton-Cuffy (Genoa),736918,13981552
+14,PARTIDO,Torino - AC Milan,COINCIDE,,2025-12-08T19:45Z 2-3 (5 goles),2025-12-08T19:45Z 2-3 (5 goles),736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,10' Nikola Vlasic (Torino) PEN,10' Nikola Vlašić (Torino) PEN,736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,17' Duván Zapata (Torino),17' Duván Zapata (Torino),736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,24' Adrien Rabiot (AC Milan),24' Adrien Rabiot (AC Milan),736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,67' Christian Pulisic (AC Milan),67' Christian Pulišić (AC Milan),736914,13981554
+14,GOL,Torino - AC Milan,COINCIDE,,77' Christian Pulisic (AC Milan),77' Christian Pulišić (AC Milan),736914,13981554
+15,PARTIDO,Lecce - Pisa,COINCIDE,,2025-12-12T19:45Z 1-0 (1 goles),2025-12-12T19:45Z 1-0 (1 goles),736928,13981561
+15,GOL,Lecce - Pisa,COINCIDE,,72' Nikola Stulic (Lecce),72' Nikola Štulić (Lecce),736928,13981561
+15,PARTIDO,Torino - Cremonese,COINCIDE,,2025-12-13T14:00Z 1-0 (1 goles),2025-12-13T14:00Z 1-0 (1 goles),736924,13981573
+15,GOL,Torino - Cremonese,COINCIDE,,27' Nikola Vlasic (Torino),27' Nikola Vlašić (Torino),736924,13981573
+15,PARTIDO,Parma - Lazio,COINCIDE,,2025-12-13T17:00Z 0-1 (1 goles),2025-12-13T17:00Z 0-1 (1 goles),736926,13981566
+15,GOL,Parma - Lazio,COINCIDE,,82' Tijjani Noslin (Lazio),82' Tijjani Noslin (Lazio),736926,13981566
+15,PARTIDO,Atalanta - Cagliari,COINCIDE,,2025-12-13T19:45Z 2-1 (3 goles),2025-12-13T19:45Z 2-1 (3 goles),736932,13981569
+15,GOL,Atalanta - Cagliari,COINCIDE,,11' Gianluca Scamacca (Atalanta),11' Gianluca Scamacca (Atalanta),736932,13981569
+15,GOL,Atalanta - Cagliari,COINCIDE,,75' Gianluca Gaetano (Cagliari),75' Gianluca Gaetano (Cagliari),736932,13981569
+15,GOL,Atalanta - Cagliari,COINCIDE,,81' Gianluca Scamacca (Atalanta),81' Gianluca Scamacca (Atalanta),736932,13981569
+15,PARTIDO,AC Milan - Sassuolo,COINCIDE,,2025-12-14T11:30Z 2-2 (4 goles),2025-12-14T11:30Z 2-2 (4 goles),736927,13981562
+15,GOL,AC Milan - Sassuolo,COINCIDE,,13' Ismaël Koné (Sassuolo),13' Ismael Koné (Sassuolo),736927,13981562
+15,GOL,AC Milan - Sassuolo,COINCIDE,,34' Davide Bartesaghi (AC Milan),34' Davide Bartesaghi (AC Milan),736927,13981562
+15,GOL,AC Milan - Sassuolo,COINCIDE,,47' Davide Bartesaghi (AC Milan),47' Davide Bartesaghi (AC Milan),736927,13981562
+15,GOL,AC Milan - Sassuolo,COINCIDE,,77' Armand Laurienté (Sassuolo),77' Armand Laurienté (Sassuolo),736927,13981562
+15,PARTIDO,Fiorentina - Hellas Verona,COINCIDE,,2025-12-14T14:00Z 1-2 (3 goles),2025-12-14T14:00Z 1-2 (3 goles),736930,13981571
+15,GOL,Fiorentina - Hellas Verona,COINCIDE,,42' Gift Orban (Hellas Verona),42' Gift Orban (Hellas Verona),736930,13981571
+15,GOL,Fiorentina - Hellas Verona,COINCIDE,,69' Unai Núñez (Fiorentina) AUTOGOL,69' Unai Núñez (Fiorentina) AUTOGOL,736930,13981571
+15,GOL,Fiorentina - Hellas Verona,COINCIDE,,90+3' Gift Orban (Hellas Verona),90+3' Gift Orban (Hellas Verona),736930,13981571
+15,PARTIDO,Udinese - Napoli,COINCIDE,,2025-12-14T14:00Z 1-0 (1 goles),2025-12-14T14:00Z 1-0 (1 goles),736933,13981570
+15,GOL,Udinese - Napoli,COINCIDE,,73' Jurgen Ekkelenkamp (Udinese),73' Jürgen Ekkelenkamp (Udinese),736933,13981570
+15,PARTIDO,Genoa - Internazionale,COINCIDE,,2025-12-14T17:00Z 1-2 (3 goles),2025-12-14T17:00Z 1-2 (3 goles),736929,13981564
+15,GOL,Genoa - Internazionale,COINCIDE,,6' Yann Bisseck (Internazionale),6' Yann Bisseck (Inter),736929,13981564
+15,GOL,Genoa - Internazionale,COINCIDE,,38' Lautaro Martínez (Internazionale),38' Lautaro Martínez (Inter),736929,13981564
+15,GOL,Genoa - Internazionale,COINCIDE,,68' Vitinha (Genoa),68' Vitinha (Genoa),736929,13981564
+15,PARTIDO,Bologna - Juventus,COINCIDE,,2025-12-14T19:45Z 0-1 (1 goles),2025-12-14T19:45Z 0-1 (1 goles),736931,13981565
+15,GOL,Bologna - Juventus,COINCIDE,,64' Juan Cabal (Juventus),64' Juan Cabal (Juventus),736931,13981565
+15,PARTIDO,AS Roma - Como,COINCIDE,,2025-12-15T19:45Z 1-0 (1 goles),2025-12-15T19:45Z 1-0 (1 goles),736925,13981577
+15,GOL,AS Roma - Como,COINCIDE,,60' Wesley (AS Roma),60' Wesley (AS Roma),736925,13981577
+16,PARTIDO,Lazio - Cremonese,COINCIDE,,2025-12-20T17:00Z 0-0 (0 goles),2025-12-20T17:00Z 0-0 (0 goles),736938,13981572
+16,PARTIDO,Juventus - AS Roma,COINCIDE,,2025-12-20T19:45Z 2-1 (3 goles),2025-12-20T19:45Z 2-1 (3 goles),736939,13981575
+16,GOL,Juventus - AS Roma,COINCIDE,,44' Francisco Conceição (Juventus),44' Francisco Conceição (Juventus),736939,13981575
+16,GOL,Juventus - AS Roma,COINCIDE,,70' Loïs Openda (Juventus),70' Loïs Openda (Juventus),736939,13981575
+16,GOL,Juventus - AS Roma,COINCIDE,,75' Tommaso Baldanzi (AS Roma),75' Tommaso Baldanzi (AS Roma),736939,13981575
+16,PARTIDO,Cagliari - Pisa,COINCIDE,,2025-12-21T11:30Z 2-2 (4 goles),2025-12-21T11:30Z 2-2 (4 goles),736934,13981581
+16,GOL,Cagliari - Pisa,COINCIDE,,45' Matteo Tramoni (Pisa) PEN,45' Matteo Tramoni (Pisa) PEN,736934,13981581
+16,GOL,Cagliari - Pisa,COINCIDE,,59' Michael Folorunsho (Cagliari),59' Michael Folorunsho (Cagliari),736934,13981581
+16,GOL,Cagliari - Pisa,COINCIDE,,71' Semih Kiliçsoy (Cagliari),71' Semih Kılıçsoy (Cagliari),736934,13981581
+16,GOL,Cagliari - Pisa,COINCIDE,,89' Stefano Moreo (Pisa),89' Stefano Moreo (Pisa),736934,13981581
+16,PARTIDO,Sassuolo - Torino,COINCIDE,,2025-12-21T14:00Z 0-1 (1 goles),2025-12-21T14:00Z 0-1 (1 goles),736936,13981580
+16,GOL,Sassuolo - Torino,COINCIDE,,66' Nikola Vlasic (Torino) PEN,66' Nikola Vlašić (Torino) PEN,736936,13981580
+16,PARTIDO,Fiorentina - Udinese,COINCIDE,,2025-12-21T17:00Z 5-1 (6 goles),2025-12-21T17:00Z 5-1 (6 goles),736943,13981568
+16,GOL,Fiorentina - Udinese,COINCIDE,,21' Rolando Mandragora (Fiorentina),21' Rolando Mandragora (Fiorentina),736943,13981568
+16,GOL,Fiorentina - Udinese,COINCIDE,,42' Albert Gudmundsson (Fiorentina),42' Albert Guðmundsson (Fiorentina),736943,13981568
+16,GOL,Fiorentina - Udinese,COINCIDE,,45+5' Cher Ndour (Fiorentina),45+5' Cher Ndour (Fiorentina),736943,13981568
+16,GOL,Fiorentina - Udinese,COINCIDE,,56' Moise Kean (Fiorentina),56' Moise Kean (Fiorentina),736943,13981568
+16,GOL,Fiorentina - Udinese,COINCIDE,,66' Oumar Solet (Udinese),66' Oumar Solet (Udinese),736943,13981568
+16,GOL,Fiorentina - Udinese,COINCIDE,,68' Moise Kean (Fiorentina),68' Moise Kean (Fiorentina),736943,13981568
+16,PARTIDO,Genoa - Atalanta,COINCIDE,,2025-12-21T19:45Z 0-1 (1 goles),2025-12-21T19:45Z 0-1 (1 goles),736942,13981579
+16,GOL,Genoa - Atalanta,COINCIDE,,90+4' Isak Hien (Atalanta),90+4' Isak Hien (Atalanta),736942,13981579
+16,PARTIDO,Napoli - Parma,COINCIDE,,2026-01-14T17:30Z 0-0 (0 goles),2026-01-14T17:30Z 0-0 (0 goles),736937,14844295
+16,PARTIDO,Internazionale - Lecce,COINCIDE,,2026-01-14T19:45Z 1-0 (1 goles),2026-01-14T19:45Z 1-0 (1 goles),736940,14844287
+16,GOL,Internazionale - Lecce,COINCIDE,,78' Pio Esposito (Internazionale),78' Pio Esposito (Inter),736940,14844287
+16,PARTIDO,Hellas Verona - Bologna,COINCIDE,,2026-01-15T17:30Z 2-3 (5 goles),2026-01-15T17:30Z 2-3 (5 goles),736941,14844293
+16,GOL,Hellas Verona - Bologna,COINCIDE,,13' Gift Orban (Hellas Verona),13' Gift Orban (Hellas Verona),736941,14844293
+16,GOL,Hellas Verona - Bologna,COINCIDE,,21' Riccardo Orsolini (Bologna),21' Riccardo Orsolini (Bologna),736941,14844293
+16,GOL,Hellas Verona - Bologna,COINCIDE,,29' Jens Odgaard (Bologna),29' Jens Odgaard (Bologna),736941,14844293
+16,GOL,Hellas Verona - Bologna,COINCIDE,,43' Santiago Castro (Bologna),43' Santiago Castro (Bologna),736941,14844293
+16,GOL,Hellas Verona - Bologna,COINCIDE,,71' Remo Freuler (Hellas Verona) AUTOGOL,71' Remo Freuler (Hellas Verona) AUTOGOL,736941,14844293
+16,PARTIDO,Como - AC Milan,COINCIDE,,2026-01-15T19:45Z 1-3 (4 goles),2026-01-15T19:45Z 1-3 (4 goles),736935,14844296
+16,GOL,Como - AC Milan,COINCIDE,,45+1' Christopher Nkunku (AC Milan) PEN,45+1' Christopher Nkunku (AC Milan) PEN,736935,14844296
+16,GOL,Como - AC Milan,COINCIDE,,55' Adrien Rabiot (AC Milan),55' Adrien Rabiot (AC Milan),736935,14844296
+16,GOL,Como - AC Milan,COINCIDE,,88' Adrien Rabiot (AC Milan),88' Adrien Rabiot (AC Milan),736935,14844296
+16,GOL,Como - AC Milan,DISCREPA,goleador_variante,10' Marc-Oliver Kempf (Como),10' Marc Kempf (Como),736935,14844296
+17,PARTIDO,Parma - Fiorentina,COINCIDE,,2025-12-27T11:30Z 1-0 (1 goles),2025-12-27T11:30Z 1-0 (1 goles),736953,13981587
+17,GOL,Parma - Fiorentina,COINCIDE,,48' Oliver Sørensen (Parma),48' Oliver Sørensen (Parma),736953,13981587
+17,PARTIDO,Lecce - Como,COINCIDE,,2025-12-27T14:00Z 0-3 (3 goles),2025-12-27T14:00Z 0-3 (3 goles),736950,13981590
+17,GOL,Lecce - Como,COINCIDE,,20' Nico Paz (Como),20' Nico Paz (Como),736950,13981590
+17,GOL,Lecce - Como,COINCIDE,,66' Jacobo Ramón (Como),66' Jacobo Ramón (Como),736950,13981590
+17,GOL,Lecce - Como,COINCIDE,,75' Anastasios Douvikas (Como),75' Anastasios Douvikas (Como),736950,13981590
+17,PARTIDO,Torino - Cagliari,COINCIDE,,2025-12-27T14:00Z 1-2 (3 goles),2025-12-27T14:00Z 1-2 (3 goles),736945,13981584
+17,GOL,Torino - Cagliari,COINCIDE,,27' Nikola Vlasic (Torino),27' Nikola Vlašić (Torino),736945,13981584
+17,GOL,Torino - Cagliari,COINCIDE,,45' Matteo Prati (Cagliari),45' Matteo Prati (Cagliari),736945,13981584
+17,GOL,Torino - Cagliari,COINCIDE,,66' Semih Kiliçsoy (Cagliari),66' Semih Kılıçsoy (Cagliari),736945,13981584
+17,PARTIDO,Udinese - Lazio,COINCIDE,,2025-12-27T17:00Z 1-1 (2 goles),2025-12-27T17:00Z 1-1 (2 goles),736948,13981583
+17,GOL,Udinese - Lazio,COINCIDE,,80' Oumar Solet (Lazio) AUTOGOL,80' Oumar Solet (Lazio) AUTOGOL,736948,13981583
+17,GOL,Udinese - Lazio,COINCIDE,,90+5' Keinan Davis (Udinese),90+5' Keinan Davis (Udinese),736948,13981583
+17,PARTIDO,Pisa - Juventus,COINCIDE,,2025-12-27T19:45Z 0-2 (2 goles),2025-12-27T19:45Z 0-2 (2 goles),736947,13981585
+17,GOL,Pisa - Juventus,COINCIDE,,73' Pierre Kalulu (Juventus),73' Pierre Kalulu (Juventus),736947,13981585
+17,GOL,Pisa - Juventus,COINCIDE,,90+2' Kenan Yildiz (Juventus),90+2' Kenan Yıldız (Juventus),736947,13981585
+17,PARTIDO,AC Milan - Hellas Verona,COINCIDE,,2025-12-28T11:30Z 3-0 (3 goles),2025-12-28T11:30Z 3-0 (3 goles),736949,13981588
+17,GOL,AC Milan - Hellas Verona,COINCIDE,,45+1' Christian Pulisic (AC Milan),45+1' Christian Pulišić (AC Milan),736949,13981588
+17,GOL,AC Milan - Hellas Verona,COINCIDE,,48' Christopher Nkunku (AC Milan) PEN,48' Christopher Nkunku (AC Milan) PEN,736949,13981588
+17,GOL,AC Milan - Hellas Verona,COINCIDE,,53' Christopher Nkunku (AC Milan),53' Christopher Nkunku (AC Milan),736949,13981588
+17,PARTIDO,Cremonese - Napoli,COINCIDE,,2025-12-28T14:00Z 0-2 (2 goles),2025-12-28T14:00Z 0-2 (2 goles),736951,13981582
+17,GOL,Cremonese - Napoli,COINCIDE,,13' Rasmus Højlund (Napoli),13' Rasmus Højlund (SSC Napoli),736951,13981582
+17,GOL,Cremonese - Napoli,COINCIDE,,45' Rasmus Højlund (Napoli),45' Rasmus Højlund (SSC Napoli),736951,13981582
+17,PARTIDO,Bologna - Sassuolo,COINCIDE,,2025-12-28T17:00Z 1-1 (2 goles),2025-12-28T17:00Z 1-1 (2 goles),736952,13981589
+17,GOL,Bologna - Sassuolo,COINCIDE,,47' Giovanni Fabbian (Bologna),47' Giovanni Fabbian (Bologna),736952,13981589
+17,GOL,Bologna - Sassuolo,COINCIDE,,63' Tarik Muharemovic (Sassuolo),63' Tarik Muharemović (Sassuolo),736952,13981589
+17,PARTIDO,Atalanta - Internazionale,COINCIDE,,2025-12-28T19:45Z 0-1 (1 goles),2025-12-28T19:45Z 0-1 (1 goles),736944,13981591
+17,GOL,Atalanta - Internazionale,COINCIDE,,65' Lautaro Martínez (Internazionale),65' Lautaro Martínez (Inter),736944,13981591
+17,PARTIDO,AS Roma - Genoa,COINCIDE,,2025-12-29T19:45Z 3-1 (4 goles),2025-12-29T19:45Z 3-1 (4 goles),736946,13981586
+17,GOL,AS Roma - Genoa,COINCIDE,,14' Matìas Soulè (AS Roma),14' Matías Soulé (AS Roma),736946,13981586
+17,GOL,AS Roma - Genoa,COINCIDE,,19' Manu Koné (AS Roma),19' Manu Koné (AS Roma),736946,13981586
+17,GOL,AS Roma - Genoa,COINCIDE,,31' Evan Ferguson (AS Roma),31' Evan Ferguson (AS Roma),736946,13981586
+17,GOL,AS Roma - Genoa,COINCIDE,,87' Jeff Ekhator (Genoa),87' Jeff Ekhator (Genoa),736946,13981586
+18,PARTIDO,Cagliari - AC Milan,COINCIDE,,2026-01-02T19:45Z 0-1 (1 goles),2026-01-02T19:45Z 0-1 (1 goles),736955,13981602
+18,GOL,Cagliari - AC Milan,COINCIDE,,50' Rafael Leão (AC Milan),50' Rafael Leão (AC Milan),736955,13981602
+18,PARTIDO,Como - Udinese,COINCIDE,,2026-01-03T11:30Z 1-0 (1 goles),2026-01-03T11:30Z 1-0 (1 goles),736956,13981600
+18,GOL,Como - Udinese,COINCIDE,,18' Lucas Da Cunha (Como) PEN,18' Lucas Da Cunha (Como) PEN,736956,13981600
+18,PARTIDO,Genoa - Pisa,COINCIDE,,2026-01-03T14:00Z 1-1 (2 goles),2026-01-03T14:00Z 1-1 (2 goles),736963,13981598
+18,GOL,Genoa - Pisa,COINCIDE,,15' Lorenzo Colombo (Genoa),15' Lorenzo Colombo (Genoa),736963,13981598
+18,GOL,Genoa - Pisa,COINCIDE,,38' Mehdi Léris (Pisa),38' Mehdi Léris (Pisa),736963,13981598
+18,PARTIDO,Sassuolo - Parma,COINCIDE,,2026-01-03T14:00Z 1-1 (2 goles),2026-01-03T14:00Z 1-1 (2 goles),736958,13981595
+18,GOL,Sassuolo - Parma,COINCIDE,,12' Kristian Thorstvedt (Sassuolo),12' Kristian Thorstvedt (Sassuolo),736958,13981595
+18,GOL,Sassuolo - Parma,COINCIDE,,24' Mateo Pellegrino (Parma),24' Mateo Pellegrino (Parma),736958,13981595
+18,PARTIDO,Juventus - Lecce,COINCIDE,,2026-01-03T17:00Z 1-1 (2 goles),2026-01-03T17:00Z 1-1 (2 goles),736961,13981596
+18,GOL,Juventus - Lecce,COINCIDE,,45+1' Lameck Banda (Lecce),45+1' Lameck Banda (Lecce),736961,13981596
+18,GOL,Juventus - Lecce,COINCIDE,,49' Weston McKennie (Juventus),49' Weston McKennie (Juventus),736961,13981596
+18,PARTIDO,Atalanta - AS Roma,COINCIDE,,2026-01-03T19:45Z 1-0 (1 goles),2026-01-03T19:45Z 1-0 (1 goles),736954,13981594
+18,GOL,Atalanta - AS Roma,COINCIDE,,12' Giorgio Scalvini (Atalanta),12' Giorgio Scalvini (Atalanta),736954,13981594
+18,PARTIDO,Lazio - Napoli,COINCIDE,,2026-01-04T11:30Z 0-2 (2 goles),2026-01-04T11:30Z 0-2 (2 goles),736962,13981592
+18,GOL,Lazio - Napoli,COINCIDE,,13' Leonardo Spinazzola (Napoli),13' Leonardo Spinazzola (SSC Napoli),736962,13981592
+18,GOL,Lazio - Napoli,COINCIDE,,32' Amir Rrahmani (Napoli),32' Amir Rrahmani (SSC Napoli),736962,13981592
+18,PARTIDO,Fiorentina - Cremonese,COINCIDE,,2026-01-04T14:00Z 1-0 (1 goles),2026-01-04T14:00Z 1-0 (1 goles),736957,13981599
+18,GOL,Fiorentina - Cremonese,COINCIDE,,90+2' Moise Kean (Fiorentina),90+2' Moise Kean (Fiorentina),736957,13981599
+18,PARTIDO,Hellas Verona - Torino,COINCIDE,,2026-01-04T17:00Z 0-3 (3 goles),2026-01-04T17:00Z 0-3 (3 goles),736959,13981593
+18,GOL,Hellas Verona - Torino,COINCIDE,,10' Giovanni Simeone (Torino),10' Giovanni Simeone (Torino),736959,13981593
+18,GOL,Hellas Verona - Torino,COINCIDE,,87' Cesare Casadei (Torino),87' Cesare Casadei (Torino),736959,13981593
+18,GOL,Hellas Verona - Torino,COINCIDE,,90+1' Alieu Njie (Torino),90+1' Alieu Njie (Torino),736959,13981593
+18,PARTIDO,Internazionale - Bologna,COINCIDE,,2026-01-04T19:45Z 3-1 (4 goles),2026-01-04T19:45Z 3-1 (4 goles),736960,13981597
+18,GOL,Internazionale - Bologna,COINCIDE,,39' Piotr Zielinski (Internazionale),39' Piotr Zieliński (Inter),736960,13981597
+18,GOL,Internazionale - Bologna,COINCIDE,,48' Lautaro Martínez (Internazionale),48' Lautaro Martínez (Inter),736960,13981597
+18,GOL,Internazionale - Bologna,COINCIDE,,74' Marcus Thuram (Internazionale),74' Marcus Thuram (Inter),736960,13981597
+18,GOL,Internazionale - Bologna,COINCIDE,,83' Santiago Castro (Bologna),83' Santiago Castro (Bologna),736960,13981597
+19,PARTIDO,Pisa - Como,COINCIDE,,2026-01-06T14:00Z 0-3 (3 goles),2026-01-06T14:00Z 0-3 (3 goles),736971,13981609
+19,GOL,Pisa - Como,COINCIDE,,68' Máximo Perrone (Como),68' Máximo Perrone (Como),736971,13981609
+19,GOL,Pisa - Como,COINCIDE,,76' Anastasios Douvikas (Como),76' Anastasios Douvikas (Como),736971,13981609
+19,GOL,Pisa - Como,COINCIDE,,90+6' Anastasios Douvikas (Como) PEN,90+6' Anastasios Douvikas (Como) PEN,736971,13981609
+19,PARTIDO,Lecce - AS Roma,COINCIDE,,2026-01-06T17:00Z 0-2 (2 goles),2026-01-06T17:00Z 0-2 (2 goles),736967,13981604
+19,GOL,Lecce - AS Roma,COINCIDE,,14' Evan Ferguson (AS Roma),14' Evan Ferguson (AS Roma),736967,13981604
+19,GOL,Lecce - AS Roma,COINCIDE,,71' Artem Dovbyk (AS Roma),71' Artem Dovbyk (AS Roma),736967,13981604
+19,PARTIDO,Sassuolo - Juventus,COINCIDE,,2026-01-06T19:45Z 0-3 (3 goles),2026-01-06T19:45Z 0-3 (3 goles),736972,13981608
+19,GOL,Sassuolo - Juventus,COINCIDE,,16' Tarik Muharemovic (Juventus) AUTOGOL,16' Tarik Muharemović (Juventus) AUTOGOL,736972,13981608
+19,GOL,Sassuolo - Juventus,COINCIDE,,62' Fabio Miretti (Juventus),62' Fabio Miretti (Juventus),736972,13981608
+19,GOL,Sassuolo - Juventus,COINCIDE,,63' Jonathan David (Juventus),63' Jonathan David (Juventus),736972,13981608
+19,PARTIDO,Bologna - Atalanta,COINCIDE,,2026-01-07T17:30Z 0-2 (2 goles),2026-01-07T17:30Z 0-2 (2 goles),736964,13981601
+19,GOL,Bologna - Atalanta,COINCIDE,,37' Nikola Krstovic (Atalanta),37' Nikola Krstović (Atalanta),736964,13981601
+19,GOL,Bologna - Atalanta,COINCIDE,,60' Nikola Krstovic (Atalanta),60' Nikola Krstović (Atalanta),736964,13981601
+19,PARTIDO,Napoli - Hellas Verona,COINCIDE,,2026-01-07T17:30Z 2-2 (4 goles),2026-01-07T17:30Z 2-2 (4 goles),736969,13981607
+19,GOL,Napoli - Hellas Verona,COINCIDE,,16' Martin Frese (Hellas Verona),16' Martin Frese (Hellas Verona),736969,13981607
+19,GOL,Napoli - Hellas Verona,COINCIDE,,27' Gift Orban (Hellas Verona) PEN,27' Gift Orban (Hellas Verona) PEN,736969,13981607
+19,GOL,Napoli - Hellas Verona,COINCIDE,,54' Scott McTominay (Napoli),54' Scott McTominay (SSC Napoli),736969,13981607
+19,GOL,Napoli - Hellas Verona,COINCIDE,,82' Giovanni Di Lorenzo (Napoli),82' Giovanni Di Lorenzo (SSC Napoli),736969,13981607
+19,PARTIDO,Lazio - Fiorentina,COINCIDE,,2026-01-07T19:45Z 2-2 (4 goles),2026-01-07T19:45Z 2-2 (4 goles),736966,13981605
+19,GOL,Lazio - Fiorentina,COINCIDE,,52' Danilo Cataldi (Lazio),52' Danilo Cataldi (Lazio),736966,13981605
+19,GOL,Lazio - Fiorentina,COINCIDE,,56' Robin Gosens (Fiorentina),56' Robin Gosens (Fiorentina),736966,13981605
+19,GOL,Lazio - Fiorentina,COINCIDE,,89' Albert Gudmundsson (Fiorentina) PEN,89' Albert Guðmundsson (Fiorentina) PEN,736966,13981605
+19,GOL,Lazio - Fiorentina,COINCIDE,,90+5' Pedro (Lazio) PEN,90+5' Pedro (Lazio) PEN,736966,13981605
+19,PARTIDO,Parma - Internazionale,COINCIDE,,2026-01-07T19:45Z 0-2 (2 goles),2026-01-07T19:45Z 0-2 (2 goles),736970,13981610
+19,GOL,Parma - Internazionale,COINCIDE,,42' Federico Dimarco (Internazionale),42' Federico Dimarco (Inter),736970,13981610
+19,GOL,Parma - Internazionale,COINCIDE,,90+8' Marcus Thuram (Internazionale),90+8' Marcus Thuram (Inter),736970,13981610
+19,PARTIDO,Torino - Udinese,COINCIDE,,2026-01-07T19:45Z 1-2 (3 goles),2026-01-07T19:45Z 1-2 (3 goles),736973,13981611
+19,GOL,Torino - Udinese,COINCIDE,,50' Nicolò Zaniolo (Udinese),50' Nicolò Zaniolo (Udinese),736973,13981611
+19,GOL,Torino - Udinese,COINCIDE,,82' Jurgen Ekkelenkamp (Udinese),82' Jürgen Ekkelenkamp (Udinese),736973,13981611
+19,GOL,Torino - Udinese,COINCIDE,,87' Cesare Casadei (Torino),87' Cesare Casadei (Torino),736973,13981611
+19,PARTIDO,Cremonese - Cagliari,COINCIDE,,2026-01-08T17:30Z 2-2 (4 goles),2026-01-08T17:30Z 2-2 (4 goles),736965,14844436
+19,GOL,Cremonese - Cagliari,COINCIDE,,4' Dennis Johnsen (Cremonese),4' Dennis Johnsen (Cremonese),736965,14844436
+19,GOL,Cremonese - Cagliari,COINCIDE,,29' Jamie Vardy (Cremonese),29' Jamie Vardy (Cremonese),736965,14844436
+19,GOL,Cremonese - Cagliari,COINCIDE,,51' Michel Adopo (Cagliari),51' Michel Adopo (Cagliari),736965,14844436
+19,GOL,Cremonese - Cagliari,COINCIDE,,88' Yael Trepy (Cagliari),88' Yael Trepy (Cagliari),736965,14844436
+19,PARTIDO,AC Milan - Genoa,COINCIDE,,2026-01-08T19:45Z 1-1 (2 goles),2026-01-08T19:45Z 1-1 (2 goles),736968,14844437
+19,GOL,AC Milan - Genoa,COINCIDE,,28' Lorenzo Colombo (Genoa),28' Lorenzo Colombo (Genoa),736968,14844437
+19,GOL,AC Milan - Genoa,COINCIDE,,90+2' Rafael Leão (AC Milan),90+2' Rafael Leão (AC Milan),736968,14844437
+20,PARTIDO,Como - Bologna,COINCIDE,,2026-01-10T14:00Z 1-1 (2 goles),2026-01-10T14:00Z 1-1 (2 goles),736976,13981616
+20,GOL,Como - Bologna,COINCIDE,,49' Nicolò Cambiaghi (Bologna),49' Nicolò Cambiaghi (Bologna),736976,13981616
+20,GOL,Como - Bologna,COINCIDE,,90+4' Martin Baturina (Como),90+4' Martin Baturina (Como),736976,13981616
+20,PARTIDO,Udinese - Pisa,COINCIDE,,2026-01-10T14:00Z 2-2 (4 goles),2026-01-10T14:00Z 2-2 (4 goles),736978,13981624
+20,GOL,Udinese - Pisa,COINCIDE,,13' Matteo Tramoni (Pisa),13' Matteo Tramoni (Pisa),736978,13981624
+20,GOL,Udinese - Pisa,COINCIDE,,19' Christian Kabasele (Udinese),19' Christian Kabasele (Udinese),736978,13981624
+20,GOL,Udinese - Pisa,COINCIDE,,40' Keinan Davis (Udinese) PEN,40' Keinan Davis (Udinese) PEN,736978,13981624
+20,GOL,Udinese - Pisa,DISCREPA,goleador_variante,67' Henrik Meister (Pisa),67' Henrik Wendel Meister (Pisa),736978,13981624
+20,PARTIDO,AS Roma - Sassuolo,COINCIDE,,2026-01-10T17:00Z 2-0 (2 goles),2026-01-10T17:00Z 2-0 (2 goles),736982,13981619
+20,GOL,AS Roma - Sassuolo,COINCIDE,,76' Manu Koné (AS Roma),76' Manu Koné (AS Roma),736982,13981619
+20,GOL,AS Roma - Sassuolo,COINCIDE,,79' Matìas Soulè (AS Roma),79' Matías Soulé (AS Roma),736982,13981619
+20,PARTIDO,Atalanta - Torino,COINCIDE,,2026-01-10T19:45Z 2-0 (2 goles),2026-01-10T19:45Z 2-0 (2 goles),736977,13981613
+20,GOL,Atalanta - Torino,COINCIDE,,13' Charles De Ketelaere (Atalanta),13' Charles De Ketelaere (Atalanta),736977,13981613
+20,GOL,Atalanta - Torino,COINCIDE,,90+5' Mario Pasalic (Atalanta),90+5' Mario Pašalić (Atalanta),736977,13981613
+20,PARTIDO,Lecce - Parma,COINCIDE,,2026-01-11T11:30Z 1-2 (3 goles),2026-01-11T11:30Z 1-2 (3 goles),736981,13981621
+20,GOL,Lecce - Parma,COINCIDE,,1' Nikola Stulic (Lecce),1' Nikola Štulić (Lecce),736981,13981621
+20,GOL,Lecce - Parma,COINCIDE,,64' Tiago Gabriel (Parma) AUTOGOL,64' Tiago Gabriel (Parma) AUTOGOL,736981,13981621
+20,GOL,Lecce - Parma,COINCIDE,,72' Mateo Pellegrino (Parma),72' Mateo Pellegrino (Parma),736981,13981621
+20,PARTIDO,Fiorentina - AC Milan,COINCIDE,,2026-01-11T14:00Z 1-1 (2 goles),2026-01-11T14:00Z 1-1 (2 goles),736975,13981614
+20,GOL,Fiorentina - AC Milan,COINCIDE,,66' Pietro Comuzzo (Fiorentina),66' Pietro Comuzzo (Fiorentina),736975,13981614
+20,GOL,Fiorentina - AC Milan,COINCIDE,,90' Christopher Nkunku (AC Milan),90' Christopher Nkunku (AC Milan),736975,13981614
+20,PARTIDO,Hellas Verona - Lazio,COINCIDE,,2026-01-11T17:00Z 0-1 (1 goles),2026-01-11T17:00Z 0-1 (1 goles),736983,13981615
+20,GOL,Hellas Verona - Lazio,COINCIDE,,79' Victor Nelsson (Lazio) AUTOGOL,79' Victor Nelsson (Lazio) AUTOGOL,736983,13981615
+20,PARTIDO,Internazionale - Napoli,COINCIDE,,2026-01-11T19:45Z 2-2 (4 goles),2026-01-11T19:45Z 2-2 (4 goles),736979,13981618
+20,GOL,Internazionale - Napoli,COINCIDE,,9' Federico Dimarco (Internazionale),9' Federico Dimarco (Inter),736979,13981618
+20,GOL,Internazionale - Napoli,COINCIDE,,26' Scott McTominay (Napoli),26' Scott McTominay (SSC Napoli),736979,13981618
+20,GOL,Internazionale - Napoli,COINCIDE,,73' Hakan Çalhanoglu (Internazionale) PEN,73' Hakan Çalhanoğlu (Inter) PEN,736979,13981618
+20,GOL,Internazionale - Napoli,COINCIDE,,81' Scott McTominay (Napoli),81' Scott McTominay (SSC Napoli),736979,13981618
+20,PARTIDO,Genoa - Cagliari,COINCIDE,,2026-01-12T17:30Z 3-0 (3 goles),2026-01-12T17:30Z 3-0 (3 goles),736974,13981617
+20,GOL,Genoa - Cagliari,COINCIDE,,7' Lorenzo Colombo (Genoa),7' Lorenzo Colombo (Genoa),736974,13981617
+20,GOL,Genoa - Cagliari,COINCIDE,,75' Morten Frendrup (Genoa),75' Morten Frendrup (Genoa),736974,13981617
+20,GOL,Genoa - Cagliari,COINCIDE,,78' Leo Østigard (Genoa),78' Leo Østigård (Genoa),736974,13981617
+20,PARTIDO,Juventus - Cremonese,COINCIDE,,2026-01-12T19:45Z 5-0 (5 goles),2026-01-12T19:45Z 5-0 (5 goles),736980,13981623
+20,GOL,Juventus - Cremonese,COINCIDE,,15' Jonathan David (Juventus),15' Jonathan David (Juventus),736980,13981623
+20,GOL,Juventus - Cremonese,COINCIDE,,35' Kenan Yildiz (Juventus),35' Kenan Yıldız (Juventus),736980,13981623
+20,GOL,Juventus - Cremonese,COINCIDE,,48' Filippo Terracciano (Juventus) AUTOGOL,48' Filippo Terracciano (Juventus) AUTOGOL,736980,13981623
+20,GOL,Juventus - Cremonese,COINCIDE,,64' Weston McKennie (Juventus),64' Weston McKennie (Juventus),736980,13981623
+20,GOL,Juventus - Cremonese,DISCREPA,goleador_variante,12' Bremer (Juventus),12' Gleison Bremer (Juventus),736980,13981623
+21,PARTIDO,Pisa - Atalanta,COINCIDE,,2026-01-16T19:45Z 1-1 (2 goles),2026-01-16T19:45Z 1-1 (2 goles),736991,13981629
+21,GOL,Pisa - Atalanta,COINCIDE,,83' Nikola Krstovic (Atalanta),83' Nikola Krstović (Atalanta),736991,13981629
+21,GOL,Pisa - Atalanta,COINCIDE,,87' Rafiu Durosinmi (Pisa),87' Rafiu Durosinmi (Pisa),736991,13981629
+21,PARTIDO,Udinese - Internazionale,COINCIDE,,2026-01-17T14:00Z 0-1 (1 goles),2026-01-17T14:00Z 0-1 (1 goles),736989,13981630
+21,GOL,Udinese - Internazionale,COINCIDE,,20' Lautaro Martínez (Internazionale),20' Lautaro Martínez (Inter),736989,13981630
+21,PARTIDO,Napoli - Sassuolo,COINCIDE,,2026-01-17T17:00Z 1-0 (1 goles),2026-01-17T17:00Z 1-0 (1 goles),736993,13981633
+21,GOL,Napoli - Sassuolo,COINCIDE,,7' Stanislav Lobotka (Napoli),7' Stanislav Lobotka (SSC Napoli),736993,13981633
+21,PARTIDO,Cagliari - Juventus,COINCIDE,,2026-01-17T19:45Z 1-0 (1 goles),2026-01-17T19:45Z 1-0 (1 goles),736986,13981625
+21,GOL,Cagliari - Juventus,COINCIDE,,65' Luca Mazzitelli (Cagliari),65' Luca Mazzitelli (Cagliari),736986,13981625
+21,PARTIDO,Parma - Genoa,COINCIDE,,2026-01-18T11:30Z 0-0 (0 goles),2026-01-18T11:30Z 0-0 (0 goles),736992,13981627
+21,PARTIDO,Bologna - Fiorentina,COINCIDE,,2026-01-18T14:00Z 1-2 (3 goles),2026-01-18T14:00Z 1-2 (3 goles),736987,13981620
+21,GOL,Bologna - Fiorentina,COINCIDE,,19' Rolando Mandragora (Fiorentina),19' Rolando Mandragora (Fiorentina),736987,13981620
+21,GOL,Bologna - Fiorentina,COINCIDE,,45' Roberto Piccoli (Fiorentina),45' Roberto Piccoli (Fiorentina),736987,13981620
+21,GOL,Bologna - Fiorentina,COINCIDE,,88' Giovanni Fabbian (Bologna),88' Giovanni Fabbian (Bologna),736987,13981620
+21,PARTIDO,Torino - AS Roma,COINCIDE,,2026-01-18T17:00Z 0-2 (2 goles),2026-01-18T17:00Z 0-2 (2 goles),736990,13981634
+21,GOL,Torino - AS Roma,COINCIDE,,26' Donyell Malen (AS Roma),26' Donyell Malen (AS Roma),736990,13981634
+21,GOL,Torino - AS Roma,COINCIDE,,72' Paulo Dybala (AS Roma),72' Paulo Dybala (AS Roma),736990,13981634
+21,PARTIDO,AC Milan - Lecce,COINCIDE,,2026-01-18T19:45Z 1-0 (1 goles),2026-01-18T19:45Z 1-0 (1 goles),736988,13981628
+21,GOL,AC Milan - Lecce,COINCIDE,,76' Niclas Füllkrug (AC Milan),76' Niclas Füllkrug (AC Milan),736988,13981628
+21,PARTIDO,Cremonese - Hellas Verona,COINCIDE,,2026-01-19T17:30Z 0-0 (0 goles),2026-01-19T17:30Z 0-0 (0 goles),736985,13981622
+21,PARTIDO,Lazio - Como,COINCIDE,,2026-01-19T19:45Z 0-3 (3 goles),2026-01-19T19:45Z 0-3 (3 goles),736984,13981626
+21,GOL,Lazio - Como,COINCIDE,,2' Martin Baturina (Como),2' Martin Baturina (Como),736984,13981626
+21,GOL,Lazio - Como,COINCIDE,,24' Nico Paz (Como),24' Nico Paz (Como),736984,13981626
+21,GOL,Lazio - Como,COINCIDE,,49' Nico Paz (Como),49' Nico Paz (Como),736984,13981626
+22,PARTIDO,Internazionale - Pisa,COINCIDE,,2026-01-23T19:45Z 6-2 (8 goles),2026-01-23T19:45Z 6-2 (8 goles),737001,13981637
+22,GOL,Internazionale - Pisa,COINCIDE,,11' Stefano Moreo (Pisa),11' Stefano Moreo (Pisa),737001,13981637
+22,GOL,Internazionale - Pisa,COINCIDE,,23' Stefano Moreo (Pisa),23' Stefano Moreo (Pisa),737001,13981637
+22,GOL,Internazionale - Pisa,COINCIDE,,39' Piotr Zielinski (Internazionale) PEN,39' Piotr Zieliński (Inter) PEN,737001,13981637
+22,GOL,Internazionale - Pisa,COINCIDE,,41' Lautaro Martínez (Internazionale),41' Lautaro Martínez (Inter),737001,13981637
+22,GOL,Internazionale - Pisa,COINCIDE,,45+2' Pio Esposito (Internazionale),45+2' Pio Esposito (Inter),737001,13981637
+22,GOL,Internazionale - Pisa,COINCIDE,,82' Federico Dimarco (Internazionale),82' Federico Dimarco (Inter),737001,13981637
+22,GOL,Internazionale - Pisa,COINCIDE,,86' Ange-Yoan Bonny (Internazionale),86' Ange-Yoan Bonny (Inter),737001,13981637
+22,GOL,Internazionale - Pisa,COINCIDE,,90+3' Henrikh Mkhitaryan (Internazionale),90+3' Henrikh Mkhitaryan (Inter),737001,13981637
+22,PARTIDO,Como - Torino,COINCIDE,,2026-01-24T14:00Z 6-0 (6 goles),2026-01-24T14:00Z 6-0 (6 goles),736995,13981631
+22,GOL,Como - Torino,COINCIDE,,8' Anastasios Douvikas (Como),8' Anastasios Douvikas (Como),736995,13981631
+22,GOL,Como - Torino,COINCIDE,,16' Martin Baturina (Como),16' Martin Baturina (Como),736995,13981631
+22,GOL,Como - Torino,COINCIDE,,59' Lucas Da Cunha (Como) PEN,59' Lucas Da Cunha (Como) PEN,736995,13981631
+22,GOL,Como - Torino,COINCIDE,,66' Anastasios Douvikas (Como),66' Anastasios Douvikas (Como),736995,13981631
+22,GOL,Como - Torino,COINCIDE,,76' Maxence Caqueret (Como),76' Maxence Caqueret (Como),736995,13981631
+22,GOL,Como - Torino,DISCREPA,goleador_variante,70' Nicolas Kühn (Como),70' Nicolas-Gerrit Kühn (Como),736995,13981631
+22,PARTIDO,Fiorentina - Cagliari,COINCIDE,,2026-01-24T17:00Z 1-2 (3 goles),2026-01-24T17:00Z 1-2 (3 goles),736996,13981632
+22,GOL,Fiorentina - Cagliari,COINCIDE,,31' Semih Kiliçsoy (Cagliari),31' Semih Kılıçsoy (Cagliari),736996,13981632
+22,GOL,Fiorentina - Cagliari,COINCIDE,,47' Marco Palestra (Cagliari),47' Marco Palestra (Cagliari),736996,13981632
+22,GOL,Fiorentina - Cagliari,COINCIDE,,74' Marco Brescianini (Fiorentina),74' Marco Brescianini (Fiorentina),736996,13981632
+22,PARTIDO,Lecce - Lazio,COINCIDE,,2026-01-24T19:45Z 0-0 (0 goles),2026-01-24T19:45Z 0-0 (0 goles),736999,13981639
+22,PARTIDO,Sassuolo - Cremonese,COINCIDE,,2026-01-25T11:30Z 1-0 (1 goles),2026-01-25T11:30Z 1-0 (1 goles),736998,13981642
+22,GOL,Sassuolo - Cremonese,COINCIDE,,3' Alieu Fadera (Sassuolo),3' Alieu Fadera (Sassuolo),736998,13981642
+22,PARTIDO,Atalanta - Parma,COINCIDE,,2026-01-25T14:00Z 4-0 (4 goles),2026-01-25T14:00Z 4-0 (4 goles),736994,13981635
+22,GOL,Atalanta - Parma,COINCIDE,,15' Gianluca Scamacca (Atalanta) PEN,15' Gianluca Scamacca (Atalanta) PEN,736994,13981635
+22,GOL,Atalanta - Parma,COINCIDE,,24' Marten de Roon (Atalanta),24' Marten de Roon (Atalanta),736994,13981635
+22,GOL,Atalanta - Parma,COINCIDE,,73' Giacomo Raspadori (Atalanta),73' Giacomo Raspadori (Atalanta),736994,13981635
+22,GOL,Atalanta - Parma,COINCIDE,,90+2' Nikola Krstovic (Atalanta),90+2' Nikola Krstović (Atalanta),736994,13981635
+22,PARTIDO,Genoa - Bologna,COINCIDE,,2026-01-25T14:00Z 3-2 (5 goles),2026-01-25T14:00Z 3-2 (5 goles),736997,13981636
+22,GOL,Genoa - Bologna,COINCIDE,,35' Lewis Ferguson (Bologna),35' Lewis Ferguson (Bologna),736997,13981636
+22,GOL,Genoa - Bologna,COINCIDE,,47' Sebastian Otoa (Bologna) AUTOGOL,47' Sebastian Otoa (Bologna) AUTOGOL,736997,13981636
+22,GOL,Genoa - Bologna,COINCIDE,,62' Ruslan Malinovskyi (Genoa),62' Ruslan Malinovskyi (Genoa),736997,13981636
+22,GOL,Genoa - Bologna,COINCIDE,,78' Caleb Ekuban (Genoa),78' Caleb Ekuban (Genoa),736997,13981636
+22,GOL,Genoa - Bologna,COINCIDE,,90+1' Junior Messias (Genoa),90+1' Junior Messias (Genoa),736997,13981636
+22,PARTIDO,Juventus - Napoli,COINCIDE,,2026-01-25T17:00Z 3-0 (3 goles),2026-01-25T17:00Z 3-0 (3 goles),737000,13981638
+22,GOL,Juventus - Napoli,COINCIDE,,22' Jonathan David (Juventus),22' Jonathan David (Juventus),737000,13981638
+22,GOL,Juventus - Napoli,COINCIDE,,77' Kenan Yildiz (Juventus),77' Kenan Yıldız (Juventus),737000,13981638
+22,GOL,Juventus - Napoli,COINCIDE,,86' Filip Kostic (Juventus),86' Filip Kostić (Juventus),737000,13981638
+22,PARTIDO,AS Roma - AC Milan,COINCIDE,,2026-01-25T19:45Z 1-1 (2 goles),2026-01-25T19:45Z 1-1 (2 goles),737003,13981641
+22,GOL,AS Roma - AC Milan,COINCIDE,,62' Koni De Winter (AC Milan),62' Koni De Winter (AC Milan),737003,13981641
+22,GOL,AS Roma - AC Milan,COINCIDE,,74' Lorenzo Pellegrini (AS Roma) PEN,74' Lorenzo Pellegrini (AS Roma) PEN,737003,13981641
+22,PARTIDO,Hellas Verona - Udinese,COINCIDE,,2026-01-26T19:45Z 1-3 (4 goles),2026-01-26T19:45Z 1-3 (4 goles),737002,13981640
+22,GOL,Hellas Verona - Udinese,COINCIDE,,23' Arthur Atta (Udinese),23' Arthur Atta (Udinese),737002,13981640
+22,GOL,Hellas Verona - Udinese,COINCIDE,,26' Gift Orban (Hellas Verona),26' Gift Orban (Hellas Verona),737002,13981640
+22,GOL,Hellas Verona - Udinese,COINCIDE,,58' Alessandro Zanoli (Udinese),58' Alessandro Zanoli (Udinese),737002,13981640
+22,GOL,Hellas Verona - Udinese,COINCIDE,,66' Keinan Davis (Udinese),66' Keinan Davis (Udinese),737002,13981640
+23,PARTIDO,Lazio - Genoa,COINCIDE,,2026-01-30T19:45Z 3-2 (5 goles),2026-01-30T19:45Z 3-2 (5 goles),737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,56' Pedro (Lazio) PEN,56' Pedro (Lazio) PEN,737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,62' Kenneth Taylor (Lazio),62' Kenneth Taylor (Lazio),737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,67' Ruslan Malinovskyi (Genoa) PEN,67' Ruslan Malinovskyi (Genoa) PEN,737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,75' Vitinha (Genoa),75' Vitinha (Genoa),737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,90+10' Danilo Cataldi (Lazio) PEN,90+10' Danilo Cataldi (Lazio) PEN,737013,13981646
+23,PARTIDO,Pisa - Sassuolo,COINCIDE,,2026-01-31T14:00Z 1-3 (4 goles),2026-01-31T14:00Z 1-3 (4 goles),737005,13981652
+23,GOL,Pisa - Sassuolo,COINCIDE,,25' Domenico Berardi (Sassuolo),25' Domenico Berardi (Sassuolo),737005,13981652
+23,GOL,Pisa - Sassuolo,COINCIDE,,45+1' Antonio Caracciolo (Sassuolo) AUTOGOL,45+1' Antonio Caracciolo (Sassuolo) AUTOGOL,737005,13981652
+23,GOL,Pisa - Sassuolo,COINCIDE,,51' Michel Aebischer (Pisa),51' Michel Aebischer (Pisa),737005,13981652
+23,GOL,Pisa - Sassuolo,COINCIDE,,58' Ismaël Koné (Sassuolo),58' Ismael Koné (Sassuolo),737005,13981652
+23,PARTIDO,Napoli - Fiorentina,COINCIDE,,2026-01-31T17:00Z 2-1 (3 goles),2026-01-31T17:00Z 2-1 (3 goles),737007,13981647
+23,GOL,Napoli - Fiorentina,COINCIDE,,11' Antonio Vergara (Napoli),11' Antonio Vergara (SSC Napoli),737007,13981647
+23,GOL,Napoli - Fiorentina,COINCIDE,,49' Miguel Gutiérrez (Napoli),49' Miguel Gutiérrez (SSC Napoli),737007,13981647
+23,GOL,Napoli - Fiorentina,COINCIDE,,57' Manor Solomon (Fiorentina),57' Manor Solomon (Fiorentina),737007,13981647
+23,PARTIDO,Cagliari - Hellas Verona,COINCIDE,,2026-01-31T19:45Z 4-0 (4 goles),2026-01-31T19:45Z 4-0 (4 goles),737011,13981644
+23,GOL,Cagliari - Hellas Verona,COINCIDE,,36' Luca Mazzitelli (Cagliari),36' Luca Mazzitelli (Cagliari),737011,13981644
+23,GOL,Cagliari - Hellas Verona,COINCIDE,,45+2' Semih Kiliçsoy (Cagliari),45+2' Semih Kılıçsoy (Cagliari),737011,13981644
+23,GOL,Cagliari - Hellas Verona,COINCIDE,,90+1' Riyad Idrissi (Cagliari),90+1' Riyad Idrissi (Cagliari),737011,13981644
+23,GOL,Cagliari - Hellas Verona,DISCREPA,goleador_variante,84' Sulemana (Cagliari),84' Ibrahim Sulemana (Cagliari),737011,13981644
+23,PARTIDO,Torino - Lecce,COINCIDE,,2026-02-01T11:30Z 1-0 (1 goles),2026-02-01T11:30Z 1-0 (1 goles),737004,13981653
+23,GOL,Torino - Lecce,COINCIDE,,29' Ché Adams (Torino),29' Che Adams (Torino),737004,13981653
+23,PARTIDO,Como - Atalanta,COINCIDE,,2026-02-01T14:00Z 0-0 (0 goles),2026-02-01T14:00Z 0-0 (0 goles),737010,13981645
+23,PARTIDO,Cremonese - Internazionale,COINCIDE,,2026-02-01T17:00Z 0-2 (2 goles),2026-02-01T17:00Z 0-2 (2 goles),737009,13981649
+23,GOL,Cremonese - Internazionale,COINCIDE,,16' Lautaro Martínez (Internazionale),16' Lautaro Martínez (Inter),737009,13981649
+23,GOL,Cremonese - Internazionale,COINCIDE,,31' Piotr Zielinski (Internazionale),31' Piotr Zieliński (Inter),737009,13981649
+23,PARTIDO,Parma - Juventus,COINCIDE,,2026-02-01T19:45Z 1-4 (5 goles),2026-02-01T19:45Z 1-4 (5 goles),737006,13981648
+23,GOL,Parma - Juventus,COINCIDE,,37' Weston McKennie (Juventus),37' Weston McKennie (Juventus),737006,13981648
+23,GOL,Parma - Juventus,COINCIDE,,51' Andrea Cambiaso (Parma) AUTOGOL,51' Andrea Cambiaso (Parma) AUTOGOL,737006,13981648
+23,GOL,Parma - Juventus,COINCIDE,,64' Jonathan David (Juventus),64' Jonathan David (Juventus),737006,13981648
+23,GOL,Parma - Juventus,DISCREPA,goleador_variante,15' Bremer (Juventus),15' Gleison Bremer (Juventus),737006,13981648
+23,GOL,Parma - Juventus,DISCREPA,goleador_variante,54' Bremer (Juventus),54' Gleison Bremer (Juventus),737006,13981648
+23,PARTIDO,Udinese - AS Roma,COINCIDE,,2026-02-02T19:45Z 1-0 (1 goles),2026-02-02T19:45Z 1-0 (1 goles),737008,13981651
+23,GOL,Udinese - AS Roma,COINCIDE,,49' Jurgen Ekkelenkamp (Udinese),49' Jürgen Ekkelenkamp (Udinese),737008,13981651
+23,PARTIDO,Bologna - AC Milan,COINCIDE,,2026-02-03T19:45Z 0-3 (3 goles),2026-02-03T19:45Z 0-3 (3 goles),737012,15370282
+23,GOL,Bologna - AC Milan,COINCIDE,,20' Ruben Loftus-Cheek (AC Milan),20' Ruben Loftus-Cheek (AC Milan),737012,15370282
+23,GOL,Bologna - AC Milan,COINCIDE,,39' Christopher Nkunku (AC Milan) PEN,39' Christopher Nkunku (AC Milan) PEN,737012,15370282
+23,GOL,Bologna - AC Milan,COINCIDE,,48' Adrien Rabiot (AC Milan),48' Adrien Rabiot (AC Milan),737012,15370282
+24,PARTIDO,Hellas Verona - Pisa,COINCIDE,,2026-02-06T19:45Z 0-0 (0 goles),2026-02-06T19:45Z 0-0 (0 goles),737018,13981662
+24,PARTIDO,Genoa - Napoli,COINCIDE,,2026-02-07T17:00Z 2-3 (5 goles),2026-02-07T17:00Z 2-3 (5 goles),737019,13981666
+24,GOL,Genoa - Napoli,COINCIDE,,3' Ruslan Malinovskyi (Genoa) PEN,3' Ruslan Malinovskyi (Genoa) PEN,737019,13981666
+24,GOL,Genoa - Napoli,COINCIDE,,20' Rasmus Højlund (Napoli),20' Rasmus Højlund (SSC Napoli),737019,13981666
+24,GOL,Genoa - Napoli,COINCIDE,,21' Scott McTominay (Napoli),21' Scott McTominay (SSC Napoli),737019,13981666
+24,GOL,Genoa - Napoli,COINCIDE,,57' Lorenzo Colombo (Genoa),57' Lorenzo Colombo (Genoa),737019,13981666
+24,GOL,Genoa - Napoli,COINCIDE,,90+5' Rasmus Højlund (Napoli) PEN,90+5' Rasmus Højlund (SSC Napoli) PEN,737019,13981666
+24,PARTIDO,Fiorentina - Torino,COINCIDE,,2026-02-07T19:45Z 2-2 (4 goles),2026-02-07T19:45Z 2-2 (4 goles),737020,13981658
+24,GOL,Fiorentina - Torino,COINCIDE,,26' Cesare Casadei (Torino),26' Cesare Casadei (Torino),737020,13981658
+24,GOL,Fiorentina - Torino,COINCIDE,,51' Manor Solomon (Fiorentina),51' Manor Solomon (Fiorentina),737020,13981658
+24,GOL,Fiorentina - Torino,COINCIDE,,57' Moise Kean (Fiorentina),57' Moise Kean (Fiorentina),737020,13981658
+24,GOL,Fiorentina - Torino,COINCIDE,,90+4' Guillermo Maripán (Torino),90+4' Guillermo Maripán (Torino),737020,13981658
+24,PARTIDO,Bologna - Parma,COINCIDE,,2026-02-08T11:30Z 0-1 (1 goles),2026-02-08T11:30Z 0-1 (1 goles),737021,13981654
+24,GOL,Bologna - Parma,COINCIDE,,90+4' Christian Ordoñez (Parma),90+4' Christian Ordoñez (Parma),737021,13981654
+24,PARTIDO,Lecce - Udinese,COINCIDE,,2026-02-08T14:00Z 2-1 (3 goles),2026-02-08T14:00Z 2-1 (3 goles),737016,13981656
+24,GOL,Lecce - Udinese,COINCIDE,,5' Omri Gandelman (Lecce),5' Omri Gandelman (Lecce),737016,13981656
+24,GOL,Lecce - Udinese,COINCIDE,,26' Oumar Solet (Udinese) PEN,26' Oumar Solet (Udinese) PEN,737016,13981656
+24,GOL,Lecce - Udinese,COINCIDE,,90' Lameck Banda (Lecce),90' Lameck Banda (Lecce),737016,13981656
+24,PARTIDO,Sassuolo - Internazionale,COINCIDE,,2026-02-08T17:00Z 0-5 (5 goles),2026-02-08T17:00Z 0-5 (5 goles),737023,13981660
+24,GOL,Sassuolo - Internazionale,COINCIDE,,11' Yann Bisseck (Internazionale),11' Yann Bisseck (Inter),737023,13981660
+24,GOL,Sassuolo - Internazionale,COINCIDE,,28' Marcus Thuram (Internazionale),28' Marcus Thuram (Inter),737023,13981660
+24,GOL,Sassuolo - Internazionale,COINCIDE,,50' Lautaro Martínez (Internazionale),50' Lautaro Martínez (Inter),737023,13981660
+24,GOL,Sassuolo - Internazionale,COINCIDE,,53' Manuel Akanji (Internazionale),53' Manuel Akanji (Inter),737023,13981660
+24,GOL,Sassuolo - Internazionale,COINCIDE,,88' Luis Henrique (Internazionale),88' Luís Henrique (Inter),737023,13981660
+24,PARTIDO,Juventus - Lazio,COINCIDE,,2026-02-08T19:45Z 2-2 (4 goles),2026-02-08T19:45Z 2-2 (4 goles),737017,13981655
+24,GOL,Juventus - Lazio,COINCIDE,,45+2' Pedro (Lazio),45+2' Pedro (Lazio),737017,13981655
+24,GOL,Juventus - Lazio,COINCIDE,,47' Gustav Isaksen (Lazio),47' Gustav Isaksen (Lazio),737017,13981655
+24,GOL,Juventus - Lazio,COINCIDE,,59' Weston McKennie (Juventus),59' Weston McKennie (Juventus),737017,13981655
+24,GOL,Juventus - Lazio,COINCIDE,,90+6' Pierre Kalulu (Juventus),90+6' Pierre Kalulu (Juventus),737017,13981655
+24,PARTIDO,Atalanta - Cremonese,COINCIDE,,2026-02-09T17:30Z 2-1 (3 goles),2026-02-09T17:30Z 2-1 (3 goles),737022,13981650
+24,GOL,Atalanta - Cremonese,COINCIDE,,13' Nikola Krstovic (Atalanta),13' Nikola Krstović (Atalanta),737022,13981650
+24,GOL,Atalanta - Cremonese,COINCIDE,,25' Davide Zappacosta (Atalanta),25' Davide Zappacosta (Atalanta),737022,13981650
+24,GOL,Atalanta - Cremonese,COINCIDE,,90+4' Morten Thorsby (Cremonese),90+4' Morten Thorsby (Cremonese),737022,13981650
+24,PARTIDO,AS Roma - Cagliari,COINCIDE,,2026-02-09T19:45Z 2-0 (2 goles),2026-02-09T19:45Z 2-0 (2 goles),737014,13981664
+24,GOL,AS Roma - Cagliari,COINCIDE,,25' Donyell Malen (AS Roma),25' Donyell Malen (AS Roma),737014,13981664
+24,GOL,AS Roma - Cagliari,COINCIDE,,65' Donyell Malen (AS Roma),65' Donyell Malen (AS Roma),737014,13981664
+24,PARTIDO,AC Milan - Como,COINCIDE,,2026-02-18T19:45Z 1-1 (2 goles),2026-02-18T19:45Z 1-1 (2 goles),737015,15462526
+24,GOL,AC Milan - Como,COINCIDE,,32' Nico Paz (Como),32' Nico Paz (Como),737015,15462526
+24,GOL,AC Milan - Como,COINCIDE,,64' Rafael Leão (AC Milan),64' Rafael Leão (AC Milan),737015,15462526
+25,PARTIDO,Pisa - AC Milan,COINCIDE,,2026-02-13T19:45Z 1-2 (3 goles),2026-02-13T19:45Z 1-2 (3 goles),737028,13981670
+25,GOL,Pisa - AC Milan,COINCIDE,,39' Ruben Loftus-Cheek (AC Milan),39' Ruben Loftus-Cheek (AC Milan),737028,13981670
+25,GOL,Pisa - AC Milan,COINCIDE,,71' Felipe Loyola (Pisa),71' Felipe Loyola (Pisa),737028,13981670
+25,GOL,Pisa - AC Milan,COINCIDE,,85' Luka Modric (AC Milan),85' Luka Modrić (AC Milan),737028,13981670
+25,PARTIDO,Como - Fiorentina,COINCIDE,,2026-02-14T14:00Z 1-2 (3 goles),2026-02-14T14:00Z 1-2 (3 goles),737025,13981667
+25,GOL,Como - Fiorentina,COINCIDE,,26' Nicolò Fagioli (Fiorentina),26' Nicolò Fagioli (Fiorentina),737025,13981667
+25,GOL,Como - Fiorentina,COINCIDE,,54' Moise Kean (Fiorentina) PEN,54' Moise Kean (Fiorentina) PEN,737025,13981667
+25,GOL,Como - Fiorentina,COINCIDE,,77' Fabiano Parisi (Como) AUTOGOL,77' Fabiano Parisi (Como) AUTOGOL,737025,13981667
+25,PARTIDO,Lazio - Atalanta,COINCIDE,,2026-02-14T17:00Z 0-2 (2 goles),2026-02-14T17:00Z 0-2 (2 goles),737031,13981659
+25,GOL,Lazio - Atalanta,COINCIDE,,41' Éderson (Atalanta) PEN,41' Éderson (Atalanta) PEN,737031,13981659
+25,GOL,Lazio - Atalanta,COINCIDE,,60' Nicola Zalewski (Atalanta),60' Nicola Zalewski (Atalanta),737031,13981659
+25,PARTIDO,Internazionale - Juventus,COINCIDE,,2026-02-14T19:45Z 3-2 (5 goles),2026-02-14T19:45Z 3-2 (5 goles),737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,17' Andrea Cambiaso (Internazionale) AUTOGOL,17' Andrea Cambiaso (Inter) AUTOGOL,737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,26' Andrea Cambiaso (Juventus),26' Andrea Cambiaso (Juventus),737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,76' Pio Esposito (Internazionale),76' Pio Esposito (Inter),737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,83' Manuel Locatelli (Juventus),83' Manuel Locatelli (Juventus),737032,13981671
+25,GOL,Internazionale - Juventus,COINCIDE,,90' Piotr Zielinski (Internazionale),90' Piotr Zieliński (Inter),737032,13981671
+25,PARTIDO,Udinese - Sassuolo,COINCIDE,,2026-02-15T11:30Z 1-2 (3 goles),2026-02-15T11:30Z 1-2 (3 goles),737026,13981672
+25,GOL,Udinese - Sassuolo,COINCIDE,,10' Oumar Solet (Udinese),10' Oumar Solet (Udinese),737026,13981672
+25,GOL,Udinese - Sassuolo,COINCIDE,,56' Armand Laurienté (Sassuolo),56' Armand Laurienté (Sassuolo),737026,13981672
+25,GOL,Udinese - Sassuolo,COINCIDE,,58' Andrea Pinamonti (Sassuolo),58' Andrea Pinamonti (Sassuolo),737026,13981672
+25,PARTIDO,Cremonese - Genoa,COINCIDE,,2026-02-15T14:00Z 0-0 (0 goles),2026-02-15T14:00Z 0-0 (0 goles),737033,13981657
+25,PARTIDO,Parma - Hellas Verona,COINCIDE,,2026-02-15T14:00Z 2-1 (3 goles),2026-02-15T14:00Z 2-1 (3 goles),737029,13981668
+25,GOL,Parma - Hellas Verona,COINCIDE,,4' Adrián Bernabé (Parma),4' Adrián Bernabé (Parma),737029,13981668
+25,GOL,Parma - Hellas Verona,COINCIDE,,43' Abdou Harroui (Hellas Verona) PEN,43' Abdou Harroui (Hellas Verona) PEN,737029,13981668
+25,GOL,Parma - Hellas Verona,COINCIDE,,90+3' Mateo Pellegrino (Parma),90+3' Mateo Pellegrino (Parma),737029,13981668
+25,PARTIDO,Torino - Bologna,COINCIDE,,2026-02-15T17:00Z 1-2 (3 goles),2026-02-15T17:00Z 1-2 (3 goles),737027,13981669
+25,GOL,Torino - Bologna,COINCIDE,,49' Nikola Moro (Bologna),49' Nikola Moro (Bologna),737027,13981669
+25,GOL,Torino - Bologna,COINCIDE,,62' Nikola Vlasic (Torino),62' Nikola Vlašić (Torino),737027,13981669
+25,GOL,Torino - Bologna,COINCIDE,,70' Santiago Castro (Bologna),70' Santiago Castro (Bologna),737027,13981669
+25,PARTIDO,Napoli - AS Roma,COINCIDE,,2026-02-15T19:45Z 2-2 (4 goles),2026-02-15T19:45Z 2-2 (4 goles),737030,13981665
+25,GOL,Napoli - AS Roma,COINCIDE,,7' Donyell Malen (AS Roma),7' Donyell Malen (AS Roma),737030,13981665
+25,GOL,Napoli - AS Roma,COINCIDE,,40' Leonardo Spinazzola (Napoli),40' Leonardo Spinazzola (SSC Napoli),737030,13981665
+25,GOL,Napoli - AS Roma,COINCIDE,,71' Donyell Malen (AS Roma) PEN,71' Donyell Malen (AS Roma) PEN,737030,13981665
+25,GOL,Napoli - AS Roma,COINCIDE,,82' Alisson Santos (Napoli),82' Alisson Santos (SSC Napoli),737030,13981665
+25,PARTIDO,Cagliari - Lecce,COINCIDE,,2026-02-16T19:45Z 0-2 (2 goles),2026-02-16T19:45Z 0-2 (2 goles),737024,13981663
+25,GOL,Cagliari - Lecce,COINCIDE,,64' Omri Gandelman (Lecce),64' Omri Gandelman (Lecce),737024,13981663
+25,GOL,Cagliari - Lecce,COINCIDE,,76' Ylber Ramadani (Lecce),76' Ylber Ramadani (Lecce),737024,13981663
+26,PARTIDO,Sassuolo - Hellas Verona,COINCIDE,,2026-02-20T19:45Z 3-0 (3 goles),2026-02-20T19:45Z 3-0 (3 goles),737038,13981681
+26,GOL,Sassuolo - Hellas Verona,COINCIDE,,40' Andrea Pinamonti (Sassuolo),40' Andrea Pinamonti (Sassuolo),737038,13981681
+26,GOL,Sassuolo - Hellas Verona,COINCIDE,,44' Domenico Berardi (Sassuolo),44' Domenico Berardi (Sassuolo),737038,13981681
+26,GOL,Sassuolo - Hellas Verona,COINCIDE,,62' Domenico Berardi (Sassuolo),62' Domenico Berardi (Sassuolo),737038,13981681
+26,PARTIDO,Juventus - Como,COINCIDE,,2026-02-21T14:00Z 0-2 (2 goles),2026-02-21T14:00Z 0-2 (2 goles),737043,13981678
+26,GOL,Juventus - Como,COINCIDE,,11' Mërgim Vojvoda (Como),11' Mërgim Vojvoda (Como),737043,13981678
+26,GOL,Juventus - Como,COINCIDE,,61' Maxence Caqueret (Como),61' Maxence Caqueret (Como),737043,13981678
+26,PARTIDO,Lecce - Internazionale,COINCIDE,,2026-02-21T17:00Z 0-2 (2 goles),2026-02-21T17:00Z 0-2 (2 goles),737037,13981679
+26,GOL,Lecce - Internazionale,COINCIDE,,75' Henrikh Mkhitaryan (Internazionale),75' Henrikh Mkhitaryan (Inter),737037,13981679
+26,GOL,Lecce - Internazionale,COINCIDE,,82' Manuel Akanji (Internazionale),82' Manuel Akanji (Inter),737037,13981679
+26,PARTIDO,Cagliari - Lazio,COINCIDE,,2026-02-21T19:45Z 0-0 (0 goles),2026-02-21T19:45Z 0-0 (0 goles),737041,13981674
+26,PARTIDO,Genoa - Torino,COINCIDE,,2026-02-22T11:30Z 3-0 (3 goles),2026-02-22T11:30Z 3-0 (3 goles),737039,13981676
+26,GOL,Genoa - Torino,COINCIDE,,21' Brooke Norton-Cuffy (Genoa),21' Brooke Norton-Cuffy (Genoa),737039,13981676
+26,GOL,Genoa - Torino,COINCIDE,,40' Caleb Ekuban (Genoa),40' Caleb Ekuban (Genoa),737039,13981676
+26,GOL,Genoa - Torino,COINCIDE,,83' Junior Messias (Genoa),83' Junior Messias (Genoa),737039,13981676
+26,PARTIDO,Atalanta - Napoli,COINCIDE,,2026-02-22T14:00Z 2-1 (3 goles),2026-02-22T14:00Z 2-1 (3 goles),737034,13981673
+26,GOL,Atalanta - Napoli,COINCIDE,,18' Sam Beukema (Napoli),18' Sam Beukema (SSC Napoli),737034,13981673
+26,GOL,Atalanta - Napoli,COINCIDE,,61' Mario Pasalic (Atalanta),61' Mario Pašalić (Atalanta),737034,13981673
+26,GOL,Atalanta - Napoli,COINCIDE,,81' Lazar Samardzic (Atalanta),81' Lazar Samardžić (Atalanta),737034,13981673
+26,PARTIDO,AC Milan - Parma,COINCIDE,,2026-02-22T17:00Z 0-1 (1 goles),2026-02-22T17:00Z 0-1 (1 goles),737036,13981680
+26,GOL,AC Milan - Parma,COINCIDE,,80' Mariano Troilo (Parma),80' Mariano Troilo (Parma),737036,13981680
+26,PARTIDO,AS Roma - Cremonese,COINCIDE,,2026-02-22T19:45Z 3-0 (3 goles),2026-02-22T19:45Z 3-0 (3 goles),737035,13981682
+26,GOL,AS Roma - Cremonese,COINCIDE,,59' Bryan Cristante (AS Roma),59' Bryan Cristante (AS Roma),737035,13981682
+26,GOL,AS Roma - Cremonese,COINCIDE,,77' Evan Ndicka (AS Roma),77' Evan Ndicka (AS Roma),737035,13981682
+26,GOL,AS Roma - Cremonese,COINCIDE,,86' Niccolò Pisilli (AS Roma),86' Niccolò Pisilli (AS Roma),737035,13981682
+26,PARTIDO,Fiorentina - Pisa,COINCIDE,,2026-02-23T17:30Z 1-0 (1 goles),2026-02-23T17:30Z 1-0 (1 goles),737040,13981677
+26,GOL,Fiorentina - Pisa,COINCIDE,,13' Moise Kean (Fiorentina),13' Moise Kean (Fiorentina),737040,13981677
+26,PARTIDO,Bologna - Udinese,COINCIDE,,2026-02-23T19:45Z 1-0 (1 goles),2026-02-23T19:45Z 1-0 (1 goles),737042,13981675
+26,GOL,Bologna - Udinese,COINCIDE,,75' Federico Bernardeschi (Bologna) PEN,75' Federico Bernardeschi (Bologna) PEN,737042,13981675
+27,PARTIDO,Parma - Cagliari,COINCIDE,,2026-02-27T19:45Z 1-1 (2 goles),2026-02-27T19:45Z 1-1 (2 goles),737053,13981687
+27,GOL,Parma - Cagliari,COINCIDE,,62' Michael Folorunsho (Cagliari),62' Michael Folorunsho (Cagliari),737053,13981687
+27,GOL,Parma - Cagliari,COINCIDE,,83' Gaetano Oristanio (Parma),83' Gaetano Oristanio (Parma),737053,13981687
+27,PARTIDO,Como - Lecce,COINCIDE,,2026-02-28T14:00Z 3-1 (4 goles),2026-02-28T14:00Z 3-1 (4 goles),737052,13981683
+27,GOL,Como - Lecce,COINCIDE,,13' Lassana Coulibaly (Lecce),13' Lassana Coulibaly (Lecce),737052,13981683
+27,GOL,Como - Lecce,COINCIDE,,18' Anastasios Douvikas (Como),18' Anastasios Douvikas (Como),737052,13981683
+27,GOL,Como - Lecce,COINCIDE,,36' Jesús Rodriguez (Como),36' Jesús Rodriguez (Como),737052,13981683
+27,GOL,Como - Lecce,DISCREPA,goleador_variante,44' Marc-Oliver Kempf (Como),44' Marc Kempf (Como),737052,13981683
+27,PARTIDO,Hellas Verona - Napoli,COINCIDE,,2026-02-28T17:00Z 1-2 (3 goles),2026-02-28T17:00Z 1-2 (3 goles),737050,13981694
+27,GOL,Hellas Verona - Napoli,COINCIDE,,2' Rasmus Højlund (Napoli),2' Rasmus Højlund (SSC Napoli),737050,13981694
+27,GOL,Hellas Verona - Napoli,COINCIDE,,64' Jean-Daniel Akpa Akpro (Hellas Verona),64' Jean Daniel Akpa-Akpro (Hellas Verona),737050,13981694
+27,GOL,Hellas Verona - Napoli,COINCIDE,,90+6' Romelu Lukaku (Napoli),90+6' Romelu Lukaku (SSC Napoli),737050,13981694
+27,PARTIDO,Internazionale - Genoa,COINCIDE,,2026-02-28T19:45Z 2-0 (2 goles),2026-02-28T19:45Z 2-0 (2 goles),737049,13981684
+27,GOL,Internazionale - Genoa,COINCIDE,,31' Federico Dimarco (Internazionale),31' Federico Dimarco (Inter),737049,13981684
+27,GOL,Internazionale - Genoa,COINCIDE,,70' Hakan Çalhanoglu (Internazionale) PEN,70' Hakan Çalhanoğlu (Inter) PEN,737049,13981684
+27,PARTIDO,Cremonese - AC Milan,COINCIDE,,2026-03-01T11:30Z 0-2 (2 goles),2026-03-01T11:30Z 0-2 (2 goles),737051,13981685
+27,GOL,Cremonese - AC Milan,COINCIDE,,89' Strahinja Pavlovic (AC Milan),89' Strahinja Pavlović (AC Milan),737051,13981685
+27,GOL,Cremonese - AC Milan,COINCIDE,,90+4' Rafael Leão (AC Milan),90+4' Rafael Leão (AC Milan),737051,13981685
+27,PARTIDO,Sassuolo - Atalanta,COINCIDE,,2026-03-01T14:00Z 2-1 (3 goles),2026-03-01T14:00Z 2-1 (3 goles),737045,13981689
+27,GOL,Sassuolo - Atalanta,COINCIDE,,23' Ismaël Koné (Sassuolo),23' Ismael Koné (Sassuolo),737045,13981689
+27,GOL,Sassuolo - Atalanta,COINCIDE,,69' Kristian Thorstvedt (Sassuolo),69' Kristian Thorstvedt (Sassuolo),737045,13981689
+27,GOL,Sassuolo - Atalanta,COINCIDE,,88' Yunus Musah (Atalanta),88' Yunus Musah (Atalanta),737045,13981689
+27,PARTIDO,Torino - Lazio,COINCIDE,,2026-03-01T17:00Z 2-0 (2 goles),2026-03-01T17:00Z 2-0 (2 goles),737044,13981690
+27,GOL,Torino - Lazio,COINCIDE,,21' Giovanni Simeone (Torino),21' Giovanni Simeone (Torino),737044,13981690
+27,GOL,Torino - Lazio,COINCIDE,,53' Duván Zapata (Torino),53' Duván Zapata (Torino),737044,13981690
+27,PARTIDO,AS Roma - Juventus,COINCIDE,,2026-03-01T19:45Z 3-3 (6 goles),2026-03-01T19:45Z 3-3 (6 goles),737046,13981688
+27,GOL,AS Roma - Juventus,COINCIDE,,39' Wesley (AS Roma),39' Wesley (AS Roma),737046,13981688
+27,GOL,AS Roma - Juventus,COINCIDE,,47' Francisco Conceição (Juventus),47' Francisco Conceição (Juventus),737046,13981688
+27,GOL,AS Roma - Juventus,COINCIDE,,54' Evan Ndicka (AS Roma),54' Evan Ndicka (AS Roma),737046,13981688
+27,GOL,AS Roma - Juventus,COINCIDE,,65' Donyell Malen (AS Roma),65' Donyell Malen (AS Roma),737046,13981688
+27,GOL,AS Roma - Juventus,COINCIDE,,78' Jérémie Boga (Juventus),78' Jérémie Boga (Juventus),737046,13981688
+27,GOL,AS Roma - Juventus,COINCIDE,,90+3' Federico Gatti (Juventus),90+3' Federico Gatti (Juventus),737046,13981688
+27,PARTIDO,Pisa - Bologna,COINCIDE,,2026-03-02T17:30Z 0-1 (1 goles),2026-03-02T17:30Z 0-1 (1 goles),737047,13981686
+27,GOL,Pisa - Bologna,COINCIDE,,90' Jens Odgaard (Bologna),90' Jens Odgaard (Bologna),737047,13981686
+27,PARTIDO,Udinese - Fiorentina,COINCIDE,,2026-03-02T19:45Z 3-0 (3 goles),2026-03-02T19:45Z 3-0 (3 goles),737048,13981691
+27,GOL,Udinese - Fiorentina,COINCIDE,,10' Christian Kabasele (Udinese),10' Christian Kabasele (Udinese),737048,13981691
+27,GOL,Udinese - Fiorentina,COINCIDE,,63' Keinan Davis (Udinese) PEN,63' Keinan Davis (Udinese) PEN,737048,13981691
+27,GOL,Udinese - Fiorentina,COINCIDE,,90+4' Adam Buksa (Udinese),90+4' Adam Buksa (Udinese),737048,13981691
+28,PARTIDO,Napoli - Torino,COINCIDE,,2026-03-06T19:45Z 2-1 (3 goles),2026-03-06T19:45Z 2-1 (3 goles),737063,13981702
+28,GOL,Napoli - Torino,COINCIDE,,7' Alisson Santos (Napoli),7' Alisson Santos (SSC Napoli),737063,13981702
+28,GOL,Napoli - Torino,COINCIDE,,68' Eljif Elmas (Napoli),68' Eljif Elmas (SSC Napoli),737063,13981702
+28,GOL,Napoli - Torino,COINCIDE,,87' Cesare Casadei (Torino),87' Cesare Casadei (Torino),737063,13981702
+28,PARTIDO,Cagliari - Como,COINCIDE,,2026-03-07T14:00Z 1-2 (3 goles),2026-03-07T14:00Z 1-2 (3 goles),737060,13981693
+28,GOL,Cagliari - Como,COINCIDE,,14' Martin Baturina (Como),14' Martin Baturina (Como),737060,13981693
+28,GOL,Cagliari - Como,COINCIDE,,56' Sebastiano Esposito (Cagliari),56' Sebastiano Esposito (Cagliari),737060,13981693
+28,GOL,Cagliari - Como,COINCIDE,,76' Lucas Da Cunha (Como),76' Lucas Da Cunha (Como),737060,13981693
+28,PARTIDO,Atalanta - Udinese,COINCIDE,,2026-03-07T17:00Z 2-2 (4 goles),2026-03-07T17:00Z 2-2 (4 goles),737062,13981695
+28,GOL,Atalanta - Udinese,COINCIDE,,39' Thomas Kristensen (Udinese),39' Thomas Kristensen (Udinese),737062,13981695
+28,GOL,Atalanta - Udinese,COINCIDE,,55' Keinan Davis (Udinese),55' Keinan Davis (Udinese),737062,13981695
+28,GOL,Atalanta - Udinese,COINCIDE,,75' Gianluca Scamacca (Atalanta),75' Gianluca Scamacca (Atalanta),737062,13981695
+28,GOL,Atalanta - Udinese,COINCIDE,,79' Gianluca Scamacca (Atalanta),79' Gianluca Scamacca (Atalanta),737062,13981695
+28,PARTIDO,Juventus - Pisa,COINCIDE,,2026-03-07T19:45Z 4-0 (4 goles),2026-03-07T19:45Z 4-0 (4 goles),737057,13981697
+28,GOL,Juventus - Pisa,COINCIDE,,54' Andrea Cambiaso (Juventus),54' Andrea Cambiaso (Juventus),737057,13981697
+28,GOL,Juventus - Pisa,COINCIDE,,65' Khéphren Thuram (Juventus),65' Khéphren Thuram (Juventus),737057,13981697
+28,GOL,Juventus - Pisa,COINCIDE,,75' Kenan Yildiz (Juventus),75' Kenan Yıldız (Juventus),737057,13981697
+28,GOL,Juventus - Pisa,COINCIDE,,90+3' Jérémie Boga (Juventus),90+3' Jérémie Boga (Juventus),737057,13981697
+28,PARTIDO,Lecce - Cremonese,COINCIDE,,2026-03-08T11:30Z 2-1 (3 goles),2026-03-08T11:30Z 2-1 (3 goles),737055,13981701
+28,GOL,Lecce - Cremonese,COINCIDE,,22' Santiago Pierotti (Lecce),22' Santiago Pierotti (Lecce),737055,13981701
+28,GOL,Lecce - Cremonese,COINCIDE,,38' Nikola Stulic (Lecce) PEN,38' Nikola Štulić (Lecce) PEN,737055,13981701
+28,GOL,Lecce - Cremonese,COINCIDE,,47' Federico Bonazzoli (Cremonese),47' Federico Bonazzoli (Cremonese),737055,13981701
+28,PARTIDO,Bologna - Hellas Verona,COINCIDE,,2026-03-08T14:00Z 1-2 (3 goles),2026-03-08T14:00Z 1-2 (3 goles),737061,13981692
+28,GOL,Bologna - Hellas Verona,COINCIDE,,53' Martin Frese (Hellas Verona),53' Martin Frese (Hellas Verona),737061,13981692
+28,GOL,Bologna - Hellas Verona,COINCIDE,,57' Kieron Bowie (Hellas Verona),57' Kieron Bowie (Hellas Verona),737061,13981692
+28,GOL,Bologna - Hellas Verona,DISCREPA,goleador_variante,49' Jon Rowe (Bologna),49' Jonathan Rowe (Bologna),737061,13981692
+28,PARTIDO,Fiorentina - Parma,COINCIDE,,2026-03-08T14:00Z 0-0 (0 goles),2026-03-08T14:00Z 0-0 (0 goles),737059,13981696
+28,PARTIDO,Genoa - AS Roma,COINCIDE,,2026-03-08T17:00Z 2-1 (3 goles),2026-03-08T17:00Z 2-1 (3 goles),737058,13981698
+28,GOL,Genoa - AS Roma,COINCIDE,,52' Junior Messias (Genoa) PEN,52' Junior Messias (Genoa) PEN,737058,13981698
+28,GOL,Genoa - AS Roma,COINCIDE,,55' Evan Ndicka (AS Roma),55' Evan Ndicka (AS Roma),737058,13981698
+28,GOL,Genoa - AS Roma,COINCIDE,,80' Vitinha (Genoa),80' Vitinha (Genoa),737058,13981698
+28,PARTIDO,AC Milan - Internazionale,COINCIDE,,2026-03-08T19:45Z 1-0 (1 goles),2026-03-08T19:45Z 1-0 (1 goles),737054,13981700
+28,GOL,AC Milan - Internazionale,COINCIDE,,35' Pervis Estupiñán (AC Milan),35' Pervis Estupiñán (AC Milan),737054,13981700
+28,PARTIDO,Lazio - Sassuolo,COINCIDE,,2026-03-09T19:45Z 2-1 (3 goles),2026-03-09T19:45Z 2-1 (3 goles),737056,13981699
+28,GOL,Lazio - Sassuolo,COINCIDE,,2' Daniel Maldini (Lazio),2' Daniel Maldini (Lazio),737056,13981699
+28,GOL,Lazio - Sassuolo,COINCIDE,,35' Armand Laurienté (Sassuolo),35' Armand Laurienté (Sassuolo),737056,13981699
+28,GOL,Lazio - Sassuolo,COINCIDE,,90+2' Adam Marusic (Lazio),90+2' Adam Marušić (Lazio),737056,13981699
+29,PARTIDO,Torino - Parma,COINCIDE,,2026-03-13T19:45Z 4-1 (5 goles),2026-03-13T19:45Z 4-1 (5 goles),737067,13981714
+29,GOL,Torino - Parma,COINCIDE,,3' Giovanni Simeone (Torino),3' Giovanni Simeone (Torino),737067,13981714
+29,GOL,Torino - Parma,COINCIDE,,20' Mateo Pellegrino (Parma),20' Mateo Pellegrino (Parma),737067,13981714
+29,GOL,Torino - Parma,COINCIDE,,54' Emirhan Ilkhan (Torino),54' Emirhan İlkhan (Torino),737067,13981714
+29,GOL,Torino - Parma,COINCIDE,,56' Mandela Keita (Torino) AUTOGOL,56' Mandela Keita (Torino) AUTOGOL,737067,13981714
+29,GOL,Torino - Parma,COINCIDE,,90+1' Duván Zapata (Torino),90+1' Duván Zapata (Torino),737067,13981714
+29,PARTIDO,Internazionale - Atalanta,COINCIDE,,2026-03-14T14:00Z 1-1 (2 goles),2026-03-14T14:00Z 1-1 (2 goles),737072,13981705
+29,GOL,Internazionale - Atalanta,COINCIDE,,26' Pio Esposito (Internazionale),26' Pio Esposito (Inter),737072,13981705
+29,GOL,Internazionale - Atalanta,COINCIDE,,82' Nikola Krstovic (Atalanta),82' Nikola Krstović (Atalanta),737072,13981705
+29,PARTIDO,Napoli - Lecce,COINCIDE,,2026-03-14T17:00Z 2-1 (3 goles),2026-03-14T17:00Z 2-1 (3 goles),737070,13981708
+29,GOL,Napoli - Lecce,COINCIDE,,3' Jamil Siebert (Lecce),3' Jamil Siebert (Lecce),737070,13981708
+29,GOL,Napoli - Lecce,COINCIDE,,46' Rasmus Højlund (Napoli),46' Rasmus Højlund (SSC Napoli),737070,13981708
+29,GOL,Napoli - Lecce,COINCIDE,,67' Matteo Politano (Napoli),67' Matteo Politano (SSC Napoli),737070,13981708
+29,PARTIDO,Udinese - Juventus,COINCIDE,,2026-03-14T19:45Z 0-1 (1 goles),2026-03-14T19:45Z 0-1 (1 goles),737066,13981712
+29,GOL,Udinese - Juventus,COINCIDE,,38' Jérémie Boga (Juventus),38' Jérémie Boga (Juventus),737066,13981712
+29,PARTIDO,Hellas Verona - Genoa,COINCIDE,,2026-03-15T11:30Z 0-2 (2 goles),2026-03-15T11:30Z 0-2 (2 goles),737073,13981710
+29,GOL,Hellas Verona - Genoa,COINCIDE,,61' Vitinha (Genoa),61' Vitinha (Genoa),737073,13981710
+29,GOL,Hellas Verona - Genoa,COINCIDE,,86' Leo Østigard (Genoa),86' Leo Østigård (Genoa),737073,13981710
+29,PARTIDO,Pisa - Cagliari,COINCIDE,,2026-03-15T14:00Z 3-1 (4 goles),2026-03-15T14:00Z 3-1 (4 goles),737069,13981706
+29,GOL,Pisa - Cagliari,COINCIDE,,9' Stefano Moreo (Pisa) PEN,9' Stefano Moreo (Pisa) PEN,737069,13981706
+29,GOL,Pisa - Cagliari,COINCIDE,,52' Antonio Caracciolo (Pisa),52' Antonio Caracciolo (Pisa),737069,13981706
+29,GOL,Pisa - Cagliari,COINCIDE,,54' Antonio Caracciolo (Pisa),54' Antonio Caracciolo (Pisa),737069,13981706
+29,GOL,Pisa - Cagliari,COINCIDE,,67' Leonardo Pavoletti (Cagliari),67' Leonardo Pavoletti (Cagliari),737069,13981706
+29,PARTIDO,Sassuolo - Bologna,COINCIDE,,2026-03-15T14:00Z 0-1 (1 goles),2026-03-15T14:00Z 0-1 (1 goles),737068,13981711
+29,GOL,Sassuolo - Bologna,COINCIDE,,6' Thijs Dallinga (Bologna),6' Thijs Dallinga (Bologna),737068,13981711
+29,PARTIDO,Como - AS Roma,COINCIDE,,2026-03-15T17:00Z 2-1 (3 goles),2026-03-15T17:00Z 2-1 (3 goles),737064,13981703
+29,GOL,Como - AS Roma,COINCIDE,,7' Donyell Malen (AS Roma) PEN,7' Donyell Malen (AS Roma) PEN,737064,13981703
+29,GOL,Como - AS Roma,COINCIDE,,59' Anastasios Douvikas (Como),59' Anastasios Douvikas (Como),737064,13981703
+29,GOL,Como - AS Roma,COINCIDE,,79' Diego Carlos (Como),79' Diego Carlos (Como),737064,13981703
+29,PARTIDO,Lazio - AC Milan,COINCIDE,,2026-03-15T19:45Z 1-0 (1 goles),2026-03-15T19:45Z 1-0 (1 goles),737071,13981707
+29,GOL,Lazio - AC Milan,COINCIDE,,26' Gustav Isaksen (Lazio),26' Gustav Isaksen (Lazio),737071,13981707
+29,PARTIDO,Cremonese - Fiorentina,COINCIDE,,2026-03-16T19:45Z 1-4 (5 goles),2026-03-16T19:45Z 1-4 (5 goles),737065,13981704
+29,GOL,Cremonese - Fiorentina,COINCIDE,,25' Fabiano Parisi (Fiorentina),25' Fabiano Parisi (Fiorentina),737065,13981704
+29,GOL,Cremonese - Fiorentina,COINCIDE,,32' Roberto Piccoli (Fiorentina),32' Roberto Piccoli (Fiorentina),737065,13981704
+29,GOL,Cremonese - Fiorentina,COINCIDE,,49' Dodô (Fiorentina),49' Dodô (Fiorentina),737065,13981704
+29,GOL,Cremonese - Fiorentina,COINCIDE,,57' David Okereke (Cremonese),57' David Okereke (Cremonese),737065,13981704
+29,GOL,Cremonese - Fiorentina,COINCIDE,,70' Albert Gudmundsson (Fiorentina),70' Albert Guðmundsson (Fiorentina),737065,13981704
+30,PARTIDO,Cagliari - Napoli,COINCIDE,,2026-03-20T17:30Z 0-1 (1 goles),2026-03-20T17:30Z 0-1 (1 goles),737081,13981717
+30,GOL,Cagliari - Napoli,COINCIDE,,2' Scott McTominay (Napoli),2' Scott McTominay (SSC Napoli),737081,13981717
+30,PARTIDO,Genoa - Udinese,COINCIDE,,2026-03-20T19:45Z 0-2 (2 goles),2026-03-20T19:45Z 0-2 (2 goles),737083,13981716
+30,GOL,Genoa - Udinese,COINCIDE,,66' Jurgen Ekkelenkamp (Udinese),66' Jürgen Ekkelenkamp (Udinese),737083,13981716
+30,GOL,Genoa - Udinese,COINCIDE,,90+6' Keinan Davis (Udinese),90+6' Keinan Davis (Udinese),737083,13981716
+30,PARTIDO,Parma - Cremonese,COINCIDE,,2026-03-21T14:00Z 0-2 (2 goles),2026-03-21T14:00Z 0-2 (2 goles),737075,13981721
+30,GOL,Parma - Cremonese,COINCIDE,,54' Youssef Maleh (Cremonese),54' Youssef Maleh (Cremonese),737075,13981721
+30,GOL,Parma - Cremonese,COINCIDE,,68' Jari Vandeputte (Cremonese),68' Jari Vandeputte (Cremonese),737075,13981721
+30,PARTIDO,AC Milan - Torino,COINCIDE,,2026-03-21T17:00Z 3-2 (5 goles),2026-03-21T17:00Z 3-2 (5 goles),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,36' Strahinja Pavlovic (AC Milan),36' Strahinja Pavlović (AC Milan),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,44' Giovanni Simeone (Torino),44' Giovanni Simeone (Torino),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,54' Adrien Rabiot (AC Milan),54' Adrien Rabiot (AC Milan),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,56' Youssouf Fofana (AC Milan),56' Youssouf Fofana (AC Milan),737076,13981724
+30,GOL,AC Milan - Torino,COINCIDE,,83' Nikola Vlasic (Torino) PEN,83' Nikola Vlašić (Torino) PEN,737076,13981724
+30,PARTIDO,Juventus - Sassuolo,COINCIDE,,2026-03-21T19:45Z 1-1 (2 goles),2026-03-21T19:45Z 1-1 (2 goles),737077,13981719
+30,GOL,Juventus - Sassuolo,COINCIDE,,14' Kenan Yildiz (Juventus),14' Kenan Yıldız (Juventus),737077,13981719
+30,GOL,Juventus - Sassuolo,COINCIDE,,52' Andrea Pinamonti (Sassuolo),52' Andrea Pinamonti (Sassuolo),737077,13981719
+30,PARTIDO,Como - Pisa,COINCIDE,,2026-03-22T11:30Z 5-0 (5 goles),2026-03-22T11:30Z 5-0 (5 goles),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,7' Assane Diao (Como),7' Assane Diao (Como),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,29' Anastasios Douvikas (Como),29' Anastasios Douvikas (Como),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,48' Martin Baturina (Como),48' Martin Baturina (Como),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,75' Nico Paz (Como),75' Nico Paz (Como),737080,13981718
+30,GOL,Como - Pisa,COINCIDE,,81' Máximo Perrone (Como),81' Máximo Perrone (Como),737080,13981718
+30,PARTIDO,Atalanta - Hellas Verona,COINCIDE,,2026-03-22T14:00Z 1-0 (1 goles),2026-03-22T14:00Z 1-0 (1 goles),737074,13981709
+30,GOL,Atalanta - Hellas Verona,COINCIDE,,37' Davide Zappacosta (Atalanta),37' Davide Zappacosta (Atalanta),737074,13981709
+30,PARTIDO,Bologna - Lazio,COINCIDE,,2026-03-22T14:00Z 0-2 (2 goles),2026-03-22T14:00Z 0-2 (2 goles),737082,13981713
+30,GOL,Bologna - Lazio,COINCIDE,,72' Kenneth Taylor (Lazio),72' Kenneth Taylor (Lazio),737082,13981713
+30,GOL,Bologna - Lazio,COINCIDE,,82' Kenneth Taylor (Lazio),82' Kenneth Taylor (Lazio),737082,13981713
+30,PARTIDO,AS Roma - Lecce,COINCIDE,,2026-03-22T17:00Z 1-0 (1 goles),2026-03-22T17:00Z 1-0 (1 goles),737078,13981722
+30,GOL,AS Roma - Lecce,COINCIDE,,57' Robinio Vaz (AS Roma),57' Robinio Vaz (AS Roma),737078,13981722
+30,PARTIDO,Fiorentina - Internazionale,COINCIDE,,2026-03-22T19:45Z 1-1 (2 goles),2026-03-22T19:45Z 1-1 (2 goles),737079,13981715
+30,GOL,Fiorentina - Internazionale,COINCIDE,,1' Pio Esposito (Internazionale),1' Pio Esposito (Inter),737079,13981715
+30,GOL,Fiorentina - Internazionale,COINCIDE,,77' Cher Ndour (Fiorentina),77' Cher Ndour (Fiorentina),737079,13981715
+31,PARTIDO,Sassuolo - Cagliari,COINCIDE,,2026-04-04T13:00Z 2-1 (3 goles),2026-04-04T13:00Z 2-1 (3 goles),737084,13981730
+31,GOL,Sassuolo - Cagliari,COINCIDE,,30' Sebastiano Esposito (Cagliari) PEN,30' Sebastiano Esposito (Cagliari) PEN,737084,13981730
+31,GOL,Sassuolo - Cagliari,COINCIDE,,50' Ulisses Garcia (Sassuolo),50' Ulisses Garcia (Sassuolo),737084,13981730
+31,GOL,Sassuolo - Cagliari,COINCIDE,,78' Andrea Pinamonti (Sassuolo),78' Andrea Pinamonti (Sassuolo),737084,13981730
+31,PARTIDO,Hellas Verona - Fiorentina,COINCIDE,,2026-04-04T16:00Z 0-1 (1 goles),2026-04-04T16:00Z 0-1 (1 goles),737091,13981732
+31,GOL,Hellas Verona - Fiorentina,COINCIDE,,82' Nicolò Fagioli (Fiorentina),82' Nicolò Fagioli (Fiorentina),737091,13981732
+31,PARTIDO,Lazio - Parma,COINCIDE,,2026-04-04T18:45Z 1-1 (2 goles),2026-04-04T18:45Z 1-1 (2 goles),737093,13981729
+31,GOL,Lazio - Parma,COINCIDE,,77' Tijjani Noslin (Lazio),77' Tijjani Noslin (Lazio),737093,13981729
+31,GOL,Lazio - Parma,COINCIDE,,15' Enrico Del Prato (Parma),15' Enrico Delprato (Parma),737093,13981729
+31,PARTIDO,Cremonese - Bologna,COINCIDE,,2026-04-05T13:00Z 1-2 (3 goles),2026-04-05T13:00Z 1-2 (3 goles),737092,13981725
+31,GOL,Cremonese - Bologna,COINCIDE,,90+1' Federico Bonazzoli (Cremonese) PEN,90+1' Federico Bonazzoli (Cremonese) PEN,737092,13981725
+31,GOL,Cremonese - Bologna,DISCREPA,goleador_distinto,3' Joao Victor (Bologna),3' João Mário (Bologna),737092,13981725
+31,GOL,Cremonese - Bologna,DISCREPA,goleador_variante,16' Jon Rowe (Bologna),16' Jonathan Rowe (Bologna),737092,13981725
+31,PARTIDO,Pisa - Torino,COINCIDE,,2026-04-05T16:00Z 0-1 (1 goles),2026-04-05T16:00Z 0-1 (1 goles),737085,13981728
+31,GOL,Pisa - Torino,COINCIDE,,80' Ché Adams (Torino),80' Che Adams (Torino),737085,13981728
+31,PARTIDO,Internazionale - AS Roma,COINCIDE,,2026-04-05T18:45Z 5-2 (7 goles),2026-04-05T18:45Z 5-2 (7 goles),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,1' Lautaro Martínez (Internazionale),1' Lautaro Martínez (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,40' Gianluca Mancini (AS Roma),40' Gianluca Mancini (AS Roma),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,45+2' Hakan Çalhanoglu (Internazionale),45+2' Hakan Çalhanoğlu (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,52' Lautaro Martínez (Internazionale),52' Lautaro Martínez (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,55' Marcus Thuram (Internazionale),55' Marcus Thuram (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,63' Nicolò Barella (Internazionale),63' Nicolò Barella (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,70' Lorenzo Pellegrini (AS Roma),70' Lorenzo Pellegrini (AS Roma),737090,13981720
+31,PARTIDO,Udinese - Como,COINCIDE,,2026-04-06T10:30Z 0-0 (0 goles),2026-04-06T10:30Z 0-0 (0 goles),737088,13981731
+31,PARTIDO,Lecce - Atalanta,COINCIDE,,2026-04-06T13:00Z 0-3 (3 goles),2026-04-06T13:00Z 0-3 (3 goles),737087,13981726
+31,GOL,Lecce - Atalanta,COINCIDE,,29' Giorgio Scalvini (Atalanta),29' Giorgio Scalvini (Atalanta),737087,13981726
+31,GOL,Lecce - Atalanta,COINCIDE,,59' Nikola Krstovic (Atalanta),59' Nikola Krstović (Atalanta),737087,13981726
+31,GOL,Lecce - Atalanta,COINCIDE,,73' Giacomo Raspadori (Atalanta),73' Giacomo Raspadori (Atalanta),737087,13981726
+31,PARTIDO,Juventus - Genoa,COINCIDE,,2026-04-06T16:00Z 2-0 (2 goles),2026-04-06T16:00Z 2-0 (2 goles),737089,13981723
+31,GOL,Juventus - Genoa,COINCIDE,,17' Weston McKennie (Juventus),17' Weston McKennie (Juventus),737089,13981723
+31,GOL,Juventus - Genoa,DISCREPA,goleador_variante,4' Bremer (Juventus),4' Gleison Bremer (Juventus),737089,13981723
+31,PARTIDO,Napoli - AC Milan,COINCIDE,,2026-04-06T18:45Z 1-0 (1 goles),2026-04-06T18:45Z 1-0 (1 goles),737086,13981727
+31,GOL,Napoli - AC Milan,COINCIDE,,79' Matteo Politano (Napoli),79' Matteo Politano (SSC Napoli),737086,13981727
+32,PARTIDO,AS Roma - Pisa,COINCIDE,,2026-04-10T18:45Z 3-0 (3 goles),2026-04-10T18:45Z 3-0 (3 goles),737094,13981742
+32,GOL,AS Roma - Pisa,COINCIDE,,3' Donyell Malen (AS Roma),3' Donyell Malen (AS Roma),737094,13981742
+32,GOL,AS Roma - Pisa,COINCIDE,,43' Donyell Malen (AS Roma),43' Donyell Malen (AS Roma),737094,13981742
+32,GOL,AS Roma - Pisa,COINCIDE,,52' Donyell Malen (AS Roma),52' Donyell Malen (AS Roma),737094,13981742
+32,PARTIDO,Cagliari - Cremonese,COINCIDE,,2026-04-11T13:00Z 1-0 (1 goles),2026-04-11T13:00Z 1-0 (1 goles),737100,13981735
+32,GOL,Cagliari - Cremonese,COINCIDE,,63' Sebastiano Esposito (Cagliari),63' Sebastiano Esposito (Cagliari),737100,13981735
+32,PARTIDO,Torino - Hellas Verona,COINCIDE,,2026-04-11T13:00Z 2-1 (3 goles),2026-04-11T13:00Z 2-1 (3 goles),737103,13981741
+32,GOL,Torino - Hellas Verona,COINCIDE,,6' Giovanni Simeone (Torino),6' Giovanni Simeone (Torino),737103,13981741
+32,GOL,Torino - Hellas Verona,COINCIDE,,38' Kieron Bowie (Hellas Verona),38' Kieron Bowie (Hellas Verona),737103,13981741
+32,GOL,Torino - Hellas Verona,COINCIDE,,50' Cesare Casadei (Torino),50' Cesare Casadei (Torino),737103,13981741
+32,PARTIDO,AC Milan - Udinese,COINCIDE,,2026-04-11T16:00Z 0-3 (3 goles),2026-04-11T16:00Z 0-3 (3 goles),737096,13981739
+32,GOL,AC Milan - Udinese,COINCIDE,,27' Davide Bartesaghi (Udinese) AUTOGOL,27' Davide Bartesaghi (Udinese) AUTOGOL,737096,13981739
+32,GOL,AC Milan - Udinese,COINCIDE,,37' Jurgen Ekkelenkamp (Udinese),37' Jürgen Ekkelenkamp (Udinese),737096,13981739
+32,GOL,AC Milan - Udinese,COINCIDE,,71' Arthur Atta (Udinese),71' Arthur Atta (Udinese),737096,13981739
+32,PARTIDO,Atalanta - Juventus,COINCIDE,,2026-04-11T18:45Z 0-1 (1 goles),2026-04-11T18:45Z 0-1 (1 goles),737102,13981733
+32,GOL,Atalanta - Juventus,COINCIDE,,48' Jérémie Boga (Juventus),48' Jérémie Boga (Juventus),737102,13981733
+32,PARTIDO,Genoa - Sassuolo,COINCIDE,,2026-04-12T10:30Z 2-1 (3 goles),2026-04-12T10:30Z 2-1 (3 goles),737097,13981737
+32,GOL,Genoa - Sassuolo,COINCIDE,,18' Ruslan Malinovskyi (Genoa),18' Ruslan Malinovskyi (Genoa),737097,13981737
+32,GOL,Genoa - Sassuolo,COINCIDE,,57' Ismaël Koné (Sassuolo),57' Ismael Koné (Sassuolo),737097,13981737
+32,GOL,Genoa - Sassuolo,COINCIDE,,84' Caleb Ekuban (Genoa),84' Caleb Ekuban (Genoa),737097,13981737
+32,PARTIDO,Parma - Napoli,COINCIDE,,2026-04-12T13:00Z 1-1 (2 goles),2026-04-12T13:00Z 1-1 (2 goles),737095,13981740
+32,GOL,Parma - Napoli,COINCIDE,,1' Gabriel Strefezza (Parma),1' Gabriel Strefezza (Parma),737095,13981740
+32,GOL,Parma - Napoli,COINCIDE,,60' Scott McTominay (Napoli),60' Scott McTominay (SSC Napoli),737095,13981740
+32,PARTIDO,Bologna - Lecce,COINCIDE,,2026-04-12T16:00Z 2-0 (2 goles),2026-04-12T16:00Z 2-0 (2 goles),737101,13981734
+32,GOL,Bologna - Lecce,COINCIDE,,26' Remo Freuler (Bologna),26' Remo Freuler (Bologna),737101,13981734
+32,GOL,Bologna - Lecce,COINCIDE,,90+2' Riccardo Orsolini (Bologna),90+2' Riccardo Orsolini (Bologna),737101,13981734
+32,PARTIDO,Como - Internazionale,COINCIDE,,2026-04-12T18:45Z 3-4 (7 goles),2026-04-12T18:45Z 3-4 (7 goles),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,36' Álex Valle (Como),36' Álex Valle (Como),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,45' Nico Paz (Como),45' Nico Paz (Como),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,45+1' Marcus Thuram (Internazionale),45+1' Marcus Thuram (Inter),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,49' Marcus Thuram (Internazionale),49' Marcus Thuram (Inter),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,58' Denzel Dumfries (Internazionale),58' Denzel Dumfries (Inter),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,72' Denzel Dumfries (Internazionale),72' Denzel Dumfries (Inter),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,89' Lucas Da Cunha (Como) PEN,89' Lucas Da Cunha (Como) PEN,737099,13981736
+32,PARTIDO,Fiorentina - Lazio,COINCIDE,,2026-04-13T18:45Z 1-0 (1 goles),2026-04-13T18:45Z 1-0 (1 goles),737098,13981738
+32,GOL,Fiorentina - Lazio,COINCIDE,,28' Robin Gosens (Fiorentina),28' Robin Gosens (Fiorentina),737098,13981738
+33,PARTIDO,Sassuolo - Como,COINCIDE,,2026-04-17T16:30Z 2-1 (3 goles),2026-04-17T16:30Z 2-1 (3 goles),737107,13980103
+33,GOL,Sassuolo - Como,COINCIDE,,42' Cristian Volpato (Sassuolo),42' Cristian Volpato (Sassuolo),737107,13980103
+33,GOL,Sassuolo - Como,COINCIDE,,44' M'Bala Nzola (Sassuolo),44' M'bala Nzola (Sassuolo),737107,13980103
+33,GOL,Sassuolo - Como,COINCIDE,,45+2' Nico Paz (Como),45+2' Nico Paz (Como),737107,13980103
+33,PARTIDO,Internazionale - Cagliari,COINCIDE,,2026-04-17T18:45Z 3-0 (3 goles),2026-04-17T18:45Z 3-0 (3 goles),737113,13981744
+33,GOL,Internazionale - Cagliari,COINCIDE,,52' Marcus Thuram (Internazionale),52' Marcus Thuram (Inter),737113,13981744
+33,GOL,Internazionale - Cagliari,COINCIDE,,56' Nicolò Barella (Internazionale),56' Nicolò Barella (Inter),737113,13981744
+33,GOL,Internazionale - Cagliari,COINCIDE,,90+2' Piotr Zielinski (Internazionale),90+2' Piotr Zieliński (Inter),737113,13981744
+33,PARTIDO,Udinese - Parma,COINCIDE,,2026-04-18T13:00Z 0-1 (1 goles),2026-04-18T13:00Z 0-1 (1 goles),737106,13980108
+33,GOL,Udinese - Parma,COINCIDE,,51' Nesta Elphege (Parma),51' Nesta Elphege (Parma),737106,13980108
+33,PARTIDO,Napoli - Lazio,COINCIDE,,2026-04-18T16:00Z 0-2 (2 goles),2026-04-18T16:00Z 0-2 (2 goles),737110,13980101
+33,GOL,Napoli - Lazio,COINCIDE,,6' Matteo Cancellieri (Lazio),6' Matteo Cancellieri (Lazio),737110,13980101
+33,GOL,Napoli - Lazio,COINCIDE,,57' Toma Basic (Lazio),57' Toma Bašić (Lazio),737110,13980101
+33,PARTIDO,AS Roma - Atalanta,COINCIDE,,2026-04-18T18:45Z 1-1 (2 goles),2026-04-18T18:45Z 1-1 (2 goles),737108,13980102
+33,GOL,AS Roma - Atalanta,COINCIDE,,12' Nikola Krstovic (Atalanta),12' Nikola Krstović (Atalanta),737108,13980102
+33,GOL,AS Roma - Atalanta,COINCIDE,,45' Mario Hermoso (AS Roma),45' Mario Hermoso (AS Roma),737108,13980102
+33,PARTIDO,Cremonese - Torino,COINCIDE,,2026-04-19T10:30Z 0-0 (0 goles),2026-04-19T10:30Z 0-0 (0 goles),737104,13981743
+33,PARTIDO,Hellas Verona - AC Milan,COINCIDE,,2026-04-19T13:00Z 0-1 (1 goles),2026-04-19T13:00Z 0-1 (1 goles),737105,13980115
+33,GOL,Hellas Verona - AC Milan,COINCIDE,,41' Adrien Rabiot (AC Milan),41' Adrien Rabiot (AC Milan),737105,13980115
+33,PARTIDO,Pisa - Genoa,COINCIDE,,2026-04-19T16:00Z 1-2 (3 goles),2026-04-19T16:00Z 1-2 (3 goles),737109,13980100
+33,GOL,Pisa - Genoa,COINCIDE,,19' Simone Canestrelli (Pisa),19' Simone Canestrelli (Pisa),737109,13980100
+33,GOL,Pisa - Genoa,COINCIDE,,41' Jeff Ekhator (Genoa),41' Jeff Ekhator (Genoa),737109,13980100
+33,GOL,Pisa - Genoa,COINCIDE,,55' Lorenzo Colombo (Genoa) PEN,55' Lorenzo Colombo (Genoa) PEN,737109,13980100
+33,PARTIDO,Juventus - Bologna,COINCIDE,,2026-04-19T18:45Z 2-0 (2 goles),2026-04-19T18:45Z 2-0 (2 goles),737112,13980098
+33,GOL,Juventus - Bologna,COINCIDE,,2' Jonathan David (Juventus),2' Jonathan David (Juventus),737112,13980098
+33,GOL,Juventus - Bologna,COINCIDE,,57' Khéphren Thuram (Juventus),57' Khéphren Thuram (Juventus),737112,13980098
+33,PARTIDO,Lecce - Fiorentina,COINCIDE,,2026-04-20T18:45Z 1-1 (2 goles),2026-04-20T18:45Z 1-1 (2 goles),737111,13980099
+33,GOL,Lecce - Fiorentina,COINCIDE,,30' Jack Harrison (Fiorentina),30' Jack Harrison (Fiorentina),737111,13980099
+33,GOL,Lecce - Fiorentina,COINCIDE,,71' Tiago Gabriel (Lecce),71' Tiago Gabriel (Lecce),737111,13980099
+34,PARTIDO,Napoli - Cremonese,COINCIDE,,2026-04-24T18:45Z 4-0 (4 goles),2026-04-24T18:45Z 4-0 (4 goles),737116,13980105
+34,GOL,Napoli - Cremonese,COINCIDE,,3' Scott McTominay (Napoli),3' Scott McTominay (SSC Napoli),737116,13980105
+34,GOL,Napoli - Cremonese,COINCIDE,,45' Filippo Terracciano (Napoli) AUTOGOL,45' Filippo Terracciano (SSC Napoli) AUTOGOL,737116,13980105
+34,GOL,Napoli - Cremonese,COINCIDE,,45+3' Kevin De Bruyne (Napoli),45+3' Kevin De Bruyne (SSC Napoli),737116,13980105
+34,GOL,Napoli - Cremonese,COINCIDE,,52' Alisson Santos (Napoli),52' Alisson Santos (SSC Napoli),737116,13980105
+34,PARTIDO,Parma - Pisa,COINCIDE,,2026-04-25T13:00Z 1-0 (1 goles),2026-04-25T13:00Z 1-0 (1 goles),737115,13980107
+34,GOL,Parma - Pisa,COINCIDE,,82' Nesta Elphege (Parma),82' Nesta Elphege (Parma),737115,13980107
+34,PARTIDO,Bologna - AS Roma,COINCIDE,,2026-04-25T16:00Z 0-2 (2 goles),2026-04-25T16:00Z 0-2 (2 goles),737114,13980113
+34,GOL,Bologna - AS Roma,COINCIDE,,7' Donyell Malen (AS Roma),7' Donyell Malen (AS Roma),737114,13980113
+34,GOL,Bologna - AS Roma,COINCIDE,,45+1' Neil El Aynaoui (AS Roma),45+1' Neil El Aynaoui (AS Roma),737114,13980113
+34,PARTIDO,Hellas Verona - Lecce,COINCIDE,,2026-04-25T18:45Z 0-0 (0 goles),2026-04-25T18:45Z 0-0 (0 goles),737119,13980114
+34,PARTIDO,Fiorentina - Sassuolo,COINCIDE,,2026-04-26T10:30Z 0-0 (0 goles),2026-04-26T10:30Z 0-0 (0 goles),737121,13980110
+34,PARTIDO,Genoa - Como,COINCIDE,,2026-04-26T13:00Z 0-2 (2 goles),2026-04-26T13:00Z 0-2 (2 goles),737120,13980109
+34,GOL,Genoa - Como,COINCIDE,,10' Anastasios Douvikas (Como),10' Anastasios Douvikas (Como),737120,13980109
+34,GOL,Genoa - Como,COINCIDE,,68' Assane Diao (Como),68' Assane Diao (Como),737120,13980109
+34,PARTIDO,Torino - Internazionale,COINCIDE,,2026-04-26T16:00Z 2-2 (4 goles),2026-04-26T16:00Z 2-2 (4 goles),737118,13980104
+34,GOL,Torino - Internazionale,COINCIDE,,23' Marcus Thuram (Internazionale),23' Marcus Thuram (Inter),737118,13980104
+34,GOL,Torino - Internazionale,COINCIDE,,61' Yann Bisseck (Internazionale),61' Yann Bisseck (Inter),737118,13980104
+34,GOL,Torino - Internazionale,COINCIDE,,70' Giovanni Simeone (Torino),70' Giovanni Simeone (Torino),737118,13980104
+34,GOL,Torino - Internazionale,COINCIDE,,79' Nikola Vlasic (Torino) PEN,79' Nikola Vlašić (Torino) PEN,737118,13980104
+34,PARTIDO,AC Milan - Juventus,COINCIDE,,2026-04-26T18:45Z 0-0 (0 goles),2026-04-26T18:45Z 0-0 (0 goles),737117,13980106
+34,PARTIDO,Cagliari - Atalanta,COINCIDE,,2026-04-27T16:30Z 3-2 (5 goles),2026-04-27T16:30Z 3-2 (5 goles),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,1' Paul Mendy (Cagliari),1' Paul Mendy (Cagliari),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,8' Paul Mendy (Cagliari),8' Paul Mendy (Cagliari),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,40' Gianluca Scamacca (Atalanta),40' Gianluca Scamacca (Atalanta),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,45' Gianluca Scamacca (Atalanta),45' Gianluca Scamacca (Atalanta),737122,13980111
+34,GOL,Cagliari - Atalanta,COINCIDE,,47' Gennaro Borrelli (Cagliari),47' Gennaro Borrelli (Cagliari),737122,13980111
+34,PARTIDO,Lazio - Udinese,COINCIDE,,2026-04-27T18:45Z 3-3 (6 goles),2026-04-27T18:45Z 3-3 (6 goles),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,18' Kingsley Ehizibue (Udinese),18' Kingsley Ehizibue (Udinese),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,50' Luca Pellegrini (Lazio),50' Luca Pellegrini (Lazio),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,80' Pedro (Lazio),80' Pedro (Lazio),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,86' Arthur Atta (Udinese),86' Arthur Atta (Udinese),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,90+3' Arthur Atta (Udinese),90+3' Arthur Atta (Udinese),737123,13980112
+34,GOL,Lazio - Udinese,COINCIDE,,90+5' Daniel Maldini (Lazio),90+5' Daniel Maldini (Lazio),737123,13980112
+35,PARTIDO,Pisa - Lecce,COINCIDE,,2026-05-01T18:45Z 1-2 (3 goles),2026-05-01T18:45Z 1-2 (3 goles),737126,13980097
+35,GOL,Pisa - Lecce,COINCIDE,,52' Lameck Banda (Lecce),52' Lameck Banda (Lecce),737126,13980097
+35,GOL,Pisa - Lecce,COINCIDE,,56' Mehdi Léris (Pisa),56' Mehdi Léris (Pisa),737126,13980097
+35,GOL,Pisa - Lecce,COINCIDE,,65' Walid Cheddira (Lecce),65' Walid Cheddira (Lecce),737126,13980097
+35,PARTIDO,Udinese - Torino,COINCIDE,,2026-05-02T13:00Z 2-0 (2 goles),2026-05-02T13:00Z 2-0 (2 goles),737128,13980095
+35,GOL,Udinese - Torino,COINCIDE,,45+1' Kingsley Ehizibue (Udinese),45+1' Kingsley Ehizibue (Udinese),737128,13980095
+35,GOL,Udinese - Torino,COINCIDE,,51' Thomas Kristensen (Udinese),51' Thomas Kristensen (Udinese),737128,13980095
+35,PARTIDO,Como - Napoli,COINCIDE,,2026-05-02T16:00Z 0-0 (0 goles),2026-05-02T16:00Z 0-0 (0 goles),737130,13980081
+35,PARTIDO,Atalanta - Genoa,COINCIDE,,2026-05-02T18:45Z 0-0 (0 goles),2026-05-02T18:45Z 0-0 (0 goles),737132,13980083
+35,PARTIDO,Bologna - Cagliari,COINCIDE,,2026-05-03T10:30Z 0-0 (0 goles),2026-05-03T10:30Z 0-0 (0 goles),737131,13980082
+35,PARTIDO,Sassuolo - AC Milan,COINCIDE,,2026-05-03T13:00Z 2-0 (2 goles),2026-05-03T13:00Z 2-0 (2 goles),737124,13980087
+35,GOL,Sassuolo - AC Milan,COINCIDE,,5' Domenico Berardi (Sassuolo),5' Domenico Berardi (Sassuolo),737124,13980087
+35,GOL,Sassuolo - AC Milan,COINCIDE,,47' Armand Laurienté (Sassuolo),47' Armand Laurienté (Sassuolo),737124,13980087
+35,PARTIDO,Juventus - Hellas Verona,COINCIDE,,2026-05-03T16:00Z 1-1 (2 goles),2026-05-03T16:00Z 1-1 (2 goles),737127,13980091
+35,GOL,Juventus - Hellas Verona,COINCIDE,,34' Kieron Bowie (Hellas Verona),34' Kieron Bowie (Hellas Verona),737127,13980091
+35,GOL,Juventus - Hellas Verona,COINCIDE,,62' Dusan Vlahovic (Juventus),62' Dušan Vlahović (Juventus),737127,13980091
+35,PARTIDO,Internazionale - Parma,COINCIDE,,2026-05-03T18:45Z 2-0 (2 goles),2026-05-03T18:45Z 2-0 (2 goles),737133,13980084
+35,GOL,Internazionale - Parma,COINCIDE,,45+1' Marcus Thuram (Internazionale),45+1' Marcus Thuram (Inter),737133,13980084
+35,GOL,Internazionale - Parma,COINCIDE,,80' Henrikh Mkhitaryan (Internazionale),80' Henrikh Mkhitaryan (Inter),737133,13980084
+35,PARTIDO,Cremonese - Lazio,COINCIDE,,2026-05-04T16:30Z 1-2 (3 goles),2026-05-04T16:30Z 1-2 (3 goles),737129,13980094
+35,GOL,Cremonese - Lazio,COINCIDE,,29' Federico Bonazzoli (Cremonese),29' Federico Bonazzoli (Cremonese),737129,13980094
+35,GOL,Cremonese - Lazio,COINCIDE,,53' Gustav Isaksen (Lazio),53' Gustav Isaksen (Lazio),737129,13980094
+35,GOL,Cremonese - Lazio,COINCIDE,,90+2' Tijjani Noslin (Lazio),90+2' Tijjani Noslin (Lazio),737129,13980094
+35,PARTIDO,AS Roma - Fiorentina,COINCIDE,,2026-05-04T18:45Z 4-0 (4 goles),2026-05-04T18:45Z 4-0 (4 goles),737125,13980086
+35,GOL,AS Roma - Fiorentina,COINCIDE,,13' Gianluca Mancini (AS Roma),13' Gianluca Mancini (AS Roma),737125,13980086
+35,GOL,AS Roma - Fiorentina,COINCIDE,,17' Wesley (AS Roma),17' Wesley (AS Roma),737125,13980086
+35,GOL,AS Roma - Fiorentina,COINCIDE,,34' Mario Hermoso (AS Roma),34' Mario Hermoso (AS Roma),737125,13980086
+35,GOL,AS Roma - Fiorentina,COINCIDE,,58' Niccolò Pisilli (AS Roma),58' Niccolò Pisilli (AS Roma),737125,13980086
+36,PARTIDO,Torino - Sassuolo,COINCIDE,,2026-05-08T18:45Z 2-1 (3 goles),2026-05-08T18:45Z 2-1 (3 goles),737143,13980073
+36,GOL,Torino - Sassuolo,COINCIDE,,51' Kristian Thorstvedt (Sassuolo),51' Kristian Thorstvedt (Sassuolo),737143,13980073
+36,GOL,Torino - Sassuolo,COINCIDE,,66' Giovanni Simeone (Torino),66' Giovanni Simeone (Torino),737143,13980073
+36,GOL,Torino - Sassuolo,DISCREPA,goleador_variante,70' Marcus Holmgren Pedersen (Torino),70' Marcus Pedersen (Torino),737143,13980073
+36,PARTIDO,Cagliari - Udinese,COINCIDE,,2026-05-09T13:00Z 0-2 (2 goles),2026-05-09T13:00Z 0-2 (2 goles),737142,13980088
+36,GOL,Cagliari - Udinese,COINCIDE,,56' Adam Buksa (Udinese),56' Adam Buksa (Udinese),737142,13980088
+36,GOL,Cagliari - Udinese,COINCIDE,,90+6' Idrissa Gueye (Udinese),90+6' Idrissa Gueye (Udinese),737142,13980088
+36,PARTIDO,Lazio - Internazionale,COINCIDE,,2026-05-09T16:00Z 0-3 (3 goles),2026-05-09T16:00Z 0-3 (3 goles),737138,13980090
+36,GOL,Lazio - Internazionale,COINCIDE,,6' Lautaro Martínez (Internazionale),6' Lautaro Martínez (Inter),737138,13980090
+36,GOL,Lazio - Internazionale,COINCIDE,,39' Petar Sucic (Internazionale),39' Petar Sučić (Inter),737138,13980090
+36,GOL,Lazio - Internazionale,COINCIDE,,76' Henrikh Mkhitaryan (Internazionale),76' Henrikh Mkhitaryan (Inter),737138,13980090
+36,PARTIDO,Lecce - Juventus,COINCIDE,,2026-05-09T18:45Z 0-1 (1 goles),2026-05-09T18:45Z 0-1 (1 goles),737137,13980092
+36,GOL,Lecce - Juventus,COINCIDE,,1' Dusan Vlahovic (Juventus),1' Dušan Vlahović (Juventus),737137,13980092
+36,PARTIDO,Hellas Verona - Como,COINCIDE,,2026-05-10T10:30Z 0-1 (1 goles),2026-05-10T10:30Z 0-1 (1 goles),737139,13980059
+36,GOL,Hellas Verona - Como,COINCIDE,,71' Anastasios Douvikas (Como),71' Anastasios Douvikas (Como),737139,13980059
+36,PARTIDO,Cremonese - Pisa,COINCIDE,,2026-05-10T13:00Z 3-0 (3 goles),2026-05-10T13:00Z 3-0 (3 goles),737141,13980093
+36,GOL,Cremonese - Pisa,COINCIDE,,31' Jamie Vardy (Cremonese),31' Jamie Vardy (Cremonese),737141,13980093
+36,GOL,Cremonese - Pisa,COINCIDE,,51' Federico Bonazzoli (Cremonese),51' Federico Bonazzoli (Cremonese),737141,13980093
+36,GOL,Cremonese - Pisa,COINCIDE,,86' David Okereke (Cremonese),86' David Okereke (Cremonese),737141,13980093
+36,PARTIDO,Fiorentina - Genoa,COINCIDE,,2026-05-10T13:00Z 0-0 (0 goles),2026-05-10T13:00Z 0-0 (0 goles),737140,13980085
+36,PARTIDO,Parma - AS Roma,COINCIDE,,2026-05-10T16:00Z 2-3 (5 goles),2026-05-10T16:00Z 2-3 (5 goles),737134,13980062
+36,GOL,Parma - AS Roma,COINCIDE,,22' Donyell Malen (AS Roma),22' Donyell Malen (AS Roma),737134,13980062
+36,GOL,Parma - AS Roma,COINCIDE,,47' Gabriel Strefezza (Parma),47' Gabriel Strefezza (Parma),737134,13980062
+36,GOL,Parma - AS Roma,COINCIDE,,87' Mandela Keita (Parma),87' Mandela Keita (Parma),737134,13980062
+36,GOL,Parma - AS Roma,COINCIDE,,90+4' Devyne Rensch (AS Roma),90+4' Devyne Rensch (AS Roma),737134,13980062
+36,GOL,Parma - AS Roma,COINCIDE,,90+11' Donyell Malen (AS Roma) PEN,90+11' Donyell Malen (AS Roma) PEN,737134,13980062
+36,PARTIDO,AC Milan - Atalanta,COINCIDE,,2026-05-10T18:45Z 2-3 (5 goles),2026-05-10T18:45Z 2-3 (5 goles),737136,13980096
+36,GOL,AC Milan - Atalanta,COINCIDE,,7' Éderson (Atalanta),7' Éderson (Atalanta),737136,13980096
+36,GOL,AC Milan - Atalanta,COINCIDE,,29' Davide Zappacosta (Atalanta),29' Davide Zappacosta (Atalanta),737136,13980096
+36,GOL,AC Milan - Atalanta,COINCIDE,,51' Giacomo Raspadori (Atalanta),51' Giacomo Raspadori (Atalanta),737136,13980096
+36,GOL,AC Milan - Atalanta,COINCIDE,,88' Strahinja Pavlovic (AC Milan),88' Strahinja Pavlović (AC Milan),737136,13980096
+36,GOL,AC Milan - Atalanta,COINCIDE,,90+4' Christopher Nkunku (AC Milan) PEN,90+4' Christopher Nkunku (AC Milan) PEN,737136,13980096
+36,PARTIDO,Napoli - Bologna,COINCIDE,,2026-05-11T18:45Z 2-3 (5 goles),2026-05-11T18:45Z 2-3 (5 goles),737135,13980089
+36,GOL,Napoli - Bologna,COINCIDE,,9' Federico Bernardeschi (Bologna),9' Federico Bernardeschi (Bologna),737135,13980089
+36,GOL,Napoli - Bologna,COINCIDE,,34' Riccardo Orsolini (Bologna) PEN,34' Riccardo Orsolini (Bologna) PEN,737135,13980089
+36,GOL,Napoli - Bologna,COINCIDE,,45+2' Giovanni Di Lorenzo (Napoli),45+2' Giovanni Di Lorenzo (SSC Napoli),737135,13980089
+36,GOL,Napoli - Bologna,COINCIDE,,48' Alisson Santos (Napoli),48' Alisson Santos (SSC Napoli),737135,13980089
+36,GOL,Napoli - Bologna,DISCREPA,goleador_variante,90+1' Jon Rowe (Bologna),90+1' Jonathan Rowe (Bologna),737135,13980089
+37,PARTIDO,AS Roma - Lazio,COINCIDE,,2026-05-17T10:00Z 2-0 (2 goles),2026-05-17T10:00Z 2-0 (2 goles),737148,13980063
+37,GOL,AS Roma - Lazio,COINCIDE,,40' Gianluca Mancini (AS Roma),40' Gianluca Mancini (AS Roma),737148,13980063
+37,GOL,AS Roma - Lazio,COINCIDE,,66' Gianluca Mancini (AS Roma),66' Gianluca Mancini (AS Roma),737148,13980063
+37,PARTIDO,Como - Parma,COINCIDE,,2026-05-17T10:00Z 1-0 (1 goles),2026-05-17T10:00Z 1-0 (1 goles),737153,13980069
+37,GOL,Como - Parma,COINCIDE,,58' Alberto Moreno (Como),58' Alberto Moreno (Como),737153,13980069
+37,PARTIDO,Genoa - AC Milan,COINCIDE,,2026-05-17T10:00Z 1-2 (3 goles),2026-05-17T10:00Z 1-2 (3 goles),737152,13980068
+37,GOL,Genoa - AC Milan,COINCIDE,,50' Christopher Nkunku (AC Milan) PEN,50' Christopher Nkunku (AC Milan) PEN,737152,13980068
+37,GOL,Genoa - AC Milan,COINCIDE,,81' Zachary Athekame (AC Milan),81' Zachary Athekame (AC Milan),737152,13980068
+37,GOL,Genoa - AC Milan,COINCIDE,,86' Johan Vásquez (Genoa),86' Johan Vásquez (Genoa),737152,13980068
+37,PARTIDO,Juventus - Fiorentina,COINCIDE,,2026-05-17T10:00Z 0-2 (2 goles),2026-05-17T10:00Z 0-2 (2 goles),737150,13980075
+37,GOL,Juventus - Fiorentina,COINCIDE,,34' Cher Ndour (Fiorentina),34' Cher Ndour (Fiorentina),737150,13980075
+37,GOL,Juventus - Fiorentina,COINCIDE,,83' Rolando Mandragora (Fiorentina),83' Rolando Mandragora (Fiorentina),737150,13980075
+37,PARTIDO,Pisa - Napoli,COINCIDE,,2026-05-17T10:00Z 0-3 (3 goles),2026-05-17T10:00Z 0-3 (3 goles),737149,13980065
+37,GOL,Pisa - Napoli,COINCIDE,,21' Scott McTominay (Napoli),21' Scott McTominay (SSC Napoli),737149,13980065
+37,GOL,Pisa - Napoli,COINCIDE,,27' Amir Rrahmani (Napoli),27' Amir Rrahmani (SSC Napoli),737149,13980065
+37,GOL,Pisa - Napoli,COINCIDE,,90+2' Rasmus Højlund (Napoli),90+2' Rasmus Højlund (SSC Napoli),737149,13980065
+37,PARTIDO,Internazionale - Hellas Verona,COINCIDE,,2026-05-17T13:00Z 1-1 (2 goles),2026-05-17T13:00Z 1-1 (2 goles),737151,13980067
+37,GOL,Internazionale - Hellas Verona,COINCIDE,,47' Andrias Edmundsson (Internazionale) AUTOGOL,47' Andrias Edmundsson (Inter) AUTOGOL,737151,13980067
+37,GOL,Internazionale - Hellas Verona,COINCIDE,,90+1' Kieron Bowie (Hellas Verona),90+1' Kieron Bowie (Hellas Verona),737151,13980067
+37,PARTIDO,Atalanta - Bologna,COINCIDE,,2026-05-17T16:00Z 0-1 (1 goles),2026-05-17T16:00Z 0-1 (1 goles),737144,13980058
+37,GOL,Atalanta - Bologna,COINCIDE,,78' Riccardo Orsolini (Bologna),78' Riccardo Orsolini (Bologna),737144,13980058
+37,PARTIDO,Cagliari - Torino,COINCIDE,,2026-05-17T18:45Z 2-1 (3 goles),2026-05-17T18:45Z 2-1 (3 goles),737145,13980060
+37,GOL,Cagliari - Torino,COINCIDE,,37' Rafael Obrador (Torino),37' Rafael Obrador (Torino),737145,13980060
+37,GOL,Cagliari - Torino,COINCIDE,,39' Sebastiano Esposito (Cagliari),39' Sebastiano Esposito (Cagliari),737145,13980060
+37,GOL,Cagliari - Torino,COINCIDE,,45+2' Yerry Mina (Cagliari),45+2' Yerry Mina (Cagliari),737145,13980060
+37,PARTIDO,Sassuolo - Lecce,COINCIDE,,2026-05-17T18:45Z 2-3 (5 goles),2026-05-17T18:45Z 2-3 (5 goles),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,14' Walid Cheddira (Lecce),14' Walid Cheddira (Lecce),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,20' Armand Laurienté (Sassuolo),20' Armand Laurienté (Sassuolo),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,25' Walid Cheddira (Lecce),25' Walid Cheddira (Lecce),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,82' Andrea Pinamonti (Sassuolo),82' Andrea Pinamonti (Sassuolo),737147,13980078
+37,GOL,Sassuolo - Lecce,COINCIDE,,90+6' Nikola Stulic (Lecce),90+6' Nikola Štulić (Lecce),737147,13980078
+37,PARTIDO,Udinese - Cremonese,COINCIDE,,2026-05-17T18:45Z 0-1 (1 goles),2026-05-17T18:45Z 0-1 (1 goles),737146,13980076
+37,GOL,Udinese - Cremonese,COINCIDE,,9' Jamie Vardy (Cremonese),9' Jamie Vardy (Cremonese),737146,13980076
+38,PARTIDO,Fiorentina - Atalanta,COINCIDE,,2026-05-22T18:45Z 1-1 (2 goles),2026-05-22T18:45Z 1-1 (2 goles),737161,13980080
+38,GOL,Fiorentina - Atalanta,COINCIDE,,39' Roberto Piccoli (Fiorentina),39' Roberto Piccoli (Fiorentina),737161,13980080
+38,GOL,Fiorentina - Atalanta,COINCIDE,,82' Pietro Comuzzo (Atalanta) AUTOGOL,82' Pietro Comuzzo (Atalanta) AUTOGOL,737161,13980080
+38,PARTIDO,Bologna - Internazionale,COINCIDE,,2026-05-23T16:00Z 3-3 (6 goles),2026-05-23T16:00Z 3-3 (6 goles),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,22' Federico Dimarco (Internazionale),22' Federico Dimarco (Inter),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,25' Federico Bernardeschi (Bologna),25' Federico Bernardeschi (Bologna),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,42' Tommaso Pobega (Bologna),42' Tommaso Pobega (Bologna),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,48' Piotr Zielinski (Bologna) AUTOGOL,48' Piotr Zieliński (Bologna) AUTOGOL,737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,64' Pio Esposito (Internazionale),64' Pio Esposito (Inter),737154,13980079
+38,GOL,Bologna - Internazionale,COINCIDE,,86' Andy Diouf (Internazionale),86' Andy Diouf (Inter),737154,13980079
+38,PARTIDO,Lazio - Pisa,COINCIDE,,2026-05-23T18:45Z 2-1 (3 goles),2026-05-23T18:45Z 2-1 (3 goles),737159,13980072
+38,GOL,Lazio - Pisa,COINCIDE,,23' Stefano Moreo (Pisa),23' Stefano Moreo (Pisa),737159,13980072
+38,GOL,Lazio - Pisa,COINCIDE,,33' Fisayo Dele-Bashiru (Lazio),33' Fisayo Dele-Bashiru (Lazio),737159,13980072
+38,GOL,Lazio - Pisa,COINCIDE,,35' Pedro (Lazio),35' Pedro (Lazio),737159,13980072
+38,PARTIDO,Parma - Sassuolo,COINCIDE,,2026-05-24T13:00Z 1-0 (1 goles),2026-05-24T13:00Z 1-0 (1 goles),737155,13980074
+38,GOL,Parma - Sassuolo,COINCIDE,,80' Mateo Pellegrino (Parma),80' Mateo Pellegrino (Parma),737155,13980074
+38,PARTIDO,Napoli - Udinese,COINCIDE,,2026-05-24T16:00Z 1-0 (1 goles),2026-05-24T16:00Z 1-0 (1 goles),737156,13980061
+38,GOL,Napoli - Udinese,COINCIDE,,24' Rasmus Højlund (Napoli),24' Rasmus Højlund (SSC Napoli),737156,13980061
+38,PARTIDO,AC Milan - Cagliari,COINCIDE,,2026-05-24T18:45Z 1-2 (3 goles),2026-05-24T18:45Z 1-2 (3 goles),737157,13980071
+38,GOL,AC Milan - Cagliari,COINCIDE,,2' Alexis Saelemaekers (AC Milan),2' Alexis Saelemaekers (AC Milan),737157,13980071
+38,GOL,AC Milan - Cagliari,COINCIDE,,20' Gennaro Borrelli (Cagliari),20' Gennaro Borrelli (Cagliari),737157,13980071
+38,GOL,AC Milan - Cagliari,COINCIDE,,57' Juan Rodríguez (Cagliari),57' Juan Rodríguez (Cagliari),737157,13980071
+38,PARTIDO,Cremonese - Como,COINCIDE,,2026-05-24T18:45Z 1-4 (5 goles),2026-05-24T18:45Z 1-4 (5 goles),737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,36' Jesús Rodriguez (Como),36' Jesús Rodriguez (Como),737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,51' Anastasios Douvikas (Como),51' Anastasios Douvikas (Como),737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,55' Federico Bonazzoli (Cremonese) PEN,55' Federico Bonazzoli (Cremonese) PEN,737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,74' Lucas Da Cunha (Como) PEN,74' Lucas Da Cunha (Como) PEN,737162,13980070
+38,GOL,Cremonese - Como,COINCIDE,,81' Lucas Da Cunha (Como),81' Lucas Da Cunha (Como),737162,13980070
+38,PARTIDO,Hellas Verona - AS Roma,COINCIDE,,2026-05-24T18:45Z 0-2 (2 goles),2026-05-24T18:45Z 0-2 (2 goles),737160,13980064
+38,GOL,Hellas Verona - AS Roma,COINCIDE,,56' Donyell Malen (AS Roma),56' Donyell Malen (AS Roma),737160,13980064
+38,GOL,Hellas Verona - AS Roma,COINCIDE,,90+3' Stephan El Shaarawy (AS Roma),90+3' Stephan El Shaarawy (AS Roma),737160,13980064
+38,PARTIDO,Lecce - Genoa,COINCIDE,,2026-05-24T18:45Z 1-0 (1 goles),2026-05-24T18:45Z 1-0 (1 goles),737163,13980066
+38,GOL,Lecce - Genoa,COINCIDE,,6' Lameck Banda (Lecce),6' Lameck Banda (Lecce),737163,13980066
+38,PARTIDO,Torino - Juventus,COINCIDE,,2026-05-24T19:45Z 2-2 (4 goles),2026-05-24T19:45Z 2-2 (4 goles),737158,13980077
+38,GOL,Torino - Juventus,COINCIDE,,24' Dusan Vlahovic (Juventus),24' Dušan Vlahović (Juventus),737158,13980077
+38,GOL,Torino - Juventus,COINCIDE,,54' Dusan Vlahovic (Juventus),54' Dušan Vlahović (Juventus),737158,13980077
+38,GOL,Torino - Juventus,COINCIDE,,60' Cesare Casadei (Torino),60' Cesare Casadei (Torino),737158,13980077
+38,GOL,Torino - Juventus,COINCIDE,,84' Ché Adams (Torino),84' Che Adams (Torino),737158,13980077

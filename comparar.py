@@ -8,7 +8,10 @@ Uso:
 
 comparacion: nivel=PARTIDO|GOL, estado=COINCIDE|DISCREPA|SOLO_ESPN|SOLO_SOFASCORE.
 validaciones (una fila por incumplimiento, o OK): suma de goles = marcador, minutos 1-120, sin duplicados.
-La comparacion ignora tildes/mayusculas y alias de equipo (nombres.py); los valores crudos van en el CSV.
+La comparacion ignora tildes/mayusculas/apostrofos y alias de equipo (nombres.py); los valores crudos van en el CSV.
+Nombres de goleador: igual (solo ortografia) -> COINCIDE; goleador_variante (p.ej. "Bremer" / "Gleison Bremer")
+y goleador_distinto (otra persona) -> DISCREPA. Los partidos aplazados que tienen un gemelo ya jugado (mismo
+local-visitante) se excluyen: son el evento original, no un partido disputado.
 """
 import argparse
 import csv
@@ -16,7 +19,7 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from nombres import equipo, norm
+from nombres import equipo, norm, relacion_nombres
 
 DATOS = Path(__file__).parent / "datos"
 JORNADAS = DATOS / "jornadas"
@@ -33,6 +36,15 @@ def leer(ruta):
 
 def clave(p):
     return (equipo(p["local"]), equipo(p["visitante"]))
+
+
+FINALES = {"finished", "STATUS_FULL_TIME"}
+
+
+def sin_aplazados(partidos):
+    """Quita los eventos no disputados que tienen un gemelo disputado (mismo local-visitante)."""
+    jugados = {clave(p) for p in partidos if p["estado"] in FINALES}
+    return [p for p in partidos if p["estado"] in FINALES or clave(p) not in jugados]
 
 
 def validar(fuente, partidos, goles):
@@ -90,7 +102,7 @@ def comparar_jornada(n):
     if faltan:
         print(f"J{n:02d}: faltan {faltan}; se omite", file=sys.stderr)
         return None
-    P = {f: leer(rutas[f, "partidos"]) for f in FUENTES}
+    P = {f: sin_aplazados(leer(rutas[f, "partidos"])) for f in FUENTES}
     G = {f: leer(rutas[f, "goles"]) for f in FUENTES}
     val = [dict(jornada=n, fuente=f, partido=pt, chequeo=ch, detalle=d)
            for f in FUENTES for pt, ch, d in validar(f, P[f], G[f])]
@@ -124,9 +136,10 @@ def comparar_jornada(n):
                                   **{"espn_valor" if ga else "sofascore_valor": fmt(g)},
                                   espn_id=a["partido_id"], sofascore_id=b["partido_id"]))
                 continue
+            rel = relacion_nombres(ga["goleador"], gb["goleador"])
             d = [c for c, bad in (("equipo", equipo(ga["equipo"]) != equipo(gb["equipo"])),
                                   ("minuto", ga["minuto_txt"] != gb["minuto_txt"]),
-                                  ("goleador", norm(ga["goleador"]) != norm(gb["goleador"])),
+                                  ("goleador_" + rel, rel != "igual"),
                                   ("penal", ga["penal"] != gb["penal"]),
                                   ("autogol", ga["autogol"] != gb["autogol"])) if bad]
             filas.append(dict(jornada=n, nivel="GOL", partido=nombre, estado="DISCREPA" if d else "COINCIDE",

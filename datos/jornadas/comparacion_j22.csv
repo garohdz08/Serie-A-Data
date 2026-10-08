@@ -14,11 +14,11 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 22,GOL,Como - Torino,COINCIDE,,59' Lucas Da Cunha (Como) PEN,59' Lucas Da Cunha (Como) PEN,736995,13981631
 22,GOL,Como - Torino,COINCIDE,,66' Anastasios Douvikas (Como),66' Anastasios Douvikas (Como),736995,13981631
 22,GOL,Como - Torino,COINCIDE,,76' Maxence Caqueret (Como),76' Maxence Caqueret (Como),736995,13981631
-22,GOL,Como - Torino,DISCREPA,goleador,70' Nicolas Kühn (Como),70' Nicolas-Gerrit Kühn (Como),736995,13981631
+22,GOL,Como - Torino,DISCREPA,goleador_variante,70' Nicolas Kühn (Como),70' Nicolas-Gerrit Kühn (Como),736995,13981631
 22,PARTIDO,Fiorentina - Cagliari,COINCIDE,,2026-01-24T17:00Z 1-2 (3 goles),2026-01-24T17:00Z 1-2 (3 goles),736996,13981632
+22,GOL,Fiorentina - Cagliari,COINCIDE,,31' Semih Kiliçsoy (Cagliari),31' Semih Kılıçsoy (Cagliari),736996,13981632
 22,GOL,Fiorentina - Cagliari,COINCIDE,,47' Marco Palestra (Cagliari),47' Marco Palestra (Cagliari),736996,13981632
 22,GOL,Fiorentina - Cagliari,COINCIDE,,74' Marco Brescianini (Fiorentina),74' Marco Brescianini (Fiorentina),736996,13981632
-22,GOL,Fiorentina - Cagliari,DISCREPA,goleador,31' Semih Kiliçsoy (Cagliari),31' Semih Kılıçsoy (Cagliari),736996,13981632
 22,PARTIDO,Lecce - Lazio,COINCIDE,,2026-01-24T19:45Z 0-0 (0 goles),2026-01-24T19:45Z 0-0 (0 goles),736999,13981639
 22,PARTIDO,Sassuolo - Cremonese,COINCIDE,,2026-01-25T11:30Z 1-0 (1 goles),2026-01-25T11:30Z 1-0 (1 goles),736998,13981642
 22,GOL,Sassuolo - Cremonese,COINCIDE,,3' Alieu Fadera (Sassuolo),3' Alieu Fadera (Sassuolo),736998,13981642
@@ -35,8 +35,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 22,GOL,Genoa - Bologna,COINCIDE,,90+1' Junior Messias (Genoa),90+1' Junior Messias (Genoa),736997,13981636
 22,PARTIDO,Juventus - Napoli,COINCIDE,,2026-01-25T17:00Z 3-0 (3 goles),2026-01-25T17:00Z 3-0 (3 goles),737000,13981638
 22,GOL,Juventus - Napoli,COINCIDE,,22' Jonathan David (Juventus),22' Jonathan David (Juventus),737000,13981638
+22,GOL,Juventus - Napoli,COINCIDE,,77' Kenan Yildiz (Juventus),77' Kenan Yıldız (Juventus),737000,13981638
 22,GOL,Juventus - Napoli,COINCIDE,,86' Filip Kostic (Juventus),86' Filip Kostić (Juventus),737000,13981638
-22,GOL,Juventus - Napoli,DISCREPA,goleador,77' Kenan Yildiz (Juventus),77' Kenan Yıldız (Juventus),737000,13981638
 22,PARTIDO,AS Roma - AC Milan,COINCIDE,,2026-01-25T19:45Z 1-1 (2 goles),2026-01-25T19:45Z 1-1 (2 goles),737003,13981641
 22,GOL,AS Roma - AC Milan,COINCIDE,,62' Koni De Winter (AC Milan),62' Koni De Winter (AC Milan),737003,13981641
 22,GOL,AS Roma - AC Milan,COINCIDE,,74' Lorenzo Pellegrini (AS Roma) PEN,74' Lorenzo Pellegrini (AS Roma) PEN,737003,13981641

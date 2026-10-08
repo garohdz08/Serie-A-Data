@@ -1,2 +1,2 @@
 jornada,fuente,partido,chequeo,detalle
-24,sofascore,AC Milan - Como,partido_sin_marcador,estado=postponed
+todas,,,OK,"suma=marcador, minutos 1-120, sin duplicados"
