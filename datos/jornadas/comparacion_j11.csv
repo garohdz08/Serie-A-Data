@@ -1,0 +1,29 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+11,PARTIDO,Pisa - Cremonese,COINCIDE,,2025-11-07T19:45Z 1-0 (1 goles),2025-11-07T19:45Z 1-0 (1 goles),736886,13981525
+11,GOL,Pisa - Cremonese,COINCIDE,,75' Idrissa Touré (Pisa),75' Idrissa Touré (Pisa),736886,13981525
+11,PARTIDO,Como - Cagliari,COINCIDE,,2025-11-08T14:00Z 0-0 (0 goles),2025-11-08T14:00Z 0-0 (0 goles),736884,13981529
+11,PARTIDO,Lecce - Hellas Verona,COINCIDE,,2025-11-08T14:00Z 0-0 (0 goles),2025-11-08T14:00Z 0-0 (0 goles),736888,13981526
+11,PARTIDO,Juventus - Torino,COINCIDE,,2025-11-08T17:00Z 0-0 (0 goles),2025-11-08T17:00Z 0-0 (0 goles),736889,13981531
+11,PARTIDO,Parma - AC Milan,COINCIDE,,2025-11-08T19:45Z 2-2 (4 goles),2025-11-08T19:45Z 2-2 (4 goles),736887,13981528
+11,GOL,Parma - AC Milan,COINCIDE,,12' Alexis Saelemaekers (AC Milan),12' Alexis Saelemaekers (AC Milan),736887,13981528
+11,GOL,Parma - AC Milan,COINCIDE,,25' Rafael Leão (AC Milan) PEN,25' Rafael Leão (AC Milan) PEN,736887,13981528
+11,GOL,Parma - AC Milan,COINCIDE,,45+1' Adrián Bernabé (Parma),45+1' Adrián Bernabé (Parma),736887,13981528
+11,GOL,Parma - AC Milan,DISCREPA,goleador,62' Enrico Del Prato (Parma),62' Enrico Delprato (Parma),736887,13981528
+11,PARTIDO,Atalanta - Sassuolo,COINCIDE,,2025-11-09T11:30Z 0-3 (3 goles),2025-11-09T11:30Z 0-3 (3 goles),736893,13981521
+11,GOL,Atalanta - Sassuolo,COINCIDE,,29' Domenico Berardi (Sassuolo) PEN,29' Domenico Berardi (Sassuolo) PEN,736893,13981521
+11,GOL,Atalanta - Sassuolo,COINCIDE,,47' Andrea Pinamonti (Sassuolo),47' Andrea Pinamonti (Sassuolo),736893,13981521
+11,GOL,Atalanta - Sassuolo,COINCIDE,,66' Domenico Berardi (Sassuolo),66' Domenico Berardi (Sassuolo),736893,13981521
+11,PARTIDO,Bologna - Napoli,COINCIDE,,2025-11-09T14:00Z 2-0 (2 goles),2025-11-09T14:00Z 2-0 (2 goles),736892,13981519
+11,GOL,Bologna - Napoli,COINCIDE,,50' Thijs Dallinga (Bologna),50' Thijs Dallinga (Bologna),736892,13981519
+11,GOL,Bologna - Napoli,COINCIDE,,66' Jhon Lucumí (Bologna),66' Jhon Lucumí (Bologna),736892,13981519
+11,PARTIDO,Genoa - Fiorentina,COINCIDE,,2025-11-09T14:00Z 2-2 (4 goles),2025-11-09T14:00Z 2-2 (4 goles),736891,13981530
+11,GOL,Genoa - Fiorentina,COINCIDE,,15' Leo Østigard (Genoa),15' Leo Østigård (Genoa),736891,13981530
+11,GOL,Genoa - Fiorentina,COINCIDE,,57' Roberto Piccoli (Fiorentina),57' Roberto Piccoli (Fiorentina),736891,13981530
+11,GOL,Genoa - Fiorentina,COINCIDE,,60' Lorenzo Colombo (Genoa),60' Lorenzo Colombo (Genoa),736891,13981530
+11,GOL,Genoa - Fiorentina,DISCREPA,goleador,20' Albert Gudmundsson (Fiorentina) PEN,20' Albert Guðmundsson (Fiorentina) PEN,736891,13981530
+11,PARTIDO,AS Roma - Udinese,COINCIDE,,2025-11-09T17:00Z 2-0 (2 goles),2025-11-09T17:00Z 2-0 (2 goles),736885,13981523
+11,GOL,AS Roma - Udinese,COINCIDE,,42' Lorenzo Pellegrini (AS Roma) PEN,42' Lorenzo Pellegrini (AS Roma) PEN,736885,13981523
+11,GOL,AS Roma - Udinese,COINCIDE,,61' Zeki Çelik (AS Roma),61' Zeki Çelik (AS Roma),736885,13981523
+11,PARTIDO,Internazionale - Lazio,COINCIDE,,2025-11-09T19:45Z 2-0 (2 goles),2025-11-09T19:45Z 2-0 (2 goles),736890,13981527
+11,GOL,Internazionale - Lazio,COINCIDE,,3' Lautaro Martínez (Internazionale),3' Lautaro Martínez (Inter),736890,13981527
+11,GOL,Internazionale - Lazio,COINCIDE,,61' Ange-Yoan Bonny (Internazionale),61' Ange-Yoan Bonny (Inter),736890,13981527
