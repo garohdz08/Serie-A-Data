@@ -1,0 +1,34 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+31,PARTIDO,Sassuolo - Cagliari,COINCIDE,,2026-04-04T13:00Z 2-1 (3 goles),2026-04-04T13:00Z 2-1 (3 goles),737084,13981730
+31,GOL,Sassuolo - Cagliari,COINCIDE,,30' Sebastiano Esposito (Cagliari) PEN,30' Sebastiano Esposito (Cagliari) PEN,737084,13981730
+31,GOL,Sassuolo - Cagliari,COINCIDE,,50' Ulisses Garcia (Sassuolo),50' Ulisses Garcia (Sassuolo),737084,13981730
+31,GOL,Sassuolo - Cagliari,COINCIDE,,78' Andrea Pinamonti (Sassuolo),78' Andrea Pinamonti (Sassuolo),737084,13981730
+31,PARTIDO,Hellas Verona - Fiorentina,COINCIDE,,2026-04-04T16:00Z 0-1 (1 goles),2026-04-04T16:00Z 0-1 (1 goles),737091,13981732
+31,GOL,Hellas Verona - Fiorentina,COINCIDE,,82' Nicolò Fagioli (Fiorentina),82' Nicolò Fagioli (Fiorentina),737091,13981732
+31,PARTIDO,Lazio - Parma,COINCIDE,,2026-04-04T18:45Z 1-1 (2 goles),2026-04-04T18:45Z 1-1 (2 goles),737093,13981729
+31,GOL,Lazio - Parma,COINCIDE,,77' Tijjani Noslin (Lazio),77' Tijjani Noslin (Lazio),737093,13981729
+31,GOL,Lazio - Parma,DISCREPA,goleador,15' Enrico Del Prato (Parma),15' Enrico Delprato (Parma),737093,13981729
+31,PARTIDO,Cremonese - Bologna,COINCIDE,,2026-04-05T13:00Z 1-2 (3 goles),2026-04-05T13:00Z 1-2 (3 goles),737092,13981725
+31,GOL,Cremonese - Bologna,COINCIDE,,90+1' Federico Bonazzoli (Cremonese) PEN,90+1' Federico Bonazzoli (Cremonese) PEN,737092,13981725
+31,GOL,Cremonese - Bologna,DISCREPA,goleador,3' Joao Victor (Bologna),3' João Mário (Bologna),737092,13981725
+31,GOL,Cremonese - Bologna,DISCREPA,goleador,16' Jon Rowe (Bologna),16' Jonathan Rowe (Bologna),737092,13981725
+31,PARTIDO,Pisa - Torino,COINCIDE,,2026-04-05T16:00Z 0-1 (1 goles),2026-04-05T16:00Z 0-1 (1 goles),737085,13981728
+31,GOL,Pisa - Torino,COINCIDE,,80' Ché Adams (Torino),80' Che Adams (Torino),737085,13981728
+31,PARTIDO,Internazionale - AS Roma,COINCIDE,,2026-04-05T18:45Z 5-2 (7 goles),2026-04-05T18:45Z 5-2 (7 goles),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,1' Lautaro Martínez (Internazionale),1' Lautaro Martínez (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,40' Gianluca Mancini (AS Roma),40' Gianluca Mancini (AS Roma),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,45+2' Hakan Çalhanoglu (Internazionale),45+2' Hakan Çalhanoğlu (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,52' Lautaro Martínez (Internazionale),52' Lautaro Martínez (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,55' Marcus Thuram (Internazionale),55' Marcus Thuram (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,63' Nicolò Barella (Internazionale),63' Nicolò Barella (Inter),737090,13981720
+31,GOL,Internazionale - AS Roma,COINCIDE,,70' Lorenzo Pellegrini (AS Roma),70' Lorenzo Pellegrini (AS Roma),737090,13981720
+31,PARTIDO,Udinese - Como,COINCIDE,,2026-04-06T10:30Z 0-0 (0 goles),2026-04-06T10:30Z 0-0 (0 goles),737088,13981731
+31,PARTIDO,Lecce - Atalanta,COINCIDE,,2026-04-06T13:00Z 0-3 (3 goles),2026-04-06T13:00Z 0-3 (3 goles),737087,13981726
+31,GOL,Lecce - Atalanta,COINCIDE,,29' Giorgio Scalvini (Atalanta),29' Giorgio Scalvini (Atalanta),737087,13981726
+31,GOL,Lecce - Atalanta,COINCIDE,,59' Nikola Krstovic (Atalanta),59' Nikola Krstović (Atalanta),737087,13981726
+31,GOL,Lecce - Atalanta,COINCIDE,,73' Giacomo Raspadori (Atalanta),73' Giacomo Raspadori (Atalanta),737087,13981726
+31,PARTIDO,Juventus - Genoa,COINCIDE,,2026-04-06T16:00Z 2-0 (2 goles),2026-04-06T16:00Z 2-0 (2 goles),737089,13981723
+31,GOL,Juventus - Genoa,COINCIDE,,17' Weston McKennie (Juventus),17' Weston McKennie (Juventus),737089,13981723
+31,GOL,Juventus - Genoa,DISCREPA,goleador,4' Bremer (Juventus),4' Gleison Bremer (Juventus),737089,13981723
+31,PARTIDO,Napoli - AC Milan,COINCIDE,,2026-04-06T18:45Z 1-0 (1 goles),2026-04-06T18:45Z 1-0 (1 goles),737086,13981727
+31,GOL,Napoli - AC Milan,COINCIDE,,79' Matteo Politano (Napoli),79' Matteo Politano (SSC Napoli),737086,13981727
