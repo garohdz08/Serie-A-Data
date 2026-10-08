@@ -1,0 +1,39 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+23,PARTIDO,Lazio - Genoa,COINCIDE,,2026-01-30T19:45Z 3-2 (5 goles),2026-01-30T19:45Z 3-2 (5 goles),737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,56' Pedro (Lazio) PEN,56' Pedro (Lazio) PEN,737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,62' Kenneth Taylor (Lazio),62' Kenneth Taylor (Lazio),737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,67' Ruslan Malinovskyi (Genoa) PEN,67' Ruslan Malinovskyi (Genoa) PEN,737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,75' Vitinha (Genoa),75' Vitinha (Genoa),737013,13981646
+23,GOL,Lazio - Genoa,COINCIDE,,90+10' Danilo Cataldi (Lazio) PEN,90+10' Danilo Cataldi (Lazio) PEN,737013,13981646
+23,PARTIDO,Pisa - Sassuolo,COINCIDE,,2026-01-31T14:00Z 1-3 (4 goles),2026-01-31T14:00Z 1-3 (4 goles),737005,13981652
+23,GOL,Pisa - Sassuolo,COINCIDE,,25' Domenico Berardi (Sassuolo),25' Domenico Berardi (Sassuolo),737005,13981652
+23,GOL,Pisa - Sassuolo,COINCIDE,,45+1' Antonio Caracciolo (Sassuolo) AUTOGOL,45+1' Antonio Caracciolo (Sassuolo) AUTOGOL,737005,13981652
+23,GOL,Pisa - Sassuolo,COINCIDE,,51' Michel Aebischer (Pisa),51' Michel Aebischer (Pisa),737005,13981652
+23,GOL,Pisa - Sassuolo,COINCIDE,,58' Ismaël Koné (Sassuolo),58' Ismael Koné (Sassuolo),737005,13981652
+23,PARTIDO,Napoli - Fiorentina,COINCIDE,,2026-01-31T17:00Z 2-1 (3 goles),2026-01-31T17:00Z 2-1 (3 goles),737007,13981647
+23,GOL,Napoli - Fiorentina,COINCIDE,,11' Antonio Vergara (Napoli),11' Antonio Vergara (SSC Napoli),737007,13981647
+23,GOL,Napoli - Fiorentina,COINCIDE,,49' Miguel Gutiérrez (Napoli),49' Miguel Gutiérrez (SSC Napoli),737007,13981647
+23,GOL,Napoli - Fiorentina,COINCIDE,,57' Manor Solomon (Fiorentina),57' Manor Solomon (Fiorentina),737007,13981647
+23,PARTIDO,Cagliari - Hellas Verona,COINCIDE,,2026-01-31T19:45Z 4-0 (4 goles),2026-01-31T19:45Z 4-0 (4 goles),737011,13981644
+23,GOL,Cagliari - Hellas Verona,COINCIDE,,36' Luca Mazzitelli (Cagliari),36' Luca Mazzitelli (Cagliari),737011,13981644
+23,GOL,Cagliari - Hellas Verona,COINCIDE,,90+1' Riyad Idrissi (Cagliari),90+1' Riyad Idrissi (Cagliari),737011,13981644
+23,GOL,Cagliari - Hellas Verona,DISCREPA,goleador,45+2' Semih Kiliçsoy (Cagliari),45+2' Semih Kılıçsoy (Cagliari),737011,13981644
+23,GOL,Cagliari - Hellas Verona,DISCREPA,goleador,84' Sulemana (Cagliari),84' Ibrahim Sulemana (Cagliari),737011,13981644
+23,PARTIDO,Torino - Lecce,COINCIDE,,2026-02-01T11:30Z 1-0 (1 goles),2026-02-01T11:30Z 1-0 (1 goles),737004,13981653
+23,GOL,Torino - Lecce,COINCIDE,,29' Ché Adams (Torino),29' Che Adams (Torino),737004,13981653
+23,PARTIDO,Como - Atalanta,COINCIDE,,2026-02-01T14:00Z 0-0 (0 goles),2026-02-01T14:00Z 0-0 (0 goles),737010,13981645
+23,PARTIDO,Cremonese - Internazionale,COINCIDE,,2026-02-01T17:00Z 0-2 (2 goles),2026-02-01T17:00Z 0-2 (2 goles),737009,13981649
+23,GOL,Cremonese - Internazionale,COINCIDE,,16' Lautaro Martínez (Internazionale),16' Lautaro Martínez (Inter),737009,13981649
+23,GOL,Cremonese - Internazionale,COINCIDE,,31' Piotr Zielinski (Internazionale),31' Piotr Zieliński (Inter),737009,13981649
+23,PARTIDO,Parma - Juventus,COINCIDE,,2026-02-01T19:45Z 1-4 (5 goles),2026-02-01T19:45Z 1-4 (5 goles),737006,13981648
+23,GOL,Parma - Juventus,COINCIDE,,37' Weston McKennie (Juventus),37' Weston McKennie (Juventus),737006,13981648
+23,GOL,Parma - Juventus,COINCIDE,,51' Andrea Cambiaso (Parma) AUTOGOL,51' Andrea Cambiaso (Parma) AUTOGOL,737006,13981648
+23,GOL,Parma - Juventus,COINCIDE,,64' Jonathan David (Juventus),64' Jonathan David (Juventus),737006,13981648
+23,GOL,Parma - Juventus,DISCREPA,goleador,15' Bremer (Juventus),15' Gleison Bremer (Juventus),737006,13981648
+23,GOL,Parma - Juventus,DISCREPA,goleador,54' Bremer (Juventus),54' Gleison Bremer (Juventus),737006,13981648
+23,PARTIDO,Udinese - AS Roma,COINCIDE,,2026-02-02T19:45Z 1-0 (1 goles),2026-02-02T19:45Z 1-0 (1 goles),737008,13981651
+23,GOL,Udinese - AS Roma,COINCIDE,,49' Jurgen Ekkelenkamp (Udinese),49' Jürgen Ekkelenkamp (Udinese),737008,13981651
+23,PARTIDO,Bologna - AC Milan,COINCIDE,,2026-02-03T19:45Z 0-3 (3 goles),2026-02-03T19:45Z 0-3 (3 goles),737012,15370282
+23,GOL,Bologna - AC Milan,COINCIDE,,20' Ruben Loftus-Cheek (AC Milan),20' Ruben Loftus-Cheek (AC Milan),737012,15370282
+23,GOL,Bologna - AC Milan,COINCIDE,,39' Christopher Nkunku (AC Milan) PEN,39' Christopher Nkunku (AC Milan) PEN,737012,15370282
+23,GOL,Bologna - AC Milan,COINCIDE,,48' Adrien Rabiot (AC Milan),48' Adrien Rabiot (AC Milan),737012,15370282
