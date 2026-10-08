@@ -1,0 +1,30 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+15,PARTIDO,Lecce - Pisa,COINCIDE,,2025-12-12T19:45Z 1-0 (1 goles),2025-12-12T19:45Z 1-0 (1 goles),736928,13981561
+15,GOL,Lecce - Pisa,COINCIDE,,72' Nikola Stulic (Lecce),72' Nikola Štulić (Lecce),736928,13981561
+15,PARTIDO,Torino - Cremonese,COINCIDE,,2025-12-13T14:00Z 1-0 (1 goles),2025-12-13T14:00Z 1-0 (1 goles),736924,13981573
+15,GOL,Torino - Cremonese,COINCIDE,,27' Nikola Vlasic (Torino),27' Nikola Vlašić (Torino),736924,13981573
+15,PARTIDO,Parma - Lazio,COINCIDE,,2025-12-13T17:00Z 0-1 (1 goles),2025-12-13T17:00Z 0-1 (1 goles),736926,13981566
+15,GOL,Parma - Lazio,COINCIDE,,82' Tijjani Noslin (Lazio),82' Tijjani Noslin (Lazio),736926,13981566
+15,PARTIDO,Atalanta - Cagliari,COINCIDE,,2025-12-13T19:45Z 2-1 (3 goles),2025-12-13T19:45Z 2-1 (3 goles),736932,13981569
+15,GOL,Atalanta - Cagliari,COINCIDE,,11' Gianluca Scamacca (Atalanta),11' Gianluca Scamacca (Atalanta),736932,13981569
+15,GOL,Atalanta - Cagliari,COINCIDE,,75' Gianluca Gaetano (Cagliari),75' Gianluca Gaetano (Cagliari),736932,13981569
+15,GOL,Atalanta - Cagliari,COINCIDE,,81' Gianluca Scamacca (Atalanta),81' Gianluca Scamacca (Atalanta),736932,13981569
+15,PARTIDO,AC Milan - Sassuolo,COINCIDE,,2025-12-14T11:30Z 2-2 (4 goles),2025-12-14T11:30Z 2-2 (4 goles),736927,13981562
+15,GOL,AC Milan - Sassuolo,COINCIDE,,13' Ismaël Koné (Sassuolo),13' Ismael Koné (Sassuolo),736927,13981562
+15,GOL,AC Milan - Sassuolo,COINCIDE,,34' Davide Bartesaghi (AC Milan),34' Davide Bartesaghi (AC Milan),736927,13981562
+15,GOL,AC Milan - Sassuolo,COINCIDE,,47' Davide Bartesaghi (AC Milan),47' Davide Bartesaghi (AC Milan),736927,13981562
+15,GOL,AC Milan - Sassuolo,COINCIDE,,77' Armand Laurienté (Sassuolo),77' Armand Laurienté (Sassuolo),736927,13981562
+15,PARTIDO,Fiorentina - Hellas Verona,COINCIDE,,2025-12-14T14:00Z 1-2 (3 goles),2025-12-14T14:00Z 1-2 (3 goles),736930,13981571
+15,GOL,Fiorentina - Hellas Verona,COINCIDE,,42' Gift Orban (Hellas Verona),42' Gift Orban (Hellas Verona),736930,13981571
+15,GOL,Fiorentina - Hellas Verona,COINCIDE,,69' Unai Núñez (Fiorentina) AUTOGOL,69' Unai Núñez (Fiorentina) AUTOGOL,736930,13981571
+15,GOL,Fiorentina - Hellas Verona,COINCIDE,,90+3' Gift Orban (Hellas Verona),90+3' Gift Orban (Hellas Verona),736930,13981571
+15,PARTIDO,Udinese - Napoli,COINCIDE,,2025-12-14T14:00Z 1-0 (1 goles),2025-12-14T14:00Z 1-0 (1 goles),736933,13981570
+15,GOL,Udinese - Napoli,COINCIDE,,73' Jurgen Ekkelenkamp (Udinese),73' Jürgen Ekkelenkamp (Udinese),736933,13981570
+15,PARTIDO,Genoa - Internazionale,COINCIDE,,2025-12-14T17:00Z 1-2 (3 goles),2025-12-14T17:00Z 1-2 (3 goles),736929,13981564
+15,GOL,Genoa - Internazionale,COINCIDE,,6' Yann Bisseck (Internazionale),6' Yann Bisseck (Inter),736929,13981564
+15,GOL,Genoa - Internazionale,COINCIDE,,38' Lautaro Martínez (Internazionale),38' Lautaro Martínez (Inter),736929,13981564
+15,GOL,Genoa - Internazionale,COINCIDE,,68' Vitinha (Genoa),68' Vitinha (Genoa),736929,13981564
+15,PARTIDO,Bologna - Juventus,COINCIDE,,2025-12-14T19:45Z 0-1 (1 goles),2025-12-14T19:45Z 0-1 (1 goles),736931,13981565
+15,GOL,Bologna - Juventus,COINCIDE,,64' Juan Cabal (Juventus),64' Juan Cabal (Juventus),736931,13981565
+15,PARTIDO,AS Roma - Como,COINCIDE,,2025-12-15T19:45Z 1-0 (1 goles),2025-12-15T19:45Z 1-0 (1 goles),736925,13981577
+15,GOL,AS Roma - Como,COINCIDE,,60' Wesley (AS Roma),60' Wesley (AS Roma),736925,13981577
