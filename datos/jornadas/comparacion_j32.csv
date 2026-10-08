@@ -1,0 +1,37 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+32,PARTIDO,AS Roma - Pisa,COINCIDE,,2026-04-10T18:45Z 3-0 (3 goles),2026-04-10T18:45Z 3-0 (3 goles),737094,13981742
+32,GOL,AS Roma - Pisa,COINCIDE,,3' Donyell Malen (AS Roma),3' Donyell Malen (AS Roma),737094,13981742
+32,GOL,AS Roma - Pisa,COINCIDE,,43' Donyell Malen (AS Roma),43' Donyell Malen (AS Roma),737094,13981742
+32,GOL,AS Roma - Pisa,COINCIDE,,52' Donyell Malen (AS Roma),52' Donyell Malen (AS Roma),737094,13981742
+32,PARTIDO,Cagliari - Cremonese,COINCIDE,,2026-04-11T13:00Z 1-0 (1 goles),2026-04-11T13:00Z 1-0 (1 goles),737100,13981735
+32,GOL,Cagliari - Cremonese,COINCIDE,,63' Sebastiano Esposito (Cagliari),63' Sebastiano Esposito (Cagliari),737100,13981735
+32,PARTIDO,Torino - Hellas Verona,COINCIDE,,2026-04-11T13:00Z 2-1 (3 goles),2026-04-11T13:00Z 2-1 (3 goles),737103,13981741
+32,GOL,Torino - Hellas Verona,COINCIDE,,6' Giovanni Simeone (Torino),6' Giovanni Simeone (Torino),737103,13981741
+32,GOL,Torino - Hellas Verona,COINCIDE,,38' Kieron Bowie (Hellas Verona),38' Kieron Bowie (Hellas Verona),737103,13981741
+32,GOL,Torino - Hellas Verona,COINCIDE,,50' Cesare Casadei (Torino),50' Cesare Casadei (Torino),737103,13981741
+32,PARTIDO,AC Milan - Udinese,COINCIDE,,2026-04-11T16:00Z 0-3 (3 goles),2026-04-11T16:00Z 0-3 (3 goles),737096,13981739
+32,GOL,AC Milan - Udinese,COINCIDE,,27' Davide Bartesaghi (Udinese) AUTOGOL,27' Davide Bartesaghi (Udinese) AUTOGOL,737096,13981739
+32,GOL,AC Milan - Udinese,COINCIDE,,37' Jurgen Ekkelenkamp (Udinese),37' Jürgen Ekkelenkamp (Udinese),737096,13981739
+32,GOL,AC Milan - Udinese,COINCIDE,,71' Arthur Atta (Udinese),71' Arthur Atta (Udinese),737096,13981739
+32,PARTIDO,Atalanta - Juventus,COINCIDE,,2026-04-11T18:45Z 0-1 (1 goles),2026-04-11T18:45Z 0-1 (1 goles),737102,13981733
+32,GOL,Atalanta - Juventus,COINCIDE,,48' Jérémie Boga (Juventus),48' Jérémie Boga (Juventus),737102,13981733
+32,PARTIDO,Genoa - Sassuolo,COINCIDE,,2026-04-12T10:30Z 2-1 (3 goles),2026-04-12T10:30Z 2-1 (3 goles),737097,13981737
+32,GOL,Genoa - Sassuolo,COINCIDE,,18' Ruslan Malinovskyi (Genoa),18' Ruslan Malinovskyi (Genoa),737097,13981737
+32,GOL,Genoa - Sassuolo,COINCIDE,,57' Ismaël Koné (Sassuolo),57' Ismael Koné (Sassuolo),737097,13981737
+32,GOL,Genoa - Sassuolo,COINCIDE,,84' Caleb Ekuban (Genoa),84' Caleb Ekuban (Genoa),737097,13981737
+32,PARTIDO,Parma - Napoli,COINCIDE,,2026-04-12T13:00Z 1-1 (2 goles),2026-04-12T13:00Z 1-1 (2 goles),737095,13981740
+32,GOL,Parma - Napoli,COINCIDE,,1' Gabriel Strefezza (Parma),1' Gabriel Strefezza (Parma),737095,13981740
+32,GOL,Parma - Napoli,COINCIDE,,60' Scott McTominay (Napoli),60' Scott McTominay (SSC Napoli),737095,13981740
+32,PARTIDO,Bologna - Lecce,COINCIDE,,2026-04-12T16:00Z 2-0 (2 goles),2026-04-12T16:00Z 2-0 (2 goles),737101,13981734
+32,GOL,Bologna - Lecce,COINCIDE,,26' Remo Freuler (Bologna),26' Remo Freuler (Bologna),737101,13981734
+32,GOL,Bologna - Lecce,COINCIDE,,90+2' Riccardo Orsolini (Bologna),90+2' Riccardo Orsolini (Bologna),737101,13981734
+32,PARTIDO,Como - Internazionale,COINCIDE,,2026-04-12T18:45Z 3-4 (7 goles),2026-04-12T18:45Z 3-4 (7 goles),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,36' Álex Valle (Como),36' Álex Valle (Como),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,45' Nico Paz (Como),45' Nico Paz (Como),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,45+1' Marcus Thuram (Internazionale),45+1' Marcus Thuram (Inter),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,49' Marcus Thuram (Internazionale),49' Marcus Thuram (Inter),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,58' Denzel Dumfries (Internazionale),58' Denzel Dumfries (Inter),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,72' Denzel Dumfries (Internazionale),72' Denzel Dumfries (Inter),737099,13981736
+32,GOL,Como - Internazionale,COINCIDE,,89' Lucas Da Cunha (Como) PEN,89' Lucas Da Cunha (Como) PEN,737099,13981736
+32,PARTIDO,Fiorentina - Lazio,COINCIDE,,2026-04-13T18:45Z 1-0 (1 goles),2026-04-13T18:45Z 1-0 (1 goles),737098,13981738
+32,GOL,Fiorentina - Lazio,COINCIDE,,28' Robin Gosens (Fiorentina),28' Robin Gosens (Fiorentina),737098,13981738
