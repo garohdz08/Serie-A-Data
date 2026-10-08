@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+sofascore,13981427,2025-09-13T13:00Z,Cagliari,Parma,2,0,finished
+sofascore,13981435,2025-09-13T16:00Z,Juventus,Inter,4,3,finished
+sofascore,13981442,2025-09-13T18:45Z,Fiorentina,SSC Napoli,1,3,finished
+sofascore,13981434,2025-09-14T10:30Z,AS Roma,Torino,0,1,finished
+sofascore,13981450,2025-09-14T13:00Z,Atalanta,Lecce,4,1,finished
+sofascore,13981445,2025-09-14T13:00Z,Pisa,Udinese,0,1,finished
+sofascore,13981449,2025-09-14T16:00Z,Sassuolo,Lazio,1,0,finished
+sofascore,13981437,2025-09-14T18:45Z,AC Milan,Bologna,1,0,finished
+sofascore,13981451,2025-09-15T16:30Z,Hellas Verona,Cremonese,0,0,finished
+sofascore,13981430,2025-09-15T18:45Z,Como,Genoa,1,1,finished

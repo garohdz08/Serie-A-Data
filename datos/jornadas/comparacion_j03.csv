@@ -1,0 +1,35 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+3,PARTIDO,Cagliari - Parma,COINCIDE,,2025-09-13T13:00Z 2-0 (2 goles),2025-09-13T13:00Z 2-0 (2 goles),736811,13981427
+3,GOL,Cagliari - Parma,COINCIDE,,33' Yerry Mina (Cagliari),33' Yerry Mina (Cagliari),736811,13981427
+3,GOL,Cagliari - Parma,COINCIDE,,77' Mattia Felici (Cagliari),77' Mattia Felici (Cagliari),736811,13981427
+3,PARTIDO,Juventus - Internazionale,COINCIDE,,2025-09-13T16:00Z 4-3 (7 goles),2025-09-13T16:00Z 4-3 (7 goles),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,14' Lloyd Kelly (Juventus),14' Lloyd Kelly (Juventus),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,30' Hakan Çalhanoglu (Internazionale),30' Hakan Çalhanoğlu (Inter),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,65' Hakan Çalhanoglu (Internazionale),65' Hakan Çalhanoğlu (Inter),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,76' Marcus Thuram (Internazionale),76' Marcus Thuram (Inter),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,82' Khéphren Thuram (Juventus),82' Khéphren Thuram (Juventus),736807,13981435
+3,GOL,Juventus - Internazionale,COINCIDE,,90+1' Vasilije Adzic (Juventus),90+1' Vasilije Adžić (Juventus),736807,13981435
+3,GOL,Juventus - Internazionale,DISCREPA,goleador,38' Kenan Yildiz (Juventus),38' Kenan Yıldız (Juventus),736807,13981435
+3,PARTIDO,Fiorentina - Napoli,COINCIDE,,2025-09-13T18:45Z 1-3 (4 goles),2025-09-13T18:45Z 1-3 (4 goles),736809,13981442
+3,GOL,Fiorentina - Napoli,COINCIDE,,6' Kevin De Bruyne (Napoli) PEN,6' Kevin De Bruyne (SSC Napoli) PEN,736809,13981442
+3,GOL,Fiorentina - Napoli,COINCIDE,,14' Rasmus Højlund (Napoli),14' Rasmus Højlund (SSC Napoli),736809,13981442
+3,GOL,Fiorentina - Napoli,COINCIDE,,51' Sam Beukema (Napoli),51' Sam Beukema (SSC Napoli),736809,13981442
+3,GOL,Fiorentina - Napoli,COINCIDE,,79' Luca Ranieri (Fiorentina),79' Luca Ranieri (Fiorentina),736809,13981442
+3,PARTIDO,AS Roma - Torino,COINCIDE,,2025-09-14T10:30Z 0-1 (1 goles),2025-09-14T10:30Z 0-1 (1 goles),736804,13981434
+3,GOL,AS Roma - Torino,COINCIDE,,59' Giovanni Simeone (Torino),59' Giovanni Simeone (Torino),736804,13981434
+3,PARTIDO,Atalanta - Lecce,COINCIDE,,2025-09-14T13:00Z 4-1 (5 goles),2025-09-14T13:00Z 4-1 (5 goles),736812,13981450
+3,GOL,Atalanta - Lecce,COINCIDE,,37' Giorgio Scalvini (Atalanta),37' Giorgio Scalvini (Atalanta),736812,13981450
+3,GOL,Atalanta - Lecce,COINCIDE,,51' Charles De Ketelaere (Atalanta),51' Charles De Ketelaere (Atalanta),736812,13981450
+3,GOL,Atalanta - Lecce,COINCIDE,,70' Nicola Zalewski (Atalanta),70' Nicola Zalewski (Atalanta),736812,13981450
+3,GOL,Atalanta - Lecce,COINCIDE,,73' Charles De Ketelaere (Atalanta),73' Charles De Ketelaere (Atalanta),736812,13981450
+3,GOL,Atalanta - Lecce,DISCREPA,goleador,82' Konan N’Dri (Lecce),82' Konan N'Dri (Lecce),736812,13981450
+3,PARTIDO,Pisa - Udinese,COINCIDE,,2025-09-14T13:00Z 0-1 (1 goles),2025-09-14T13:00Z 0-1 (1 goles),736805,13981445
+3,GOL,Pisa - Udinese,COINCIDE,,14' Iker Bravo (Udinese),14' Iker Bravo (Udinese),736805,13981445
+3,PARTIDO,Sassuolo - Lazio,COINCIDE,,2025-09-14T16:00Z 1-0 (1 goles),2025-09-14T16:00Z 1-0 (1 goles),736813,13981449
+3,GOL,Sassuolo - Lazio,COINCIDE,,70' Alieu Fadera (Sassuolo),70' Alieu Fadera (Sassuolo),736813,13981449
+3,PARTIDO,AC Milan - Bologna,COINCIDE,,2025-09-14T18:45Z 1-0 (1 goles),2025-09-14T18:45Z 1-0 (1 goles),736806,13981437
+3,GOL,AC Milan - Bologna,COINCIDE,,61' Luka Modric (AC Milan),61' Luka Modrić (AC Milan),736806,13981437
+3,PARTIDO,Hellas Verona - Cremonese,COINCIDE,,2025-09-15T16:30Z 0-0 (0 goles),2025-09-15T16:30Z 0-0 (0 goles),736808,13981451
+3,PARTIDO,Como - Genoa,COINCIDE,,2025-09-15T18:45Z 1-1 (2 goles),2025-09-15T18:45Z 1-1 (2 goles),736810,13981430
+3,GOL,Como - Genoa,COINCIDE,,13' Nico Paz (Como),13' Nico Paz (Como),736810,13981430
+3,GOL,Como - Genoa,COINCIDE,,90+2' Caleb Ekuban (Genoa),90+2' Caleb Ekuban (Genoa),736810,13981430
