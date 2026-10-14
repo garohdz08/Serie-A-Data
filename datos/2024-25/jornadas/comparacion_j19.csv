@@ -1,0 +1,30 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+19,PARTIDO,Venezia - Empoli,COINCIDE,,2025-01-04T14:00Z 1-1 (2 goles),2025-01-04T14:00Z 1-1 (2 goles),712297,12504619
+19,GOL,Venezia - Empoli,COINCIDE,,5' Joel Pohjanpalo (Venezia),5' Joel Pohjanpalo (Venezia),712297,12504619
+19,GOL,Venezia - Empoli,COINCIDE,,32' Sebastiano Esposito (Empoli),32' Sebastiano Esposito (Empoli),712297,12504619
+19,PARTIDO,Fiorentina - Napoli,COINCIDE,,2025-01-04T17:00Z 0-3 (3 goles),2025-01-04T17:00Z 0-3 (3 goles),712299,12504628
+19,GOL,Fiorentina - Napoli,COINCIDE,,29' David Neres (Napoli),29' David Neres (SSC Napoli),712299,12504628
+19,GOL,Fiorentina - Napoli,COINCIDE,,54' Romelu Lukaku (Napoli) PEN,54' Romelu Lukaku (SSC Napoli) PEN,712299,12504628
+19,GOL,Fiorentina - Napoli,COINCIDE,,68' Scott McTominay (Napoli),68' Scott McTominay (SSC Napoli),712299,12504628
+19,PARTIDO,Hellas Verona - Udinese,COINCIDE,,2025-01-04T19:45Z 0-0 (0 goles),2025-01-04T19:45Z 0-0 (0 goles),712298,12504623
+19,PARTIDO,Monza - Cagliari,COINCIDE,,2025-01-05T11:30Z 1-2 (3 goles),2025-01-05T11:30Z 1-2 (3 goles),712295,12504622
+19,GOL,Monza - Cagliari,COINCIDE,,6' Gianluca Caprari (Monza) PEN,6' Gianluca Caprari (Monza) PEN,712295,12504622
+19,GOL,Monza - Cagliari,COINCIDE,,22' Nadir Zortea (Cagliari),22' Nadir Zortea (Cagliari),712295,12504622
+19,GOL,Monza - Cagliari,COINCIDE,,56' Roberto Piccoli (Cagliari),56' Roberto Piccoli (Cagliari),712295,12504622
+19,PARTIDO,Lecce - Genoa,COINCIDE,,2025-01-05T14:00Z 0-0 (0 goles),2025-01-05T14:00Z 0-0 (0 goles),712296,12504626
+19,PARTIDO,Torino - Parma,COINCIDE,,2025-01-05T17:00Z 0-0 (0 goles),2025-01-05T17:00Z 0-0 (0 goles),712293,12504617
+19,PARTIDO,AS Roma - Lazio,COINCIDE,,2025-01-05T19:45Z 2-0 (2 goles),2025-01-05T19:45Z 2-0 (2 goles),712294,12504618
+19,GOL,AS Roma - Lazio,COINCIDE,,11' Lorenzo Pellegrini (AS Roma),11' Lorenzo Pellegrini (AS Roma),712294,12504618
+19,GOL,AS Roma - Lazio,COINCIDE,,18' Alexis Saelemaekers (AS Roma),18' Alexis Saelemaekers (AS Roma),712294,12504618
+19,PARTIDO,Como - AC Milan,COINCIDE,,2025-01-14T17:30Z 1-2 (3 goles),2025-01-14T17:30Z 1-2 (3 goles),712300,12504625
+19,GOL,Como - AC Milan,COINCIDE,,60' Assane Diao (Como),60' Assane Diao (Como),712300,12504625
+19,GOL,Como - AC Milan,COINCIDE,,71' Theo Hernández (AC Milan),71' Theo Hernández (AC Milan),712300,12504625
+19,GOL,Como - AC Milan,COINCIDE,,76' Rafael Leão (AC Milan),76' Rafael Leão (AC Milan),712300,12504625
+19,PARTIDO,Atalanta - Juventus,COINCIDE,,2025-01-14T19:45Z 1-1 (2 goles),2025-01-14T19:45Z 1-1 (2 goles),712301,12504624
+19,GOL,Atalanta - Juventus,COINCIDE,,54' Pierre Kalulu (Juventus),54' Pierre Kalulu (Juventus),712301,12504624
+19,GOL,Atalanta - Juventus,COINCIDE,,78' Mateo Retegui (Atalanta),78' Mateo Retegui (Atalanta),712301,12504624
+19,PARTIDO,Internazionale - Bologna,COINCIDE,,2025-01-15T19:45Z 2-2 (4 goles),2025-01-15T19:45Z 2-2 (4 goles),712302,12504620
+19,GOL,Internazionale - Bologna,COINCIDE,,15' Santiago Castro (Bologna),15' Santiago Castro (Bologna),712302,12504620
+19,GOL,Internazionale - Bologna,COINCIDE,,19' Denzel Dumfries (Internazionale),19' Denzel Dumfries (Inter),712302,12504620
+19,GOL,Internazionale - Bologna,COINCIDE,,45+1' Lautaro Martínez (Internazionale),45+1' Lautaro Martínez (Inter),712302,12504620
+19,GOL,Internazionale - Bologna,COINCIDE,,64' Emil Holm (Bologna),64' Emil Holm (Bologna),712302,12504620
