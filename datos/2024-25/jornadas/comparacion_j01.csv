@@ -1,0 +1,37 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+1,PARTIDO,Genoa - Internazionale,COINCIDE,,2024-08-17T16:30Z 2-2 (4 goles),2024-08-17T16:30Z 2-2 (4 goles),712116,12499256
+1,GOL,Genoa - Internazionale,COINCIDE,,20' Alessandro Vogliacco (Genoa),20' Alessandro Vogliacco (Genoa),712116,12499256
+1,GOL,Genoa - Internazionale,COINCIDE,,30' Marcus Thuram (Internazionale),30' Marcus Thuram (Inter),712116,12499256
+1,GOL,Genoa - Internazionale,COINCIDE,,82' Marcus Thuram (Internazionale),82' Marcus Thuram (Inter),712116,12499256
+1,GOL,Genoa - Internazionale,COINCIDE,,90+5' Junior Messias (Genoa),90+5' Junior Messias (Genoa),712116,12499256
+1,PARTIDO,Parma - Fiorentina,COINCIDE,,2024-08-17T16:30Z 1-1 (2 goles),2024-08-17T16:30Z 1-1 (2 goles),712122,12499262
+1,GOL,Parma - Fiorentina,COINCIDE,,22' Dennis Man (Parma),22' Dennis Man (Parma),712122,12499262
+1,GOL,Parma - Fiorentina,COINCIDE,,75' Cristiano Biraghi (Fiorentina),75' Cristiano Biraghi (Fiorentina),712122,12499262
+1,PARTIDO,AC Milan - Torino,COINCIDE,,2024-08-17T18:45Z 2-2 (4 goles),2024-08-17T18:45Z 2-2 (4 goles),712121,12499261
+1,GOL,AC Milan - Torino,COINCIDE,,30' Malick Thiaw (Torino) AUTOGOL,30' Malick Thiaw (Torino) AUTOGOL,712121,12499261
+1,GOL,AC Milan - Torino,COINCIDE,,68' Duván Zapata (Torino),68' Duván Zapata (Torino),712121,12499261
+1,GOL,AC Milan - Torino,COINCIDE,,89' Álvaro Morata (AC Milan),89' Álvaro Morata (AC Milan),712121,12499261
+1,GOL,AC Milan - Torino,COINCIDE,,90+5' Noah Okafor (AC Milan),90+5' Noah Okafor (AC Milan),712121,12499261
+1,PARTIDO,Empoli - Monza,COINCIDE,,2024-08-17T18:45Z 0-0 (0 goles),2024-08-17T18:45Z 0-0 (0 goles),712115,12499255
+1,PARTIDO,Bologna - Udinese,COINCIDE,,2024-08-18T16:30Z 1-1 (2 goles),2024-08-18T16:30Z 1-1 (2 goles),712113,12499253
+1,GOL,Bologna - Udinese,COINCIDE,,57' Riccardo Orsolini (Bologna) PEN,57' Riccardo Orsolini (Bologna) PEN,712113,12499253
+1,GOL,Bologna - Udinese,COINCIDE,,68' Lautaro Giannetti (Udinese),68' Lautaro Giannetti (Udinese),712113,12499253
+1,PARTIDO,Hellas Verona - Napoli,COINCIDE,,2024-08-18T16:30Z 3-0 (3 goles),2024-08-18T16:30Z 3-0 (3 goles),712117,12499257
+1,GOL,Hellas Verona - Napoli,COINCIDE,,75' Daniel Mosquera (Hellas Verona),75' Daniel Mosquera (Hellas Verona),712117,12499257
+1,GOL,Hellas Verona - Napoli,COINCIDE,,90+4' Daniel Mosquera (Hellas Verona),90+4' Daniel Mosquera (Hellas Verona),712117,12499257
+1,GOL,Hellas Verona - Napoli,DISCREPA,goleador_variante,50' Dailon Livramento (Hellas Verona),50' Dailon Rocha Livramento (Hellas Verona),712117,12499257
+1,PARTIDO,Cagliari - AS Roma,COINCIDE,,2024-08-18T18:45Z 0-0 (0 goles),2024-08-18T18:45Z 0-0 (0 goles),712114,12499254
+1,PARTIDO,Lazio - Venezia,COINCIDE,,2024-08-18T18:45Z 3-1 (4 goles),2024-08-18T18:45Z 3-1 (4 goles),712119,12499259
+1,GOL,Lazio - Venezia,COINCIDE,,3' Magnus Andersen (Venezia),3' Magnus Andersen (Venezia),712119,12499259
+1,GOL,Lazio - Venezia,COINCIDE,,11' Valentín Castellanos (Lazio),11' Valentín Castellanos (Lazio),712119,12499259
+1,GOL,Lazio - Venezia,COINCIDE,,44' Mattia Zaccagni (Lazio) PEN,44' Mattia Zaccagni (Lazio) PEN,712119,12499259
+1,GOL,Lazio - Venezia,COINCIDE,,81' Giorgio Altare (Lazio) AUTOGOL,81' Giorgio Altare (Lazio) AUTOGOL,712119,12499259
+1,PARTIDO,Lecce - Atalanta,COINCIDE,,2024-08-19T16:30Z 0-4 (4 goles),2024-08-19T16:30Z 0-4 (4 goles),712120,12499260
+1,GOL,Lecce - Atalanta,COINCIDE,,35' Marco Brescianini (Atalanta),35' Marco Brescianini (Atalanta),712120,12499260
+1,GOL,Lecce - Atalanta,COINCIDE,,45' Mateo Retegui (Atalanta),45' Mateo Retegui (Atalanta),712120,12499260
+1,GOL,Lecce - Atalanta,COINCIDE,,57' Mateo Retegui (Atalanta) PEN,57' Mateo Retegui (Atalanta) PEN,712120,12499260
+1,GOL,Lecce - Atalanta,COINCIDE,,66' Marco Brescianini (Atalanta),66' Marco Brescianini (Atalanta),712120,12499260
+1,PARTIDO,Juventus - Como,COINCIDE,,2024-08-19T18:45Z 3-0 (3 goles),2024-08-19T18:45Z 3-0 (3 goles),712118,12499258
+1,GOL,Juventus - Como,COINCIDE,,23' Samuel Mbangula (Juventus),23' Samuel Mbangula (Juventus),712118,12499258
+1,GOL,Juventus - Como,COINCIDE,,45+1' Timothy Weah (Juventus),45+1' Timothy Weah (Juventus),712118,12499258
+1,GOL,Juventus - Como,COINCIDE,,90+1' Andrea Cambiaso (Juventus),90+1' Andrea Cambiaso (Juventus),712118,12499258
