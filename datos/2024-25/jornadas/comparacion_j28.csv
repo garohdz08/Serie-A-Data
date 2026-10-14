@@ -1,0 +1,42 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+28,PARTIDO,Cagliari - Genoa,COINCIDE,,2025-03-07T19:45Z 1-1 (2 goles),2025-03-07T19:45Z 1-1 (2 goles),712391,12501595
+28,GOL,Cagliari - Genoa,COINCIDE,,18' Nicolas Viola (Cagliari),18' Nicolas Viola (Cagliari),712391,12501595
+28,GOL,Cagliari - Genoa,COINCIDE,,47' Maxwel Cornet (Genoa),47' Maxwel Cornet (Genoa),712391,12501595
+28,PARTIDO,Como - Venezia,COINCIDE,,2025-03-08T14:00Z 1-1 (2 goles),2025-03-08T14:00Z 1-1 (2 goles),712390,12501598
+28,GOL,Como - Venezia,COINCIDE,,49' Jonathan Ikoné (Como),49' Jonathan Ikoné (Como),712390,12501598
+28,GOL,Como - Venezia,COINCIDE,,90+5' Christian Gytkjaer (Venezia) PEN,90+5' Christian Gytkjær (Venezia) PEN,712390,12501598
+28,PARTIDO,Parma - Torino,COINCIDE,,2025-03-08T14:00Z 2-2 (4 goles),2025-03-08T14:00Z 2-2 (4 goles),712392,12504368
+28,GOL,Parma - Torino,COINCIDE,,19' Eljif Elmas (Torino),19' Eljif Elmas (Torino),712392,12504368
+28,GOL,Parma - Torino,COINCIDE,,60' Mateo Pellegrino (Parma),60' Mateo Pellegrino (Parma),712392,12504368
+28,GOL,Parma - Torino,COINCIDE,,72' Ché Adams (Torino),72' Che Adams (Torino),712392,12504368
+28,GOL,Parma - Torino,COINCIDE,,82' Mateo Pellegrino (Parma),82' Mateo Pellegrino (Parma),712392,12504368
+28,PARTIDO,Lecce - AC Milan,COINCIDE,,2025-03-08T17:00Z 2-3 (5 goles),2025-03-08T17:00Z 2-3 (5 goles),712384,12504370
+28,GOL,Lecce - AC Milan,COINCIDE,,7' Nikola Krstovic (Lecce),7' Nikola Krstović (Lecce),712384,12504370
+28,GOL,Lecce - AC Milan,COINCIDE,,59' Nikola Krstovic (Lecce),59' Nikola Krstović (Lecce),712384,12504370
+28,GOL,Lecce - AC Milan,COINCIDE,,68' Antonino Gallo (AC Milan) AUTOGOL,68' Antonino Gallo (AC Milan) AUTOGOL,712384,12504370
+28,GOL,Lecce - AC Milan,COINCIDE,,73' Christian Pulisic (AC Milan) PEN,73' Christian Pulišić (AC Milan) PEN,712384,12504370
+28,GOL,Lecce - AC Milan,COINCIDE,,81' Christian Pulisic (AC Milan),81' Christian Pulišić (AC Milan),712384,12504370
+28,PARTIDO,Internazionale - Monza,COINCIDE,,2025-03-08T19:45Z 3-2 (5 goles),2025-03-08T19:45Z 3-2 (5 goles),712387,12504372
+28,GOL,Internazionale - Monza,COINCIDE,,32' Samuele Birindelli (Monza),32' Samuele Birindelli (Monza),712387,12504372
+28,GOL,Internazionale - Monza,COINCIDE,,44' Keita Baldé (Monza),44' Keita Baldé (Monza),712387,12504372
+28,GOL,Internazionale - Monza,COINCIDE,,45+1' Marko Arnautovic (Internazionale),45+1' Marko Arnautović (Inter),712387,12504372
+28,GOL,Internazionale - Monza,COINCIDE,,64' Hakan Çalhanoglu (Internazionale),64' Hakan Çalhanoğlu (Inter),712387,12504372
+28,GOL,Internazionale - Monza,COINCIDE,,77' Georgios Kyriakopoulos (Internazionale) AUTOGOL,77' Georgios Kyriakopoulos (Inter) AUTOGOL,712387,12504372
+28,PARTIDO,Hellas Verona - Bologna,COINCIDE,,2025-03-09T11:30Z 1-2 (3 goles),2025-03-09T11:30Z 1-2 (3 goles),712388,12504381
+28,GOL,Hellas Verona - Bologna,COINCIDE,,40' Jens Odgaard (Bologna),40' Jens Odgaard (Bologna),712388,12504381
+28,GOL,Hellas Verona - Bologna,COINCIDE,,78' Nicolò Cambiaghi (Bologna),78' Nicolò Cambiaghi (Bologna),712388,12504381
+28,GOL,Hellas Verona - Bologna,COINCIDE,,80' Daniel Mosquera (Hellas Verona),80' Daniel Mosquera (Hellas Verona),712388,12504381
+28,PARTIDO,Napoli - Fiorentina,COINCIDE,,2025-03-09T14:00Z 2-1 (3 goles),2025-03-09T14:00Z 2-1 (3 goles),712383,12504373
+28,GOL,Napoli - Fiorentina,COINCIDE,,26' Romelu Lukaku (Napoli),26' Romelu Lukaku (SSC Napoli),712383,12504373
+28,GOL,Napoli - Fiorentina,COINCIDE,,60' Giacomo Raspadori (Napoli),60' Giacomo Raspadori (SSC Napoli),712383,12504373
+28,GOL,Napoli - Fiorentina,COINCIDE,,66' Albert Gudmundsson (Fiorentina),66' Albert Guðmundsson (Fiorentina),712383,12504373
+28,PARTIDO,Empoli - AS Roma,COINCIDE,,2025-03-09T17:00Z 0-1 (1 goles),2025-03-09T17:00Z 0-1 (1 goles),712389,12501597
+28,GOL,Empoli - AS Roma,COINCIDE,,1' Matìas Soulè (AS Roma),1' Matías Soulé (AS Roma),712389,12501597
+28,PARTIDO,Juventus - Atalanta,COINCIDE,,2025-03-09T19:45Z 0-4 (4 goles),2025-03-09T19:45Z 0-4 (4 goles),712386,12504369
+28,GOL,Juventus - Atalanta,COINCIDE,,29' Mateo Retegui (Atalanta) PEN,29' Mateo Retegui (Atalanta) PEN,712386,12504369
+28,GOL,Juventus - Atalanta,COINCIDE,,46' Marten de Roon (Atalanta),46' Marten de Roon (Atalanta),712386,12504369
+28,GOL,Juventus - Atalanta,COINCIDE,,66' Davide Zappacosta (Atalanta),66' Davide Zappacosta (Atalanta),712386,12504369
+28,GOL,Juventus - Atalanta,COINCIDE,,77' Ademola Lookman (Atalanta),77' Ademola Lookman (Atalanta),712386,12504369
+28,PARTIDO,Lazio - Udinese,COINCIDE,,2025-03-10T19:45Z 1-1 (2 goles),2025-03-10T19:45Z 1-1 (2 goles),712385,12504365
+28,GOL,Lazio - Udinese,COINCIDE,,22' Florian Thauvin (Udinese),22' Florian Thauvin (Udinese),712385,12504365
+28,GOL,Lazio - Udinese,COINCIDE,,32' Alessio Romagnoli (Lazio),32' Alessio Romagnoli (Lazio),712385,12504365
