@@ -1,30 +1,30 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-27,PARTIDO,Fiorentina - Lecce,COINCIDE,,2025-02-28T19:45Z 1-0 (1 goles),2025-02-28T19:45Z 1-0 (1 goles),712379,12501593
-27,GOL,Fiorentina - Lecce,COINCIDE,,9' Robin Gosens (Fiorentina),9' Robin Gosens (Fiorentina),712379,12501593
-27,PARTIDO,Atalanta - Venezia,COINCIDE,,2025-03-01T14:00Z 0-0 (0 goles),2025-03-01T14:00Z 0-0 (0 goles),712381,12501580
-27,PARTIDO,Napoli - Internazionale,COINCIDE,,2025-03-01T17:00Z 1-1 (2 goles),2025-03-01T17:00Z 1-1 (2 goles),712374,12501589
-27,GOL,Napoli - Internazionale,COINCIDE,,22' Federico Dimarco (Internazionale),22' Federico Dimarco (Inter),712374,12501589
-27,GOL,Napoli - Internazionale,COINCIDE,,87' Philip Billing (Napoli),87' Philip Billing (SSC Napoli),712374,12501589
-27,PARTIDO,Udinese - Parma,COINCIDE,,2025-03-01T19:45Z 1-0 (1 goles),2025-03-01T19:45Z 1-0 (1 goles),712382,12501591
-27,GOL,Udinese - Parma,COINCIDE,,38' Florian Thauvin (Udinese) PEN,38' Florian Thauvin (Udinese) PEN,712382,12501591
-27,PARTIDO,Monza - Torino,COINCIDE,,2025-03-02T11:30Z 0-2 (2 goles),2025-03-02T11:30Z 0-2 (2 goles),712375,12501594
-27,GOL,Monza - Torino,COINCIDE,,41' Eljif Elmas (Torino),41' Eljif Elmas (Torino),712375,12501594
-27,GOL,Monza - Torino,COINCIDE,,66' Cesare Casadei (Torino),66' Cesare Casadei (Torino),712375,12501594
-27,PARTIDO,Bologna - Cagliari,COINCIDE,,2025-03-02T14:00Z 2-1 (3 goles),2025-03-02T14:00Z 2-1 (3 goles),712380,12501582
-27,GOL,Bologna - Cagliari,COINCIDE,,22' Roberto Piccoli (Cagliari),22' Roberto Piccoli (Cagliari),712380,12501582
-27,GOL,Bologna - Cagliari,COINCIDE,,48' Riccardo Orsolini (Bologna) PEN,48' Riccardo Orsolini (Bologna) PEN,712380,12501582
-27,GOL,Bologna - Cagliari,COINCIDE,,56' Riccardo Orsolini (Bologna),56' Riccardo Orsolini (Bologna),712380,12501582
-27,PARTIDO,Genoa - Empoli,COINCIDE,,2025-03-02T14:00Z 1-1 (2 goles),2025-03-02T14:00Z 1-1 (2 goles),712378,12501592
-27,GOL,Genoa - Empoli,COINCIDE,,36' Alberto Grassi (Empoli),36' Alberto Grassi (Empoli),712378,12501592
-27,GOL,Genoa - Empoli,COINCIDE,,81' Johan Vásquez (Genoa),81' Johan Vásquez (Genoa),712378,12501592
-27,PARTIDO,AS Roma - Como,COINCIDE,,2025-03-02T17:00Z 2-1 (3 goles),2025-03-02T17:00Z 2-1 (3 goles),712373,12501596
-27,GOL,AS Roma - Como,COINCIDE,,44' Lucas Da Cunha (Como),44' Lucas Da Cunha (Como),712373,12501596
-27,GOL,AS Roma - Como,COINCIDE,,61' Alexis Saelemaekers (AS Roma),61' Alexis Saelemaekers (AS Roma),712373,12501596
-27,GOL,AS Roma - Como,COINCIDE,,76' Artem Dovbyk (AS Roma),76' Artem Dovbyk (AS Roma),712373,12501596
-27,PARTIDO,AC Milan - Lazio,COINCIDE,,2025-03-02T19:45Z 1-2 (3 goles),2025-03-02T19:45Z 1-2 (3 goles),712376,12501584
-27,GOL,AC Milan - Lazio,COINCIDE,,28' Mattia Zaccagni (Lazio),28' Mattia Zaccagni (Lazio),712376,12501584
-27,GOL,AC Milan - Lazio,COINCIDE,,85' Samuel Chukwueze (AC Milan),85' Samuel Chukwueze (AC Milan),712376,12501584
-27,GOL,AC Milan - Lazio,COINCIDE,,90+8' Pedro (Lazio) PEN,90+8' Pedro (Lazio) PEN,712376,12501584
-27,PARTIDO,Juventus - Hellas Verona,COINCIDE,,2025-03-03T19:45Z 2-0 (2 goles),2025-03-03T19:45Z 2-0 (2 goles),712377,12501590
-27,GOL,Juventus - Hellas Verona,COINCIDE,,72' Khéphren Thuram (Juventus),72' Khéphren Thuram (Juventus),712377,12501590
-27,GOL,Juventus - Hellas Verona,COINCIDE,,90' Teun Koopmeiners (Juventus),90' Teun Koopmeiners (Juventus),712377,12501590
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+27,PARTIDO,Fiorentina - Lecce,COINCIDE,,2025-02-28T19:45Z 1-0 (1 goles),2025-02-28T19:45Z 1-0 (1 goles),712379,12501593,,
+27,GOL,Fiorentina - Lecce,COINCIDE,,9' Robin Gosens (Fiorentina),9' Robin Gosens (Fiorentina),712379,12501593,,
+27,PARTIDO,Atalanta - Venezia,COINCIDE,,2025-03-01T14:00Z 0-0 (0 goles),2025-03-01T14:00Z 0-0 (0 goles),712381,12501580,,
+27,PARTIDO,Napoli - Internazionale,COINCIDE,,2025-03-01T17:00Z 1-1 (2 goles),2025-03-01T17:00Z 1-1 (2 goles),712374,12501589,,
+27,GOL,Napoli - Internazionale,COINCIDE,,22' Federico Dimarco (Internazionale),22' Federico Dimarco (Inter),712374,12501589,,
+27,GOL,Napoli - Internazionale,COINCIDE,,87' Philip Billing (Napoli),87' Philip Billing (SSC Napoli),712374,12501589,,
+27,PARTIDO,Udinese - Parma,COINCIDE,,2025-03-01T19:45Z 1-0 (1 goles),2025-03-01T19:45Z 1-0 (1 goles),712382,12501591,,
+27,GOL,Udinese - Parma,COINCIDE,,38' Florian Thauvin (Udinese) PEN,38' Florian Thauvin (Udinese) PEN,712382,12501591,,
+27,PARTIDO,Monza - Torino,COINCIDE,,2025-03-02T11:30Z 0-2 (2 goles),2025-03-02T11:30Z 0-2 (2 goles),712375,12501594,,
+27,GOL,Monza - Torino,COINCIDE,,41' Eljif Elmas (Torino),41' Eljif Elmas (Torino),712375,12501594,,
+27,GOL,Monza - Torino,COINCIDE,,66' Cesare Casadei (Torino),66' Cesare Casadei (Torino),712375,12501594,,
+27,PARTIDO,Bologna - Cagliari,COINCIDE,,2025-03-02T14:00Z 2-1 (3 goles),2025-03-02T14:00Z 2-1 (3 goles),712380,12501582,,
+27,GOL,Bologna - Cagliari,COINCIDE,,22' Roberto Piccoli (Cagliari),22' Roberto Piccoli (Cagliari),712380,12501582,,
+27,GOL,Bologna - Cagliari,COINCIDE,,48' Riccardo Orsolini (Bologna) PEN,48' Riccardo Orsolini (Bologna) PEN,712380,12501582,,
+27,GOL,Bologna - Cagliari,COINCIDE,,56' Riccardo Orsolini (Bologna),56' Riccardo Orsolini (Bologna),712380,12501582,,
+27,PARTIDO,Genoa - Empoli,COINCIDE,,2025-03-02T14:00Z 1-1 (2 goles),2025-03-02T14:00Z 1-1 (2 goles),712378,12501592,,
+27,GOL,Genoa - Empoli,COINCIDE,,36' Alberto Grassi (Empoli),36' Alberto Grassi (Empoli),712378,12501592,,
+27,GOL,Genoa - Empoli,COINCIDE,,81' Johan Vásquez (Genoa),81' Johan Vásquez (Genoa),712378,12501592,,
+27,PARTIDO,AS Roma - Como,COINCIDE,,2025-03-02T17:00Z 2-1 (3 goles),2025-03-02T17:00Z 2-1 (3 goles),712373,12501596,,
+27,GOL,AS Roma - Como,COINCIDE,,44' Lucas Da Cunha (Como),44' Lucas Da Cunha (Como),712373,12501596,,
+27,GOL,AS Roma - Como,COINCIDE,,61' Alexis Saelemaekers (AS Roma),61' Alexis Saelemaekers (AS Roma),712373,12501596,,
+27,GOL,AS Roma - Como,COINCIDE,,76' Artem Dovbyk (AS Roma),76' Artem Dovbyk (AS Roma),712373,12501596,,
+27,PARTIDO,AC Milan - Lazio,COINCIDE,,2025-03-02T19:45Z 1-2 (3 goles),2025-03-02T19:45Z 1-2 (3 goles),712376,12501584,,
+27,GOL,AC Milan - Lazio,COINCIDE,,28' Mattia Zaccagni (Lazio),28' Mattia Zaccagni (Lazio),712376,12501584,,
+27,GOL,AC Milan - Lazio,COINCIDE,,85' Samuel Chukwueze (AC Milan),85' Samuel Chukwueze (AC Milan),712376,12501584,,
+27,GOL,AC Milan - Lazio,COINCIDE,,90+8' Pedro (Lazio) PEN,90+8' Pedro (Lazio) PEN,712376,12501584,,
+27,PARTIDO,Juventus - Hellas Verona,COINCIDE,,2025-03-03T19:45Z 2-0 (2 goles),2025-03-03T19:45Z 2-0 (2 goles),712377,12501590,,
+27,GOL,Juventus - Hellas Verona,COINCIDE,,72' Khéphren Thuram (Juventus),72' Khéphren Thuram (Juventus),712377,12501590,,
+27,GOL,Juventus - Hellas Verona,COINCIDE,,90' Teun Koopmeiners (Juventus),90' Teun Koopmeiners (Juventus),712377,12501590,,

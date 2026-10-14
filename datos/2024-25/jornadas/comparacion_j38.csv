@@ -1,42 +1,42 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-38,PARTIDO,Como - Internazionale,COINCIDE,,2025-05-23T18:45Z 0-2 (2 goles),2025-05-23T18:45Z 0-2 (2 goles),712484,12501501
-38,GOL,Como - Internazionale,COINCIDE,,20' Stefan de Vrij (Internazionale),20' Stefan de Vrij (Inter),712484,12501501
-38,GOL,Como - Internazionale,COINCIDE,,51' Joaquín Correa (Internazionale),51' Joaquín Correa (Inter),712484,12501501
-38,PARTIDO,Napoli - Cagliari,COINCIDE,,2025-05-23T18:45Z 2-0 (2 goles),2025-05-23T18:45Z 2-0 (2 goles),712488,12501502
-38,GOL,Napoli - Cagliari,COINCIDE,,42' Scott McTominay (Napoli),42' Scott McTominay (SSC Napoli),712488,12501502
-38,GOL,Napoli - Cagliari,COINCIDE,,51' Romelu Lukaku (Napoli),51' Romelu Lukaku (SSC Napoli),712488,12501502
-38,PARTIDO,Bologna - Genoa,COINCIDE,,2025-05-24T16:00Z 1-3 (4 goles),2025-05-24T16:00Z 1-3 (4 goles),712485,12501543
-38,GOL,Bologna - Genoa,COINCIDE,,17' Vitinha (Genoa),17' Vitinha (Genoa),712485,12501543
-38,GOL,Bologna - Genoa,COINCIDE,,26' Lorenzo Venturino (Genoa),26' Lorenzo Venturino (Genoa),712485,12501543
-38,GOL,Bologna - Genoa,COINCIDE,,43' Lorenzo Venturino (Genoa),43' Lorenzo Venturino (Genoa),712485,12501543
-38,GOL,Bologna - Genoa,COINCIDE,,64' Riccardo Orsolini (Bologna),64' Riccardo Orsolini (Bologna),712485,12501543
-38,PARTIDO,AC Milan - Monza,COINCIDE,,2025-05-24T18:45Z 2-0 (2 goles),2025-05-24T18:45Z 2-0 (2 goles),712492,12501503
-38,GOL,AC Milan - Monza,COINCIDE,,64' Matteo Gabbia (AC Milan),64' Matteo Gabbia (AC Milan),712492,12501503
-38,GOL,AC Milan - Monza,COINCIDE,,74' João Félix (AC Milan),74' João Félix (AC Milan),712492,12501503
-38,PARTIDO,Atalanta - Parma,COINCIDE,,2025-05-25T18:45Z 2-3 (5 goles),2025-05-25T18:45Z 2-3 (5 goles),712483,12501544
-38,GOL,Atalanta - Parma,COINCIDE,,32' Daniel Maldini (Atalanta),32' Daniel Maldini (Atalanta),712483,12501544
-38,GOL,Atalanta - Parma,COINCIDE,,33' Daniel Maldini (Atalanta),33' Daniel Maldini (Atalanta),712483,12501544
-38,GOL,Atalanta - Parma,COINCIDE,,49' Antoine Hainaut (Parma),49' Antoine Hainaut (Parma),712483,12501544
-38,GOL,Atalanta - Parma,COINCIDE,,71' Jacob Ondrejka (Parma),71' Jacob Ondrejka (Parma),712483,12501544
-38,GOL,Atalanta - Parma,COINCIDE,,90+1' Jacob Ondrejka (Parma),90+1' Jacob Ondrejka (Parma),712483,12501544
-38,PARTIDO,Empoli - Hellas Verona,COINCIDE,,2025-05-25T18:45Z 1-2 (3 goles),2025-05-25T18:45Z 1-2 (3 goles),712487,12501519
-38,GOL,Empoli - Hellas Verona,COINCIDE,,4' Suat Serdar (Hellas Verona),4' Suat Serdar (Hellas Verona),712487,12501519
-38,GOL,Empoli - Hellas Verona,COINCIDE,,43' Jacopo Fazzini (Empoli),43' Jacopo Fazzini (Empoli),712487,12501519
-38,GOL,Empoli - Hellas Verona,COINCIDE,,69' Domagoj Bradaric (Hellas Verona),69' Domagoj Bradarić (Hellas Verona),712487,12501519
-38,PARTIDO,Lazio - Lecce,COINCIDE,,2025-05-25T18:45Z 0-1 (1 goles),2025-05-25T18:45Z 0-1 (1 goles),712486,12501517
-38,GOL,Lazio - Lecce,COINCIDE,,43' Lassana Coulibaly (Lecce),43' Lassana Coulibaly (Lecce),712486,12501517
-38,PARTIDO,Torino - AS Roma,COINCIDE,,2025-05-25T18:45Z 0-2 (2 goles),2025-05-25T18:45Z 0-2 (2 goles),712489,12501508
-38,GOL,Torino - AS Roma,COINCIDE,,18' Leandro Paredes (AS Roma) PEN,18' Leandro Paredes (AS Roma) PEN,712489,12501508
-38,GOL,Torino - AS Roma,COINCIDE,,53' Alexis Saelemaekers (AS Roma),53' Alexis Saelemaekers (AS Roma),712489,12501508
-38,PARTIDO,Udinese - Fiorentina,COINCIDE,,2025-05-25T18:45Z 2-3 (5 goles),2025-05-25T18:45Z 2-3 (5 goles),712490,12501527
-38,GOL,Udinese - Fiorentina,COINCIDE,,26' Lorenzo Lucca (Udinese),26' Lorenzo Lucca (Udinese),712490,12501527
-38,GOL,Udinese - Fiorentina,COINCIDE,,46' Nicolò Fagioli (Fiorentina),46' Nicolò Fagioli (Fiorentina),712490,12501527
-38,GOL,Udinese - Fiorentina,COINCIDE,,57' Pietro Comuzzo (Fiorentina),57' Pietro Comuzzo (Fiorentina),712490,12501527
-38,GOL,Udinese - Fiorentina,COINCIDE,,61' Christian Kabasele (Udinese),61' Christian Kabasele (Udinese),712490,12501527
-38,GOL,Udinese - Fiorentina,COINCIDE,,82' Moise Kean (Fiorentina),82' Moise Kean (Fiorentina),712490,12501527
-38,PARTIDO,Venezia - Juventus,COINCIDE,,2025-05-25T18:45Z 2-3 (5 goles),2025-05-25T18:45Z 2-3 (5 goles),712491,12501507
-38,GOL,Venezia - Juventus,COINCIDE,,2' Daniel Fila (Venezia),2' Daniel Fila (Venezia),712491,12501507
-38,GOL,Venezia - Juventus,COINCIDE,,25' Kenan Yildiz (Juventus),25' Kenan Yıldız (Juventus),712491,12501507
-38,GOL,Venezia - Juventus,COINCIDE,,31' Randal Kolo Muani (Juventus),31' Randal Kolo Muani (Juventus),712491,12501507
-38,GOL,Venezia - Juventus,COINCIDE,,55' Ridgeciano Haps (Venezia),55' Ridgeciano Haps (Venezia),712491,12501507
-38,GOL,Venezia - Juventus,COINCIDE,,73' Manuel Locatelli (Juventus) PEN,73' Manuel Locatelli (Juventus) PEN,712491,12501507
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+38,PARTIDO,Como - Internazionale,COINCIDE,,2025-05-23T18:45Z 0-2 (2 goles),2025-05-23T18:45Z 0-2 (2 goles),712484,12501501,,
+38,GOL,Como - Internazionale,COINCIDE,,20' Stefan de Vrij (Internazionale),20' Stefan de Vrij (Inter),712484,12501501,,
+38,GOL,Como - Internazionale,COINCIDE,,51' Joaquín Correa (Internazionale),51' Joaquín Correa (Inter),712484,12501501,,
+38,PARTIDO,Napoli - Cagliari,COINCIDE,,2025-05-23T18:45Z 2-0 (2 goles),2025-05-23T18:45Z 2-0 (2 goles),712488,12501502,,
+38,GOL,Napoli - Cagliari,COINCIDE,,42' Scott McTominay (Napoli),42' Scott McTominay (SSC Napoli),712488,12501502,,
+38,GOL,Napoli - Cagliari,COINCIDE,,51' Romelu Lukaku (Napoli),51' Romelu Lukaku (SSC Napoli),712488,12501502,,
+38,PARTIDO,Bologna - Genoa,COINCIDE,,2025-05-24T16:00Z 1-3 (4 goles),2025-05-24T16:00Z 1-3 (4 goles),712485,12501543,,
+38,GOL,Bologna - Genoa,COINCIDE,,17' Vitinha (Genoa),17' Vitinha (Genoa),712485,12501543,,
+38,GOL,Bologna - Genoa,COINCIDE,,26' Lorenzo Venturino (Genoa),26' Lorenzo Venturino (Genoa),712485,12501543,,
+38,GOL,Bologna - Genoa,COINCIDE,,43' Lorenzo Venturino (Genoa),43' Lorenzo Venturino (Genoa),712485,12501543,,
+38,GOL,Bologna - Genoa,COINCIDE,,64' Riccardo Orsolini (Bologna),64' Riccardo Orsolini (Bologna),712485,12501543,,
+38,PARTIDO,AC Milan - Monza,COINCIDE,,2025-05-24T18:45Z 2-0 (2 goles),2025-05-24T18:45Z 2-0 (2 goles),712492,12501503,,
+38,GOL,AC Milan - Monza,COINCIDE,,64' Matteo Gabbia (AC Milan),64' Matteo Gabbia (AC Milan),712492,12501503,,
+38,GOL,AC Milan - Monza,COINCIDE,,74' João Félix (AC Milan),74' João Félix (AC Milan),712492,12501503,,
+38,PARTIDO,Atalanta - Parma,COINCIDE,,2025-05-25T18:45Z 2-3 (5 goles),2025-05-25T18:45Z 2-3 (5 goles),712483,12501544,,
+38,GOL,Atalanta - Parma,COINCIDE,,32' Daniel Maldini (Atalanta),32' Daniel Maldini (Atalanta),712483,12501544,,
+38,GOL,Atalanta - Parma,COINCIDE,,33' Daniel Maldini (Atalanta),33' Daniel Maldini (Atalanta),712483,12501544,,
+38,GOL,Atalanta - Parma,COINCIDE,,49' Antoine Hainaut (Parma),49' Antoine Hainaut (Parma),712483,12501544,,
+38,GOL,Atalanta - Parma,COINCIDE,,71' Jacob Ondrejka (Parma),71' Jacob Ondrejka (Parma),712483,12501544,,
+38,GOL,Atalanta - Parma,COINCIDE,,90+1' Jacob Ondrejka (Parma),90+1' Jacob Ondrejka (Parma),712483,12501544,,
+38,PARTIDO,Empoli - Hellas Verona,COINCIDE,,2025-05-25T18:45Z 1-2 (3 goles),2025-05-25T18:45Z 1-2 (3 goles),712487,12501519,,
+38,GOL,Empoli - Hellas Verona,COINCIDE,,4' Suat Serdar (Hellas Verona),4' Suat Serdar (Hellas Verona),712487,12501519,,
+38,GOL,Empoli - Hellas Verona,COINCIDE,,43' Jacopo Fazzini (Empoli),43' Jacopo Fazzini (Empoli),712487,12501519,,
+38,GOL,Empoli - Hellas Verona,COINCIDE,,69' Domagoj Bradaric (Hellas Verona),69' Domagoj Bradarić (Hellas Verona),712487,12501519,,
+38,PARTIDO,Lazio - Lecce,COINCIDE,,2025-05-25T18:45Z 0-1 (1 goles),2025-05-25T18:45Z 0-1 (1 goles),712486,12501517,,
+38,GOL,Lazio - Lecce,COINCIDE,,43' Lassana Coulibaly (Lecce),43' Lassana Coulibaly (Lecce),712486,12501517,,
+38,PARTIDO,Torino - AS Roma,COINCIDE,,2025-05-25T18:45Z 0-2 (2 goles),2025-05-25T18:45Z 0-2 (2 goles),712489,12501508,,
+38,GOL,Torino - AS Roma,COINCIDE,,18' Leandro Paredes (AS Roma) PEN,18' Leandro Paredes (AS Roma) PEN,712489,12501508,,
+38,GOL,Torino - AS Roma,COINCIDE,,53' Alexis Saelemaekers (AS Roma),53' Alexis Saelemaekers (AS Roma),712489,12501508,,
+38,PARTIDO,Udinese - Fiorentina,COINCIDE,,2025-05-25T18:45Z 2-3 (5 goles),2025-05-25T18:45Z 2-3 (5 goles),712490,12501527,,
+38,GOL,Udinese - Fiorentina,COINCIDE,,26' Lorenzo Lucca (Udinese),26' Lorenzo Lucca (Udinese),712490,12501527,,
+38,GOL,Udinese - Fiorentina,COINCIDE,,46' Nicolò Fagioli (Fiorentina),46' Nicolò Fagioli (Fiorentina),712490,12501527,,
+38,GOL,Udinese - Fiorentina,COINCIDE,,57' Pietro Comuzzo (Fiorentina),57' Pietro Comuzzo (Fiorentina),712490,12501527,,
+38,GOL,Udinese - Fiorentina,COINCIDE,,61' Christian Kabasele (Udinese),61' Christian Kabasele (Udinese),712490,12501527,,
+38,GOL,Udinese - Fiorentina,COINCIDE,,82' Moise Kean (Fiorentina),82' Moise Kean (Fiorentina),712490,12501527,,
+38,PARTIDO,Venezia - Juventus,COINCIDE,,2025-05-25T18:45Z 2-3 (5 goles),2025-05-25T18:45Z 2-3 (5 goles),712491,12501507,,
+38,GOL,Venezia - Juventus,COINCIDE,,2' Daniel Fila (Venezia),2' Daniel Fila (Venezia),712491,12501507,,
+38,GOL,Venezia - Juventus,COINCIDE,,25' Kenan Yildiz (Juventus),25' Kenan Yıldız (Juventus),712491,12501507,,
+38,GOL,Venezia - Juventus,COINCIDE,,31' Randal Kolo Muani (Juventus),31' Randal Kolo Muani (Juventus),712491,12501507,,
+38,GOL,Venezia - Juventus,COINCIDE,,55' Ridgeciano Haps (Venezia),55' Ridgeciano Haps (Venezia),712491,12501507,,
+38,GOL,Venezia - Juventus,COINCIDE,,73' Manuel Locatelli (Juventus) PEN,73' Manuel Locatelli (Juventus) PEN,712491,12501507,,

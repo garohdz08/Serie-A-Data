@@ -1,34 +1,34 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-2,PARTIDO,Parma - AC Milan,COINCIDE,,2024-08-24T16:30Z 2-1 (3 goles),2024-08-24T16:30Z 2-1 (3 goles),712129,12499271
-2,GOL,Parma - AC Milan,COINCIDE,,2' Dennis Man (Parma),2' Dennis Man (Parma),712129,12499271
-2,GOL,Parma - AC Milan,COINCIDE,,66' Christian Pulisic (AC Milan),66' Christian Pulišić (AC Milan),712129,12499271
-2,GOL,Parma - AC Milan,COINCIDE,,77' Matteo Cancellieri (Parma),77' Matteo Cancellieri (Parma),712129,12499271
-2,PARTIDO,Udinese - Lazio,COINCIDE,,2024-08-24T16:30Z 2-1 (3 goles),2024-08-24T16:30Z 2-1 (3 goles),712128,12499274
-2,GOL,Udinese - Lazio,COINCIDE,,5' Lorenzo Lucca (Udinese),5' Lorenzo Lucca (Udinese),712128,12499274
-2,GOL,Udinese - Lazio,COINCIDE,,49' Florian Thauvin (Udinese),49' Florian Thauvin (Udinese),712128,12499274
-2,GOL,Udinese - Lazio,COINCIDE,,90+5' Gustav Isaksen (Lazio),90+5' Gustav Isaksen (Lazio),712128,12499274
-2,PARTIDO,Internazionale - Lecce,COINCIDE,,2024-08-24T18:45Z 2-0 (2 goles),2024-08-24T18:45Z 2-0 (2 goles),712126,12499268
-2,GOL,Internazionale - Lecce,COINCIDE,,5' Matteo Darmian (Internazionale),5' Matteo Darmian (Inter),712126,12499268
-2,GOL,Internazionale - Lecce,COINCIDE,,70' Hakan Çalhanoglu (Internazionale) PEN,70' Hakan Çalhanoğlu (Inter) PEN,712126,12499268
-2,PARTIDO,Monza - Genoa,COINCIDE,,2024-08-24T18:45Z 0-1 (1 goles),2024-08-24T18:45Z 0-1 (1 goles),712132,12499269
-2,GOL,Monza - Genoa,COINCIDE,,45+7' Andrea Pinamonti (Genoa),45+7' Andrea Pinamonti (Genoa),712132,12499269
-2,PARTIDO,Fiorentina - Venezia,COINCIDE,,2024-08-25T16:30Z 0-0 (0 goles),2024-08-25T16:30Z 0-0 (0 goles),712124,12499266
-2,PARTIDO,Torino - Atalanta,COINCIDE,,2024-08-25T16:30Z 2-1 (3 goles),2024-08-25T16:30Z 2-1 (3 goles),712131,12499273
-2,GOL,Torino - Atalanta,COINCIDE,,26' Mateo Retegui (Atalanta),26' Mateo Retegui (Atalanta),712131,12499273
-2,GOL,Torino - Atalanta,COINCIDE,,31' Ivan Ilic (Torino),31' Ivan Ilić (Torino),712131,12499273
-2,GOL,Torino - Atalanta,COINCIDE,,50' Ché Adams (Torino),50' Che Adams (Torino),712131,12499273
-2,PARTIDO,AS Roma - Empoli,COINCIDE,,2024-08-25T18:45Z 1-2 (3 goles),2024-08-25T18:45Z 1-2 (3 goles),712130,12499272
-2,GOL,AS Roma - Empoli,COINCIDE,,45' Emmanuel Gyasi (Empoli),45' Emmanuel Gyasi (Empoli),712130,12499272
-2,GOL,AS Roma - Empoli,COINCIDE,,61' Lorenzo Colombo (Empoli) PEN,61' Lorenzo Colombo (Empoli) PEN,712130,12499272
-2,GOL,AS Roma - Empoli,COINCIDE,,80' Eldor Shomurodov (AS Roma),80' Eldor Shomurodov (AS Roma),712130,12499272
-2,PARTIDO,Napoli - Bologna,COINCIDE,,2024-08-25T18:45Z 3-0 (3 goles),2024-08-25T18:45Z 3-0 (3 goles),712127,12499270
-2,GOL,Napoli - Bologna,COINCIDE,,45+2' Giovanni Di Lorenzo (Napoli),45+2' Giovanni Di Lorenzo (SSC Napoli),712127,12499270
-2,GOL,Napoli - Bologna,COINCIDE,,75' Khvicha Kvaratskhelia (Napoli),75' Khvicha Kvaratskhelia (SSC Napoli),712127,12499270
-2,GOL,Napoli - Bologna,COINCIDE,,90+4' Giovanni Simeone (Napoli),90+4' Giovanni Simeone (SSC Napoli),712127,12499270
-2,PARTIDO,Cagliari - Como,COINCIDE,,2024-08-26T16:30Z 1-1 (2 goles),2024-08-26T16:30Z 1-1 (2 goles),712123,12499265
-2,GOL,Cagliari - Como,COINCIDE,,44' Roberto Piccoli (Cagliari),44' Roberto Piccoli (Cagliari),712123,12499265
-2,GOL,Cagliari - Como,COINCIDE,,53' Patrick Cutrone (Como),53' Patrick Cutrone (Como),712123,12499265
-2,PARTIDO,Hellas Verona - Juventus,COINCIDE,,2024-08-26T18:45Z 0-3 (3 goles),2024-08-26T18:45Z 0-3 (3 goles),712125,12499267
-2,GOL,Hellas Verona - Juventus,COINCIDE,,28' Dusan Vlahovic (Juventus),28' Dušan Vlahović (Juventus),712125,12499267
-2,GOL,Hellas Verona - Juventus,COINCIDE,,39' Nicolò Savona (Juventus),39' Nicolò Savona (Juventus),712125,12499267
-2,GOL,Hellas Verona - Juventus,COINCIDE,,53' Dusan Vlahovic (Juventus) PEN,53' Dušan Vlahović (Juventus) PEN,712125,12499267
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+2,PARTIDO,Parma - AC Milan,COINCIDE,,2024-08-24T16:30Z 2-1 (3 goles),2024-08-24T16:30Z 2-1 (3 goles),712129,12499271,,
+2,GOL,Parma - AC Milan,COINCIDE,,2' Dennis Man (Parma),2' Dennis Man (Parma),712129,12499271,,
+2,GOL,Parma - AC Milan,COINCIDE,,66' Christian Pulisic (AC Milan),66' Christian Pulišić (AC Milan),712129,12499271,,
+2,GOL,Parma - AC Milan,COINCIDE,,77' Matteo Cancellieri (Parma),77' Matteo Cancellieri (Parma),712129,12499271,,
+2,PARTIDO,Udinese - Lazio,COINCIDE,,2024-08-24T16:30Z 2-1 (3 goles),2024-08-24T16:30Z 2-1 (3 goles),712128,12499274,,
+2,GOL,Udinese - Lazio,COINCIDE,,5' Lorenzo Lucca (Udinese),5' Lorenzo Lucca (Udinese),712128,12499274,,
+2,GOL,Udinese - Lazio,COINCIDE,,49' Florian Thauvin (Udinese),49' Florian Thauvin (Udinese),712128,12499274,,
+2,GOL,Udinese - Lazio,COINCIDE,,90+5' Gustav Isaksen (Lazio),90+5' Gustav Isaksen (Lazio),712128,12499274,,
+2,PARTIDO,Internazionale - Lecce,COINCIDE,,2024-08-24T18:45Z 2-0 (2 goles),2024-08-24T18:45Z 2-0 (2 goles),712126,12499268,,
+2,GOL,Internazionale - Lecce,COINCIDE,,5' Matteo Darmian (Internazionale),5' Matteo Darmian (Inter),712126,12499268,,
+2,GOL,Internazionale - Lecce,COINCIDE,,70' Hakan Çalhanoglu (Internazionale) PEN,70' Hakan Çalhanoğlu (Inter) PEN,712126,12499268,,
+2,PARTIDO,Monza - Genoa,COINCIDE,,2024-08-24T18:45Z 0-1 (1 goles),2024-08-24T18:45Z 0-1 (1 goles),712132,12499269,,
+2,GOL,Monza - Genoa,COINCIDE,,45+7' Andrea Pinamonti (Genoa),45+7' Andrea Pinamonti (Genoa),712132,12499269,,
+2,PARTIDO,Fiorentina - Venezia,COINCIDE,,2024-08-25T16:30Z 0-0 (0 goles),2024-08-25T16:30Z 0-0 (0 goles),712124,12499266,,
+2,PARTIDO,Torino - Atalanta,COINCIDE,,2024-08-25T16:30Z 2-1 (3 goles),2024-08-25T16:30Z 2-1 (3 goles),712131,12499273,,
+2,GOL,Torino - Atalanta,COINCIDE,,26' Mateo Retegui (Atalanta),26' Mateo Retegui (Atalanta),712131,12499273,,
+2,GOL,Torino - Atalanta,COINCIDE,,31' Ivan Ilic (Torino),31' Ivan Ilić (Torino),712131,12499273,,
+2,GOL,Torino - Atalanta,COINCIDE,,50' Ché Adams (Torino),50' Che Adams (Torino),712131,12499273,,
+2,PARTIDO,AS Roma - Empoli,COINCIDE,,2024-08-25T18:45Z 1-2 (3 goles),2024-08-25T18:45Z 1-2 (3 goles),712130,12499272,,
+2,GOL,AS Roma - Empoli,COINCIDE,,45' Emmanuel Gyasi (Empoli),45' Emmanuel Gyasi (Empoli),712130,12499272,,
+2,GOL,AS Roma - Empoli,COINCIDE,,61' Lorenzo Colombo (Empoli) PEN,61' Lorenzo Colombo (Empoli) PEN,712130,12499272,,
+2,GOL,AS Roma - Empoli,COINCIDE,,80' Eldor Shomurodov (AS Roma),80' Eldor Shomurodov (AS Roma),712130,12499272,,
+2,PARTIDO,Napoli - Bologna,COINCIDE,,2024-08-25T18:45Z 3-0 (3 goles),2024-08-25T18:45Z 3-0 (3 goles),712127,12499270,,
+2,GOL,Napoli - Bologna,COINCIDE,,45+2' Giovanni Di Lorenzo (Napoli),45+2' Giovanni Di Lorenzo (SSC Napoli),712127,12499270,,
+2,GOL,Napoli - Bologna,COINCIDE,,75' Khvicha Kvaratskhelia (Napoli),75' Khvicha Kvaratskhelia (SSC Napoli),712127,12499270,,
+2,GOL,Napoli - Bologna,COINCIDE,,90+4' Giovanni Simeone (Napoli),90+4' Giovanni Simeone (SSC Napoli),712127,12499270,,
+2,PARTIDO,Cagliari - Como,COINCIDE,,2024-08-26T16:30Z 1-1 (2 goles),2024-08-26T16:30Z 1-1 (2 goles),712123,12499265,,
+2,GOL,Cagliari - Como,COINCIDE,,44' Roberto Piccoli (Cagliari),44' Roberto Piccoli (Cagliari),712123,12499265,,
+2,GOL,Cagliari - Como,COINCIDE,,53' Patrick Cutrone (Como),53' Patrick Cutrone (Como),712123,12499265,,
+2,PARTIDO,Hellas Verona - Juventus,COINCIDE,,2024-08-26T18:45Z 0-3 (3 goles),2024-08-26T18:45Z 0-3 (3 goles),712125,12499267,,
+2,GOL,Hellas Verona - Juventus,COINCIDE,,28' Dusan Vlahovic (Juventus),28' Dušan Vlahović (Juventus),712125,12499267,,
+2,GOL,Hellas Verona - Juventus,COINCIDE,,39' Nicolò Savona (Juventus),39' Nicolò Savona (Juventus),712125,12499267,,
+2,GOL,Hellas Verona - Juventus,COINCIDE,,53' Dusan Vlahovic (Juventus) PEN,53' Dušan Vlahović (Juventus) PEN,712125,12499267,,

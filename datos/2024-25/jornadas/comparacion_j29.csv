@@ -1,32 +1,32 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-29,PARTIDO,Genoa - Lecce,COINCIDE,,2025-03-14T19:45Z 2-1 (3 goles),2025-03-14T19:45Z 2-1 (3 goles),712396,12504360
-29,GOL,Genoa - Lecce,COINCIDE,,16' Fabio Miretti (Genoa),16' Fabio Miretti (Genoa),712396,12504360
-29,GOL,Genoa - Lecce,COINCIDE,,45+2' Fabio Miretti (Genoa),45+2' Fabio Miretti (Genoa),712396,12504360
-29,GOL,Genoa - Lecce,COINCIDE,,68' Nikola Krstovic (Lecce) PEN,68' Nikola Krstović (Lecce) PEN,712396,12504360
-29,PARTIDO,Monza - Parma,COINCIDE,,2025-03-15T14:00Z 1-1 (2 goles),2025-03-15T14:00Z 1-1 (2 goles),712398,12504361
-29,GOL,Monza - Parma,COINCIDE,,60' Armando Izzo (Monza),60' Armando Izzo (Monza),712398,12504361
-29,GOL,Monza - Parma,COINCIDE,,84' Ange-Yoan Bonny (Parma),84' Ange-Yoan Bonny (Parma),712398,12504361
-29,PARTIDO,Udinese - Hellas Verona,COINCIDE,,2025-03-15T14:00Z 0-1 (1 goles),2025-03-15T14:00Z 0-1 (1 goles),712401,12504358
-29,GOL,Udinese - Hellas Verona,COINCIDE,,72' Ondrej Duda (Hellas Verona),72' Ondrej Duda (Hellas Verona),712401,12504358
-29,PARTIDO,AC Milan - Como,COINCIDE,,2025-03-15T17:00Z 2-1 (3 goles),2025-03-15T17:00Z 2-1 (3 goles),712397,12504356
-29,GOL,AC Milan - Como,COINCIDE,,33' Lucas Da Cunha (Como),33' Lucas Da Cunha (Como),712397,12504356
-29,GOL,AC Milan - Como,COINCIDE,,53' Christian Pulisic (AC Milan),53' Christian Pulišić (AC Milan),712397,12504356
-29,GOL,AC Milan - Como,COINCIDE,,75' Tijjani Reijnders (AC Milan),75' Tijjani Reijnders (AC Milan),712397,12504356
-29,PARTIDO,Torino - Empoli,COINCIDE,,2025-03-15T19:45Z 1-0 (1 goles),2025-03-15T19:45Z 1-0 (1 goles),712400,12504359
-29,GOL,Torino - Empoli,COINCIDE,,70' Nikola Vlasic (Torino),70' Nikola Vlašić (Torino),712400,12504359
-29,PARTIDO,Venezia - Napoli,COINCIDE,,2025-03-16T11:30Z 0-0 (0 goles),2025-03-16T11:30Z 0-0 (0 goles),712402,12504357
-29,PARTIDO,Bologna - Lazio,COINCIDE,,2025-03-16T14:00Z 5-0 (5 goles),2025-03-16T14:00Z 5-0 (5 goles),712394,12504366
-29,GOL,Bologna - Lazio,COINCIDE,,16' Jens Odgaard (Bologna),16' Jens Odgaard (Bologna),712394,12504366
-29,GOL,Bologna - Lazio,COINCIDE,,48' Riccardo Orsolini (Bologna),48' Riccardo Orsolini (Bologna),712394,12504366
-29,GOL,Bologna - Lazio,COINCIDE,,49' Dan Ndoye (Bologna),49' Dan Ndoye (Bologna),712394,12504366
-29,GOL,Bologna - Lazio,COINCIDE,,74' Santiago Castro (Bologna),74' Santiago Castro (Bologna),712394,12504366
-29,GOL,Bologna - Lazio,COINCIDE,,84' Giovanni Fabbian (Bologna),84' Giovanni Fabbian (Bologna),712394,12504366
-29,PARTIDO,AS Roma - Cagliari,COINCIDE,,2025-03-16T15:00Z 1-0 (1 goles),2025-03-16T15:00Z 1-0 (1 goles),712399,12504352
-29,GOL,AS Roma - Cagliari,COINCIDE,,62' Artem Dovbyk (AS Roma),62' Artem Dovbyk (AS Roma),712399,12504352
-29,PARTIDO,Fiorentina - Juventus,COINCIDE,,2025-03-16T17:00Z 3-0 (3 goles),2025-03-16T17:00Z 3-0 (3 goles),712395,12504363
-29,GOL,Fiorentina - Juventus,COINCIDE,,15' Robin Gosens (Fiorentina),15' Robin Gosens (Fiorentina),712395,12504363
-29,GOL,Fiorentina - Juventus,COINCIDE,,18' Rolando Mandragora (Fiorentina),18' Rolando Mandragora (Fiorentina),712395,12504363
-29,GOL,Fiorentina - Juventus,COINCIDE,,53' Albert Gudmundsson (Fiorentina),53' Albert Guðmundsson (Fiorentina),712395,12504363
-29,PARTIDO,Atalanta - Internazionale,COINCIDE,,2025-03-16T19:45Z 0-2 (2 goles),2025-03-16T19:45Z 0-2 (2 goles),712393,12504364
-29,GOL,Atalanta - Internazionale,COINCIDE,,54' Carlos Augusto (Internazionale),54' Carlos Augusto (Inter),712393,12504364
-29,GOL,Atalanta - Internazionale,COINCIDE,,87' Lautaro Martínez (Internazionale),87' Lautaro Martínez (Inter),712393,12504364
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+29,PARTIDO,Genoa - Lecce,COINCIDE,,2025-03-14T19:45Z 2-1 (3 goles),2025-03-14T19:45Z 2-1 (3 goles),712396,12504360,,
+29,GOL,Genoa - Lecce,COINCIDE,,16' Fabio Miretti (Genoa),16' Fabio Miretti (Genoa),712396,12504360,,
+29,GOL,Genoa - Lecce,COINCIDE,,45+2' Fabio Miretti (Genoa),45+2' Fabio Miretti (Genoa),712396,12504360,,
+29,GOL,Genoa - Lecce,COINCIDE,,68' Nikola Krstovic (Lecce) PEN,68' Nikola Krstović (Lecce) PEN,712396,12504360,,
+29,PARTIDO,Monza - Parma,COINCIDE,,2025-03-15T14:00Z 1-1 (2 goles),2025-03-15T14:00Z 1-1 (2 goles),712398,12504361,,
+29,GOL,Monza - Parma,COINCIDE,,60' Armando Izzo (Monza),60' Armando Izzo (Monza),712398,12504361,,
+29,GOL,Monza - Parma,COINCIDE,,84' Ange-Yoan Bonny (Parma),84' Ange-Yoan Bonny (Parma),712398,12504361,,
+29,PARTIDO,Udinese - Hellas Verona,COINCIDE,,2025-03-15T14:00Z 0-1 (1 goles),2025-03-15T14:00Z 0-1 (1 goles),712401,12504358,,
+29,GOL,Udinese - Hellas Verona,COINCIDE,,72' Ondrej Duda (Hellas Verona),72' Ondrej Duda (Hellas Verona),712401,12504358,,
+29,PARTIDO,AC Milan - Como,COINCIDE,,2025-03-15T17:00Z 2-1 (3 goles),2025-03-15T17:00Z 2-1 (3 goles),712397,12504356,,
+29,GOL,AC Milan - Como,COINCIDE,,33' Lucas Da Cunha (Como),33' Lucas Da Cunha (Como),712397,12504356,,
+29,GOL,AC Milan - Como,COINCIDE,,53' Christian Pulisic (AC Milan),53' Christian Pulišić (AC Milan),712397,12504356,,
+29,GOL,AC Milan - Como,COINCIDE,,75' Tijjani Reijnders (AC Milan),75' Tijjani Reijnders (AC Milan),712397,12504356,,
+29,PARTIDO,Torino - Empoli,COINCIDE,,2025-03-15T19:45Z 1-0 (1 goles),2025-03-15T19:45Z 1-0 (1 goles),712400,12504359,,
+29,GOL,Torino - Empoli,COINCIDE,,70' Nikola Vlasic (Torino),70' Nikola Vlašić (Torino),712400,12504359,,
+29,PARTIDO,Venezia - Napoli,COINCIDE,,2025-03-16T11:30Z 0-0 (0 goles),2025-03-16T11:30Z 0-0 (0 goles),712402,12504357,,
+29,PARTIDO,Bologna - Lazio,COINCIDE,,2025-03-16T14:00Z 5-0 (5 goles),2025-03-16T14:00Z 5-0 (5 goles),712394,12504366,,
+29,GOL,Bologna - Lazio,COINCIDE,,16' Jens Odgaard (Bologna),16' Jens Odgaard (Bologna),712394,12504366,,
+29,GOL,Bologna - Lazio,COINCIDE,,48' Riccardo Orsolini (Bologna),48' Riccardo Orsolini (Bologna),712394,12504366,,
+29,GOL,Bologna - Lazio,COINCIDE,,49' Dan Ndoye (Bologna),49' Dan Ndoye (Bologna),712394,12504366,,
+29,GOL,Bologna - Lazio,COINCIDE,,74' Santiago Castro (Bologna),74' Santiago Castro (Bologna),712394,12504366,,
+29,GOL,Bologna - Lazio,COINCIDE,,84' Giovanni Fabbian (Bologna),84' Giovanni Fabbian (Bologna),712394,12504366,,
+29,PARTIDO,AS Roma - Cagliari,COINCIDE,,2025-03-16T15:00Z 1-0 (1 goles),2025-03-16T15:00Z 1-0 (1 goles),712399,12504352,,
+29,GOL,AS Roma - Cagliari,COINCIDE,,62' Artem Dovbyk (AS Roma),62' Artem Dovbyk (AS Roma),712399,12504352,,
+29,PARTIDO,Fiorentina - Juventus,COINCIDE,,2025-03-16T17:00Z 3-0 (3 goles),2025-03-16T17:00Z 3-0 (3 goles),712395,12504363,,
+29,GOL,Fiorentina - Juventus,COINCIDE,,15' Robin Gosens (Fiorentina),15' Robin Gosens (Fiorentina),712395,12504363,,
+29,GOL,Fiorentina - Juventus,COINCIDE,,18' Rolando Mandragora (Fiorentina),18' Rolando Mandragora (Fiorentina),712395,12504363,,
+29,GOL,Fiorentina - Juventus,COINCIDE,,53' Albert Gudmundsson (Fiorentina),53' Albert Guðmundsson (Fiorentina),712395,12504363,,
+29,PARTIDO,Atalanta - Internazionale,COINCIDE,,2025-03-16T19:45Z 0-2 (2 goles),2025-03-16T19:45Z 0-2 (2 goles),712393,12504364,,
+29,GOL,Atalanta - Internazionale,COINCIDE,,54' Carlos Augusto (Internazionale),54' Carlos Augusto (Inter),712393,12504364,,
+29,GOL,Atalanta - Internazionale,COINCIDE,,87' Lautaro Martínez (Internazionale),87' Lautaro Martínez (Inter),712393,12504364,,

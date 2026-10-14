@@ -1,38 +1,38 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-10,PARTIDO,Cagliari - Bologna,COINCIDE,,2024-10-29T17:30Z 0-2 (2 goles),2024-10-29T17:30Z 0-2 (2 goles),712212,12499348
-10,GOL,Cagliari - Bologna,COINCIDE,,35' Riccardo Orsolini (Bologna),35' Riccardo Orsolini (Bologna),712212,12499348
-10,GOL,Cagliari - Bologna,COINCIDE,,51' Jens Odgaard (Bologna),51' Jens Odgaard (Bologna),712212,12499348
-10,PARTIDO,Lecce - Hellas Verona,COINCIDE,,2024-10-29T17:30Z 1-0 (1 goles),2024-10-29T17:30Z 1-0 (1 goles),712209,12499354
-10,GOL,Lecce - Hellas Verona,COINCIDE,,51' Patrick Dorgu (Lecce),51' Patrick Dorgu (Lecce),712209,12499354
-10,PARTIDO,AC Milan - Napoli,COINCIDE,,2024-10-29T19:45Z 0-2 (2 goles),2024-10-29T19:45Z 0-2 (2 goles),712210,12499355
-10,GOL,AC Milan - Napoli,COINCIDE,,5' Romelu Lukaku (Napoli),5' Romelu Lukaku (SSC Napoli),712210,12499355
-10,GOL,AC Milan - Napoli,COINCIDE,,43' Khvicha Kvaratskhelia (Napoli),43' Khvicha Kvaratskhelia (SSC Napoli),712210,12499355
-10,PARTIDO,Empoli - Internazionale,COINCIDE,,2024-10-30T17:30Z 0-3 (3 goles),2024-10-30T17:30Z 0-3 (3 goles),712205,12499350
-10,GOL,Empoli - Internazionale,COINCIDE,,50' Davide Frattesi (Internazionale),50' Davide Frattesi (Inter),712205,12499350
-10,GOL,Empoli - Internazionale,COINCIDE,,67' Davide Frattesi (Internazionale),67' Davide Frattesi (Inter),712205,12499350
-10,GOL,Empoli - Internazionale,COINCIDE,,79' Lautaro Martínez (Internazionale),79' Lautaro Martínez (Inter),712205,12499350
-10,PARTIDO,Venezia - Udinese,COINCIDE,,2024-10-30T17:30Z 3-2 (5 goles),2024-10-30T17:30Z 3-2 (5 goles),712203,12499357
-10,GOL,Venezia - Udinese,COINCIDE,,19' Sandi Lovric (Udinese),19' Sandi Lovrić (Udinese),712203,12499357
-10,GOL,Venezia - Udinese,COINCIDE,,25' Iker Bravo (Udinese),25' Iker Bravo (Udinese),712203,12499357
-10,GOL,Venezia - Udinese,COINCIDE,,41' Joel Pohjanpalo (Venezia) PEN,41' Joel Pohjanpalo (Venezia) PEN,712203,12499357
-10,GOL,Venezia - Udinese,COINCIDE,,56' Hans Nicolussi Caviglia (Venezia),56' Hans Nicolussi Caviglia (Venezia),712203,12499357
-10,GOL,Venezia - Udinese,COINCIDE,,86' Joel Pohjanpalo (Venezia) PEN,86' Joel Pohjanpalo (Venezia) PEN,712203,12499357
-10,PARTIDO,Atalanta - Monza,COINCIDE,,2024-10-30T19:45Z 2-0 (2 goles),2024-10-30T19:45Z 2-0 (2 goles),712207,12499347
-10,GOL,Atalanta - Monza,COINCIDE,,70' Lazar Samardzic (Atalanta),70' Lazar Samardžić (Atalanta),712207,12499347
-10,GOL,Atalanta - Monza,COINCIDE,,88' Davide Zappacosta (Atalanta),88' Davide Zappacosta (Atalanta),712207,12499347
-10,PARTIDO,Juventus - Parma,COINCIDE,,2024-10-30T19:45Z 2-2 (4 goles),2024-10-30T19:45Z 2-2 (4 goles),712208,12499353
-10,GOL,Juventus - Parma,COINCIDE,,31' Weston McKennie (Juventus),31' Weston McKennie (Juventus),712208,12499353
-10,GOL,Juventus - Parma,COINCIDE,,38' Simon Sohm (Parma),38' Simon Sohm (Parma),712208,12499353
-10,GOL,Juventus - Parma,COINCIDE,,49' Timothy Weah (Juventus),49' Timothy Weah (Juventus),712208,12499353
-10,GOL,Juventus - Parma,COINCIDE,,3' Enrico Del Prato (Parma),3' Enrico Delprato (Parma),712208,12499353
-10,PARTIDO,Genoa - Fiorentina,COINCIDE,,2024-10-31T17:30Z 0-1 (1 goles),2024-10-31T17:30Z 0-1 (1 goles),712204,12499351
-10,GOL,Genoa - Fiorentina,COINCIDE,,72' Robin Gosens (Fiorentina),72' Robin Gosens (Fiorentina),712204,12499351
-10,PARTIDO,AS Roma - Torino,COINCIDE,,2024-10-31T19:45Z 1-0 (1 goles),2024-10-31T19:45Z 1-0 (1 goles),712211,12499356
-10,GOL,AS Roma - Torino,COINCIDE,,20' Paulo Dybala (AS Roma),20' Paulo Dybala (AS Roma),712211,12499356
-10,PARTIDO,Como - Lazio,COINCIDE,,2024-10-31T19:45Z 1-5 (6 goles),2024-10-31T19:45Z 1-5 (6 goles),712206,12499349
-10,GOL,Como - Lazio,COINCIDE,,28' Valentín Castellanos (Lazio) PEN,28' Valentín Castellanos (Lazio) PEN,712206,12499349
-10,GOL,Como - Lazio,COINCIDE,,31' Pedro (Lazio),31' Pedro (Lazio),712206,12499349
-10,GOL,Como - Lazio,COINCIDE,,53' Luca Mazzitelli (Como),53' Luca Mazzitelli (Como),712206,12499349
-10,GOL,Como - Lazio,COINCIDE,,72' Patric (Lazio),72' Patric (Lazio),712206,12499349
-10,GOL,Como - Lazio,COINCIDE,,81' Valentín Castellanos (Lazio),81' Valentín Castellanos (Lazio),712206,12499349
-10,GOL,Como - Lazio,COINCIDE,,90+5' Loum Tchaouna (Lazio),90+5' Loum Tchaouna (Lazio),712206,12499349
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+10,PARTIDO,Cagliari - Bologna,COINCIDE,,2024-10-29T17:30Z 0-2 (2 goles),2024-10-29T17:30Z 0-2 (2 goles),712212,12499348,,
+10,GOL,Cagliari - Bologna,COINCIDE,,35' Riccardo Orsolini (Bologna),35' Riccardo Orsolini (Bologna),712212,12499348,,
+10,GOL,Cagliari - Bologna,COINCIDE,,51' Jens Odgaard (Bologna),51' Jens Odgaard (Bologna),712212,12499348,,
+10,PARTIDO,Lecce - Hellas Verona,COINCIDE,,2024-10-29T17:30Z 1-0 (1 goles),2024-10-29T17:30Z 1-0 (1 goles),712209,12499354,,
+10,GOL,Lecce - Hellas Verona,COINCIDE,,51' Patrick Dorgu (Lecce),51' Patrick Dorgu (Lecce),712209,12499354,,
+10,PARTIDO,AC Milan - Napoli,COINCIDE,,2024-10-29T19:45Z 0-2 (2 goles),2024-10-29T19:45Z 0-2 (2 goles),712210,12499355,,
+10,GOL,AC Milan - Napoli,COINCIDE,,5' Romelu Lukaku (Napoli),5' Romelu Lukaku (SSC Napoli),712210,12499355,,
+10,GOL,AC Milan - Napoli,COINCIDE,,43' Khvicha Kvaratskhelia (Napoli),43' Khvicha Kvaratskhelia (SSC Napoli),712210,12499355,,
+10,PARTIDO,Empoli - Internazionale,COINCIDE,,2024-10-30T17:30Z 0-3 (3 goles),2024-10-30T17:30Z 0-3 (3 goles),712205,12499350,,
+10,GOL,Empoli - Internazionale,COINCIDE,,50' Davide Frattesi (Internazionale),50' Davide Frattesi (Inter),712205,12499350,,
+10,GOL,Empoli - Internazionale,COINCIDE,,67' Davide Frattesi (Internazionale),67' Davide Frattesi (Inter),712205,12499350,,
+10,GOL,Empoli - Internazionale,COINCIDE,,79' Lautaro Martínez (Internazionale),79' Lautaro Martínez (Inter),712205,12499350,,
+10,PARTIDO,Venezia - Udinese,COINCIDE,,2024-10-30T17:30Z 3-2 (5 goles),2024-10-30T17:30Z 3-2 (5 goles),712203,12499357,,
+10,GOL,Venezia - Udinese,COINCIDE,,19' Sandi Lovric (Udinese),19' Sandi Lovrić (Udinese),712203,12499357,,
+10,GOL,Venezia - Udinese,COINCIDE,,25' Iker Bravo (Udinese),25' Iker Bravo (Udinese),712203,12499357,,
+10,GOL,Venezia - Udinese,COINCIDE,,41' Joel Pohjanpalo (Venezia) PEN,41' Joel Pohjanpalo (Venezia) PEN,712203,12499357,,
+10,GOL,Venezia - Udinese,COINCIDE,,56' Hans Nicolussi Caviglia (Venezia),56' Hans Nicolussi Caviglia (Venezia),712203,12499357,,
+10,GOL,Venezia - Udinese,COINCIDE,,86' Joel Pohjanpalo (Venezia) PEN,86' Joel Pohjanpalo (Venezia) PEN,712203,12499357,,
+10,PARTIDO,Atalanta - Monza,COINCIDE,,2024-10-30T19:45Z 2-0 (2 goles),2024-10-30T19:45Z 2-0 (2 goles),712207,12499347,,
+10,GOL,Atalanta - Monza,COINCIDE,,70' Lazar Samardzic (Atalanta),70' Lazar Samardžić (Atalanta),712207,12499347,,
+10,GOL,Atalanta - Monza,COINCIDE,,88' Davide Zappacosta (Atalanta),88' Davide Zappacosta (Atalanta),712207,12499347,,
+10,PARTIDO,Juventus - Parma,COINCIDE,,2024-10-30T19:45Z 2-2 (4 goles),2024-10-30T19:45Z 2-2 (4 goles),712208,12499353,,
+10,GOL,Juventus - Parma,COINCIDE,,31' Weston McKennie (Juventus),31' Weston McKennie (Juventus),712208,12499353,,
+10,GOL,Juventus - Parma,COINCIDE,,38' Simon Sohm (Parma),38' Simon Sohm (Parma),712208,12499353,,
+10,GOL,Juventus - Parma,COINCIDE,,49' Timothy Weah (Juventus),49' Timothy Weah (Juventus),712208,12499353,,
+10,GOL,Juventus - Parma,COINCIDE,,3' Enrico Del Prato (Parma),3' Enrico Delprato (Parma),712208,12499353,,
+10,PARTIDO,Genoa - Fiorentina,COINCIDE,,2024-10-31T17:30Z 0-1 (1 goles),2024-10-31T17:30Z 0-1 (1 goles),712204,12499351,,
+10,GOL,Genoa - Fiorentina,COINCIDE,,72' Robin Gosens (Fiorentina),72' Robin Gosens (Fiorentina),712204,12499351,,
+10,PARTIDO,AS Roma - Torino,COINCIDE,,2024-10-31T19:45Z 1-0 (1 goles),2024-10-31T19:45Z 1-0 (1 goles),712211,12499356,,
+10,GOL,AS Roma - Torino,COINCIDE,,20' Paulo Dybala (AS Roma),20' Paulo Dybala (AS Roma),712211,12499356,,
+10,PARTIDO,Como - Lazio,COINCIDE,,2024-10-31T19:45Z 1-5 (6 goles),2024-10-31T19:45Z 1-5 (6 goles),712206,12499349,,
+10,GOL,Como - Lazio,COINCIDE,,28' Valentín Castellanos (Lazio) PEN,28' Valentín Castellanos (Lazio) PEN,712206,12499349,,
+10,GOL,Como - Lazio,COINCIDE,,31' Pedro (Lazio),31' Pedro (Lazio),712206,12499349,,
+10,GOL,Como - Lazio,COINCIDE,,53' Luca Mazzitelli (Como),53' Luca Mazzitelli (Como),712206,12499349,,
+10,GOL,Como - Lazio,COINCIDE,,72' Patric (Lazio),72' Patric (Lazio),712206,12499349,,
+10,GOL,Como - Lazio,COINCIDE,,81' Valentín Castellanos (Lazio),81' Valentín Castellanos (Lazio),712206,12499349,,
+10,GOL,Como - Lazio,COINCIDE,,90+5' Loum Tchaouna (Lazio),90+5' Loum Tchaouna (Lazio),712206,12499349,,

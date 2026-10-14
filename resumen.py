@@ -11,7 +11,7 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-from comparar import FINALES, sin_aplazados
+from comparar import FINALES, RESUELTO, sin_aplazados
 from nombres import equipo
 from temporada import CFG
 
@@ -101,6 +101,8 @@ def main():
         minuto = sum(v for k, v in tipo.items() if "minuto" in k)
         distinto = sum(v for k, v in tipo.items() if "goleador_distinto" in k)
         variante = sum(v for k, v in tipo.items() if "goleador_variante" in k)
+        p(f"sin resolver={sum(1 for x in comp if x['estado'] not in ('COINCIDE', RESUELTO))} "
+          f"resueltas_por_usuario={sum(1 for x in comp if x['estado'] == RESUELTO)}")
         p(f"minuto={minuto} goleador_distinto={distinto} goleador_variante(nombre corto/largo)={variante} "
           f"sin_pareja={sum(v for k, v in tipo.items() if k == 'gol')}")
     else:

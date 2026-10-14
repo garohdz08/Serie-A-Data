@@ -1,28 +1,28 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-30,PARTIDO,Como - Empoli,COINCIDE,,2025-03-29T14:00Z 1-1 (2 goles),2025-03-29T14:00Z 1-1 (2 goles),712404,12504354
-30,GOL,Como - Empoli,COINCIDE,,61' Anastasios Douvikas (Como),61' Anastasios Douvikas (Como),712404,12504354
-30,GOL,Como - Empoli,COINCIDE,,75' Christian Kouamé (Empoli),75' Christian Kouamé (Empoli),712404,12504354
-30,PARTIDO,Venezia - Bologna,COINCIDE,,2025-03-29T14:00Z 0-1 (1 goles),2025-03-29T14:00Z 0-1 (1 goles),712408,12501546
-30,GOL,Venezia - Bologna,COINCIDE,,49' Riccardo Orsolini (Bologna),49' Riccardo Orsolini (Bologna),712408,12501546
-30,PARTIDO,Juventus - Genoa,COINCIDE,,2025-03-29T17:00Z 1-0 (1 goles),2025-03-29T17:00Z 1-0 (1 goles),712407,12504349
-30,GOL,Juventus - Genoa,COINCIDE,,25' Kenan Yildiz (Juventus),25' Kenan Yıldız (Juventus),712407,12504349
-30,PARTIDO,Lecce - AS Roma,COINCIDE,,2025-03-29T19:45Z 0-1 (1 goles),2025-03-29T19:45Z 0-1 (1 goles),712410,12501547
-30,GOL,Lecce - AS Roma,COINCIDE,,80' Artem Dovbyk (AS Roma),80' Artem Dovbyk (AS Roma),712410,12501547
-30,PARTIDO,Cagliari - Monza,COINCIDE,,2025-03-30T10:30Z 3-0 (3 goles),2025-03-30T10:30Z 3-0 (3 goles),712403,12504355
-30,GOL,Cagliari - Monza,COINCIDE,,49' Nicolas Viola (Cagliari),49' Nicolas Viola (Cagliari),712403,12504355
-30,GOL,Cagliari - Monza,COINCIDE,,73' Gianluca Gaetano (Cagliari),73' Gianluca Gaetano (Cagliari),712403,12504355
-30,GOL,Cagliari - Monza,COINCIDE,,90+2' Zito Luvumbo (Cagliari),90+2' Zito Luvumbo (Cagliari),712403,12504355
-30,PARTIDO,Fiorentina - Atalanta,COINCIDE,,2025-03-30T13:00Z 1-0 (1 goles),2025-03-30T13:00Z 1-0 (1 goles),712405,12504362
-30,GOL,Fiorentina - Atalanta,COINCIDE,,45' Moise Kean (Fiorentina),45' Moise Kean (Fiorentina),712405,12504362
-30,PARTIDO,Internazionale - Udinese,COINCIDE,,2025-03-30T16:00Z 2-1 (3 goles),2025-03-30T16:00Z 2-1 (3 goles),712412,12504351
-30,GOL,Internazionale - Udinese,COINCIDE,,12' Marko Arnautovic (Internazionale),12' Marko Arnautović (Inter),712412,12504351
-30,GOL,Internazionale - Udinese,COINCIDE,,29' Davide Frattesi (Internazionale),29' Davide Frattesi (Inter),712412,12504351
-30,GOL,Internazionale - Udinese,COINCIDE,,71' Oumar Solet (Udinese),71' Oumar Solet (Udinese),712412,12504351
-30,PARTIDO,Napoli - AC Milan,COINCIDE,,2025-03-30T18:45Z 2-1 (3 goles),2025-03-30T18:45Z 2-1 (3 goles),712411,12501548
-30,GOL,Napoli - AC Milan,COINCIDE,,2' Matteo Politano (Napoli),2' Matteo Politano (SSC Napoli),712411,12501548
-30,GOL,Napoli - AC Milan,COINCIDE,,19' Romelu Lukaku (Napoli),19' Romelu Lukaku (SSC Napoli),712411,12501548
-30,GOL,Napoli - AC Milan,COINCIDE,,84' Luka Jovic (AC Milan),84' Luka Jović (AC Milan),712411,12501548
-30,PARTIDO,Hellas Verona - Parma,COINCIDE,,2025-03-31T16:30Z 0-0 (0 goles),2025-03-31T16:30Z 0-0 (0 goles),712406,12504347
-30,PARTIDO,Lazio - Torino,COINCIDE,,2025-03-31T18:45Z 1-1 (2 goles),2025-03-31T18:45Z 1-1 (2 goles),712409,12504350
-30,GOL,Lazio - Torino,COINCIDE,,57' Adam Marusic (Lazio),57' Adam Marušić (Lazio),712409,12504350
-30,GOL,Lazio - Torino,COINCIDE,,82' Gvidas Gineitis (Torino),82' Gvidas Gineitis (Torino),712409,12504350
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+30,PARTIDO,Como - Empoli,COINCIDE,,2025-03-29T14:00Z 1-1 (2 goles),2025-03-29T14:00Z 1-1 (2 goles),712404,12504354,,
+30,GOL,Como - Empoli,COINCIDE,,61' Anastasios Douvikas (Como),61' Anastasios Douvikas (Como),712404,12504354,,
+30,GOL,Como - Empoli,COINCIDE,,75' Christian Kouamé (Empoli),75' Christian Kouamé (Empoli),712404,12504354,,
+30,PARTIDO,Venezia - Bologna,COINCIDE,,2025-03-29T14:00Z 0-1 (1 goles),2025-03-29T14:00Z 0-1 (1 goles),712408,12501546,,
+30,GOL,Venezia - Bologna,COINCIDE,,49' Riccardo Orsolini (Bologna),49' Riccardo Orsolini (Bologna),712408,12501546,,
+30,PARTIDO,Juventus - Genoa,COINCIDE,,2025-03-29T17:00Z 1-0 (1 goles),2025-03-29T17:00Z 1-0 (1 goles),712407,12504349,,
+30,GOL,Juventus - Genoa,COINCIDE,,25' Kenan Yildiz (Juventus),25' Kenan Yıldız (Juventus),712407,12504349,,
+30,PARTIDO,Lecce - AS Roma,COINCIDE,,2025-03-29T19:45Z 0-1 (1 goles),2025-03-29T19:45Z 0-1 (1 goles),712410,12501547,,
+30,GOL,Lecce - AS Roma,COINCIDE,,80' Artem Dovbyk (AS Roma),80' Artem Dovbyk (AS Roma),712410,12501547,,
+30,PARTIDO,Cagliari - Monza,COINCIDE,,2025-03-30T10:30Z 3-0 (3 goles),2025-03-30T10:30Z 3-0 (3 goles),712403,12504355,,
+30,GOL,Cagliari - Monza,COINCIDE,,49' Nicolas Viola (Cagliari),49' Nicolas Viola (Cagliari),712403,12504355,,
+30,GOL,Cagliari - Monza,COINCIDE,,73' Gianluca Gaetano (Cagliari),73' Gianluca Gaetano (Cagliari),712403,12504355,,
+30,GOL,Cagliari - Monza,COINCIDE,,90+2' Zito Luvumbo (Cagliari),90+2' Zito Luvumbo (Cagliari),712403,12504355,,
+30,PARTIDO,Fiorentina - Atalanta,COINCIDE,,2025-03-30T13:00Z 1-0 (1 goles),2025-03-30T13:00Z 1-0 (1 goles),712405,12504362,,
+30,GOL,Fiorentina - Atalanta,COINCIDE,,45' Moise Kean (Fiorentina),45' Moise Kean (Fiorentina),712405,12504362,,
+30,PARTIDO,Internazionale - Udinese,COINCIDE,,2025-03-30T16:00Z 2-1 (3 goles),2025-03-30T16:00Z 2-1 (3 goles),712412,12504351,,
+30,GOL,Internazionale - Udinese,COINCIDE,,12' Marko Arnautovic (Internazionale),12' Marko Arnautović (Inter),712412,12504351,,
+30,GOL,Internazionale - Udinese,COINCIDE,,29' Davide Frattesi (Internazionale),29' Davide Frattesi (Inter),712412,12504351,,
+30,GOL,Internazionale - Udinese,COINCIDE,,71' Oumar Solet (Udinese),71' Oumar Solet (Udinese),712412,12504351,,
+30,PARTIDO,Napoli - AC Milan,COINCIDE,,2025-03-30T18:45Z 2-1 (3 goles),2025-03-30T18:45Z 2-1 (3 goles),712411,12501548,,
+30,GOL,Napoli - AC Milan,COINCIDE,,2' Matteo Politano (Napoli),2' Matteo Politano (SSC Napoli),712411,12501548,,
+30,GOL,Napoli - AC Milan,COINCIDE,,19' Romelu Lukaku (Napoli),19' Romelu Lukaku (SSC Napoli),712411,12501548,,
+30,GOL,Napoli - AC Milan,COINCIDE,,84' Luka Jovic (AC Milan),84' Luka Jović (AC Milan),712411,12501548,,
+30,PARTIDO,Hellas Verona - Parma,COINCIDE,,2025-03-31T16:30Z 0-0 (0 goles),2025-03-31T16:30Z 0-0 (0 goles),712406,12504347,,
+30,PARTIDO,Lazio - Torino,COINCIDE,,2025-03-31T18:45Z 1-1 (2 goles),2025-03-31T18:45Z 1-1 (2 goles),712409,12504350,,
+30,GOL,Lazio - Torino,COINCIDE,,57' Adam Marusic (Lazio),57' Adam Marušić (Lazio),712409,12504350,,
+30,GOL,Lazio - Torino,COINCIDE,,82' Gvidas Gineitis (Torino),82' Gvidas Gineitis (Torino),712409,12504350,,

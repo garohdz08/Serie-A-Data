@@ -1,41 +1,41 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-5,PARTIDO,Cagliari - Empoli,COINCIDE,,2024-09-20T16:30Z 0-2 (2 goles),2024-09-20T16:30Z 0-2 (2 goles),712154,12499296
-5,GOL,Cagliari - Empoli,COINCIDE,,33' Lorenzo Colombo (Empoli),33' Lorenzo Colombo (Empoli),712154,12499296
-5,GOL,Cagliari - Empoli,COINCIDE,,49' Sebastiano Esposito (Empoli),49' Sebastiano Esposito (Empoli),712154,12499296
-5,PARTIDO,Hellas Verona - Torino,COINCIDE,,2024-09-20T18:45Z 2-3 (5 goles),2024-09-20T18:45Z 2-3 (5 goles),712156,12499298
-5,GOL,Hellas Verona - Torino,COINCIDE,,10' Antonio Sanabria (Torino),10' Antonio Sanabria (Torino),712156,12499298
-5,GOL,Hellas Verona - Torino,COINCIDE,,12' Grigoris Kastanos (Hellas Verona),12' Grigoris Kastanos (Hellas Verona),712156,12499298
-5,GOL,Hellas Verona - Torino,COINCIDE,,33' Duván Zapata (Torino),33' Duván Zapata (Torino),712156,12499298
-5,GOL,Hellas Verona - Torino,COINCIDE,,79' Ché Adams (Torino),79' Che Adams (Torino),712156,12499298
-5,GOL,Hellas Verona - Torino,COINCIDE,,90+3' Daniel Mosquera (Hellas Verona),90+3' Daniel Mosquera (Hellas Verona),712156,12499298
-5,PARTIDO,Venezia - Genoa,COINCIDE,,2024-09-21T13:00Z 2-0 (2 goles),2024-09-21T13:00Z 2-0 (2 goles),712162,12499304
-5,GOL,Venezia - Genoa,COINCIDE,,63' Gianluca Busio (Venezia),63' Gianluca Busio (Venezia),712162,12499304
-5,GOL,Venezia - Genoa,COINCIDE,,85' Joel Pohjanpalo (Venezia),85' Joel Pohjanpalo (Venezia),712162,12499304
-5,PARTIDO,Juventus - Napoli,COINCIDE,,2024-09-21T16:00Z 0-0 (0 goles),2024-09-21T16:00Z 0-0 (0 goles),712158,12499300
-5,PARTIDO,Lecce - Parma,COINCIDE,,2024-09-21T18:45Z 2-2 (4 goles),2024-09-21T18:45Z 2-2 (4 goles),712159,12499301
-5,GOL,Lecce - Parma,COINCIDE,,32' Patrick Dorgu (Lecce),32' Patrick Dorgu (Lecce),712159,12499301
-5,GOL,Lecce - Parma,COINCIDE,,59' Nikola Krstovic (Lecce),59' Nikola Krstović (Lecce),712159,12499301
-5,GOL,Lecce - Parma,COINCIDE,,90+3' Pontus Almqvist (Parma),90+3' Pontus Almqvist (Parma),712159,12499301
-5,GOL,Lecce - Parma,COINCIDE,,90+5' Antoine Hainaut (Parma),90+5' Antoine Hainaut (Parma),712159,12499301
-5,PARTIDO,Fiorentina - Lazio,COINCIDE,,2024-09-22T10:30Z 2-1 (3 goles),2024-09-22T10:30Z 2-1 (3 goles),712155,12499297
-5,GOL,Fiorentina - Lazio,COINCIDE,,41' Mario Gila (Lazio),41' Mario Gila (Lazio),712155,12499297
-5,GOL,Fiorentina - Lazio,COINCIDE,,49' Albert Gudmundsson (Fiorentina) PEN,49' Albert Guðmundsson (Fiorentina) PEN,712155,12499297
-5,GOL,Fiorentina - Lazio,COINCIDE,,90' Albert Gudmundsson (Fiorentina) PEN,90' Albert Guðmundsson (Fiorentina) PEN,712155,12499297
-5,PARTIDO,Monza - Bologna,COINCIDE,,2024-09-22T13:00Z 1-2 (3 goles),2024-09-22T13:00Z 1-2 (3 goles),712160,12499302
-5,GOL,Monza - Bologna,COINCIDE,,24' Kacper Urbanski (Bologna),24' Kacper Urbański (Bologna),712160,12499302
-5,GOL,Monza - Bologna,COINCIDE,,80' Santiago Castro (Bologna),80' Santiago Castro (Bologna),712160,12499302
-5,GOL,Monza - Bologna,DISCREPA,goleador_distinto,43' Milan Djuric (Monza),43' Milan Đurić (Monza),712160,12499302
-5,PARTIDO,AS Roma - Udinese,COINCIDE,,2024-09-22T16:00Z 3-0 (3 goles),2024-09-22T16:00Z 3-0 (3 goles),712161,12499303
-5,GOL,AS Roma - Udinese,COINCIDE,,19' Artem Dovbyk (AS Roma),19' Artem Dovbyk (AS Roma),712161,12499303
-5,GOL,AS Roma - Udinese,COINCIDE,,49' Paulo Dybala (AS Roma) PEN,49' Paulo Dybala (AS Roma) PEN,712161,12499303
-5,GOL,AS Roma - Udinese,COINCIDE,,70' Tommaso Baldanzi (AS Roma),70' Tommaso Baldanzi (AS Roma),712161,12499303
-5,PARTIDO,Internazionale - AC Milan,COINCIDE,,2024-09-22T18:45Z 1-2 (3 goles),2024-09-22T18:45Z 1-2 (3 goles),712157,12499299
-5,GOL,Internazionale - AC Milan,COINCIDE,,10' Christian Pulisic (AC Milan),10' Christian Pulišić (AC Milan),712157,12499299
-5,GOL,Internazionale - AC Milan,COINCIDE,,27' Federico Dimarco (Internazionale),27' Federico Dimarco (Inter),712157,12499299
-5,GOL,Internazionale - AC Milan,COINCIDE,,89' Matteo Gabbia (AC Milan),89' Matteo Gabbia (AC Milan),712157,12499299
-5,PARTIDO,Atalanta - Como,COINCIDE,,2024-09-24T18:45Z 2-3 (5 goles),2024-09-24T18:45Z 2-3 (5 goles),712153,12499295
-5,GOL,Atalanta - Como,COINCIDE,,18' Davide Zappacosta (Atalanta),18' Davide Zappacosta (Atalanta),712153,12499295
-5,GOL,Atalanta - Como,COINCIDE,,46' Gabriel Strefezza (Como),46' Gabriel Strefezza (Como),712153,12499295
-5,GOL,Atalanta - Como,COINCIDE,,54' Sead Kolasinac (Como) AUTOGOL,54' Sead Kolašinac (Como) AUTOGOL,712153,12499295
-5,GOL,Atalanta - Como,COINCIDE,,58' Alieu Fadera (Como),58' Alieu Fadera (Como),712153,12499295
-5,GOL,Atalanta - Como,COINCIDE,,90+9' Ademola Lookman (Atalanta) PEN,90+9' Ademola Lookman (Atalanta) PEN,712153,12499295
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+5,PARTIDO,Cagliari - Empoli,COINCIDE,,2024-09-20T16:30Z 0-2 (2 goles),2024-09-20T16:30Z 0-2 (2 goles),712154,12499296,,
+5,GOL,Cagliari - Empoli,COINCIDE,,33' Lorenzo Colombo (Empoli),33' Lorenzo Colombo (Empoli),712154,12499296,,
+5,GOL,Cagliari - Empoli,COINCIDE,,49' Sebastiano Esposito (Empoli),49' Sebastiano Esposito (Empoli),712154,12499296,,
+5,PARTIDO,Hellas Verona - Torino,COINCIDE,,2024-09-20T18:45Z 2-3 (5 goles),2024-09-20T18:45Z 2-3 (5 goles),712156,12499298,,
+5,GOL,Hellas Verona - Torino,COINCIDE,,10' Antonio Sanabria (Torino),10' Antonio Sanabria (Torino),712156,12499298,,
+5,GOL,Hellas Verona - Torino,COINCIDE,,12' Grigoris Kastanos (Hellas Verona),12' Grigoris Kastanos (Hellas Verona),712156,12499298,,
+5,GOL,Hellas Verona - Torino,COINCIDE,,33' Duván Zapata (Torino),33' Duván Zapata (Torino),712156,12499298,,
+5,GOL,Hellas Verona - Torino,COINCIDE,,79' Ché Adams (Torino),79' Che Adams (Torino),712156,12499298,,
+5,GOL,Hellas Verona - Torino,COINCIDE,,90+3' Daniel Mosquera (Hellas Verona),90+3' Daniel Mosquera (Hellas Verona),712156,12499298,,
+5,PARTIDO,Venezia - Genoa,COINCIDE,,2024-09-21T13:00Z 2-0 (2 goles),2024-09-21T13:00Z 2-0 (2 goles),712162,12499304,,
+5,GOL,Venezia - Genoa,COINCIDE,,63' Gianluca Busio (Venezia),63' Gianluca Busio (Venezia),712162,12499304,,
+5,GOL,Venezia - Genoa,COINCIDE,,85' Joel Pohjanpalo (Venezia),85' Joel Pohjanpalo (Venezia),712162,12499304,,
+5,PARTIDO,Juventus - Napoli,COINCIDE,,2024-09-21T16:00Z 0-0 (0 goles),2024-09-21T16:00Z 0-0 (0 goles),712158,12499300,,
+5,PARTIDO,Lecce - Parma,COINCIDE,,2024-09-21T18:45Z 2-2 (4 goles),2024-09-21T18:45Z 2-2 (4 goles),712159,12499301,,
+5,GOL,Lecce - Parma,COINCIDE,,32' Patrick Dorgu (Lecce),32' Patrick Dorgu (Lecce),712159,12499301,,
+5,GOL,Lecce - Parma,COINCIDE,,59' Nikola Krstovic (Lecce),59' Nikola Krstović (Lecce),712159,12499301,,
+5,GOL,Lecce - Parma,COINCIDE,,90+3' Pontus Almqvist (Parma),90+3' Pontus Almqvist (Parma),712159,12499301,,
+5,GOL,Lecce - Parma,COINCIDE,,90+5' Antoine Hainaut (Parma),90+5' Antoine Hainaut (Parma),712159,12499301,,
+5,PARTIDO,Fiorentina - Lazio,COINCIDE,,2024-09-22T10:30Z 2-1 (3 goles),2024-09-22T10:30Z 2-1 (3 goles),712155,12499297,,
+5,GOL,Fiorentina - Lazio,COINCIDE,,41' Mario Gila (Lazio),41' Mario Gila (Lazio),712155,12499297,,
+5,GOL,Fiorentina - Lazio,COINCIDE,,49' Albert Gudmundsson (Fiorentina) PEN,49' Albert Guðmundsson (Fiorentina) PEN,712155,12499297,,
+5,GOL,Fiorentina - Lazio,COINCIDE,,90' Albert Gudmundsson (Fiorentina) PEN,90' Albert Guðmundsson (Fiorentina) PEN,712155,12499297,,
+5,PARTIDO,Monza - Bologna,COINCIDE,,2024-09-22T13:00Z 1-2 (3 goles),2024-09-22T13:00Z 1-2 (3 goles),712160,12499302,,
+5,GOL,Monza - Bologna,COINCIDE,,24' Kacper Urbanski (Bologna),24' Kacper Urbański (Bologna),712160,12499302,,
+5,GOL,Monza - Bologna,COINCIDE,,80' Santiago Castro (Bologna),80' Santiago Castro (Bologna),712160,12499302,,
+5,GOL,Monza - Bologna,RESUELTO_POR_USUARIO,goleador_distinto,43' Milan Djuric (Monza),43' Milan Đurić (Monza),712160,12499302,"misma persona; grafia real del jugador (Đurić), por indicacion del usuario",Milan Đurić
+5,PARTIDO,AS Roma - Udinese,COINCIDE,,2024-09-22T16:00Z 3-0 (3 goles),2024-09-22T16:00Z 3-0 (3 goles),712161,12499303,,
+5,GOL,AS Roma - Udinese,COINCIDE,,19' Artem Dovbyk (AS Roma),19' Artem Dovbyk (AS Roma),712161,12499303,,
+5,GOL,AS Roma - Udinese,COINCIDE,,49' Paulo Dybala (AS Roma) PEN,49' Paulo Dybala (AS Roma) PEN,712161,12499303,,
+5,GOL,AS Roma - Udinese,COINCIDE,,70' Tommaso Baldanzi (AS Roma),70' Tommaso Baldanzi (AS Roma),712161,12499303,,
+5,PARTIDO,Internazionale - AC Milan,COINCIDE,,2024-09-22T18:45Z 1-2 (3 goles),2024-09-22T18:45Z 1-2 (3 goles),712157,12499299,,
+5,GOL,Internazionale - AC Milan,COINCIDE,,10' Christian Pulisic (AC Milan),10' Christian Pulišić (AC Milan),712157,12499299,,
+5,GOL,Internazionale - AC Milan,COINCIDE,,27' Federico Dimarco (Internazionale),27' Federico Dimarco (Inter),712157,12499299,,
+5,GOL,Internazionale - AC Milan,COINCIDE,,89' Matteo Gabbia (AC Milan),89' Matteo Gabbia (AC Milan),712157,12499299,,
+5,PARTIDO,Atalanta - Como,COINCIDE,,2024-09-24T18:45Z 2-3 (5 goles),2024-09-24T18:45Z 2-3 (5 goles),712153,12499295,,
+5,GOL,Atalanta - Como,COINCIDE,,18' Davide Zappacosta (Atalanta),18' Davide Zappacosta (Atalanta),712153,12499295,,
+5,GOL,Atalanta - Como,COINCIDE,,46' Gabriel Strefezza (Como),46' Gabriel Strefezza (Como),712153,12499295,,
+5,GOL,Atalanta - Como,COINCIDE,,54' Sead Kolasinac (Como) AUTOGOL,54' Sead Kolašinac (Como) AUTOGOL,712153,12499295,,
+5,GOL,Atalanta - Como,COINCIDE,,58' Alieu Fadera (Como),58' Alieu Fadera (Como),712153,12499295,,
+5,GOL,Atalanta - Como,COINCIDE,,90+9' Ademola Lookman (Atalanta) PEN,90+9' Ademola Lookman (Atalanta) PEN,712153,12499295,,

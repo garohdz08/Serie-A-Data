@@ -1,33 +1,33 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-3,PARTIDO,Venezia - Torino,COINCIDE,,2024-08-30T16:30Z 0-1 (1 goles),2024-08-30T16:30Z 0-1 (1 goles),712142,12499284
-3,GOL,Venezia - Torino,COINCIDE,,86' Saúl Coco (Torino),86' Saúl Coco (Torino),712142,12499284
-3,PARTIDO,Internazionale - Atalanta,COINCIDE,,2024-08-30T18:45Z 4-0 (4 goles),2024-08-30T18:45Z 4-0 (4 goles),712136,12499278
-3,GOL,Internazionale - Atalanta,COINCIDE,,3' Berat Djimsiti (Internazionale) AUTOGOL,3' Berat Djimsiti (Inter) AUTOGOL,712136,12499278
-3,GOL,Internazionale - Atalanta,COINCIDE,,10' Nicolò Barella (Internazionale),10' Nicolò Barella (Inter),712136,12499278
-3,GOL,Internazionale - Atalanta,COINCIDE,,47' Marcus Thuram (Internazionale),47' Marcus Thuram (Inter),712136,12499278
-3,GOL,Internazionale - Atalanta,COINCIDE,,56' Marcus Thuram (Internazionale),56' Marcus Thuram (Inter),712136,12499278
-3,PARTIDO,Bologna - Empoli,COINCIDE,,2024-08-31T16:30Z 1-1 (2 goles),2024-08-31T16:30Z 1-1 (2 goles),712133,12499275
-3,GOL,Bologna - Empoli,COINCIDE,,2' Giovanni Fabbian (Bologna),2' Giovanni Fabbian (Bologna),712133,12499275
-3,GOL,Bologna - Empoli,COINCIDE,,3' Emmanuel Gyasi (Empoli),3' Emmanuel Gyasi (Empoli),712133,12499275
-3,PARTIDO,Lecce - Cagliari,COINCIDE,,2024-08-31T16:30Z 1-0 (1 goles),2024-08-31T16:30Z 1-0 (1 goles),712139,12499281
-3,GOL,Lecce - Cagliari,COINCIDE,,26' Nikola Krstovic (Lecce),26' Nikola Krstović (Lecce),712139,12499281
-3,PARTIDO,Lazio - AC Milan,COINCIDE,,2024-08-31T18:45Z 2-2 (4 goles),2024-08-31T18:45Z 2-2 (4 goles),712138,12499280
-3,GOL,Lazio - AC Milan,COINCIDE,,8' Strahinja Pavlovic (AC Milan),8' Strahinja Pavlović (AC Milan),712138,12499280
-3,GOL,Lazio - AC Milan,COINCIDE,,62' Valentín Castellanos (Lazio),62' Valentín Castellanos (Lazio),712138,12499280
-3,GOL,Lazio - AC Milan,COINCIDE,,66' Boulaye Dia (Lazio),66' Boulaye Dia (Lazio),712138,12499280
-3,GOL,Lazio - AC Milan,COINCIDE,,72' Rafael Leão (AC Milan),72' Rafael Leão (AC Milan),712138,12499280
-3,PARTIDO,Napoli - Parma,COINCIDE,,2024-08-31T18:45Z 2-1 (3 goles),2024-08-31T18:45Z 2-1 (3 goles),712140,12499282
-3,GOL,Napoli - Parma,COINCIDE,,19' Ange-Yoan Bonny (Parma) PEN,19' Ange-Yoan Bonny (Parma) PEN,712140,12499282
-3,GOL,Napoli - Parma,COINCIDE,,90+2' Romelu Lukaku (Napoli),90+2' Romelu Lukaku (SSC Napoli),712140,12499282
-3,GOL,Napoli - Parma,COINCIDE,,90+6' Frank Anguissa (Napoli),90+6' Frank Anguissa (SSC Napoli),712140,12499282
-3,PARTIDO,Fiorentina - Monza,COINCIDE,,2024-09-01T16:30Z 2-2 (4 goles),2024-09-01T16:30Z 2-2 (4 goles),712134,12499276
-3,GOL,Fiorentina - Monza,COINCIDE,,32' Daniel Maldini (Monza),32' Daniel Maldini (Monza),712134,12499276
-3,GOL,Fiorentina - Monza,COINCIDE,,45' Moise Kean (Fiorentina),45' Moise Kean (Fiorentina),712134,12499276
-3,GOL,Fiorentina - Monza,COINCIDE,,90+6' Robin Gosens (Fiorentina),90+6' Robin Gosens (Fiorentina),712134,12499276
-3,GOL,Fiorentina - Monza,DISCREPA,goleador_distinto,18' Milan Djuric (Monza),18' Milan Đurić (Monza),712134,12499276
-3,PARTIDO,Genoa - Hellas Verona,COINCIDE,,2024-09-01T16:30Z 0-2 (2 goles),2024-09-01T16:30Z 0-2 (2 goles),712135,12499277
-3,GOL,Genoa - Hellas Verona,COINCIDE,,55' Jackson Tchatchoua (Hellas Verona),55' Jackson Tchatchoua (Hellas Verona),712135,12499277
-3,GOL,Genoa - Hellas Verona,COINCIDE,,64' Casper Tengstedt (Hellas Verona) PEN,64' Casper Tengstedt (Hellas Verona) PEN,712135,12499277
-3,PARTIDO,Juventus - AS Roma,COINCIDE,,2024-09-01T18:45Z 0-0 (0 goles),2024-09-01T18:45Z 0-0 (0 goles),712137,12499279
-3,PARTIDO,Udinese - Como,COINCIDE,,2024-09-01T18:45Z 1-0 (1 goles),2024-09-01T18:45Z 1-0 (1 goles),712141,12499283
-3,GOL,Udinese - Como,COINCIDE,,43' Brenner (Udinese),43' Brenner (Udinese),712141,12499283
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+3,PARTIDO,Venezia - Torino,COINCIDE,,2024-08-30T16:30Z 0-1 (1 goles),2024-08-30T16:30Z 0-1 (1 goles),712142,12499284,,
+3,GOL,Venezia - Torino,COINCIDE,,86' Saúl Coco (Torino),86' Saúl Coco (Torino),712142,12499284,,
+3,PARTIDO,Internazionale - Atalanta,COINCIDE,,2024-08-30T18:45Z 4-0 (4 goles),2024-08-30T18:45Z 4-0 (4 goles),712136,12499278,,
+3,GOL,Internazionale - Atalanta,COINCIDE,,3' Berat Djimsiti (Internazionale) AUTOGOL,3' Berat Djimsiti (Inter) AUTOGOL,712136,12499278,,
+3,GOL,Internazionale - Atalanta,COINCIDE,,10' Nicolò Barella (Internazionale),10' Nicolò Barella (Inter),712136,12499278,,
+3,GOL,Internazionale - Atalanta,COINCIDE,,47' Marcus Thuram (Internazionale),47' Marcus Thuram (Inter),712136,12499278,,
+3,GOL,Internazionale - Atalanta,COINCIDE,,56' Marcus Thuram (Internazionale),56' Marcus Thuram (Inter),712136,12499278,,
+3,PARTIDO,Bologna - Empoli,COINCIDE,,2024-08-31T16:30Z 1-1 (2 goles),2024-08-31T16:30Z 1-1 (2 goles),712133,12499275,,
+3,GOL,Bologna - Empoli,COINCIDE,,2' Giovanni Fabbian (Bologna),2' Giovanni Fabbian (Bologna),712133,12499275,,
+3,GOL,Bologna - Empoli,COINCIDE,,3' Emmanuel Gyasi (Empoli),3' Emmanuel Gyasi (Empoli),712133,12499275,,
+3,PARTIDO,Lecce - Cagliari,COINCIDE,,2024-08-31T16:30Z 1-0 (1 goles),2024-08-31T16:30Z 1-0 (1 goles),712139,12499281,,
+3,GOL,Lecce - Cagliari,COINCIDE,,26' Nikola Krstovic (Lecce),26' Nikola Krstović (Lecce),712139,12499281,,
+3,PARTIDO,Lazio - AC Milan,COINCIDE,,2024-08-31T18:45Z 2-2 (4 goles),2024-08-31T18:45Z 2-2 (4 goles),712138,12499280,,
+3,GOL,Lazio - AC Milan,COINCIDE,,8' Strahinja Pavlovic (AC Milan),8' Strahinja Pavlović (AC Milan),712138,12499280,,
+3,GOL,Lazio - AC Milan,COINCIDE,,62' Valentín Castellanos (Lazio),62' Valentín Castellanos (Lazio),712138,12499280,,
+3,GOL,Lazio - AC Milan,COINCIDE,,66' Boulaye Dia (Lazio),66' Boulaye Dia (Lazio),712138,12499280,,
+3,GOL,Lazio - AC Milan,COINCIDE,,72' Rafael Leão (AC Milan),72' Rafael Leão (AC Milan),712138,12499280,,
+3,PARTIDO,Napoli - Parma,COINCIDE,,2024-08-31T18:45Z 2-1 (3 goles),2024-08-31T18:45Z 2-1 (3 goles),712140,12499282,,
+3,GOL,Napoli - Parma,COINCIDE,,19' Ange-Yoan Bonny (Parma) PEN,19' Ange-Yoan Bonny (Parma) PEN,712140,12499282,,
+3,GOL,Napoli - Parma,COINCIDE,,90+2' Romelu Lukaku (Napoli),90+2' Romelu Lukaku (SSC Napoli),712140,12499282,,
+3,GOL,Napoli - Parma,COINCIDE,,90+6' Frank Anguissa (Napoli),90+6' Frank Anguissa (SSC Napoli),712140,12499282,,
+3,PARTIDO,Fiorentina - Monza,COINCIDE,,2024-09-01T16:30Z 2-2 (4 goles),2024-09-01T16:30Z 2-2 (4 goles),712134,12499276,,
+3,GOL,Fiorentina - Monza,COINCIDE,,32' Daniel Maldini (Monza),32' Daniel Maldini (Monza),712134,12499276,,
+3,GOL,Fiorentina - Monza,COINCIDE,,45' Moise Kean (Fiorentina),45' Moise Kean (Fiorentina),712134,12499276,,
+3,GOL,Fiorentina - Monza,COINCIDE,,90+6' Robin Gosens (Fiorentina),90+6' Robin Gosens (Fiorentina),712134,12499276,,
+3,GOL,Fiorentina - Monza,RESUELTO_POR_USUARIO,goleador_distinto,18' Milan Djuric (Monza),18' Milan Đurić (Monza),712134,12499276,"misma persona; grafia real del jugador (Đurić), por indicacion del usuario",Milan Đurić
+3,PARTIDO,Genoa - Hellas Verona,COINCIDE,,2024-09-01T16:30Z 0-2 (2 goles),2024-09-01T16:30Z 0-2 (2 goles),712135,12499277,,
+3,GOL,Genoa - Hellas Verona,COINCIDE,,55' Jackson Tchatchoua (Hellas Verona),55' Jackson Tchatchoua (Hellas Verona),712135,12499277,,
+3,GOL,Genoa - Hellas Verona,COINCIDE,,64' Casper Tengstedt (Hellas Verona) PEN,64' Casper Tengstedt (Hellas Verona) PEN,712135,12499277,,
+3,PARTIDO,Juventus - AS Roma,COINCIDE,,2024-09-01T18:45Z 0-0 (0 goles),2024-09-01T18:45Z 0-0 (0 goles),712137,12499279,,
+3,PARTIDO,Udinese - Como,COINCIDE,,2024-09-01T18:45Z 1-0 (1 goles),2024-09-01T18:45Z 1-0 (1 goles),712141,12499283,,
+3,GOL,Udinese - Como,COINCIDE,,43' Brenner (Udinese),43' Brenner (Udinese),712141,12499283,,

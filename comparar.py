@@ -6,7 +6,8 @@ Uso:
   python3 comparar.py --todas          # junta las jornadas disponibles en datos/comparacion_temporada.csv y
                                        # datos/validaciones_temporada.csv
 
-comparacion: nivel=PARTIDO|GOL, estado=COINCIDE|DISCREPA|SOLO_ESPN|SOLO_SOFASCORE.
+comparacion: nivel=PARTIDO|GOL, estado=COINCIDE|DISCREPA|SOLO_ESPN|SOLO_SOFASCORE|RESUELTO_POR_USUARIO
+(RESUELTO_POR_USUARIO: diferencia de nombre del goleador decidida en pares_nombres_pendientes.csv; valores crudos intactos).
 validaciones (una fila por incumplimiento, o OK): suma de goles = marcador, minutos 1-120, sin duplicados.
 La comparacion ignora tildes/mayusculas/apostrofos y alias de equipo (nombres.py); los valores crudos van en el CSV.
 Nombres de goleador: igual (solo ortografia) -> COINCIDE; goleador_variante (p.ej. "Bremer" / "Gleison Bremer")
@@ -26,13 +27,24 @@ DATOS = CFG["datos"]
 JORNADAS = DATOS / "jornadas"
 FUENTES = ("espn", "sofascore")
 COMP_COLS = ["jornada", "nivel", "partido", "estado", "campos_discrepantes",
-             "espn_valor", "sofascore_valor", "espn_id", "sofascore_id"]
+             "espn_valor", "sofascore_valor", "espn_id", "sofascore_id", "decision_usuario", "nombre_elegido"]
+RESUELTO = "RESUELTO_POR_USUARIO"
 VAL_COLS = ["jornada", "fuente", "partido", "chequeo", "detalle"]
 
 
 def leer(ruta):
     with open(ruta, encoding="utf-8") as f:
         return list(csv.DictReader(f))
+
+
+def decisiones_nombres():
+    """Decisiones del usuario sobre pares de nombres (pares_nombres_pendientes.csv, si existe).
+    Solo resuelven diferencias de NOMBRE del goleador; el valor crudo de cada fuente no se modifica."""
+    ruta = DATOS / "pares_nombres_pendientes.csv"
+    if not ruta.exists():
+        return {}
+    return {(r["jornada"], r["partido"], r["espn_valor"]): r for r in leer(ruta)
+            if r["decision_usuario"] and r["nombre_elegido"]}
 
 
 def clave(p):
@@ -107,6 +119,7 @@ def comparar_jornada(n):
     G = {f: leer(rutas[f, "goles"]) for f in FUENTES}
     val = [dict(jornada=n, fuente=f, partido=pt, chequeo=ch, detalle=d)
            for f in FUENTES for pt, ch, d in validar(f, P[f], G[f])]
+    dec = decisiones_nombres()
     pe, ps = {clave(p): p for p in P["espn"]}, {clave(p): p for p in P["sofascore"]}
     filas = []
     for k in sorted(set(pe) | set(ps), key=lambda k: (pe.get(k) or ps[k])["fecha_utc"] + str(k)):
@@ -143,9 +156,14 @@ def comparar_jornada(n):
                                   ("goleador_" + rel, rel != "igual"),
                                   ("penal", ga["penal"] != gb["penal"]),
                                   ("autogol", ga["autogol"] != gb["autogol"])) if bad]
-            filas.append(dict(jornada=n, nivel="GOL", partido=nombre, estado="DISCREPA" if d else "COINCIDE",
+            estado, extra = "DISCREPA" if d else "COINCIDE", {}
+            r = dec.get((str(n), nombre, fmt(ga)))
+            if d and r and all(c.startswith("goleador_") for c in d):   # solo si la unica diferencia es el nombre
+                estado = RESUELTO
+                extra = dict(decision_usuario=r["decision_usuario"], nombre_elegido=r["nombre_elegido"])
+            filas.append(dict(jornada=n, nivel="GOL", partido=nombre, estado=estado,
                               campos_discrepantes="|".join(d), espn_valor=fmt(ga), sofascore_valor=fmt(gb),
-                              espn_id=a["partido_id"], sofascore_id=b["partido_id"]))
+                              espn_id=a["partido_id"], sofascore_id=b["partido_id"], **extra))
     return filas, val
 
 
@@ -176,8 +194,10 @@ def main():
     if a.todas:
         escribir(DATOS / "comparacion_temporada.csv", COMP_COLS, comp)
         escribir(DATOS / "validaciones_temporada.csv", VAL_COLS, val)
-    malos = [r for r in comp if r["estado"] != "COINCIDE"]
-    print(f"comparacion: {len(comp)} filas, {len(malos)} no coinciden; validaciones: {len(val)} incumplimientos")
+    malos = [r for r in comp if r["estado"] not in ("COINCIDE", RESUELTO)]
+    resueltos = sum(r["estado"] == RESUELTO for r in comp)
+    print(f"comparacion: {len(comp)} filas, {len(malos)} sin resolver, {resueltos} resueltas por el usuario; "
+          f"validaciones: {len(val)} incumplimientos")
     return 1 if malos or val else 0
 
 

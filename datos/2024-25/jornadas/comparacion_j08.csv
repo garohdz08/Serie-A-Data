@@ -1,37 +1,37 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-8,PARTIDO,Como - Parma,COINCIDE,,2024-10-19T13:00Z 1-1 (2 goles),2024-10-19T13:00Z 1-1 (2 goles),712186,12499326
-8,GOL,Como - Parma,COINCIDE,,20' Ange-Yoan Bonny (Parma),20' Ange-Yoan Bonny (Parma),712186,12499326
-8,GOL,Como - Parma,COINCIDE,,45' Nico Paz (Como),45' Nico Paz (Como),712186,12499326
-8,PARTIDO,Genoa - Bologna,COINCIDE,,2024-10-19T13:00Z 2-2 (4 goles),2024-10-19T13:00Z 2-2 (4 goles),712189,12499328
-8,GOL,Genoa - Bologna,COINCIDE,,37' Riccardo Orsolini (Bologna),37' Riccardo Orsolini (Bologna),712189,12499328
-8,GOL,Genoa - Bologna,COINCIDE,,56' Jens Odgaard (Bologna),56' Jens Odgaard (Bologna),712189,12499328
-8,GOL,Genoa - Bologna,COINCIDE,,73' Andrea Pinamonti (Genoa),73' Andrea Pinamonti (Genoa),712189,12499328
-8,GOL,Genoa - Bologna,COINCIDE,,85' Andrea Pinamonti (Genoa),85' Andrea Pinamonti (Genoa),712189,12499328
-8,PARTIDO,AC Milan - Udinese,COINCIDE,,2024-10-19T16:00Z 1-0 (1 goles),2024-10-19T16:00Z 1-0 (1 goles),712190,12499333
-8,GOL,AC Milan - Udinese,COINCIDE,,13' Samuel Chukwueze (AC Milan),13' Samuel Chukwueze (AC Milan),712190,12499333
-8,PARTIDO,Juventus - Lazio,COINCIDE,,2024-10-19T18:45Z 1-0 (1 goles),2024-10-19T18:45Z 1-0 (1 goles),712192,12499330
-8,GOL,Juventus - Lazio,COINCIDE,,85' Mario Gila (Juventus) AUTOGOL,85' Mario Gila (Juventus) AUTOGOL,712192,12499330
-8,PARTIDO,Empoli - Napoli,COINCIDE,,2024-10-20T10:30Z 0-1 (1 goles),2024-10-20T10:30Z 0-1 (1 goles),712185,12499327
-8,GOL,Empoli - Napoli,COINCIDE,,63' Khvicha Kvaratskhelia (Napoli) PEN,63' Khvicha Kvaratskhelia (SSC Napoli) PEN,712185,12499327
-8,PARTIDO,Lecce - Fiorentina,COINCIDE,,2024-10-20T13:00Z 0-6 (6 goles),2024-10-20T13:00Z 0-6 (6 goles),712191,12499331
-8,GOL,Lecce - Fiorentina,COINCIDE,,20' Danilo Cataldi (Fiorentina),20' Danilo Cataldi (Fiorentina),712191,12499331
-8,GOL,Lecce - Fiorentina,COINCIDE,,34' Andrea Colpani (Fiorentina),34' Andrea Colpani (Fiorentina),712191,12499331
-8,GOL,Lecce - Fiorentina,COINCIDE,,45' Danilo Cataldi (Fiorentina),45' Danilo Cataldi (Fiorentina),712191,12499331
-8,GOL,Lecce - Fiorentina,COINCIDE,,54' Andrea Colpani (Fiorentina),54' Andrea Colpani (Fiorentina),712191,12499331
-8,GOL,Lecce - Fiorentina,COINCIDE,,61' Lucas Beltrán (Fiorentina),61' Lucas Beltrán (Fiorentina),712191,12499331
-8,GOL,Lecce - Fiorentina,COINCIDE,,72' Fabiano Parisi (Fiorentina),72' Fabiano Parisi (Fiorentina),712191,12499331
-8,PARTIDO,Venezia - Atalanta,COINCIDE,,2024-10-20T13:00Z 0-2 (2 goles),2024-10-20T13:00Z 0-2 (2 goles),712188,12499335
-8,GOL,Venezia - Atalanta,COINCIDE,,7' Mario Pasalic (Atalanta),7' Mario Pašalić (Atalanta),712188,12499335
-8,GOL,Venezia - Atalanta,COINCIDE,,47' Mateo Retegui (Atalanta),47' Mateo Retegui (Atalanta),712188,12499335
-8,PARTIDO,Cagliari - Torino,COINCIDE,,2024-10-20T16:00Z 3-2 (5 goles),2024-10-20T16:00Z 3-2 (5 goles),712187,12499325
-8,GOL,Cagliari - Torino,COINCIDE,,38' Nicolas Viola (Cagliari),38' Nicolas Viola (Cagliari),712187,12499325
-8,GOL,Cagliari - Torino,COINCIDE,,41' Antonio Sanabria (Torino),41' Antonio Sanabria (Torino),712187,12499325
-8,GOL,Cagliari - Torino,COINCIDE,,55' Karol Linetty (Torino),55' Karol Linetty (Torino),712187,12499325
-8,GOL,Cagliari - Torino,COINCIDE,,78' Saúl Coco (Cagliari) AUTOGOL,78' Saúl Coco (Cagliari) AUTOGOL,712187,12499325
-8,GOL,Cagliari - Torino,DISCREPA,goleador_variante,74' José Palomino (Cagliari),74' José Luis Palomino (Cagliari),712187,12499325
-8,PARTIDO,AS Roma - Internazionale,COINCIDE,,2024-10-20T18:45Z 0-1 (1 goles),2024-10-20T18:45Z 0-1 (1 goles),712184,12499334
-8,GOL,AS Roma - Internazionale,COINCIDE,,60' Lautaro Martínez (Internazionale),60' Lautaro Martínez (Inter),712184,12499334
-8,PARTIDO,Hellas Verona - Monza,COINCIDE,,2024-10-21T18:45Z 0-3 (3 goles),2024-10-21T18:45Z 0-3 (3 goles),712183,12499329
-8,GOL,Hellas Verona - Monza,COINCIDE,,9' Dany Mota (Monza),9' Dany Mota (Monza),712183,12499329
-8,GOL,Hellas Verona - Monza,COINCIDE,,74' Dany Mota (Monza),74' Dany Mota (Monza),712183,12499329
-8,GOL,Hellas Verona - Monza,DISCREPA,goleador_distinto,79' Alessandro Bianconi (Monza),79' Alessandro Bianco (Monza),712183,12499329
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+8,PARTIDO,Como - Parma,COINCIDE,,2024-10-19T13:00Z 1-1 (2 goles),2024-10-19T13:00Z 1-1 (2 goles),712186,12499326,,
+8,GOL,Como - Parma,COINCIDE,,20' Ange-Yoan Bonny (Parma),20' Ange-Yoan Bonny (Parma),712186,12499326,,
+8,GOL,Como - Parma,COINCIDE,,45' Nico Paz (Como),45' Nico Paz (Como),712186,12499326,,
+8,PARTIDO,Genoa - Bologna,COINCIDE,,2024-10-19T13:00Z 2-2 (4 goles),2024-10-19T13:00Z 2-2 (4 goles),712189,12499328,,
+8,GOL,Genoa - Bologna,COINCIDE,,37' Riccardo Orsolini (Bologna),37' Riccardo Orsolini (Bologna),712189,12499328,,
+8,GOL,Genoa - Bologna,COINCIDE,,56' Jens Odgaard (Bologna),56' Jens Odgaard (Bologna),712189,12499328,,
+8,GOL,Genoa - Bologna,COINCIDE,,73' Andrea Pinamonti (Genoa),73' Andrea Pinamonti (Genoa),712189,12499328,,
+8,GOL,Genoa - Bologna,COINCIDE,,85' Andrea Pinamonti (Genoa),85' Andrea Pinamonti (Genoa),712189,12499328,,
+8,PARTIDO,AC Milan - Udinese,COINCIDE,,2024-10-19T16:00Z 1-0 (1 goles),2024-10-19T16:00Z 1-0 (1 goles),712190,12499333,,
+8,GOL,AC Milan - Udinese,COINCIDE,,13' Samuel Chukwueze (AC Milan),13' Samuel Chukwueze (AC Milan),712190,12499333,,
+8,PARTIDO,Juventus - Lazio,COINCIDE,,2024-10-19T18:45Z 1-0 (1 goles),2024-10-19T18:45Z 1-0 (1 goles),712192,12499330,,
+8,GOL,Juventus - Lazio,COINCIDE,,85' Mario Gila (Juventus) AUTOGOL,85' Mario Gila (Juventus) AUTOGOL,712192,12499330,,
+8,PARTIDO,Empoli - Napoli,COINCIDE,,2024-10-20T10:30Z 0-1 (1 goles),2024-10-20T10:30Z 0-1 (1 goles),712185,12499327,,
+8,GOL,Empoli - Napoli,COINCIDE,,63' Khvicha Kvaratskhelia (Napoli) PEN,63' Khvicha Kvaratskhelia (SSC Napoli) PEN,712185,12499327,,
+8,PARTIDO,Lecce - Fiorentina,COINCIDE,,2024-10-20T13:00Z 0-6 (6 goles),2024-10-20T13:00Z 0-6 (6 goles),712191,12499331,,
+8,GOL,Lecce - Fiorentina,COINCIDE,,20' Danilo Cataldi (Fiorentina),20' Danilo Cataldi (Fiorentina),712191,12499331,,
+8,GOL,Lecce - Fiorentina,COINCIDE,,34' Andrea Colpani (Fiorentina),34' Andrea Colpani (Fiorentina),712191,12499331,,
+8,GOL,Lecce - Fiorentina,COINCIDE,,45' Danilo Cataldi (Fiorentina),45' Danilo Cataldi (Fiorentina),712191,12499331,,
+8,GOL,Lecce - Fiorentina,COINCIDE,,54' Andrea Colpani (Fiorentina),54' Andrea Colpani (Fiorentina),712191,12499331,,
+8,GOL,Lecce - Fiorentina,COINCIDE,,61' Lucas Beltrán (Fiorentina),61' Lucas Beltrán (Fiorentina),712191,12499331,,
+8,GOL,Lecce - Fiorentina,COINCIDE,,72' Fabiano Parisi (Fiorentina),72' Fabiano Parisi (Fiorentina),712191,12499331,,
+8,PARTIDO,Venezia - Atalanta,COINCIDE,,2024-10-20T13:00Z 0-2 (2 goles),2024-10-20T13:00Z 0-2 (2 goles),712188,12499335,,
+8,GOL,Venezia - Atalanta,COINCIDE,,7' Mario Pasalic (Atalanta),7' Mario Pašalić (Atalanta),712188,12499335,,
+8,GOL,Venezia - Atalanta,COINCIDE,,47' Mateo Retegui (Atalanta),47' Mateo Retegui (Atalanta),712188,12499335,,
+8,PARTIDO,Cagliari - Torino,COINCIDE,,2024-10-20T16:00Z 3-2 (5 goles),2024-10-20T16:00Z 3-2 (5 goles),712187,12499325,,
+8,GOL,Cagliari - Torino,COINCIDE,,38' Nicolas Viola (Cagliari),38' Nicolas Viola (Cagliari),712187,12499325,,
+8,GOL,Cagliari - Torino,COINCIDE,,41' Antonio Sanabria (Torino),41' Antonio Sanabria (Torino),712187,12499325,,
+8,GOL,Cagliari - Torino,COINCIDE,,55' Karol Linetty (Torino),55' Karol Linetty (Torino),712187,12499325,,
+8,GOL,Cagliari - Torino,COINCIDE,,78' Saúl Coco (Cagliari) AUTOGOL,78' Saúl Coco (Cagliari) AUTOGOL,712187,12499325,,
+8,GOL,Cagliari - Torino,RESUELTO_POR_USUARIO,goleador_variante,74' José Palomino (Cagliari),74' José Luis Palomino (Cagliari),712187,12499325,misma persona; forma larga,José Luis Palomino
+8,PARTIDO,AS Roma - Internazionale,COINCIDE,,2024-10-20T18:45Z 0-1 (1 goles),2024-10-20T18:45Z 0-1 (1 goles),712184,12499334,,
+8,GOL,AS Roma - Internazionale,COINCIDE,,60' Lautaro Martínez (Internazionale),60' Lautaro Martínez (Inter),712184,12499334,,
+8,PARTIDO,Hellas Verona - Monza,COINCIDE,,2024-10-21T18:45Z 0-3 (3 goles),2024-10-21T18:45Z 0-3 (3 goles),712183,12499329,,
+8,GOL,Hellas Verona - Monza,COINCIDE,,9' Dany Mota (Monza),9' Dany Mota (Monza),712183,12499329,,
+8,GOL,Hellas Verona - Monza,COINCIDE,,74' Dany Mota (Monza),74' Dany Mota (Monza),712183,12499329,,
+8,GOL,Hellas Verona - Monza,RESUELTO_POR_USUARIO,goleador_distinto,79' Alessandro Bianconi (Monza),79' Alessandro Bianco (Monza),712183,12499329,"misma persona CONFIRMADA (mismo gol 79, #42, entro por Caprari al 72). Nombre: Alessandro Bianco (tabellino de prensa y texto de ESPN); Bianconi es el campo participants de ESPN",Alessandro Bianco

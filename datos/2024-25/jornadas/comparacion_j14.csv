@@ -1,34 +1,34 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-14,PARTIDO,Cagliari - Hellas Verona,COINCIDE,,2024-11-29T19:45Z 1-0 (1 goles),2024-11-29T19:45Z 1-0 (1 goles),712251,12504678
-14,GOL,Cagliari - Hellas Verona,COINCIDE,,75' Roberto Piccoli (Cagliari),75' Roberto Piccoli (Cagliari),712251,12504678
-14,PARTIDO,Como - Monza,COINCIDE,,2024-11-30T14:00Z 1-1 (2 goles),2024-11-30T14:00Z 1-1 (2 goles),712252,12504681
-14,GOL,Como - Monza,COINCIDE,,36' Yannick Engelhardt (Como),36' Yannick Engelhardt (Como),712252,12504681
-14,GOL,Como - Monza,COINCIDE,,54' Gianluca Caprari (Monza) PEN,54' Gianluca Caprari (Monza) PEN,712252,12504681
-14,PARTIDO,AC Milan - Empoli,COINCIDE,,2024-11-30T17:00Z 3-0 (3 goles),2024-11-30T17:00Z 3-0 (3 goles),712250,12504672
-14,GOL,AC Milan - Empoli,COINCIDE,,19' Álvaro Morata (AC Milan),19' Álvaro Morata (AC Milan),712250,12504672
-14,GOL,AC Milan - Empoli,COINCIDE,,44' Tijjani Reijnders (AC Milan),44' Tijjani Reijnders (AC Milan),712250,12504672
-14,GOL,AC Milan - Empoli,COINCIDE,,69' Tijjani Reijnders (AC Milan),69' Tijjani Reijnders (AC Milan),712250,12504672
-14,PARTIDO,Bologna - Venezia,COINCIDE,,2024-11-30T19:45Z 3-0 (3 goles),2024-11-30T19:45Z 3-0 (3 goles),712245,12504677
-14,GOL,Bologna - Venezia,COINCIDE,,21' Dan Ndoye (Bologna) PEN,21' Dan Ndoye (Bologna) PEN,712245,12504677
-14,GOL,Bologna - Venezia,COINCIDE,,69' Riccardo Orsolini (Bologna) PEN,69' Riccardo Orsolini (Bologna) PEN,712245,12504677
-14,GOL,Bologna - Venezia,COINCIDE,,71' Dan Ndoye (Bologna),71' Dan Ndoye (Bologna),712245,12504677
-14,PARTIDO,Udinese - Genoa,COINCIDE,,2024-12-01T11:30Z 0-2 (2 goles),2024-12-01T11:30Z 0-2 (2 goles),712246,12504665
-14,GOL,Udinese - Genoa,COINCIDE,,13' Andrea Pinamonti (Genoa),13' Andrea Pinamonti (Genoa),712246,12504665
-14,GOL,Udinese - Genoa,COINCIDE,,67' Lautaro Giannetti (Genoa) AUTOGOL,67' Lautaro Giannetti (Genoa) AUTOGOL,712246,12504665
-14,PARTIDO,Parma - Lazio,COINCIDE,,2024-12-01T14:00Z 3-1 (4 goles),2024-12-01T14:00Z 3-1 (4 goles),712249,12504666
-14,GOL,Parma - Lazio,COINCIDE,,6' Dennis Man (Parma),6' Dennis Man (Parma),712249,12504666
-14,GOL,Parma - Lazio,COINCIDE,,80' Valentín Castellanos (Lazio),80' Valentín Castellanos (Lazio),712249,12504666
-14,GOL,Parma - Lazio,DISCREPA,goleador_variante,53' Mohamed Anas Haj (Parma),53' Anas Haj Mohamed (Parma),712249,12504666
-14,GOL,Parma - Lazio,COINCIDE,,90+1' Enrico Del Prato (Parma),90+1' Enrico Delprato (Parma),712249,12504666
-14,PARTIDO,Torino - Napoli,COINCIDE,,2024-12-01T14:00Z 0-1 (1 goles),2024-12-01T14:00Z 0-1 (1 goles),712247,12504669
-14,GOL,Torino - Napoli,COINCIDE,,31' Scott McTominay (Napoli),31' Scott McTominay (SSC Napoli),712247,12504669
-14,PARTIDO,Lecce - Juventus,COINCIDE,,2024-12-01T19:45Z 1-1 (2 goles),2024-12-01T19:45Z 1-1 (2 goles),712243,12504674
-14,GOL,Lecce - Juventus,COINCIDE,,68' Andrea Cambiaso (Juventus),68' Andrea Cambiaso (Juventus),712243,12504674
-14,GOL,Lecce - Juventus,COINCIDE,,90+3' Ante Rebic (Lecce),90+3' Ante Rebić (Lecce),712243,12504674
-14,PARTIDO,AS Roma - Atalanta,COINCIDE,,2024-12-02T19:45Z 0-2 (2 goles),2024-12-02T19:45Z 0-2 (2 goles),712248,12504673
-14,GOL,AS Roma - Atalanta,COINCIDE,,69' Marten de Roon (Atalanta),69' Marten de Roon (Atalanta),712248,12504673
-14,GOL,AS Roma - Atalanta,COINCIDE,,89' Nicolò Zaniolo (Atalanta),89' Nicolò Zaniolo (Atalanta),712248,12504673
-14,PARTIDO,Fiorentina - Internazionale,COINCIDE,,2025-02-06T19:45Z 3-0 (3 goles),2025-02-06T19:45Z 3-0 (3 goles),712244,12504676
-14,GOL,Fiorentina - Internazionale,COINCIDE,,59' Luca Ranieri (Fiorentina),59' Luca Ranieri (Fiorentina),712244,12504676
-14,GOL,Fiorentina - Internazionale,COINCIDE,,68' Moise Kean (Fiorentina),68' Moise Kean (Fiorentina),712244,12504676
-14,GOL,Fiorentina - Internazionale,COINCIDE,,89' Moise Kean (Fiorentina),89' Moise Kean (Fiorentina),712244,12504676
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+14,PARTIDO,Cagliari - Hellas Verona,COINCIDE,,2024-11-29T19:45Z 1-0 (1 goles),2024-11-29T19:45Z 1-0 (1 goles),712251,12504678,,
+14,GOL,Cagliari - Hellas Verona,COINCIDE,,75' Roberto Piccoli (Cagliari),75' Roberto Piccoli (Cagliari),712251,12504678,,
+14,PARTIDO,Como - Monza,COINCIDE,,2024-11-30T14:00Z 1-1 (2 goles),2024-11-30T14:00Z 1-1 (2 goles),712252,12504681,,
+14,GOL,Como - Monza,COINCIDE,,36' Yannick Engelhardt (Como),36' Yannick Engelhardt (Como),712252,12504681,,
+14,GOL,Como - Monza,COINCIDE,,54' Gianluca Caprari (Monza) PEN,54' Gianluca Caprari (Monza) PEN,712252,12504681,,
+14,PARTIDO,AC Milan - Empoli,COINCIDE,,2024-11-30T17:00Z 3-0 (3 goles),2024-11-30T17:00Z 3-0 (3 goles),712250,12504672,,
+14,GOL,AC Milan - Empoli,COINCIDE,,19' Álvaro Morata (AC Milan),19' Álvaro Morata (AC Milan),712250,12504672,,
+14,GOL,AC Milan - Empoli,COINCIDE,,44' Tijjani Reijnders (AC Milan),44' Tijjani Reijnders (AC Milan),712250,12504672,,
+14,GOL,AC Milan - Empoli,COINCIDE,,69' Tijjani Reijnders (AC Milan),69' Tijjani Reijnders (AC Milan),712250,12504672,,
+14,PARTIDO,Bologna - Venezia,COINCIDE,,2024-11-30T19:45Z 3-0 (3 goles),2024-11-30T19:45Z 3-0 (3 goles),712245,12504677,,
+14,GOL,Bologna - Venezia,COINCIDE,,21' Dan Ndoye (Bologna) PEN,21' Dan Ndoye (Bologna) PEN,712245,12504677,,
+14,GOL,Bologna - Venezia,COINCIDE,,69' Riccardo Orsolini (Bologna) PEN,69' Riccardo Orsolini (Bologna) PEN,712245,12504677,,
+14,GOL,Bologna - Venezia,COINCIDE,,71' Dan Ndoye (Bologna),71' Dan Ndoye (Bologna),712245,12504677,,
+14,PARTIDO,Udinese - Genoa,COINCIDE,,2024-12-01T11:30Z 0-2 (2 goles),2024-12-01T11:30Z 0-2 (2 goles),712246,12504665,,
+14,GOL,Udinese - Genoa,COINCIDE,,13' Andrea Pinamonti (Genoa),13' Andrea Pinamonti (Genoa),712246,12504665,,
+14,GOL,Udinese - Genoa,COINCIDE,,67' Lautaro Giannetti (Genoa) AUTOGOL,67' Lautaro Giannetti (Genoa) AUTOGOL,712246,12504665,,
+14,PARTIDO,Parma - Lazio,COINCIDE,,2024-12-01T14:00Z 3-1 (4 goles),2024-12-01T14:00Z 3-1 (4 goles),712249,12504666,,
+14,GOL,Parma - Lazio,COINCIDE,,6' Dennis Man (Parma),6' Dennis Man (Parma),712249,12504666,,
+14,GOL,Parma - Lazio,COINCIDE,,80' Valentín Castellanos (Lazio),80' Valentín Castellanos (Lazio),712249,12504666,,
+14,GOL,Parma - Lazio,RESUELTO_POR_USUARIO,goleador_variante,53' Mohamed Anas Haj (Parma),53' Anas Haj Mohamed (Parma),712249,12504666,"misma persona (mismas palabras, distinto orden); primero = ESPN, por indicacion del usuario",Mohamed Anas Haj
+14,GOL,Parma - Lazio,COINCIDE,,90+1' Enrico Del Prato (Parma),90+1' Enrico Delprato (Parma),712249,12504666,,
+14,PARTIDO,Torino - Napoli,COINCIDE,,2024-12-01T14:00Z 0-1 (1 goles),2024-12-01T14:00Z 0-1 (1 goles),712247,12504669,,
+14,GOL,Torino - Napoli,COINCIDE,,31' Scott McTominay (Napoli),31' Scott McTominay (SSC Napoli),712247,12504669,,
+14,PARTIDO,Lecce - Juventus,COINCIDE,,2024-12-01T19:45Z 1-1 (2 goles),2024-12-01T19:45Z 1-1 (2 goles),712243,12504674,,
+14,GOL,Lecce - Juventus,COINCIDE,,68' Andrea Cambiaso (Juventus),68' Andrea Cambiaso (Juventus),712243,12504674,,
+14,GOL,Lecce - Juventus,COINCIDE,,90+3' Ante Rebic (Lecce),90+3' Ante Rebić (Lecce),712243,12504674,,
+14,PARTIDO,AS Roma - Atalanta,COINCIDE,,2024-12-02T19:45Z 0-2 (2 goles),2024-12-02T19:45Z 0-2 (2 goles),712248,12504673,,
+14,GOL,AS Roma - Atalanta,COINCIDE,,69' Marten de Roon (Atalanta),69' Marten de Roon (Atalanta),712248,12504673,,
+14,GOL,AS Roma - Atalanta,COINCIDE,,89' Nicolò Zaniolo (Atalanta),89' Nicolò Zaniolo (Atalanta),712248,12504673,,
+14,PARTIDO,Fiorentina - Internazionale,COINCIDE,,2025-02-06T19:45Z 3-0 (3 goles),2025-02-06T19:45Z 3-0 (3 goles),712244,12504676,,
+14,GOL,Fiorentina - Internazionale,COINCIDE,,59' Luca Ranieri (Fiorentina),59' Luca Ranieri (Fiorentina),712244,12504676,,
+14,GOL,Fiorentina - Internazionale,COINCIDE,,68' Moise Kean (Fiorentina),68' Moise Kean (Fiorentina),712244,12504676,,
+14,GOL,Fiorentina - Internazionale,COINCIDE,,89' Moise Kean (Fiorentina),89' Moise Kean (Fiorentina),712244,12504676,,

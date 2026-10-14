@@ -1,47 +1,47 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-21,PARTIDO,AS Roma - Genoa,COINCIDE,,2025-01-17T19:45Z 3-1 (4 goles),2025-01-17T19:45Z 3-1 (4 goles),712314,12504424
-21,GOL,AS Roma - Genoa,COINCIDE,,25' Artem Dovbyk (AS Roma),25' Artem Dovbyk (AS Roma),712314,12504424
-21,GOL,AS Roma - Genoa,COINCIDE,,33' Patrizio Masini (Genoa),33' Patrizio Masini (Genoa),712314,12504424
-21,GOL,AS Roma - Genoa,COINCIDE,,60' Stephan El Shaarawy (AS Roma),60' Stephan El Shaarawy (AS Roma),712314,12504424
-21,GOL,AS Roma - Genoa,COINCIDE,,73' Nicola Leali (AS Roma) AUTOGOL,73' Nicola Leali (AS Roma) AUTOGOL,712314,12504424
-21,PARTIDO,Bologna - Monza,COINCIDE,,2025-01-18T14:00Z 3-1 (4 goles),2025-01-18T14:00Z 3-1 (4 goles),712315,12504434
-21,GOL,Bologna - Monza,COINCIDE,,4' Daniel Maldini (Monza),4' Daniel Maldini (Monza),712315,12504434
-21,GOL,Bologna - Monza,COINCIDE,,23' Santiago Castro (Bologna),23' Santiago Castro (Bologna),712315,12504434
-21,GOL,Bologna - Monza,COINCIDE,,34' Jens Odgaard (Bologna),34' Jens Odgaard (Bologna),712315,12504434
-21,GOL,Bologna - Monza,COINCIDE,,69' Riccardo Orsolini (Bologna),69' Riccardo Orsolini (Bologna),712315,12504434
-21,PARTIDO,Juventus - AC Milan,COINCIDE,,2025-01-18T17:00Z 2-0 (2 goles),2025-01-18T17:00Z 2-0 (2 goles),712317,12504427
-21,GOL,Juventus - AC Milan,COINCIDE,,59' Samuel Mbangula (Juventus),59' Samuel Mbangula (Juventus),712317,12504427
-21,GOL,Juventus - AC Milan,COINCIDE,,64' Timothy Weah (Juventus),64' Timothy Weah (Juventus),712317,12504427
-21,PARTIDO,Atalanta - Napoli,COINCIDE,,2025-01-18T19:45Z 2-3 (5 goles),2025-01-18T19:45Z 2-3 (5 goles),712316,12504426
-21,GOL,Atalanta - Napoli,COINCIDE,,16' Mateo Retegui (Atalanta),16' Mateo Retegui (Atalanta),712316,12504426
-21,GOL,Atalanta - Napoli,COINCIDE,,27' Matteo Politano (Napoli),27' Matteo Politano (SSC Napoli),712316,12504426
-21,GOL,Atalanta - Napoli,COINCIDE,,40' Scott McTominay (Napoli),40' Scott McTominay (SSC Napoli),712316,12504426
-21,GOL,Atalanta - Napoli,COINCIDE,,55' Ademola Lookman (Atalanta),55' Ademola Lookman (Atalanta),712316,12504426
-21,GOL,Atalanta - Napoli,COINCIDE,,78' Romelu Lukaku (Napoli),78' Romelu Lukaku (SSC Napoli),712316,12504426
-21,PARTIDO,Fiorentina - Torino,COINCIDE,,2025-01-19T11:30Z 1-1 (2 goles),2025-01-19T11:30Z 1-1 (2 goles),712320,12504425
-21,GOL,Fiorentina - Torino,COINCIDE,,38' Moise Kean (Fiorentina),38' Moise Kean (Fiorentina),712320,12504425
-21,GOL,Fiorentina - Torino,COINCIDE,,70' Gvidas Gineitis (Torino),70' Gvidas Gineitis (Torino),712320,12504425
-21,PARTIDO,Cagliari - Lecce,COINCIDE,,2025-01-19T14:00Z 4-1 (5 goles),2025-01-19T14:00Z 4-1 (5 goles),712318,12504429
-21,GOL,Cagliari - Lecce,COINCIDE,,42' Santiago Pierotti (Lecce),42' Santiago Pierotti (Lecce),712318,12504429
-21,GOL,Cagliari - Lecce,COINCIDE,,60' Gianluca Gaetano (Cagliari),60' Gianluca Gaetano (Cagliari),712318,12504429
-21,GOL,Cagliari - Lecce,COINCIDE,,65' Sebastiano Luperto (Cagliari),65' Sebastiano Luperto (Cagliari),712318,12504429
-21,GOL,Cagliari - Lecce,COINCIDE,,80' Nadir Zortea (Cagliari),80' Nadir Zortea (Cagliari),712318,12504429
-21,GOL,Cagliari - Lecce,COINCIDE,,83' Adam Obert (Cagliari),83' Adam Obert (Cagliari),712318,12504429
-21,PARTIDO,Parma - Venezia,COINCIDE,,2025-01-19T14:00Z 1-1 (2 goles),2025-01-19T14:00Z 1-1 (2 goles),712313,12504423
-21,GOL,Parma - Venezia,COINCIDE,,20' Joel Pohjanpalo (Venezia) PEN,20' Joel Pohjanpalo (Venezia) PEN,712313,12504423
-21,GOL,Parma - Venezia,COINCIDE,,56' Hernani (Parma) PEN,56' Hernani (Parma) PEN,712313,12504423
-21,PARTIDO,Hellas Verona - Lazio,COINCIDE,,2025-01-19T17:00Z 0-3 (3 goles),2025-01-19T17:00Z 0-3 (3 goles),712321,12504418
-21,GOL,Hellas Verona - Lazio,COINCIDE,,2' Samuel Gigot (Lazio),2' Samuel Gigot (Lazio),712321,12504418
-21,GOL,Hellas Verona - Lazio,COINCIDE,,21' Boulaye Dia (Lazio),21' Boulaye Dia (Lazio),712321,12504418
-21,GOL,Hellas Verona - Lazio,COINCIDE,,58' Mattia Zaccagni (Lazio),58' Mattia Zaccagni (Lazio),712321,12504418
-21,PARTIDO,Internazionale - Empoli,COINCIDE,,2025-01-19T19:45Z 3-1 (4 goles),2025-01-19T19:45Z 3-1 (4 goles),712322,12504421
-21,GOL,Internazionale - Empoli,COINCIDE,,55' Lautaro Martínez (Internazionale),55' Lautaro Martínez (Inter),712322,12504421
-21,GOL,Internazionale - Empoli,COINCIDE,,79' Denzel Dumfries (Internazionale),79' Denzel Dumfries (Inter),712322,12504421
-21,GOL,Internazionale - Empoli,COINCIDE,,84' Sebastiano Esposito (Empoli),84' Sebastiano Esposito (Empoli),712322,12504421
-21,GOL,Internazionale - Empoli,COINCIDE,,89' Marcus Thuram (Internazionale),89' Marcus Thuram (Inter),712322,12504421
-21,PARTIDO,Como - Udinese,COINCIDE,,2025-01-20T19:45Z 4-1 (5 goles),2025-01-20T19:45Z 4-1 (5 goles),712319,12504430
-21,GOL,Como - Udinese,COINCIDE,,5' Assane Diao (Como),5' Assane Diao (Como),712319,12504430
-21,GOL,Como - Udinese,COINCIDE,,44' Gabriel Strefezza (Como),44' Gabriel Strefezza (Como),712319,12504430
-21,GOL,Como - Udinese,COINCIDE,,50' Martín Payero (Udinese),50' Martín Payero (Udinese),712319,12504430
-21,GOL,Como - Udinese,COINCIDE,,78' Jaka Bijol (Como) AUTOGOL,78' Jaka Bijol (Como) AUTOGOL,712319,12504430
-21,GOL,Como - Udinese,COINCIDE,,90' Nico Paz (Como),90' Nico Paz (Como),712319,12504430
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+21,PARTIDO,AS Roma - Genoa,COINCIDE,,2025-01-17T19:45Z 3-1 (4 goles),2025-01-17T19:45Z 3-1 (4 goles),712314,12504424,,
+21,GOL,AS Roma - Genoa,COINCIDE,,25' Artem Dovbyk (AS Roma),25' Artem Dovbyk (AS Roma),712314,12504424,,
+21,GOL,AS Roma - Genoa,COINCIDE,,33' Patrizio Masini (Genoa),33' Patrizio Masini (Genoa),712314,12504424,,
+21,GOL,AS Roma - Genoa,COINCIDE,,60' Stephan El Shaarawy (AS Roma),60' Stephan El Shaarawy (AS Roma),712314,12504424,,
+21,GOL,AS Roma - Genoa,COINCIDE,,73' Nicola Leali (AS Roma) AUTOGOL,73' Nicola Leali (AS Roma) AUTOGOL,712314,12504424,,
+21,PARTIDO,Bologna - Monza,COINCIDE,,2025-01-18T14:00Z 3-1 (4 goles),2025-01-18T14:00Z 3-1 (4 goles),712315,12504434,,
+21,GOL,Bologna - Monza,COINCIDE,,4' Daniel Maldini (Monza),4' Daniel Maldini (Monza),712315,12504434,,
+21,GOL,Bologna - Monza,COINCIDE,,23' Santiago Castro (Bologna),23' Santiago Castro (Bologna),712315,12504434,,
+21,GOL,Bologna - Monza,COINCIDE,,34' Jens Odgaard (Bologna),34' Jens Odgaard (Bologna),712315,12504434,,
+21,GOL,Bologna - Monza,COINCIDE,,69' Riccardo Orsolini (Bologna),69' Riccardo Orsolini (Bologna),712315,12504434,,
+21,PARTIDO,Juventus - AC Milan,COINCIDE,,2025-01-18T17:00Z 2-0 (2 goles),2025-01-18T17:00Z 2-0 (2 goles),712317,12504427,,
+21,GOL,Juventus - AC Milan,COINCIDE,,59' Samuel Mbangula (Juventus),59' Samuel Mbangula (Juventus),712317,12504427,,
+21,GOL,Juventus - AC Milan,COINCIDE,,64' Timothy Weah (Juventus),64' Timothy Weah (Juventus),712317,12504427,,
+21,PARTIDO,Atalanta - Napoli,COINCIDE,,2025-01-18T19:45Z 2-3 (5 goles),2025-01-18T19:45Z 2-3 (5 goles),712316,12504426,,
+21,GOL,Atalanta - Napoli,COINCIDE,,16' Mateo Retegui (Atalanta),16' Mateo Retegui (Atalanta),712316,12504426,,
+21,GOL,Atalanta - Napoli,COINCIDE,,27' Matteo Politano (Napoli),27' Matteo Politano (SSC Napoli),712316,12504426,,
+21,GOL,Atalanta - Napoli,COINCIDE,,40' Scott McTominay (Napoli),40' Scott McTominay (SSC Napoli),712316,12504426,,
+21,GOL,Atalanta - Napoli,COINCIDE,,55' Ademola Lookman (Atalanta),55' Ademola Lookman (Atalanta),712316,12504426,,
+21,GOL,Atalanta - Napoli,COINCIDE,,78' Romelu Lukaku (Napoli),78' Romelu Lukaku (SSC Napoli),712316,12504426,,
+21,PARTIDO,Fiorentina - Torino,COINCIDE,,2025-01-19T11:30Z 1-1 (2 goles),2025-01-19T11:30Z 1-1 (2 goles),712320,12504425,,
+21,GOL,Fiorentina - Torino,COINCIDE,,38' Moise Kean (Fiorentina),38' Moise Kean (Fiorentina),712320,12504425,,
+21,GOL,Fiorentina - Torino,COINCIDE,,70' Gvidas Gineitis (Torino),70' Gvidas Gineitis (Torino),712320,12504425,,
+21,PARTIDO,Cagliari - Lecce,COINCIDE,,2025-01-19T14:00Z 4-1 (5 goles),2025-01-19T14:00Z 4-1 (5 goles),712318,12504429,,
+21,GOL,Cagliari - Lecce,COINCIDE,,42' Santiago Pierotti (Lecce),42' Santiago Pierotti (Lecce),712318,12504429,,
+21,GOL,Cagliari - Lecce,COINCIDE,,60' Gianluca Gaetano (Cagliari),60' Gianluca Gaetano (Cagliari),712318,12504429,,
+21,GOL,Cagliari - Lecce,COINCIDE,,65' Sebastiano Luperto (Cagliari),65' Sebastiano Luperto (Cagliari),712318,12504429,,
+21,GOL,Cagliari - Lecce,COINCIDE,,80' Nadir Zortea (Cagliari),80' Nadir Zortea (Cagliari),712318,12504429,,
+21,GOL,Cagliari - Lecce,COINCIDE,,83' Adam Obert (Cagliari),83' Adam Obert (Cagliari),712318,12504429,,
+21,PARTIDO,Parma - Venezia,COINCIDE,,2025-01-19T14:00Z 1-1 (2 goles),2025-01-19T14:00Z 1-1 (2 goles),712313,12504423,,
+21,GOL,Parma - Venezia,COINCIDE,,20' Joel Pohjanpalo (Venezia) PEN,20' Joel Pohjanpalo (Venezia) PEN,712313,12504423,,
+21,GOL,Parma - Venezia,COINCIDE,,56' Hernani (Parma) PEN,56' Hernani (Parma) PEN,712313,12504423,,
+21,PARTIDO,Hellas Verona - Lazio,COINCIDE,,2025-01-19T17:00Z 0-3 (3 goles),2025-01-19T17:00Z 0-3 (3 goles),712321,12504418,,
+21,GOL,Hellas Verona - Lazio,COINCIDE,,2' Samuel Gigot (Lazio),2' Samuel Gigot (Lazio),712321,12504418,,
+21,GOL,Hellas Verona - Lazio,COINCIDE,,21' Boulaye Dia (Lazio),21' Boulaye Dia (Lazio),712321,12504418,,
+21,GOL,Hellas Verona - Lazio,COINCIDE,,58' Mattia Zaccagni (Lazio),58' Mattia Zaccagni (Lazio),712321,12504418,,
+21,PARTIDO,Internazionale - Empoli,COINCIDE,,2025-01-19T19:45Z 3-1 (4 goles),2025-01-19T19:45Z 3-1 (4 goles),712322,12504421,,
+21,GOL,Internazionale - Empoli,COINCIDE,,55' Lautaro Martínez (Internazionale),55' Lautaro Martínez (Inter),712322,12504421,,
+21,GOL,Internazionale - Empoli,COINCIDE,,79' Denzel Dumfries (Internazionale),79' Denzel Dumfries (Inter),712322,12504421,,
+21,GOL,Internazionale - Empoli,COINCIDE,,84' Sebastiano Esposito (Empoli),84' Sebastiano Esposito (Empoli),712322,12504421,,
+21,GOL,Internazionale - Empoli,COINCIDE,,89' Marcus Thuram (Internazionale),89' Marcus Thuram (Inter),712322,12504421,,
+21,PARTIDO,Como - Udinese,COINCIDE,,2025-01-20T19:45Z 4-1 (5 goles),2025-01-20T19:45Z 4-1 (5 goles),712319,12504430,,
+21,GOL,Como - Udinese,COINCIDE,,5' Assane Diao (Como),5' Assane Diao (Como),712319,12504430,,
+21,GOL,Como - Udinese,COINCIDE,,44' Gabriel Strefezza (Como),44' Gabriel Strefezza (Como),712319,12504430,,
+21,GOL,Como - Udinese,COINCIDE,,50' Martín Payero (Udinese),50' Martín Payero (Udinese),712319,12504430,,
+21,GOL,Como - Udinese,COINCIDE,,78' Jaka Bijol (Como) AUTOGOL,78' Jaka Bijol (Como) AUTOGOL,712319,12504430,,
+21,GOL,Como - Udinese,COINCIDE,,90' Nico Paz (Como),90' Nico Paz (Como),712319,12504430,,

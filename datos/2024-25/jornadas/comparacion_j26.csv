@@ -1,32 +1,32 @@
-jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
-26,PARTIDO,Lecce - Udinese,COINCIDE,,2025-02-21T19:45Z 0-1 (1 goles),2025-02-21T19:45Z 0-1 (1 goles),712363,12504375
-26,GOL,Lecce - Udinese,COINCIDE,,32' Lorenzo Lucca (Udinese) PEN,32' Lorenzo Lucca (Udinese) PEN,712363,12504375
-26,PARTIDO,Parma - Bologna,COINCIDE,,2025-02-22T14:00Z 2-0 (2 goles),2025-02-22T14:00Z 2-0 (2 goles),712366,12504367
-26,GOL,Parma - Bologna,COINCIDE,,37' Ange-Yoan Bonny (Parma) PEN,37' Ange-Yoan Bonny (Parma) PEN,712366,12504367
-26,GOL,Parma - Bologna,COINCIDE,,79' Simon Sohm (Parma),79' Simon Sohm (Parma),712366,12504367
-26,PARTIDO,Venezia - Lazio,COINCIDE,,2025-02-22T14:00Z 0-0 (0 goles),2025-02-22T14:00Z 0-0 (0 goles),712368,12501577
-26,PARTIDO,Torino - AC Milan,COINCIDE,,2025-02-22T17:00Z 2-1 (3 goles),2025-02-22T17:00Z 2-1 (3 goles),712364,12501588
-26,GOL,Torino - AC Milan,COINCIDE,,5' Malick Thiaw (Torino) AUTOGOL,5' Malick Thiaw (Torino) AUTOGOL,712364,12501588
-26,GOL,Torino - AC Milan,COINCIDE,,74' Tijjani Reijnders (AC Milan),74' Tijjani Reijnders (AC Milan),712364,12501588
-26,GOL,Torino - AC Milan,COINCIDE,,76' Gvidas Gineitis (Torino),76' Gvidas Gineitis (Torino),712364,12501588
-26,PARTIDO,Internazionale - Genoa,COINCIDE,,2025-02-22T19:45Z 1-0 (1 goles),2025-02-22T19:45Z 1-0 (1 goles),712371,12504374
-26,GOL,Internazionale - Genoa,COINCIDE,,78' Lautaro Martínez (Internazionale),78' Lautaro Martínez (Inter),712371,12504374
-26,PARTIDO,Como - Napoli,COINCIDE,,2025-02-23T11:30Z 2-1 (3 goles),2025-02-23T11:30Z 2-1 (3 goles),712367,12504378
-26,GOL,Como - Napoli,COINCIDE,,7' Amir Rrahmani (Como) AUTOGOL,7' Amir Rrahmani (Como) AUTOGOL,712367,12504378
-26,GOL,Como - Napoli,COINCIDE,,17' Giacomo Raspadori (Napoli),17' Giacomo Raspadori (SSC Napoli),712367,12504378
-26,GOL,Como - Napoli,COINCIDE,,77' Assane Diao (Como),77' Assane Diao (Como),712367,12504378
-26,PARTIDO,Hellas Verona - Fiorentina,COINCIDE,,2025-02-23T14:00Z 1-0 (1 goles),2025-02-23T14:00Z 1-0 (1 goles),712370,12504377
-26,GOL,Hellas Verona - Fiorentina,COINCIDE,,90+5' Antoine Bernede (Hellas Verona),90+5' Antoine Bernede (Hellas Verona),712370,12504377
-26,PARTIDO,Empoli - Atalanta,COINCIDE,,2025-02-23T17:00Z 0-5 (5 goles),2025-02-23T17:00Z 0-5 (5 goles),712369,12504382
-26,GOL,Empoli - Atalanta,COINCIDE,,27' Emmanuel Gyasi (Atalanta) AUTOGOL,27' Emmanuel Gyasi (Atalanta) AUTOGOL,712369,12504382
-26,GOL,Empoli - Atalanta,COINCIDE,,33' Mateo Retegui (Atalanta),33' Mateo Retegui (Atalanta),712369,12504382
-26,GOL,Empoli - Atalanta,COINCIDE,,43' Ademola Lookman (Atalanta),43' Ademola Lookman (Atalanta),712369,12504382
-26,GOL,Empoli - Atalanta,COINCIDE,,55' Ademola Lookman (Atalanta),55' Ademola Lookman (Atalanta),712369,12504382
-26,GOL,Empoli - Atalanta,COINCIDE,,74' Davide Zappacosta (Atalanta),74' Davide Zappacosta (Atalanta),712369,12504382
-26,PARTIDO,Cagliari - Juventus,COINCIDE,,2025-02-23T19:45Z 0-1 (1 goles),2025-02-23T19:45Z 0-1 (1 goles),712372,12504376
-26,GOL,Cagliari - Juventus,COINCIDE,,12' Dusan Vlahovic (Juventus),12' Dušan Vlahović (Juventus),712372,12504376
-26,PARTIDO,AS Roma - Monza,COINCIDE,,2025-02-24T19:45Z 4-0 (4 goles),2025-02-24T19:45Z 4-0 (4 goles),712365,12504371
-26,GOL,AS Roma - Monza,COINCIDE,,10' Alexis Saelemaekers (AS Roma),10' Alexis Saelemaekers (AS Roma),712365,12504371
-26,GOL,AS Roma - Monza,COINCIDE,,32' Eldor Shomurodov (AS Roma),32' Eldor Shomurodov (AS Roma),712365,12504371
-26,GOL,AS Roma - Monza,COINCIDE,,73' Angeliño (AS Roma),73' Angeliño (AS Roma),712365,12504371
-26,GOL,AS Roma - Monza,COINCIDE,,88' Bryan Cristante (AS Roma),88' Bryan Cristante (AS Roma),712365,12504371
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+26,PARTIDO,Lecce - Udinese,COINCIDE,,2025-02-21T19:45Z 0-1 (1 goles),2025-02-21T19:45Z 0-1 (1 goles),712363,12504375,,
+26,GOL,Lecce - Udinese,COINCIDE,,32' Lorenzo Lucca (Udinese) PEN,32' Lorenzo Lucca (Udinese) PEN,712363,12504375,,
+26,PARTIDO,Parma - Bologna,COINCIDE,,2025-02-22T14:00Z 2-0 (2 goles),2025-02-22T14:00Z 2-0 (2 goles),712366,12504367,,
+26,GOL,Parma - Bologna,COINCIDE,,37' Ange-Yoan Bonny (Parma) PEN,37' Ange-Yoan Bonny (Parma) PEN,712366,12504367,,
+26,GOL,Parma - Bologna,COINCIDE,,79' Simon Sohm (Parma),79' Simon Sohm (Parma),712366,12504367,,
+26,PARTIDO,Venezia - Lazio,COINCIDE,,2025-02-22T14:00Z 0-0 (0 goles),2025-02-22T14:00Z 0-0 (0 goles),712368,12501577,,
+26,PARTIDO,Torino - AC Milan,COINCIDE,,2025-02-22T17:00Z 2-1 (3 goles),2025-02-22T17:00Z 2-1 (3 goles),712364,12501588,,
+26,GOL,Torino - AC Milan,COINCIDE,,5' Malick Thiaw (Torino) AUTOGOL,5' Malick Thiaw (Torino) AUTOGOL,712364,12501588,,
+26,GOL,Torino - AC Milan,COINCIDE,,74' Tijjani Reijnders (AC Milan),74' Tijjani Reijnders (AC Milan),712364,12501588,,
+26,GOL,Torino - AC Milan,COINCIDE,,76' Gvidas Gineitis (Torino),76' Gvidas Gineitis (Torino),712364,12501588,,
+26,PARTIDO,Internazionale - Genoa,COINCIDE,,2025-02-22T19:45Z 1-0 (1 goles),2025-02-22T19:45Z 1-0 (1 goles),712371,12504374,,
+26,GOL,Internazionale - Genoa,COINCIDE,,78' Lautaro Martínez (Internazionale),78' Lautaro Martínez (Inter),712371,12504374,,
+26,PARTIDO,Como - Napoli,COINCIDE,,2025-02-23T11:30Z 2-1 (3 goles),2025-02-23T11:30Z 2-1 (3 goles),712367,12504378,,
+26,GOL,Como - Napoli,COINCIDE,,7' Amir Rrahmani (Como) AUTOGOL,7' Amir Rrahmani (Como) AUTOGOL,712367,12504378,,
+26,GOL,Como - Napoli,COINCIDE,,17' Giacomo Raspadori (Napoli),17' Giacomo Raspadori (SSC Napoli),712367,12504378,,
+26,GOL,Como - Napoli,COINCIDE,,77' Assane Diao (Como),77' Assane Diao (Como),712367,12504378,,
+26,PARTIDO,Hellas Verona - Fiorentina,COINCIDE,,2025-02-23T14:00Z 1-0 (1 goles),2025-02-23T14:00Z 1-0 (1 goles),712370,12504377,,
+26,GOL,Hellas Verona - Fiorentina,COINCIDE,,90+5' Antoine Bernede (Hellas Verona),90+5' Antoine Bernede (Hellas Verona),712370,12504377,,
+26,PARTIDO,Empoli - Atalanta,COINCIDE,,2025-02-23T17:00Z 0-5 (5 goles),2025-02-23T17:00Z 0-5 (5 goles),712369,12504382,,
+26,GOL,Empoli - Atalanta,COINCIDE,,27' Emmanuel Gyasi (Atalanta) AUTOGOL,27' Emmanuel Gyasi (Atalanta) AUTOGOL,712369,12504382,,
+26,GOL,Empoli - Atalanta,COINCIDE,,33' Mateo Retegui (Atalanta),33' Mateo Retegui (Atalanta),712369,12504382,,
+26,GOL,Empoli - Atalanta,COINCIDE,,43' Ademola Lookman (Atalanta),43' Ademola Lookman (Atalanta),712369,12504382,,
+26,GOL,Empoli - Atalanta,COINCIDE,,55' Ademola Lookman (Atalanta),55' Ademola Lookman (Atalanta),712369,12504382,,
+26,GOL,Empoli - Atalanta,COINCIDE,,74' Davide Zappacosta (Atalanta),74' Davide Zappacosta (Atalanta),712369,12504382,,
+26,PARTIDO,Cagliari - Juventus,COINCIDE,,2025-02-23T19:45Z 0-1 (1 goles),2025-02-23T19:45Z 0-1 (1 goles),712372,12504376,,
+26,GOL,Cagliari - Juventus,COINCIDE,,12' Dusan Vlahovic (Juventus),12' Dušan Vlahović (Juventus),712372,12504376,,
+26,PARTIDO,AS Roma - Monza,COINCIDE,,2025-02-24T19:45Z 4-0 (4 goles),2025-02-24T19:45Z 4-0 (4 goles),712365,12504371,,
+26,GOL,AS Roma - Monza,COINCIDE,,10' Alexis Saelemaekers (AS Roma),10' Alexis Saelemaekers (AS Roma),712365,12504371,,
+26,GOL,AS Roma - Monza,COINCIDE,,32' Eldor Shomurodov (AS Roma),32' Eldor Shomurodov (AS Roma),712365,12504371,,
+26,GOL,AS Roma - Monza,COINCIDE,,73' Angeliño (AS Roma),73' Angeliño (AS Roma),712365,12504371,,
+26,GOL,AS Roma - Monza,COINCIDE,,88' Bryan Cristante (AS Roma),88' Bryan Cristante (AS Roma),712365,12504371,,
