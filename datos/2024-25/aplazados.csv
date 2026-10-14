@@ -1,0 +1,11 @@
+fuente,jornada,partido,partido_id,estado,fecha_real_utc,mediana_jornada,fecha_original,criterio
+espn,9,Bologna - AC Milan,712200,STATUS_FULL_TIME,2025-02-27T19:45Z,2024-10-27,"2024-10-26 (prensa: Sky Sport, calcioefinanza; partido de la 9a, aplazado por temporal)",fecha a mas de 5 dias de la mediana de la jornada
+espn,14,Fiorentina - Internazionale,712244,STATUS_FULL_TIME,2025-02-06T19:45Z,2024-12-01,"2024-12-01 (prensa: Corriere dello Sport; suspendido en el 17' por el malestar de Bove, reanudado el 06-02-2025)",fecha a mas de 5 dias de la mediana de la jornada
+espn,19,Como - AC Milan,712300,STATUS_FULL_TIME,2025-01-14T17:30Z,2025-01-05,NO CONFIRMADA (la prensa solo dio la fecha del recupero; 19a: Supercoppa en Riad),fecha a mas de 5 dias de la mediana de la jornada
+espn,19,Atalanta - Juventus,712301,STATUS_FULL_TIME,2025-01-14T19:45Z,2025-01-05,NO CONFIRMADA (la prensa solo dio la fecha del recupero; 19a: Supercoppa en Riad),fecha a mas de 5 dias de la mediana de la jornada
+espn,19,Internazionale - Bologna,712302,STATUS_FULL_TIME,2025-01-15T19:45Z,2025-01-05,NO CONFIRMADA (la prensa solo dio la fecha del recupero; 19a: Supercoppa en Riad),fecha a mas de 5 dias de la mediana de la jornada
+sofascore,9,Bologna - AC Milan,13416148,finished,2025-02-27T19:45Z,2024-10-27,"2024-10-26 (prensa: Sky Sport, calcioefinanza; partido de la 9a, aplazado por temporal)",fecha a mas de 5 dias de la mediana de la jornada
+sofascore,14,Fiorentina - Inter,12504676,finished,2025-02-06T19:45Z,2024-12-01,"2024-12-01 (prensa: Corriere dello Sport; suspendido en el 17' por el malestar de Bove, reanudado el 06-02-2025)",fecha a mas de 5 dias de la mediana de la jornada
+sofascore,19,Como - AC Milan,12504625,finished,2025-01-14T17:30Z,2025-01-05,NO CONFIRMADA (la prensa solo dio la fecha del recupero; 19a: Supercoppa en Riad),fecha a mas de 5 dias de la mediana de la jornada
+sofascore,19,Atalanta - Juventus,12504624,finished,2025-01-14T19:45Z,2025-01-05,NO CONFIRMADA (la prensa solo dio la fecha del recupero; 19a: Supercoppa en Riad),fecha a mas de 5 dias de la mediana de la jornada
+sofascore,19,Inter - Bologna,12504620,finished,2025-01-15T19:45Z,2025-01-05,NO CONFIRMADA (la prensa solo dio la fecha del recupero; 19a: Supercoppa en Riad),fecha a mas de 5 dias de la mediana de la jornada

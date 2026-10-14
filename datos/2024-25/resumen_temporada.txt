@@ -1,0 +1,57 @@
+== Jornadas con CSV por fuente (de 38)
+espn: 38 jornadas
+sofascore: 38 jornadas
+
+== Partidos totales (esperado 380)
+espn: filas=380 disputados=380 ids_unicos=380 pares_local-visitante_unicos=380 estados={'STATUS_FULL_TIME': 380}
+sofascore: filas=380 disputados=380 ids_unicos=380 pares_local-visitante_unicos=380 estados={'finished': 380}
+
+== Partidos por equipo (esperado 38 cada uno)
+espn: 20 equipos; con != 38: ninguno
+sofascore: 20 equipos; con != 38: ninguno
+
+== Goles, penales y autogoles por fuente
+fuente,goles,penales,autogoles,suma_marcadores
+espn,973,80,37,973
+sofascore,973,80,37,973
+
+== Comparacion ESPN vs Sofascore
+nivel,estado,filas
+GOL,COINCIDE,953
+GOL,DISCREPA,20
+PARTIDO,COINCIDE,380
+
+-- Discrepancias (todas las filas que no COINCIDEN), CSV crudo
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
+"1","GOL","Hellas Verona - Napoli","DISCREPA","goleador_variante","50' Dailon Livramento (Hellas Verona)","50' Dailon Rocha Livramento (Hellas Verona)"
+"3","GOL","Fiorentina - Monza","DISCREPA","goleador_distinto","18' Milan Djuric (Monza)","18' Milan Đurić (Monza)"
+"5","GOL","Monza - Bologna","DISCREPA","goleador_distinto","43' Milan Djuric (Monza)","43' Milan Đurić (Monza)"
+"8","GOL","Cagliari - Torino","DISCREPA","goleador_variante","74' José Palomino (Cagliari)","74' José Luis Palomino (Cagliari)"
+"8","GOL","Hellas Verona - Monza","DISCREPA","goleador_distinto","79' Alessandro Bianconi (Monza)","79' Alessandro Bianco (Monza)"
+"9","GOL","Monza - Venezia","DISCREPA","goleador_distinto","44' Milan Djuric (Monza)","44' Milan Đurić (Monza)"
+"13","GOL","Torino - Monza","DISCREPA","goleador_distinto","63' Milan Djuric (Monza)","63' Milan Đurić (Monza)"
+"14","GOL","Parma - Lazio","DISCREPA","goleador_variante","53' Mohamed Anas Haj (Parma)","53' Anas Haj Mohamed (Parma)"
+"16","GOL","Lecce - Monza","DISCREPA","goleador_distinto","3' José Antonio Morente (Lecce)","3' Tete Morente (Lecce)"
+"17","GOL","Lecce - Lazio","DISCREPA","goleador_distinto","50' José Antonio Morente (Lecce)","50' Tete Morente (Lecce)"
+"17","GOL","Monza - Juventus","DISCREPA","goleador_variante","39' Nico González (Juventus)","39' Nicolás González (Juventus)"
+"20","GOL","Empoli - Lecce","DISCREPA","goleador_distinto","6' José Antonio Morente (Lecce)","6' Tete Morente (Lecce)"
+"33","GOL","Empoli - Venezia","DISCREPA","goleador_distinto","87' Faustino Anjorin (Empoli)","87' Tino Anjorin (Empoli)"
+"34","GOL","Juventus - Monza","DISCREPA","goleador_variante","11' Nico González (Juventus)","11' Nicolás González (Juventus)"
+"35","GOL","Torino - Venezia","DISCREPA","goleador_distinto","37' Enrique Perez (Venezia)","37' Kike Pérez (Venezia)"
+"36","GOL","Empoli - Parma","DISCREPA","goleador_distinto","73' Milan Djuric (Parma)","73' Milan Đurić (Parma)"
+"36","GOL","Empoli - Parma","DISCREPA","goleador_distinto","86' Faustino Anjorin (Empoli)","86' Tino Anjorin (Empoli)"
+"36","GOL","Atalanta - AS Roma","DISCREPA","goleador_variante","76' Sulemana (Atalanta)","76' Ibrahim Sulemana (Atalanta)"
+"37","GOL","Genoa - Atalanta","DISCREPA","goleador_variante","47' Sulemana (Atalanta)","47' Ibrahim Sulemana (Atalanta)"
+"37","GOL","Juventus - Udinese","DISCREPA","goleador_variante","61' Nico González (Juventus)","61' Nicolás González (Juventus)"
+
+resumen por tipo: {'goleador_variante': 8, 'goleador_distinto': 12}
+minuto=0 goleador_distinto=12 goleador_variante(nombre corto/largo)=8 sin_pareja=0
+
+== Validaciones (suma=marcador, minutos 1-120, sin duplicados)
+OK en todas las jornadas y fuentes
+
+== Eventos de ESPN en los scoreboard descargados que no estan en ninguna jornada
+0 eventos
+
+== Llamadas fallidas (datos/fallos.csv)
+ninguna (no existe fallos.csv)
