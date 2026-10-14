@@ -1,0 +1,41 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+15,PARTIDO,Internazionale - Parma,COINCIDE,,2024-12-06T17:30Z 3-1 (4 goles),2024-12-06T17:30Z 3-1 (4 goles),712257,12504670
+15,GOL,Internazionale - Parma,COINCIDE,,40' Federico Dimarco (Internazionale),40' Federico Dimarco (Inter),712257,12504670
+15,GOL,Internazionale - Parma,COINCIDE,,53' Nicolò Barella (Internazionale),53' Nicolò Barella (Inter),712257,12504670
+15,GOL,Internazionale - Parma,COINCIDE,,66' Marcus Thuram (Internazionale),66' Marcus Thuram (Inter),712257,12504670
+15,GOL,Internazionale - Parma,COINCIDE,,81' Matteo Darmian (Parma) AUTOGOL,81' Matteo Darmian (Parma) AUTOGOL,712257,12504670
+15,PARTIDO,Atalanta - AC Milan,COINCIDE,,2024-12-06T19:45Z 2-1 (3 goles),2024-12-06T19:45Z 2-1 (3 goles),712254,12504663
+15,GOL,Atalanta - AC Milan,COINCIDE,,12' Charles De Ketelaere (Atalanta),12' Charles De Ketelaere (Atalanta),712254,12504663
+15,GOL,Atalanta - AC Milan,COINCIDE,,22' Álvaro Morata (AC Milan),22' Álvaro Morata (AC Milan),712254,12504663
+15,GOL,Atalanta - AC Milan,COINCIDE,,87' Ademola Lookman (Atalanta),87' Ademola Lookman (Atalanta),712254,12504663
+15,PARTIDO,Genoa - Torino,COINCIDE,,2024-12-07T14:00Z 0-0 (0 goles),2024-12-07T14:00Z 0-0 (0 goles),712256,12504667
+15,PARTIDO,Juventus - Bologna,COINCIDE,,2024-12-07T17:00Z 2-2 (4 goles),2024-12-07T17:00Z 2-2 (4 goles),712259,12504671
+15,GOL,Juventus - Bologna,COINCIDE,,30' Dan Ndoye (Bologna),30' Dan Ndoye (Bologna),712259,12504671
+15,GOL,Juventus - Bologna,COINCIDE,,52' Tommaso Pobega (Bologna),52' Tommaso Pobega (Bologna),712259,12504671
+15,GOL,Juventus - Bologna,COINCIDE,,62' Teun Koopmeiners (Juventus),62' Teun Koopmeiners (Juventus),712259,12504671
+15,GOL,Juventus - Bologna,COINCIDE,,90+2' Samuel Mbangula (Juventus),90+2' Samuel Mbangula (Juventus),712259,12504671
+15,PARTIDO,AS Roma - Lecce,COINCIDE,,2024-12-07T19:45Z 4-1 (5 goles),2024-12-07T19:45Z 4-1 (5 goles),712253,12504659
+15,GOL,AS Roma - Lecce,COINCIDE,,13' Alexis Saelemaekers (AS Roma),13' Alexis Saelemaekers (AS Roma),712253,12504659
+15,GOL,AS Roma - Lecce,COINCIDE,,40' Nikola Krstovic (Lecce) PEN,40' Nikola Krstović (Lecce) PEN,712253,12504659
+15,GOL,AS Roma - Lecce,COINCIDE,,59' Gianluca Mancini (AS Roma),59' Gianluca Mancini (AS Roma),712253,12504659
+15,GOL,AS Roma - Lecce,COINCIDE,,66' Niccolò Pisilli (AS Roma),66' Niccolò Pisilli (AS Roma),712253,12504659
+15,GOL,AS Roma - Lecce,COINCIDE,,86' Manu Koné (AS Roma),86' Manu Koné (AS Roma),712253,12504659
+15,PARTIDO,Fiorentina - Cagliari,COINCIDE,,2024-12-08T11:30Z 1-0 (1 goles),2024-12-08T11:30Z 1-0 (1 goles),712255,12504668
+15,GOL,Fiorentina - Cagliari,COINCIDE,,24' Danilo Cataldi (Fiorentina),24' Danilo Cataldi (Fiorentina),712255,12504668
+15,PARTIDO,Hellas Verona - Empoli,COINCIDE,,2024-12-08T14:00Z 1-4 (5 goles),2024-12-08T14:00Z 1-4 (5 goles),712262,12504664
+15,GOL,Hellas Verona - Empoli,COINCIDE,,16' Sebastiano Esposito (Empoli),16' Sebastiano Esposito (Empoli),712262,12504664
+15,GOL,Hellas Verona - Empoli,COINCIDE,,19' Sebastiano Esposito (Empoli),19' Sebastiano Esposito (Empoli),712262,12504664
+15,GOL,Hellas Verona - Empoli,COINCIDE,,32' Liberato Cacace (Empoli),32' Liberato Cacace (Empoli),712262,12504664
+15,GOL,Hellas Verona - Empoli,COINCIDE,,35' Casper Tengstedt (Hellas Verona),35' Casper Tengstedt (Hellas Verona),712262,12504664
+15,GOL,Hellas Verona - Empoli,COINCIDE,,42' Lorenzo Colombo (Empoli),42' Lorenzo Colombo (Empoli),712262,12504664
+15,PARTIDO,Venezia - Como,COINCIDE,,2024-12-08T17:00Z 2-2 (4 goles),2024-12-08T17:00Z 2-2 (4 goles),712258,12504655
+15,GOL,Venezia - Como,COINCIDE,,16' Hans Nicolussi Caviglia (Venezia),16' Hans Nicolussi Caviglia (Venezia),712258,12504655
+15,GOL,Venezia - Como,COINCIDE,,49' Antonio Candela (Como) AUTOGOL,49' Antonio Candela (Como) AUTOGOL,712258,12504655
+15,GOL,Venezia - Como,COINCIDE,,56' Andrea Belotti (Como),56' Andrea Belotti (Como),712258,12504655
+15,GOL,Venezia - Como,COINCIDE,,69' Gaetano Oristanio (Venezia),69' Gaetano Oristanio (Venezia),712258,12504655
+15,PARTIDO,Napoli - Lazio,COINCIDE,,2024-12-08T19:45Z 0-1 (1 goles),2024-12-08T19:45Z 0-1 (1 goles),712261,12504661
+15,GOL,Napoli - Lazio,COINCIDE,,79' Gustav Isaksen (Lazio),79' Gustav Isaksen (Lazio),712261,12504661
+15,PARTIDO,Monza - Udinese,COINCIDE,,2024-12-09T19:45Z 1-2 (3 goles),2024-12-09T19:45Z 1-2 (3 goles),712260,12504662
+15,GOL,Monza - Udinese,COINCIDE,,6' Lorenzo Lucca (Udinese),6' Lorenzo Lucca (Udinese),712260,12504662
+15,GOL,Monza - Udinese,COINCIDE,,47' Georgios Kyriakopoulos (Monza),47' Georgios Kyriakopoulos (Monza),712260,12504662
+15,GOL,Monza - Udinese,COINCIDE,,70' Jaka Bijol (Udinese),70' Jaka Bijol (Udinese),712260,12504662

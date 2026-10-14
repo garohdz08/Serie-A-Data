@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+sofascore,12504670,2024-12-06T17:30Z,Inter,Parma,3,1,finished
+sofascore,12504663,2024-12-06T19:45Z,Atalanta,AC Milan,2,1,finished
+sofascore,12504667,2024-12-07T14:00Z,Genoa,Torino,0,0,finished
+sofascore,12504671,2024-12-07T17:00Z,Juventus,Bologna,2,2,finished
+sofascore,12504659,2024-12-07T19:45Z,AS Roma,Lecce,4,1,finished
+sofascore,12504668,2024-12-08T11:30Z,Fiorentina,Cagliari,1,0,finished
+sofascore,12504664,2024-12-08T14:00Z,Hellas Verona,Empoli,1,4,finished
+sofascore,12504655,2024-12-08T17:00Z,Venezia,Como,2,2,finished
+sofascore,12504661,2024-12-08T19:45Z,SSC Napoli,Lazio,0,1,finished
+sofascore,12504662,2024-12-09T19:45Z,Monza,Udinese,1,2,finished
