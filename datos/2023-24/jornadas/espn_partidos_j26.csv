@@ -1,0 +1,10 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+espn,679479,2024-02-23T19:45Z,Bologna,Hellas Verona,2,0,STATUS_FULL_TIME
+espn,679475,2024-02-24T14:00Z,Sassuolo,Empoli,2,3,STATUS_FULL_TIME
+espn,679477,2024-02-24T19:45Z,Genoa,Udinese,2,0,STATUS_FULL_TIME
+espn,679478,2024-02-25T11:30Z,Juventus,Frosinone,3,2,STATUS_FULL_TIME
+espn,679474,2024-02-25T14:00Z,Cagliari,Napoli,1,1,STATUS_FULL_TIME
+espn,679470,2024-02-25T17:00Z,Lecce,Internazionale,0,4,STATUS_FULL_TIME
+espn,679473,2024-02-25T19:45Z,AC Milan,Atalanta,1,1,STATUS_FULL_TIME
+espn,679472,2024-02-26T17:30Z,AS Roma,Torino,3,2,STATUS_FULL_TIME
+espn,679476,2024-02-26T19:45Z,Fiorentina,Lazio,2,1,STATUS_FULL_TIME
