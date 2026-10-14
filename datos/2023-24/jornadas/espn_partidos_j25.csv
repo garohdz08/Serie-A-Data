@@ -1,5 +1,6 @@
 fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
 espn,679469,2024-02-16T18:00Z,Torino,Lecce,2,0,STATUS_FULL_TIME
+espn,679467,2024-02-16T20:00Z,Internazionale,Salernitana,4,0,STATUS_FULL_TIME
 espn,679468,2024-02-17T14:00Z,Napoli,Genoa,1,1,STATUS_FULL_TIME
 espn,679460,2024-02-17T17:00Z,Hellas Verona,Juventus,2,2,STATUS_FULL_TIME
 espn,679462,2024-02-17T19:45Z,Atalanta,Sassuolo,3,0,STATUS_FULL_TIME
