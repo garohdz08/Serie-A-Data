@@ -2,7 +2,8 @@
 import unicodedata
 
 # Unica normalizacion de nombres de equipo entre fuentes (alias -> clave comun).
-ALIAS = {"internazionale": "inter", "inter milan": "inter", "ssc napoli": "napoli"}
+ALIAS = {"internazionale": "inter", "inter milan": "inter", "ssc napoli": "napoli",
+         "us salernitana 1919": "salernitana"}
 
 # Letras que NFKD no descompone en ASCII.
 _TRANSLIT = str.maketrans({"ð": "d", "Ð": "d", "đ": "d", "Đ": "d", "ı": "i", "İ": "i", "ł": "l", "Ł": "l",
