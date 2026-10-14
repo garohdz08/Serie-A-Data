@@ -1,0 +1,30 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+11,PARTIDO,Bologna - Lecce,COINCIDE,,2024-11-02T14:00Z 1-0 (1 goles),2024-11-02T14:00Z 1-0 (1 goles),712216,12499359
+11,GOL,Bologna - Lecce,COINCIDE,,85' Riccardo Orsolini (Bologna),85' Riccardo Orsolini (Bologna),712216,12499359
+11,PARTIDO,Udinese - Juventus,COINCIDE,,2024-11-02T17:00Z 0-2 (2 goles),2024-11-02T17:00Z 0-2 (2 goles),712217,12504703
+11,GOL,Udinese - Juventus,COINCIDE,,19' Maduka Okoye (Juventus) AUTOGOL,19' Maduka Okoye (Juventus) AUTOGOL,712217,12504703
+11,GOL,Udinese - Juventus,COINCIDE,,37' Nicolò Savona (Juventus),37' Nicolò Savona (Juventus),712217,12504703
+11,PARTIDO,Monza - AC Milan,COINCIDE,,2024-11-02T19:45Z 0-1 (1 goles),2024-11-02T19:45Z 0-1 (1 goles),712218,12504705
+11,GOL,Monza - AC Milan,COINCIDE,,43' Tijjani Reijnders (AC Milan),43' Tijjani Reijnders (AC Milan),712218,12504705
+11,PARTIDO,Napoli - Atalanta,COINCIDE,,2024-11-03T11:30Z 0-3 (3 goles),2024-11-03T11:30Z 0-3 (3 goles),712219,12504704
+11,GOL,Napoli - Atalanta,COINCIDE,,10' Ademola Lookman (Atalanta),10' Ademola Lookman (Atalanta),712219,12504704
+11,GOL,Napoli - Atalanta,COINCIDE,,31' Ademola Lookman (Atalanta),31' Ademola Lookman (Atalanta),712219,12504704
+11,GOL,Napoli - Atalanta,COINCIDE,,90+2' Mateo Retegui (Atalanta),90+2' Mateo Retegui (Atalanta),712219,12504704
+11,PARTIDO,Torino - Fiorentina,COINCIDE,,2024-11-03T14:00Z 0-1 (1 goles),2024-11-03T14:00Z 0-1 (1 goles),712221,12504700
+11,GOL,Torino - Fiorentina,COINCIDE,,41' Moise Kean (Fiorentina),41' Moise Kean (Fiorentina),712221,12504700
+11,PARTIDO,Hellas Verona - AS Roma,COINCIDE,,2024-11-03T17:00Z 3-2 (5 goles),2024-11-03T17:00Z 3-2 (5 goles),712214,12504706
+11,GOL,Hellas Verona - AS Roma,COINCIDE,,13' Casper Tengstedt (Hellas Verona),13' Casper Tengstedt (Hellas Verona),712214,12504706
+11,GOL,Hellas Verona - AS Roma,COINCIDE,,28' Matìas Soulè (AS Roma),28' Matías Soulé (AS Roma),712214,12504706
+11,GOL,Hellas Verona - AS Roma,COINCIDE,,34' Giangiacomo Magnani (Hellas Verona),34' Giangiacomo Magnani (Hellas Verona),712214,12504706
+11,GOL,Hellas Verona - AS Roma,COINCIDE,,53' Artem Dovbyk (AS Roma),53' Artem Dovbyk (AS Roma),712214,12504706
+11,GOL,Hellas Verona - AS Roma,COINCIDE,,88' Abdou Harroui (Hellas Verona),88' Abdou Harroui (Hellas Verona),712214,12504706
+11,PARTIDO,Internazionale - Venezia,COINCIDE,,2024-11-03T19:45Z 1-0 (1 goles),2024-11-03T19:45Z 1-0 (1 goles),712213,12504702
+11,GOL,Internazionale - Venezia,COINCIDE,,65' Lautaro Martínez (Internazionale),65' Lautaro Martínez (Inter),712213,12504702
+11,PARTIDO,Empoli - Como,COINCIDE,,2024-11-04T17:30Z 1-0 (1 goles),2024-11-04T17:30Z 1-0 (1 goles),712215,12499360
+11,GOL,Empoli - Como,COINCIDE,,47' Pietro Pellegri (Empoli),47' Pietro Pellegri (Empoli),712215,12499360
+11,PARTIDO,Parma - Genoa,COINCIDE,,2024-11-04T17:30Z 0-1 (1 goles),2024-11-04T17:30Z 0-1 (1 goles),712220,12504699
+11,GOL,Parma - Genoa,COINCIDE,,79' Andrea Pinamonti (Genoa),79' Andrea Pinamonti (Genoa),712220,12504699
+11,PARTIDO,Lazio - Cagliari,COINCIDE,,2024-11-04T19:45Z 2-1 (3 goles),2024-11-04T19:45Z 2-1 (3 goles),712222,12504698
+11,GOL,Lazio - Cagliari,COINCIDE,,2' Boulaye Dia (Lazio),2' Boulaye Dia (Lazio),712222,12504698
+11,GOL,Lazio - Cagliari,COINCIDE,,41' Zito Luvumbo (Cagliari),41' Zito Luvumbo (Cagliari),712222,12504698
+11,GOL,Lazio - Cagliari,COINCIDE,,76' Mattia Zaccagni (Lazio) PEN,76' Mattia Zaccagni (Lazio) PEN,712222,12504698
