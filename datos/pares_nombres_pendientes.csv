@@ -1,0 +1,18 @@
+jornada,partido,campos,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
+4,Fiorentina - Como,goleador_variante,65' Marc-Oliver Kempf (Como),65' Marc Kempf (Como),736815,13981461,misma persona; forma larga (mismo criterio que 2024-25),Marc-Oliver Kempf
+7,Como - Juventus,goleador_variante,4' Marc-Oliver Kempf (Como),4' Marc Kempf (Como),736852,13981482,misma persona; forma larga (mismo criterio que 2024-25),Marc-Oliver Kempf
+12,Sassuolo - Pisa,goleador_variante,81' Henrik Meister (Pisa),81' Henrik Wendel Meister (Pisa),736899,13981536,misma persona; forma larga (mismo criterio que 2024-25),Henrik Wendel Meister
+16,Como - AC Milan,goleador_variante,10' Marc-Oliver Kempf (Como),10' Marc Kempf (Como),736935,14844296,misma persona; forma larga (mismo criterio que 2024-25),Marc-Oliver Kempf
+20,Udinese - Pisa,goleador_variante,67' Henrik Meister (Pisa),67' Henrik Wendel Meister (Pisa),736978,13981624,misma persona; forma larga (mismo criterio que 2024-25),Henrik Wendel Meister
+20,Juventus - Cremonese,goleador_variante,12' Bremer (Juventus),12' Gleison Bremer (Juventus),736980,13981623,misma persona; forma larga (mismo criterio que 2024-25),Gleison Bremer
+22,Como - Torino,goleador_variante,70' Nicolas Kühn (Como),70' Nicolas-Gerrit Kühn (Como),736995,13981631,misma persona; forma larga (mismo criterio que 2024-25),Nicolas-Gerrit Kühn
+23,Cagliari - Hellas Verona,goleador_variante,84' Sulemana (Cagliari),84' Ibrahim Sulemana (Cagliari),737011,13981644,misma persona; forma larga (mismo criterio que 2024-25),Ibrahim Sulemana
+23,Parma - Juventus,goleador_variante,15' Bremer (Juventus),15' Gleison Bremer (Juventus),737006,13981648,misma persona; forma larga (mismo criterio que 2024-25),Gleison Bremer
+23,Parma - Juventus,goleador_variante,54' Bremer (Juventus),54' Gleison Bremer (Juventus),737006,13981648,misma persona; forma larga (mismo criterio que 2024-25),Gleison Bremer
+27,Como - Lecce,goleador_variante,44' Marc-Oliver Kempf (Como),44' Marc Kempf (Como),737052,13981683,misma persona; forma larga (mismo criterio que 2024-25),Marc-Oliver Kempf
+28,Bologna - Hellas Verona,goleador_variante,49' Jon Rowe (Bologna),49' Jonathan Rowe (Bologna),737061,13981692,misma persona; forma larga (mismo criterio que 2024-25),Jonathan Rowe
+31,Cremonese - Bologna,goleador_distinto,3' Joao Victor (Bologna),3' João Mário (Bologna),737092,13981725,"otra persona segun datos/discrepancias_resueltas.csv (J31): ESPN participants dice Joao Victor, texto narrativo de ESPN, Sofascore, fbref y worldfootball dicen Joao Mario",João Mário
+31,Cremonese - Bologna,goleador_variante,16' Jon Rowe (Bologna),16' Jonathan Rowe (Bologna),737092,13981725,misma persona; forma larga (mismo criterio que 2024-25),Jonathan Rowe
+31,Juventus - Genoa,goleador_variante,4' Bremer (Juventus),4' Gleison Bremer (Juventus),737089,13981723,misma persona; forma larga (mismo criterio que 2024-25),Gleison Bremer
+36,Torino - Sassuolo,goleador_variante,70' Marcus Holmgren Pedersen (Torino),70' Marcus Pedersen (Torino),737143,13980073,misma persona; forma larga (mismo criterio que 2024-25),Marcus Holmgren Pedersen
+36,Napoli - Bologna,goleador_variante,90+1' Jon Rowe (Bologna),90+1' Jonathan Rowe (Bologna),737135,13980089,misma persona; forma larga (mismo criterio que 2024-25),Jonathan Rowe
