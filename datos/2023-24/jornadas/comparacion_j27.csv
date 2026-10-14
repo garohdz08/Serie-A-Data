@@ -1,7 +1,9 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
 27,PARTIDO,Lazio - AC Milan,COINCIDE,,2024-03-01T19:45Z 0-1 (1 goles),2024-03-01T19:45Z 0-1 (1 goles),679484,11406829,,
 27,GOL,Lazio - AC Milan,COINCIDE,,88' Noah Okafor (AC Milan),88' Noah Okafor (AC Milan),679484,11406829,,
-27,PARTIDO,Udinese - US Salernitana 1919,SOLO_SOFASCORE,partido,,,,11406832,,
+27,PARTIDO,Udinese - Salernitana,COINCIDE,,2024-03-02T14:00Z 1-1 (2 goles),2024-03-02T14:00Z 1-1 (2 goles),679480,11406832,,
+27,GOL,Udinese - Salernitana,COINCIDE,,10' Loum Tchaouna (Salernitana),10' Loum Tchaouna (US Salernitana 1919),679480,11406832,,
+27,GOL,Udinese - Salernitana,COINCIDE,,45+3' Hassane Kamara (Udinese),45+3' Hassane Kamara (Udinese),679480,11406832,,
 27,PARTIDO,Monza - AS Roma,COINCIDE,,2024-03-02T17:00Z 1-4 (5 goles),2024-03-02T17:00Z 1-4 (5 goles),679483,11406833,,
 27,GOL,Monza - AS Roma,COINCIDE,,38' Lorenzo Pellegrini (AS Roma),38' Lorenzo Pellegrini (AS Roma),679483,11406833,,
 27,GOL,Monza - AS Roma,COINCIDE,,42' Romelu Lukaku (AS Roma),42' Romelu Lukaku (AS Roma),679483,11406833,,

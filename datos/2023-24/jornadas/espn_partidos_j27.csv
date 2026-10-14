@@ -1,5 +1,6 @@
 fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
 espn,679484,2024-03-01T19:45Z,Lazio,AC Milan,0,1,STATUS_FULL_TIME
+espn,679480,2024-03-02T14:00Z,Udinese,Salernitana,1,1,STATUS_FULL_TIME
 espn,679483,2024-03-02T17:00Z,Monza,AS Roma,1,4,STATUS_FULL_TIME
 espn,679481,2024-03-02T19:45Z,Torino,Fiorentina,0,0,STATUS_FULL_TIME
 espn,679489,2024-03-03T11:30Z,Hellas Verona,Sassuolo,1,0,STATUS_FULL_TIME

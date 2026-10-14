@@ -1,5 +1,7 @@
 fuente,partido_id,fecha_utc,local,visitante,gol_n,minuto_txt,minuto,anadido,goleador,equipo,penal,autogol,marcador_local_tras_gol,marcador_visitante_tras_gol,nota
 espn,679484,2024-03-01T19:45Z,Lazio,AC Milan,1,88,88,0,Noah Okafor,AC Milan,False,False,,,
+espn,679480,2024-03-02T14:00Z,Udinese,Salernitana,1,10,10,0,Loum Tchaouna,Salernitana,False,False,,,
+espn,679480,2024-03-02T14:00Z,Udinese,Salernitana,2,45+3,45,3,Hassane Kamara,Udinese,False,False,,,
 espn,679483,2024-03-02T17:00Z,Monza,AS Roma,1,38,38,0,Lorenzo Pellegrini,AS Roma,False,False,,,
 espn,679483,2024-03-02T17:00Z,Monza,AS Roma,2,42,42,0,Romelu Lukaku,AS Roma,False,False,,,
 espn,679483,2024-03-02T17:00Z,Monza,AS Roma,3,63,63,0,Paulo Dybala,AS Roma,False,False,,,
