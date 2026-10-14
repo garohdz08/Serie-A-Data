@@ -1,5 +1,9 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
-31,PARTIDO,US Salernitana 1919 - Sassuolo,SOLO_SOFASCORE,partido,,,,11406795,,
+31,PARTIDO,Salernitana - Sassuolo,COINCIDE,,2024-04-05T18:45Z 2-2 (4 goles),2024-04-05T18:45Z 2-2 (4 goles),679141,11406795,,
+31,GOL,Salernitana - Sassuolo,COINCIDE,,37' Armand Laurienté (Sassuolo),37' Armand Laurienté (Sassuolo),679141,11406795,,
+31,GOL,Salernitana - Sassuolo,COINCIDE,,44' Nedim Bajrami (Sassuolo),44' Nedim Bajrami (Sassuolo),679141,11406795,,
+31,GOL,Salernitana - Sassuolo,COINCIDE,,52' Antonio Candreva (Salernitana) PEN,52' Antonio Candreva (US Salernitana 1919) PEN,679141,11406795,,
+31,GOL,Salernitana - Sassuolo,COINCIDE,,90+1' Giulio Maggiore (Salernitana),90+1' Giulio Maggiore (US Salernitana 1919),679141,11406795,,
 31,PARTIDO,AC Milan - Lecce,COINCIDE,,2024-04-06T13:00Z 3-0 (3 goles),2024-04-06T13:00Z 3-0 (3 goles),679149,11406793,,
 31,GOL,AC Milan - Lecce,COINCIDE,,6' Christian Pulisic (AC Milan),6' Christian Pulišić (AC Milan),679149,11406793,,
 31,GOL,AC Milan - Lecce,COINCIDE,,20' Olivier Giroud (AC Milan),20' Olivier Giroud (AC Milan),679149,11406793,,

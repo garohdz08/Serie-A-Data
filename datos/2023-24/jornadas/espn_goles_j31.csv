@@ -1,4 +1,8 @@
 fuente,partido_id,fecha_utc,local,visitante,gol_n,minuto_txt,minuto,anadido,goleador,equipo,penal,autogol,marcador_local_tras_gol,marcador_visitante_tras_gol,nota
+espn,679141,2024-04-05T18:45Z,Salernitana,Sassuolo,1,37,37,0,Armand Laurienté,Sassuolo,False,False,,,
+espn,679141,2024-04-05T18:45Z,Salernitana,Sassuolo,2,44,44,0,Nedim Bajrami,Sassuolo,False,False,,,
+espn,679141,2024-04-05T18:45Z,Salernitana,Sassuolo,3,52,52,0,Antonio Candreva,Salernitana,True,False,,,
+espn,679141,2024-04-05T18:45Z,Salernitana,Sassuolo,4,90+1,90,1,Giulio Maggiore,Salernitana,False,False,,,
 espn,679149,2024-04-06T13:00Z,AC Milan,Lecce,1,6,6,0,Christian Pulisic,AC Milan,False,False,,,
 espn,679149,2024-04-06T13:00Z,AC Milan,Lecce,2,20,20,0,Olivier Giroud,AC Milan,False,False,,,
 espn,679149,2024-04-06T13:00Z,AC Milan,Lecce,3,57,57,0,Rafael Leão,AC Milan,False,False,,,
