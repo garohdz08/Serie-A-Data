@@ -1,4 +1,7 @@
 fuente,partido_id,fecha_utc,local,visitante,gol_n,minuto_txt,minuto,anadido,goleador,equipo,penal,autogol,marcador_local_tras_gol,marcador_visitante_tras_gol,nota
+espn,679176,2024-04-26T18:45Z,Frosinone,Salernitana,1,10,10,0,Matìas Soulè,Frosinone,True,False,,,
+espn,679176,2024-04-26T18:45Z,Frosinone,Salernitana,2,25,25,0,Marco Brescianini,Frosinone,False,False,,,
+espn,679176,2024-04-26T18:45Z,Frosinone,Salernitana,3,85,85,0,Nadir Zortea,Frosinone,False,False,,,
 espn,679171,2024-04-27T13:00Z,Lecce,Monza,1,90+2,90,2,Nikola Krstovic,Lecce,False,False,,,
 espn,679171,2024-04-27T13:00Z,Lecce,Monza,2,90+6,90,6,Matteo Pessina,Monza,True,False,,,
 espn,679172,2024-04-27T18:45Z,Lazio,Hellas Verona,1,72,72,0,Mattia Zaccagni,Lazio,False,False,,,

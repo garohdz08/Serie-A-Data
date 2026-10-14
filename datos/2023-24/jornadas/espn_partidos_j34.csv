@@ -1,4 +1,5 @@
 fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+espn,679176,2024-04-26T18:45Z,Frosinone,Salernitana,3,0,STATUS_FULL_TIME
 espn,679171,2024-04-27T13:00Z,Lecce,Monza,1,1,STATUS_FULL_TIME
 espn,679173,2024-04-27T16:00Z,Juventus,AC Milan,0,0,STATUS_FULL_TIME
 espn,679172,2024-04-27T18:45Z,Lazio,Hellas Verona,1,0,STATUS_FULL_TIME

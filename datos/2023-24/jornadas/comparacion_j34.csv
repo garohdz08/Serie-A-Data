@@ -1,5 +1,8 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
-34,PARTIDO,Frosinone - US Salernitana 1919,SOLO_SOFASCORE,partido,,,,11406770,,
+34,PARTIDO,Frosinone - Salernitana,COINCIDE,,2024-04-26T18:45Z 3-0 (3 goles),2024-04-26T18:45Z 3-0 (3 goles),679176,11406770,,
+34,GOL,Frosinone - Salernitana,COINCIDE,,10' Matìas Soulè (Frosinone) PEN,10' Matías Soulé (Frosinone) PEN,679176,11406770,,
+34,GOL,Frosinone - Salernitana,COINCIDE,,25' Marco Brescianini (Frosinone),25' Marco Brescianini (Frosinone),679176,11406770,,
+34,GOL,Frosinone - Salernitana,COINCIDE,,85' Nadir Zortea (Frosinone),85' Nadir Zortea (Frosinone),679176,11406770,,
 34,PARTIDO,Lecce - Monza,COINCIDE,,2024-04-27T13:00Z 1-1 (2 goles),2024-04-27T13:00Z 1-1 (2 goles),679171,11406769,,
 34,GOL,Lecce - Monza,COINCIDE,,90+2' Nikola Krstovic (Lecce),90+2' Nikola Krstović (Lecce),679171,11406769,,
 34,GOL,Lecce - Monza,COINCIDE,,90+6' Matteo Pessina (Monza) PEN,90+6' Matteo Pessina (Monza) PEN,679171,11406769,,
