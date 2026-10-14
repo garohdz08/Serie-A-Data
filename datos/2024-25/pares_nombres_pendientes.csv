@@ -1,11 +1,11 @@
 jornada,partido,campos,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
 1,Hellas Verona - Napoli,goleador_variante,50' Dailon Livramento (Hellas Verona),50' Dailon Rocha Livramento (Hellas Verona),712117,12499257,misma persona; forma larga,Dailon Rocha Livramento
-3,Fiorentina - Monza,goleador_distinto,18' Milan Djuric (Monza),18' Milan Đurić (Monza),712134,12499276,misma persona; nombre canonico = el no corto (mas largo),Milan Djuric
-5,Monza - Bologna,goleador_distinto,43' Milan Djuric (Monza),43' Milan Đurić (Monza),712160,12499302,misma persona; nombre canonico = el no corto (mas largo),Milan Djuric
+3,Fiorentina - Monza,goleador_distinto,18' Milan Djuric (Monza),18' Milan Đurić (Monza),712134,12499276,"misma persona; grafia real del jugador (Đurić), por indicacion del usuario",Milan Đurić
+5,Monza - Bologna,goleador_distinto,43' Milan Djuric (Monza),43' Milan Đurić (Monza),712160,12499302,"misma persona; grafia real del jugador (Đurić), por indicacion del usuario",Milan Đurić
 8,Cagliari - Torino,goleador_variante,74' José Palomino (Cagliari),74' José Luis Palomino (Cagliari),712187,12499325,misma persona; forma larga,José Luis Palomino
 8,Hellas Verona - Monza,goleador_distinto,79' Alessandro Bianconi (Monza),79' Alessandro Bianco (Monza),712183,12499329,"misma persona CONFIRMADA (mismo gol 79, #42, entro por Caprari al 72). Nombre: Alessandro Bianco (tabellino de prensa y texto de ESPN); Bianconi es el campo participants de ESPN",Alessandro Bianco
-9,Monza - Venezia,goleador_distinto,44' Milan Djuric (Monza),44' Milan Đurić (Monza),712195,12499341,misma persona; nombre canonico = el no corto (mas largo),Milan Djuric
-13,Torino - Monza,goleador_distinto,63' Milan Djuric (Monza),63' Milan Đurić (Monza),712242,12504682,misma persona; nombre canonico = el no corto (mas largo),Milan Djuric
+9,Monza - Venezia,goleador_distinto,44' Milan Djuric (Monza),44' Milan Đurić (Monza),712195,12499341,"misma persona; grafia real del jugador (Đurić), por indicacion del usuario",Milan Đurić
+13,Torino - Monza,goleador_distinto,63' Milan Djuric (Monza),63' Milan Đurić (Monza),712242,12504682,"misma persona; grafia real del jugador (Đurić), por indicacion del usuario",Milan Đurić
 14,Parma - Lazio,goleador_variante,53' Mohamed Anas Haj (Parma),53' Anas Haj Mohamed (Parma),712249,12504666,"misma persona (mismas palabras, distinto orden); primero = ESPN, por indicacion del usuario",Mohamed Anas Haj
 16,Lecce - Monza,goleador_distinto,3' José Antonio Morente (Lecce),3' Tete Morente (Lecce),712264,12504660,misma persona; nombre canonico = el no corto (mas largo),José Antonio Morente
 17,Lecce - Lazio,goleador_distinto,50' José Antonio Morente (Lecce),50' Tete Morente (Lecce),712278,12504641,misma persona; nombre canonico = el no corto (mas largo),José Antonio Morente
@@ -14,7 +14,7 @@ jornada,partido,campos,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_
 33,Empoli - Venezia,goleador_distinto,87' Faustino Anjorin (Empoli),87' Tino Anjorin (Empoli),712440,12501572,misma persona; nombre canonico = el no corto (mas largo),Faustino Anjorin
 34,Juventus - Monza,goleador_variante,11' Nico González (Juventus),11' Nicolás González (Juventus),712447,12501511,misma persona; forma larga,Nicolás González
 35,Torino - Venezia,goleador_distinto,37' Enrique Perez (Venezia),37' Kike Pérez (Venezia),712460,12501523,misma persona; nombre canonico = el no corto (mas largo),Enrique Perez
-36,Empoli - Parma,goleador_distinto,73' Milan Djuric (Parma),73' Milan Đurić (Parma),712470,12501515,misma persona; nombre canonico = el no corto (mas largo),Milan Djuric
+36,Empoli - Parma,goleador_distinto,73' Milan Djuric (Parma),73' Milan Đurić (Parma),712470,12501515,"misma persona; grafia real del jugador (Đurić), por indicacion del usuario",Milan Đurić
 36,Empoli - Parma,goleador_distinto,86' Faustino Anjorin (Empoli),86' Tino Anjorin (Empoli),712470,12501515,misma persona; nombre canonico = el no corto (mas largo),Faustino Anjorin
 36,Atalanta - AS Roma,goleador_variante,76' Sulemana (Atalanta),76' Ibrahim Sulemana (Atalanta),712471,12501528,misma persona; forma larga,Ibrahim Sulemana
 37,Genoa - Atalanta,goleador_variante,47' Sulemana (Atalanta),47' Ibrahim Sulemana (Atalanta),712474,12501535,misma persona; forma larga,Ibrahim Sulemana
