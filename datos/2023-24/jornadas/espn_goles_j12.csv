@@ -1,4 +1,8 @@
 fuente,partido_id,fecha_utc,local,visitante,gol_n,minuto_txt,minuto,anadido,goleador,equipo,penal,autogol,marcador_local_tras_gol,marcador_visitante_tras_gol,nota
+espn,679330,2023-11-10T17:30Z,Sassuolo,Salernitana,1,5,5,0,Chukwubuikem Ikwuemesi,Salernitana,False,False,,,
+espn,679330,2023-11-10T17:30Z,Sassuolo,Salernitana,2,17,17,0,Boulaye Dia,Salernitana,False,False,,,
+espn,679330,2023-11-10T17:30Z,Sassuolo,Salernitana,3,36,36,0,Kristian Thorstvedt,Sassuolo,False,False,,,
+espn,679330,2023-11-10T17:30Z,Sassuolo,Salernitana,4,52,52,0,Kristian Thorstvedt,Sassuolo,False,False,,,
 espn,679339,2023-11-10T19:45Z,Genoa,Hellas Verona,1,44,44,0,Radu Dragusin,Genoa,False,False,,,
 espn,679337,2023-11-11T14:00Z,Lecce,AC Milan,1,28,28,0,Olivier Giroud,AC Milan,False,False,,,
 espn,679337,2023-11-11T14:00Z,Lecce,AC Milan,2,35,35,0,Tijjani Reijnders,AC Milan,False,False,,,

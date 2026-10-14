@@ -1,5 +1,9 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
-12,PARTIDO,Sassuolo - US Salernitana 1919,SOLO_SOFASCORE,partido,,,,11407453,,
+12,PARTIDO,Sassuolo - Salernitana,COINCIDE,,2023-11-10T17:30Z 2-2 (4 goles),2023-11-10T17:30Z 2-2 (4 goles),679330,11407453,,
+12,GOL,Sassuolo - Salernitana,COINCIDE,,5' Chukwubuikem Ikwuemesi (Salernitana),5' Chukwubuikem Ikwuemesi (US Salernitana 1919),679330,11407453,,
+12,GOL,Sassuolo - Salernitana,COINCIDE,,17' Boulaye Dia (Salernitana),17' Boulaye Dia (US Salernitana 1919),679330,11407453,,
+12,GOL,Sassuolo - Salernitana,COINCIDE,,36' Kristian Thorstvedt (Sassuolo),36' Kristian Thorstvedt (Sassuolo),679330,11407453,,
+12,GOL,Sassuolo - Salernitana,COINCIDE,,52' Kristian Thorstvedt (Sassuolo),52' Kristian Thorstvedt (Sassuolo),679330,11407453,,
 12,PARTIDO,Genoa - Hellas Verona,COINCIDE,,2023-11-10T19:45Z 1-0 (1 goles),2023-11-10T19:45Z 1-0 (1 goles),679339,11407446,,
 12,GOL,Genoa - Hellas Verona,COINCIDE,,44' Radu Dragusin (Genoa),44' Radu Drăguşin (Genoa),679339,11407446,,
 12,PARTIDO,Lecce - AC Milan,COINCIDE,,2023-11-11T14:00Z 2-2 (4 goles),2023-11-11T14:00Z 2-2 (4 goles),679337,11407450,,
