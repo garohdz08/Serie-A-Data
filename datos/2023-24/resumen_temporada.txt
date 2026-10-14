@@ -3,144 +3,67 @@ espn: 38 jornadas
 sofascore: 38 jornadas
 
 == Partidos totales (esperado 380)
-espn: filas=342 disputados=342 ids_unicos=342 pares_local-visitante_unicos=342 estados={'STATUS_FULL_TIME': 342}
+espn: filas=380 disputados=380 ids_unicos=380 pares_local-visitante_unicos=380 estados={'STATUS_FULL_TIME': 380}
 sofascore: filas=380 disputados=380 ids_unicos=380 pares_local-visitante_unicos=380 estados={'finished': 380}
 
 == Partidos por equipo (esperado 38 cada uno)
-espn: 19 equipos; con != 38: {'empoli': 36, 'hellas verona': 36, 'frosinone': 36, 'napoli': 36, 'genoa': 36, 'fiorentina': 36, 'inter': 36, 'monza': 36, 'sassuolo': 36, 'atalanta': 36, 'lecce': 36, 'lazio': 36, 'udinese': 36, 'juventus': 36, 'torino': 36, 'cagliari': 36, 'bologna': 36, 'ac milan': 36, 'as roma': 36}
-   recuento completo: {'ac milan': 36, 'as roma': 36, 'atalanta': 36, 'bologna': 36, 'cagliari': 36, 'empoli': 36, 'fiorentina': 36, 'frosinone': 36, 'genoa': 36, 'hellas verona': 36, 'inter': 36, 'juventus': 36, 'lazio': 36, 'lecce': 36, 'monza': 36, 'napoli': 36, 'sassuolo': 36, 'torino': 36, 'udinese': 36}
+espn: 20 equipos; con != 38: ninguno
 sofascore: 20 equipos; con != 38: ninguno
 
 == Goles, penales y autogoles por fuente
 fuente,goles,penales,autogoles,suma_marcadores
-espn,879,90,22,879
+espn,992,102,24,992
 sofascore,992,102,24,992
 
 == Comparacion ESPN vs Sofascore
 nivel,estado,filas
-GOL,COINCIDE,849
-GOL,DISCREPA,30
-PARTIDO,COINCIDE,342
-PARTIDO,SOLO_SOFASCORE,38
+GOL,COINCIDE,961
+GOL,DISCREPA,31
+PARTIDO,COINCIDE,380
 
 -- Discrepancias (todas las filas que no COINCIDEN), CSV crudo
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
 "1","GOL","Genoa - Fiorentina","DISCREPA","goleador_variante","40' Nico González (Fiorentina)","40' Nicolás González (Fiorentina)"
-"1","PARTIDO","AS Roma - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 "2","GOL","Fiorentina - Lecce","DISCREPA","goleador_variante","3' Nico González (Fiorentina)","3' Nicolás González (Fiorentina)"
-"2","PARTIDO","US Salernitana 1919 - Udinese","SOLO_SOFASCORE","partido","",""
-"3","PARTIDO","Lecce - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
-"4","PARTIDO","US Salernitana 1919 - Torino","SOLO_SOFASCORE","partido","",""
-"5","PARTIDO","US Salernitana 1919 - Frosinone","SOLO_SOFASCORE","partido","",""
-"6","PARTIDO","Empoli - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 "6","GOL","Frosinone - Fiorentina","DISCREPA","goleador_variante","19' Nico González (Fiorentina)","19' Nicolás González (Fiorentina)"
-"7","PARTIDO","US Salernitana 1919 - Inter","SOLO_SOFASCORE","partido","",""
 "7","GOL","Fiorentina - Cagliari","DISCREPA","goleador_variante","3' Nico González (Fiorentina)","3' Nicolás González (Fiorentina)"
-"8","PARTIDO","Monza - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 "8","GOL","Frosinone - Hellas Verona","DISCREPA","goleador_distinto","45+1' Reiner (Frosinone)","45+1' Reinier (Frosinone)"
 "8","GOL","Frosinone - Hellas Verona","DISCREPA","goleador_distinto","90+4' Milan Djuric (Hellas Verona)","90+4' Milan Đurić (Hellas Verona)"
 "8","GOL","Napoli - Fiorentina","DISCREPA","goleador_variante","90+3' Nico González (Fiorentina)","90+3' Nicolás González (Fiorentina)"
-"9","PARTIDO","US Salernitana 1919 - Cagliari","SOLO_SOFASCORE","partido","",""
-"10","PARTIDO","Genoa - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
-"11","PARTIDO","US Salernitana 1919 - SSC Napoli","SOLO_SOFASCORE","partido","",""
-"12","PARTIDO","Sassuolo - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 "12","GOL","Juventus - Cagliari","DISCREPA","goleador_variante","60' Bremer (Juventus)","60' Gleison Bremer (Juventus)"
 "12","GOL","Fiorentina - Bologna","DISCREPA","goleador_variante","48' Nico González (Fiorentina) PEN","48' Nicolás González (Fiorentina) PEN"
-"13","PARTIDO","US Salernitana 1919 - Lazio","SOLO_SOFASCORE","partido","",""
 "13","GOL","Hellas Verona - Lecce","DISCREPA","goleador_distinto","77' Milan Djuric (Hellas Verona)","77' Milan Đurić (Hellas Verona)"
-"14","PARTIDO","Fiorentina - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 "14","GOL","Udinese - Hellas Verona","DISCREPA","goleador_distinto","37' Milan Djuric (Hellas Verona) PEN","37' Milan Đurić (Hellas Verona) PEN"
-"15","PARTIDO","US Salernitana 1919 - Bologna","SOLO_SOFASCORE","partido","",""
-"16","PARTIDO","Atalanta - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
-"17","PARTIDO","US Salernitana 1919 - AC Milan","SOLO_SOFASCORE","partido","",""
+"16","GOL","Atalanta - Salernitana","DISCREPA","goleador_distinto","89' Alexey Miranchuk (Atalanta)","89' Aleksey Miranchuk (Atalanta)"
 "17","GOL","Hellas Verona - Cagliari","DISCREPA","goleador_distinto","90' Milan Djuric (Hellas Verona)","90' Milan Đurić (Hellas Verona)"
-"18","PARTIDO","Hellas Verona - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
-"19","PARTIDO","US Salernitana 1919 - Juventus","SOLO_SOFASCORE","partido","",""
-"20","PARTIDO","SSC Napoli - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 "20","GOL","Hellas Verona - Empoli","DISCREPA","goleador_distinto","3' Milan Djuric (Hellas Verona)","3' Milan Đurić (Hellas Verona)"
 "21","GOL","Frosinone - Cagliari","DISCREPA","goleador_variante","26' Sulemana (Cagliari)","26' Ibrahim Sulemana (Cagliari)"
-"21","PARTIDO","US Salernitana 1919 - Genoa","SOLO_SOFASCORE","partido","",""
 "21","GOL","Lecce - Juventus","DISCREPA","goleador_variante","85' Bremer (Juventus)","85' Gleison Bremer (Juventus)"
 "22","GOL","Atalanta - Udinese","DISCREPA","goleador_distinto","33' Alexey Miranchuk (Atalanta)","33' Aleksey Miranchuk (Atalanta)"
-"22","PARTIDO","US Salernitana 1919 - AS Roma","SOLO_SOFASCORE","partido","",""
-"23","PARTIDO","Torino - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
-"24","PARTIDO","US Salernitana 1919 - Empoli","SOLO_SOFASCORE","partido","",""
 "24","GOL","Fiorentina - Frosinone","DISCREPA","goleador_variante","53' Nico González (Fiorentina)","53' Nicolás González (Fiorentina)"
-"25","PARTIDO","Inter - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
-"26","PARTIDO","US Salernitana 1919 - Monza","SOLO_SOFASCORE","partido","",""
-"27","PARTIDO","Udinese - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
-"28","PARTIDO","Cagliari - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
-"29","PARTIDO","US Salernitana 1919 - Lecce","SOLO_SOFASCORE","partido","",""
 "29","GOL","Atalanta - Fiorentina","DISCREPA","goleador_variante","19' Nico González (Fiorentina)","19' Nicolás González (Fiorentina)"
 "30","GOL","Napoli - Atalanta","DISCREPA","goleador_distinto","26' Alexey Miranchuk (Atalanta)","26' Aleksey Miranchuk (Atalanta)"
 "30","GOL","Genoa - Frosinone","DISCREPA","goleador_distinto","36' Reiner (Frosinone)","36' Reinier (Frosinone)"
-"30","PARTIDO","Bologna - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 "30","GOL","Cagliari - Hellas Verona","DISCREPA","goleador_variante","74' Sulemana (Cagliari)","74' Ibrahim Sulemana (Cagliari)"
-"31","PARTIDO","US Salernitana 1919 - Sassuolo","SOLO_SOFASCORE","partido","",""
 "31","GOL","Monza - Napoli","DISCREPA","goleador_distinto","9' Milan Djuric (Monza)","9' Milan Đurić (Monza)"
-"32","PARTIDO","Lazio - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
-"33","PARTIDO","US Salernitana 1919 - Fiorentina","SOLO_SOFASCORE","partido","",""
-"34","PARTIDO","Frosinone - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 "34","GOL","Fiorentina - Sassuolo","DISCREPA","goleador_variante","58' Nico González (Fiorentina)","58' Nicolás González (Fiorentina)"
 "34","GOL","Fiorentina - Sassuolo","DISCREPA","goleador_variante","66' Nico González (Fiorentina)","66' Nicolás González (Fiorentina)"
 "35","GOL","Monza - Lazio","DISCREPA","goleador_distinto","73' Milan Djuric (Monza)","73' Milan Đurić (Monza)"
 "35","GOL","Monza - Lazio","DISCREPA","goleador_distinto","90+2' Milan Djuric (Monza)","90+2' Milan Đurić (Monza)"
 "35","GOL","AS Roma - Juventus","DISCREPA","goleador_variante","31' Bremer (Juventus)","31' Gleison Bremer (Juventus)"
-"35","PARTIDO","US Salernitana 1919 - Atalanta","SOLO_SOFASCORE","partido","",""
-"36","PARTIDO","Juventus - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 "36","GOL","Fiorentina - Monza","DISCREPA","goleador_distinto","9' Milan Djuric (Monza)","9' Milan Đurić (Monza)"
 "36","GOL","Fiorentina - Monza","DISCREPA","goleador_variante","32' Nico González (Fiorentina)","32' Nicolás González (Fiorentina)"
-"37","PARTIDO","US Salernitana 1919 - Hellas Verona","SOLO_SOFASCORE","partido","",""
 "38","GOL","Cagliari - Fiorentina","DISCREPA","goleador_variante","89' Nico González (Fiorentina)","89' Nicolás González (Fiorentina)"
-"38","PARTIDO","AC Milan - US Salernitana 1919","SOLO_SOFASCORE","partido","",""
 
-resumen por tipo: {'goleador_variante': 17, 'partido': 38, 'goleador_distinto': 13}
-sin resolver=68 resueltas_por_usuario=0
-minuto=0 goleador_distinto=13 goleador_variante(nombre corto/largo)=17 sin_pareja=0
+resumen por tipo: {'goleador_variante': 17, 'goleador_distinto': 14}
+sin resolver=31 resueltas_por_usuario=0
+minuto=0 goleador_distinto=14 goleador_variante(nombre corto/largo)=17 sin_pareja=0
 
 == Validaciones (suma=marcador, minutos 1-120, sin duplicados)
 OK en todas las jornadas y fuentes
 
 == Eventos de ESPN en los scoreboard descargados que no estan en ninguna jornada
-38 eventos:
-   ('20230820', '679220', 'AS Roma', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20230828', '679231', 'Salernitana', 'Udinese', 'STATUS_FULL_TIME')
-   ('20230903', '679244', 'Lecce', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20230918', '679258', 'Salernitana', 'Torino', 'STATUS_FULL_TIME')
-   ('20230922', '679266', 'Salernitana', 'Frosinone', 'STATUS_FULL_TIME')
-   ('20230927', '679271', 'Empoli', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20230930', '679287', 'Salernitana', 'Internazionale', 'STATUS_FULL_TIME')
-   ('20231008', '679291', 'Monza', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20231022', '679302', 'Salernitana', 'Cagliari', 'STATUS_FULL_TIME')
-   ('20231027', '679313', 'Genoa', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20231104', '679327', 'Salernitana', 'Napoli', 'STATUS_FULL_TIME')
-   ('20231110', '679330', 'Sassuolo', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20231125', '679349', 'Salernitana', 'Lazio', 'STATUS_FULL_TIME')
-   ('20231203', '679358', 'Fiorentina', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20231210', '679361', 'Salernitana', 'Bologna', 'STATUS_FULL_TIME')
-   ('20231218', '679370', 'Atalanta', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20231222', '679383', 'Salernitana', 'AC Milan', 'STATUS_FULL_TIME')
-   ('20231230', '679391', 'Hellas Verona', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240107', '679402', 'Salernitana', 'Juventus', 'STATUS_FULL_TIME')
-   ('20240113', '679413', 'Napoli', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240121', '679429', 'Salernitana', 'Genoa', 'STATUS_FULL_TIME')
-   ('20240129', '679431', 'Salernitana', 'AS Roma', 'STATUS_FULL_TIME')
-   ('20240204', '679442', 'Torino', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240209', '679450', 'Salernitana', 'Empoli', 'STATUS_FULL_TIME')
-   ('20240216', '679467', 'Internazionale', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240224', '679471', 'Salernitana', 'Monza', 'STATUS_FULL_TIME')
-   ('20240302', '679480', 'Udinese', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240309', '679117', 'Cagliari', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240316', '679124', 'Salernitana', 'Lecce', 'STATUS_FULL_TIME')
-   ('20240401', '679130', 'Bologna', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240405', '679141', 'Salernitana', 'Sassuolo', 'STATUS_FULL_TIME')
-   ('20240412', '679154', 'Lazio', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240421', '679165', 'Salernitana', 'Fiorentina', 'STATUS_FULL_TIME')
-   ('20240426', '679176', 'Frosinone', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240506', '679183', 'Salernitana', 'Atalanta', 'STATUS_FULL_TIME')
-   ('20240512', '679194', 'Juventus', 'Salernitana', 'STATUS_FULL_TIME')
-   ('20240520', '679205', 'Salernitana', 'Hellas Verona', 'STATUS_FULL_TIME')
-   ('20240525', '679212', 'AC Milan', 'Salernitana', 'STATUS_FULL_TIME')
+0 eventos
 
 == Llamadas fallidas (datos/fallos.csv)
 ninguna (no existe fallos.csv)

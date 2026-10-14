@@ -52,18 +52,29 @@ def pares_nombres():
 
 
 # Fechas originales: NO vienen de ESPN ni de Sofascore (ninguna conserva la fecha original del evento
-# reprogramado; ni el scoreboard de ESPN de esos dias los lista). Solo constan las que la prensa confirmo.
+# reprogramado). Solo constan las confirmadas por prensa o aportadas por el usuario, por temporada.
+NOMBRE_TEMP = CFG["datos"].name if CFG["datos"].name != "datos" else "2025-26"
 U19 = ("2025-01-05 (domingo). Fuente: busqueda en la web hecha con Claude Cowork (segun el usuario); "
        "no verificada en esta sesion (legaseriea.it inaccesible); coherente con la prensa: resto de la 19a el 4-5 enero")
-ORIGINAL_PRENSA = {
-    ("bologna", "ac milan"): ("2024-10-26 (prensa: Sky Sport, calcioefinanza; partido de la 9a, aplazado por temporal)", ),
-    ("como", "ac milan"): (U19, ),
-    ("atalanta", "juventus"): (U19, ),
-    ("inter", "bologna"): (U19, ),
-    ("fiorentina", "inter"): ("2024-12-01 (prensa: Corriere dello Sport; suspendido en el 17' por el malestar de Bove, reanudado el 06-02-2025)", ),
+U21 = ("fin de semana del 20-21 enero 2024; dia y hora exactos por partido NO CONFIRMADOS "
+       "(prensa: Goal, SOS Fanta; rinviata por la Supercoppa en Riad)")
+ORIGINALES = {
+    "2024-25": {
+        ("bologna", "ac milan"): "2024-10-26 (prensa: Sky Sport, calcioefinanza; partido de la 9a, aplazado por temporal)",
+        ("como", "ac milan"): U19,
+        ("atalanta", "juventus"): U19,
+        ("inter", "bologna"): U19,
+        ("fiorentina", "inter"): "2024-12-01 (prensa: Corriere dello Sport; suspendido en el 17' por el malestar de Bove, reanudado el 06-02-2025)",
+    },
+    "2023-24": {
+        ("bologna", "fiorentina"): U21,
+        ("torino", "lazio"): U21,
+        ("sassuolo", "napoli"): U21,
+        ("inter", "atalanta"): U21,
+        ("atalanta", "fiorentina"): "2024-03-17 18:00 local (prensa: fantacalcio.it, Lega Serie A; aplazado el mismo dia por el malestar de Joe Barone)",
+        ("udinese", "as roma"): "2024-04-14 (prensa: Sky Sport; suspendido por el malestar de Ndicka con 1-1, reanudado el 25-04-2024; minuto de reanudacion no coincide entre medios: 71'-73')",
+    },
 }
-NO_CONFIRMADA = ("NO CONFIRMADA (prensa: solo da la fecha del recupero; el resto de la 19a se jugo el 4-5 enero; "
-                 "legaseriea.it bloqueado por la red del entorno)")
 
 
 def aplazados():
@@ -81,7 +92,7 @@ def aplazados():
                 if p["estado"] in FINALES and abs((d - med).days) <= 5:
                     continue
                 k = clave(p)
-                orig = ORIGINAL_PRENSA.get(k, (NO_CONFIRMADA if n == 19 else "NO DISPONIBLE en las fuentes",))[0]
+                orig = ORIGINALES.get(NOMBRE_TEMP, {}).get(k, "NO DISPONIBLE en las fuentes")
                 filas.append(dict(fuente=f, jornada=n, partido=f"{p['local']} - {p['visitante']}",
                                   partido_id=p["partido_id"], estado=p["estado"],
                                   fecha_real_utc=p["fecha_utc"], mediana_jornada=med.strftime("%Y-%m-%d"),
