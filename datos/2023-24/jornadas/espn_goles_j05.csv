@@ -1,4 +1,6 @@
 fuente,partido_id,fecha_utc,local,visitante,gol_n,minuto_txt,minuto,anadido,goleador,equipo,penal,autogol,marcador_local_tras_gol,marcador_visitante_tras_gol,nota
+espn,679266,2023-09-22T16:30Z,Salernitana,Frosinone,1,12,12,0,Simone Romagnoli,Frosinone,False,False,,,
+espn,679266,2023-09-22T16:30Z,Salernitana,Frosinone,2,52,52,0,Jovane Cabral,Salernitana,False,False,,,
 espn,679264,2023-09-22T18:45Z,Lecce,Genoa,1,83,83,0,Rémi Oudin,Lecce,False,False,,,
 espn,679265,2023-09-23T13:00Z,AC Milan,Hellas Verona,1,8,8,0,Rafael Leão,AC Milan,False,False,,,
 espn,679267,2023-09-23T16:00Z,Sassuolo,Juventus,1,12,12,0,Armand Laurienté,Sassuolo,False,False,,,

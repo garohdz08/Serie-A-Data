@@ -1,5 +1,7 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
-5,PARTIDO,US Salernitana 1919 - Frosinone,SOLO_SOFASCORE,partido,,,,11407381,,
+5,PARTIDO,Salernitana - Frosinone,COINCIDE,,2023-09-22T16:30Z 1-1 (2 goles),2023-09-22T16:30Z 1-1 (2 goles),679266,11407381,,
+5,GOL,Salernitana - Frosinone,COINCIDE,,12' Simone Romagnoli (Frosinone),12' Simone Romagnoli (Frosinone),679266,11407381,,
+5,GOL,Salernitana - Frosinone,COINCIDE,,52' Jovane Cabral (Salernitana),52' Jovane Cabral (US Salernitana 1919),679266,11407381,,
 5,PARTIDO,Lecce - Genoa,COINCIDE,,2023-09-22T18:45Z 1-0 (1 goles),2023-09-22T18:45Z 1-0 (1 goles),679264,11407379,,
 5,GOL,Lecce - Genoa,COINCIDE,,83' Rémi Oudin (Lecce),83' Rémi Oudin (Lecce),679264,11407379,,
 5,PARTIDO,AC Milan - Hellas Verona,COINCIDE,,2023-09-23T13:00Z 1-0 (1 goles),2023-09-23T13:00Z 1-0 (1 goles),679265,11407380,,
