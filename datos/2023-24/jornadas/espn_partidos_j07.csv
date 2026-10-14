@@ -1,0 +1,10 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+espn,679286,2023-09-30T13:00Z,Lecce,Napoli,0,4,STATUS_FULL_TIME
+espn,679285,2023-09-30T16:00Z,AC Milan,Lazio,2,0,STATUS_FULL_TIME
+espn,679283,2023-10-01T10:30Z,Bologna,Empoli,3,0,STATUS_FULL_TIME
+espn,679280,2023-10-01T13:00Z,Udinese,Genoa,2,2,STATUS_FULL_TIME
+espn,679284,2023-10-01T16:00Z,Atalanta,Juventus,0,0,STATUS_FULL_TIME
+espn,679281,2023-10-01T18:45Z,AS Roma,Frosinone,2,0,STATUS_FULL_TIME
+espn,679288,2023-10-02T16:30Z,Sassuolo,Monza,0,1,STATUS_FULL_TIME
+espn,679289,2023-10-02T16:30Z,Torino,Hellas Verona,0,0,STATUS_FULL_TIME
+espn,679282,2023-10-02T18:45Z,Fiorentina,Cagliari,3,0,STATUS_FULL_TIME
