@@ -19,6 +19,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 18,GOL,Udinese - Bologna,COINCIDE,,52' Martín Payero (Udinese),52' Martín Payero (Udinese),679394,11407514,,
 18,PARTIDO,AC Milan - Sassuolo,COINCIDE,,2023-12-30T17:00Z 1-0 (1 goles),2023-12-30T17:00Z 1-0 (1 goles),679393,11407512,,
 18,GOL,AC Milan - Sassuolo,COINCIDE,,59' Christian Pulisic (AC Milan),59' Christian Pulišić (AC Milan),679393,11407512,,
-18,PARTIDO,Hellas Verona - US Salernitana 1919,SOLO_SOFASCORE,partido,,,,11407509,,
+18,PARTIDO,Hellas Verona - Salernitana,COINCIDE,,2023-12-30T17:00Z 0-1 (1 goles),2023-12-30T17:00Z 0-1 (1 goles),679391,11407509,,
+18,GOL,Hellas Verona - Salernitana,COINCIDE,,48' Loum Tchaouna (Salernitana),48' Loum Tchaouna (US Salernitana 1919),679391,11407509,,
 18,PARTIDO,Juventus - AS Roma,COINCIDE,,2023-12-30T19:45Z 1-0 (1 goles),2023-12-30T19:45Z 1-0 (1 goles),679395,11407510,,
 18,GOL,Juventus - AS Roma,COINCIDE,,47' Adrien Rabiot (Juventus),47' Adrien Rabiot (Juventus),679395,11407510,,
