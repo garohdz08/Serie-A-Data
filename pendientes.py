@@ -33,6 +33,10 @@ def escribir(ruta, cols, filas):
 
 
 def pares_nombres():
+    ruta = DATOS / "pares_nombres_pendientes.csv"
+    previo = {}
+    if ruta.exists():           # no pisar decisiones ya tomadas por el usuario
+        previo = {(r["jornada"], r["partido"], r["espn_valor"]): r for r in leer(ruta) if r["decision_usuario"]}
     filas = []
     for x in leer(DATOS / "comparacion_temporada.csv"):
         c = x["campos_discrepantes"]
@@ -40,9 +44,10 @@ def pares_nombres():
             filas.append(dict(jornada=x["jornada"], partido=x["partido"], campos=c,
                               espn_valor=x["espn_valor"], sofascore_valor=x["sofascore_valor"],
                               espn_id=x["espn_id"], sofascore_id=x["sofascore_id"], decision_usuario=""))
-    escribir(DATOS / "pares_nombres_pendientes.csv",
-             ["jornada", "partido", "campos", "espn_valor", "sofascore_valor", "espn_id", "sofascore_id",
-              "decision_usuario"], filas)
+    for f in filas:
+        f.update(previo.get((f["jornada"], f["partido"], f["espn_valor"]), {}))
+    escribir(ruta, ["jornada", "partido", "campos", "espn_valor", "sofascore_valor", "espn_id", "sofascore_id",
+                    "decision_usuario", "nombre_elegido"], filas)
     return len(filas)
 
 
@@ -52,7 +57,8 @@ ORIGINAL_PRENSA = {
     ("bologna", "ac milan"): ("2024-10-26 (prensa: Sky Sport, calcioefinanza; partido de la 9a, aplazado por temporal)", ),
     ("fiorentina", "inter"): ("2024-12-01 (prensa: Corriere dello Sport; suspendido en el 17' por el malestar de Bove, reanudado el 06-02-2025)", ),
 }
-NO_CONFIRMADA = "NO CONFIRMADA (la prensa solo dio la fecha del recupero; 19a: Supercoppa en Riad)"
+NO_CONFIRMADA = ("NO CONFIRMADA (prensa: solo da la fecha del recupero; el resto de la 19a se jugo el 4-5 enero; "
+                 "legaseriea.it bloqueado por la red del entorno)")
 
 
 def aplazados():
