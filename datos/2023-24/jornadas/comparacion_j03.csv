@@ -31,4 +31,6 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 3,PARTIDO,Empoli - Juventus,COINCIDE,,2023-09-03T18:45Z 0-2 (2 goles),2023-09-03T18:45Z 0-2 (2 goles),679242,11407357,,
 3,GOL,Empoli - Juventus,COINCIDE,,24' Danilo (Juventus),24' Danilo (Juventus),679242,11407357,,
 3,GOL,Empoli - Juventus,COINCIDE,,82' Federico Chiesa (Juventus),82' Federico Chiesa (Juventus),679242,11407357,,
-3,PARTIDO,Lecce - US Salernitana 1919,SOLO_SOFASCORE,partido,,,,11407359,,
+3,PARTIDO,Lecce - Salernitana,COINCIDE,,2023-09-03T18:45Z 2-0 (2 goles),2023-09-03T18:45Z 2-0 (2 goles),679244,11407359,,
+3,GOL,Lecce - Salernitana,COINCIDE,,6' Nikola Krstovic (Lecce),6' Nikola Krstović (Lecce),679244,11407359,,
+3,GOL,Lecce - Salernitana,COINCIDE,,90+8' Gabriel Strefezza (Lecce) PEN,90+8' Gabriel Strefezza (Lecce) PEN,679244,11407359,,
