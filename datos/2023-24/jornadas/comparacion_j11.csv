@@ -1,7 +1,9 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
 11,PARTIDO,Bologna - Lazio,COINCIDE,,2023-11-03T19:45Z 1-0 (1 goles),2023-11-03T19:45Z 1-0 (1 goles),679322,11407441,,
 11,GOL,Bologna - Lazio,COINCIDE,,46' Lewis Ferguson (Bologna),46' Lewis Ferguson (Bologna),679322,11407441,,
-11,PARTIDO,US Salernitana 1919 - SSC Napoli,SOLO_SOFASCORE,partido,,,,11407438,,
+11,PARTIDO,Salernitana - Napoli,COINCIDE,,2023-11-04T14:00Z 0-2 (2 goles),2023-11-04T14:00Z 0-2 (2 goles),679327,11407438,,
+11,GOL,Salernitana - Napoli,COINCIDE,,13' Giacomo Raspadori (Napoli),13' Giacomo Raspadori (SSC Napoli),679327,11407438,,
+11,GOL,Salernitana - Napoli,COINCIDE,,82' Eljif Elmas (Napoli),82' Eljif Elmas (SSC Napoli),679327,11407438,,
 11,PARTIDO,Atalanta - Internazionale,COINCIDE,,2023-11-04T17:00Z 1-2 (3 goles),2023-11-04T17:00Z 1-2 (3 goles),679323,11407440,,
 11,GOL,Atalanta - Internazionale,COINCIDE,,40' Hakan Çalhanoglu (Internazionale) PEN,40' Hakan Çalhanoğlu (Inter) PEN,679323,11407440,,
 11,GOL,Atalanta - Internazionale,COINCIDE,,57' Lautaro Martínez (Internazionale),57' Lautaro Martínez (Inter),679323,11407440,,

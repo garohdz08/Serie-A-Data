@@ -1,5 +1,7 @@
 fuente,partido_id,fecha_utc,local,visitante,gol_n,minuto_txt,minuto,anadido,goleador,equipo,penal,autogol,marcador_local_tras_gol,marcador_visitante_tras_gol,nota
 espn,679322,2023-11-03T19:45Z,Bologna,Lazio,1,46,46,0,Lewis Ferguson,Bologna,False,False,,,
+espn,679327,2023-11-04T14:00Z,Salernitana,Napoli,1,13,13,0,Giacomo Raspadori,Napoli,False,False,,,
+espn,679327,2023-11-04T14:00Z,Salernitana,Napoli,2,82,82,0,Eljif Elmas,Napoli,False,False,,,
 espn,679323,2023-11-04T17:00Z,Atalanta,Internazionale,1,40,40,0,Hakan Çalhanoglu,Internazionale,True,False,,,
 espn,679323,2023-11-04T17:00Z,Atalanta,Internazionale,2,57,57,0,Lautaro Martínez,Internazionale,False,False,,,
 espn,679323,2023-11-04T17:00Z,Atalanta,Internazionale,3,61,61,0,Gianluca Scamacca,Atalanta,False,False,,,
