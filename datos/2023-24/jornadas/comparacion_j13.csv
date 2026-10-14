@@ -1,5 +1,8 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
-13,PARTIDO,US Salernitana 1919 - Lazio,SOLO_SOFASCORE,partido,,,,11407464,,
+13,PARTIDO,Salernitana - Lazio,COINCIDE,,2023-11-25T14:00Z 2-1 (3 goles),2023-11-25T14:00Z 2-1 (3 goles),679349,11407464,,
+13,GOL,Salernitana - Lazio,COINCIDE,,43' Ciro Immobile (Lazio) PEN,43' Ciro Immobile (Lazio) PEN,679349,11407464,,
+13,GOL,Salernitana - Lazio,COINCIDE,,55' Grigoris Kastanos (Salernitana),55' Grigoris Kastanos (US Salernitana 1919),679349,11407464,,
+13,GOL,Salernitana - Lazio,COINCIDE,,66' Antonio Candreva (Salernitana),66' Antonio Candreva (US Salernitana 1919),679349,11407464,,
 13,PARTIDO,Atalanta - Napoli,COINCIDE,,2023-11-25T17:00Z 1-2 (3 goles),2023-11-25T17:00Z 1-2 (3 goles),679346,11407455,,
 13,GOL,Atalanta - Napoli,COINCIDE,,44' Khvicha Kvaratskhelia (Napoli),44' Khvicha Kvaratskhelia (SSC Napoli),679346,11407455,,
 13,GOL,Atalanta - Napoli,COINCIDE,,53' Ademola Lookman (Atalanta),53' Ademola Lookman (Atalanta),679346,11407455,,
