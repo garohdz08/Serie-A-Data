@@ -11,6 +11,7 @@ RAIZ = Path(__file__).parent
 TEMPORADAS = {
     "2025-26": dict(sofa_season=76457, sofa_anio="25/26", datos=RAIZ / "datos"),
     "2024-25": dict(sofa_season=63515, sofa_anio="24/25", datos=RAIZ / "datos" / "2024-25"),
+    "2023-24": dict(sofa_season=52760, sofa_anio="23/24", datos=RAIZ / "datos" / "2023-24"),
 }
 NOMBRE = os.environ.get("SERIE_A_TEMPORADA", "2025-26")
 if NOMBRE not in TEMPORADAS:
