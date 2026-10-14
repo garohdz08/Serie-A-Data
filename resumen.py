@@ -13,8 +13,9 @@ from pathlib import Path
 
 from comparar import FINALES, sin_aplazados
 from nombres import equipo
+from temporada import CFG
 
-DATOS = Path(__file__).parent / "datos"
+DATOS = CFG["datos"]
 JORNADAS = DATOS / "jornadas"
 FUENTES = ("espn", "sofascore")
 out = []

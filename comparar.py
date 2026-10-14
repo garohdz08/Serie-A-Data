@@ -20,8 +20,9 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 from nombres import equipo, norm, relacion_nombres
+from temporada import CFG
 
-DATOS = Path(__file__).parent / "datos"
+DATOS = CFG["datos"]
 JORNADAS = DATOS / "jornadas"
 FUENTES = ("espn", "sofascore")
 COMP_COLS = ["jornada", "nivel", "partido", "estado", "campos_discrepantes",

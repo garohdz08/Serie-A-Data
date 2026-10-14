@@ -8,8 +8,8 @@ for n in $(seq "${1:-1}" "${2:-38}"); do
   python3 comparar.py --jornada "$n"
   estado="completa"; [ "$rc" -ne 0 ] && estado="CON FALLOS de descarga (ver datos/fallos.csv)"
   git add datos
-  git commit -q -m "Jornada $n Serie A 2025-26: ESPN + Sofascore ($estado)
+  git commit -q -m "Jornada $n Serie A ${SERIE_A_TEMPORADA:-2025-26}: ESPN + Sofascore ($estado)
 
 Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_01MoyBzk7RLtqcSegXc1YKUz" && echo "commit J$j: $estado"
+Claude-Session: https://claude.ai/code/session_0137MHUNpBmj4qwFEu8T7aDa" && echo "commit J$j: $estado"
 done

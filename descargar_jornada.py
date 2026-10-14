@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Descarga jornadas de la Serie A 2025-26 desde ESPN y Sofascore (APIs JSON).
+"""Descarga jornadas de la Serie A (temporada en SERIE_A_TEMPORADA, ver temporada.py) desde ESPN y Sofascore (APIs JSON).
 
 Uso:
   python3 descargar_jornada.py --jornada 5
@@ -34,13 +34,14 @@ from urllib.parse import urlparse
 import requests
 
 from nombres import equipo as clave_equipo
+from temporada import CFG, NOMBRE
 
 SOFA_TOURNAMENT = 23          # Serie A
-SOFA_SEASON = 76457           # 25/26 (se verifica contra /seasons: year == "25/26")
+SOFA_SEASON = CFG["sofa_season"]   # se verifica contra /seasons: year == CFG["sofa_anio"]
 ESPN = "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1"
 SOFA = "https://api.sofascore.com/api/v1"
 RAIZ = Path(__file__).parent
-DATOS = RAIZ / "datos"
+DATOS = CFG["datos"]
 CRUDO = DATOS / "crudo"
 JORNADAS = DATOS / "jornadas"
 FALLOS = DATOS / "fallos.csv"
@@ -149,8 +150,8 @@ def minuto_txt(base, anadido):
 def verificar_temporada(cli):
     data = cli.get("sofascore", "temporadas", f"{SOFA}/unique-tournament/{SOFA_TOURNAMENT}/seasons")
     anio = next((s["year"] for s in data["seasons"] if s["id"] == SOFA_SEASON), None)
-    if anio != "25/26":
-        raise DatoIncoherente(f"season id {SOFA_SEASON} no es 25/26 (es {anio})")
+    if anio != CFG["sofa_anio"]:
+        raise DatoIncoherente(f"season id {SOFA_SEASON} no es {CFG['sofa_anio']} (es {anio})")
 
 
 def sofascore(cli, n):
