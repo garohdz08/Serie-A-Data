@@ -1,0 +1,30 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+25,PARTIDO,Bologna - Torino,COINCIDE,,2025-02-14T19:45Z 3-2 (5 goles),2025-02-14T19:45Z 3-2 (5 goles),712356,12504388
+25,GOL,Bologna - Torino,COINCIDE,,20' Dan Ndoye (Bologna),20' Dan Ndoye (Bologna),712356,12504388
+25,GOL,Bologna - Torino,COINCIDE,,37' Nikola Vlasic (Torino),37' Nikola Vlašić (Torino),712356,12504388
+25,GOL,Bologna - Torino,COINCIDE,,65' Eljif Elmas (Torino),65' Eljif Elmas (Torino),712356,12504388
+25,GOL,Bologna - Torino,COINCIDE,,70' Dan Ndoye (Bologna) PEN,70' Dan Ndoye (Bologna) PEN,712356,12504388
+25,GOL,Bologna - Torino,COINCIDE,,90' Cristiano Biraghi (Bologna) AUTOGOL,90' Cristiano Biraghi (Bologna) AUTOGOL,712356,12504388
+25,PARTIDO,Atalanta - Cagliari,COINCIDE,,2025-02-15T14:00Z 0-0 (0 goles),2025-02-15T14:00Z 0-0 (0 goles),712355,12504393
+25,PARTIDO,Lazio - Napoli,COINCIDE,,2025-02-15T17:00Z 2-2 (4 goles),2025-02-15T17:00Z 2-2 (4 goles),712358,12504385
+25,GOL,Lazio - Napoli,COINCIDE,,6' Gustav Isaksen (Lazio),6' Gustav Isaksen (Lazio),712358,12504385
+25,GOL,Lazio - Napoli,COINCIDE,,13' Giacomo Raspadori (Napoli),13' Giacomo Raspadori (SSC Napoli),712358,12504385
+25,GOL,Lazio - Napoli,COINCIDE,,64' Adam Marusic (Napoli) AUTOGOL,64' Adam Marušić (SSC Napoli) AUTOGOL,712358,12504385
+25,GOL,Lazio - Napoli,COINCIDE,,87' Boulaye Dia (Lazio),87' Boulaye Dia (Lazio),712358,12504385
+25,PARTIDO,AC Milan - Hellas Verona,COINCIDE,,2025-02-15T19:45Z 1-0 (1 goles),2025-02-15T19:45Z 1-0 (1 goles),712361,12504384
+25,GOL,AC Milan - Hellas Verona,COINCIDE,,75' Santiago Gimenez (AC Milan),75' Santiago Giménez (AC Milan),712361,12504384
+25,PARTIDO,Fiorentina - Como,COINCIDE,,2025-02-16T11:30Z 0-2 (2 goles),2025-02-16T11:30Z 0-2 (2 goles),712357,12504390
+25,GOL,Fiorentina - Como,COINCIDE,,41' Assane Diao (Como),41' Assane Diao (Como),712357,12504390
+25,GOL,Fiorentina - Como,COINCIDE,,66' Nico Paz (Como),66' Nico Paz (Como),712357,12504390
+25,PARTIDO,Monza - Lecce,COINCIDE,,2025-02-16T14:00Z 0-0 (0 goles),2025-02-16T14:00Z 0-0 (0 goles),712362,12504383
+25,PARTIDO,Udinese - Empoli,COINCIDE,,2025-02-16T14:00Z 3-0 (3 goles),2025-02-16T14:00Z 3-0 (3 goles),712353,12504379
+25,GOL,Udinese - Empoli,COINCIDE,,19' Jurgen Ekkelenkamp (Udinese),19' Jürgen Ekkelenkamp (Udinese),712353,12504379
+25,GOL,Udinese - Empoli,COINCIDE,,65' Jurgen Ekkelenkamp (Udinese),65' Jürgen Ekkelenkamp (Udinese),712353,12504379
+25,GOL,Udinese - Empoli,COINCIDE,,90' Florian Thauvin (Udinese),90' Florian Thauvin (Udinese),712353,12504379
+25,PARTIDO,Parma - AS Roma,COINCIDE,,2025-02-16T17:00Z 0-1 (1 goles),2025-02-16T17:00Z 0-1 (1 goles),712354,12504380
+25,GOL,Parma - AS Roma,COINCIDE,,33' Matìas Soulè (AS Roma),33' Matías Soulé (AS Roma),712354,12504380
+25,PARTIDO,Juventus - Internazionale,COINCIDE,,2025-02-16T19:45Z 1-0 (1 goles),2025-02-16T19:45Z 1-0 (1 goles),712359,12504387
+25,GOL,Juventus - Internazionale,COINCIDE,,74' Francisco Conceição (Juventus),74' Francisco Conceição (Juventus),712359,12504387
+25,PARTIDO,Genoa - Venezia,COINCIDE,,2025-02-17T19:45Z 2-0 (2 goles),2025-02-17T19:45Z 2-0 (2 goles),712360,12504386
+25,GOL,Genoa - Venezia,COINCIDE,,82' Andrea Pinamonti (Genoa),82' Andrea Pinamonti (Genoa),712360,12504386
+25,GOL,Genoa - Venezia,COINCIDE,,86' Maxwel Cornet (Genoa),86' Maxwel Cornet (Genoa),712360,12504386
