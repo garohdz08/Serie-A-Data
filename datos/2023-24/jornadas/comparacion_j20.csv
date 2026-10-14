@@ -1,6 +1,9 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
 20,PARTIDO,Genoa - Torino,COINCIDE,,2024-01-13T14:00Z 0-0 (0 goles),2024-01-13T14:00Z 0-0 (0 goles),679415,11406896,,
-20,PARTIDO,SSC Napoli - US Salernitana 1919,SOLO_SOFASCORE,partido,,,,11406901,,
+20,PARTIDO,Napoli - Salernitana,COINCIDE,,2024-01-13T14:00Z 2-1 (3 goles),2024-01-13T14:00Z 2-1 (3 goles),679413,11406901,,
+20,GOL,Napoli - Salernitana,COINCIDE,,29' Antonio Candreva (Salernitana),29' Antonio Candreva (US Salernitana 1919),679413,11406901,,
+20,GOL,Napoli - Salernitana,COINCIDE,,45+4' Matteo Politano (Napoli) PEN,45+4' Matteo Politano (SSC Napoli) PEN,679413,11406901,,
+20,GOL,Napoli - Salernitana,COINCIDE,,90+6' Amir Rrahmani (Napoli),90+6' Amir Rrahmani (SSC Napoli),679413,11406901,,
 20,PARTIDO,Hellas Verona - Empoli,COINCIDE,,2024-01-13T17:00Z 2-1 (3 goles),2024-01-13T17:00Z 2-1 (3 goles),679414,11406898,,
 20,GOL,Hellas Verona - Empoli,COINCIDE,,56' Cyril Ngonge (Hellas Verona),56' Cyril Ngonge (Hellas Verona),679414,11406898,,
 20,GOL,Hellas Verona - Empoli,COINCIDE,,64' Szymon Zurkowski (Empoli),64' Szymon Żurkowski (Empoli),679414,11406898,,
