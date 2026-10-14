@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+espn,712474,2025-05-17T18:45Z,Genoa,Atalanta,2,3,STATUS_FULL_TIME
+espn,712475,2025-05-18T18:45Z,AS Roma,AC Milan,3,1,STATUS_FULL_TIME
+espn,712473,2025-05-18T18:45Z,Cagliari,Venezia,3,0,STATUS_FULL_TIME
+espn,712476,2025-05-18T18:45Z,Fiorentina,Bologna,3,2,STATUS_FULL_TIME
+espn,712482,2025-05-18T18:45Z,Hellas Verona,Como,1,1,STATUS_FULL_TIME
+espn,712481,2025-05-18T18:45Z,Internazionale,Lazio,2,2,STATUS_FULL_TIME
+espn,712480,2025-05-18T18:45Z,Juventus,Udinese,2,0,STATUS_FULL_TIME
+espn,712479,2025-05-18T18:45Z,Lecce,Torino,1,0,STATUS_FULL_TIME
+espn,712478,2025-05-18T18:45Z,Monza,Empoli,1,3,STATUS_FULL_TIME
+espn,712477,2025-05-18T18:45Z,Parma,Napoli,0,0,STATUS_FULL_TIME

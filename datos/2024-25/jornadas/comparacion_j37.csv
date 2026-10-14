@@ -1,0 +1,41 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+37,PARTIDO,Genoa - Atalanta,COINCIDE,,2025-05-17T18:45Z 2-3 (5 goles),2025-05-17T18:45Z 2-3 (5 goles),712474,12501535
+37,GOL,Genoa - Atalanta,COINCIDE,,37' Andrea Pinamonti (Genoa),37' Andrea Pinamonti (Genoa),712474,12501535
+37,GOL,Genoa - Atalanta,COINCIDE,,58' Andrea Pinamonti (Genoa),58' Andrea Pinamonti (Genoa),712474,12501535
+37,GOL,Genoa - Atalanta,COINCIDE,,63' Daniel Maldini (Atalanta),63' Daniel Maldini (Atalanta),712474,12501535
+37,GOL,Genoa - Atalanta,COINCIDE,,89' Mateo Retegui (Atalanta),89' Mateo Retegui (Atalanta),712474,12501535
+37,GOL,Genoa - Atalanta,DISCREPA,goleador_variante,47' Sulemana (Atalanta),47' Ibrahim Sulemana (Atalanta),712474,12501535
+37,PARTIDO,AS Roma - AC Milan,COINCIDE,,2025-05-18T18:45Z 3-1 (4 goles),2025-05-18T18:45Z 3-1 (4 goles),712475,12501545
+37,GOL,AS Roma - AC Milan,COINCIDE,,3' Gianluca Mancini (AS Roma),3' Gianluca Mancini (AS Roma),712475,12501545
+37,GOL,AS Roma - AC Milan,COINCIDE,,39' João Félix (AC Milan),39' João Félix (AC Milan),712475,12501545
+37,GOL,AS Roma - AC Milan,COINCIDE,,58' Leandro Paredes (AS Roma),58' Leandro Paredes (AS Roma),712475,12501545
+37,GOL,AS Roma - AC Milan,COINCIDE,,87' Bryan Cristante (AS Roma),87' Bryan Cristante (AS Roma),712475,12501545
+37,PARTIDO,Cagliari - Venezia,COINCIDE,,2025-05-18T18:45Z 3-0 (3 goles),2025-05-18T18:45Z 3-0 (3 goles),712473,12501534
+37,GOL,Cagliari - Venezia,COINCIDE,,11' Yerry Mina (Cagliari),11' Yerry Mina (Cagliari),712473,12501534
+37,GOL,Cagliari - Venezia,COINCIDE,,41' Roberto Piccoli (Cagliari),41' Roberto Piccoli (Cagliari),712473,12501534
+37,GOL,Cagliari - Venezia,COINCIDE,,71' Alessandro Deiola (Cagliari),71' Alessandro Deiola (Cagliari),712473,12501534
+37,PARTIDO,Fiorentina - Bologna,COINCIDE,,2025-05-18T18:45Z 3-2 (5 goles),2025-05-18T18:45Z 3-2 (5 goles),712476,12501538
+37,GOL,Fiorentina - Bologna,COINCIDE,,13' Fabiano Parisi (Fiorentina),13' Fabiano Parisi (Fiorentina),712476,12501538
+37,GOL,Fiorentina - Bologna,COINCIDE,,61' Thijs Dallinga (Bologna),61' Thijs Dallinga (Bologna),712476,12501538
+37,GOL,Fiorentina - Bologna,COINCIDE,,67' Amir Richardson (Fiorentina),67' Amir Richardson (Fiorentina),712476,12501538
+37,GOL,Fiorentina - Bologna,COINCIDE,,79' Riccardo Orsolini (Bologna),79' Riccardo Orsolini (Bologna),712476,12501538
+37,GOL,Fiorentina - Bologna,COINCIDE,,84' Moise Kean (Fiorentina),84' Moise Kean (Fiorentina),712476,12501538
+37,PARTIDO,Hellas Verona - Como,COINCIDE,,2025-05-18T18:45Z 1-1 (2 goles),2025-05-18T18:45Z 1-1 (2 goles),712482,12501536
+37,GOL,Hellas Verona - Como,COINCIDE,,29' Maxence Caqueret (Como),29' Maxence Caqueret (Como),712482,12501536
+37,GOL,Hellas Verona - Como,COINCIDE,,69' Darko Lazovic (Hellas Verona),69' Darko Lazović (Hellas Verona),712482,12501536
+37,PARTIDO,Internazionale - Lazio,COINCIDE,,2025-05-18T18:45Z 2-2 (4 goles),2025-05-18T18:45Z 2-2 (4 goles),712481,12501541
+37,GOL,Internazionale - Lazio,COINCIDE,,45+2' Yann Bisseck (Internazionale),45+2' Yann Bisseck (Inter),712481,12501541
+37,GOL,Internazionale - Lazio,COINCIDE,,72' Pedro (Lazio),72' Pedro (Lazio),712481,12501541
+37,GOL,Internazionale - Lazio,COINCIDE,,79' Denzel Dumfries (Internazionale),79' Denzel Dumfries (Inter),712481,12501541
+37,GOL,Internazionale - Lazio,COINCIDE,,90' Pedro (Lazio) PEN,90' Pedro (Lazio) PEN,712481,12501541
+37,PARTIDO,Juventus - Udinese,COINCIDE,,2025-05-18T18:45Z 2-0 (2 goles),2025-05-18T18:45Z 2-0 (2 goles),712480,12501540
+37,GOL,Juventus - Udinese,COINCIDE,,88' Dusan Vlahovic (Juventus),88' Dušan Vlahović (Juventus),712480,12501540
+37,GOL,Juventus - Udinese,DISCREPA,goleador_variante,61' Nico González (Juventus),61' Nicolás González (Juventus),712480,12501540
+37,PARTIDO,Lecce - Torino,COINCIDE,,2025-05-18T18:45Z 1-0 (1 goles),2025-05-18T18:45Z 1-0 (1 goles),712479,12501542
+37,GOL,Lecce - Torino,COINCIDE,,46' Ylber Ramadani (Lecce),46' Ylber Ramadani (Lecce),712479,12501542
+37,PARTIDO,Monza - Empoli,COINCIDE,,2025-05-18T18:45Z 1-3 (4 goles),2025-05-18T18:45Z 1-3 (4 goles),712478,12501539
+37,GOL,Monza - Empoli,COINCIDE,,30' Samuele Birindelli (Monza),30' Samuele Birindelli (Monza),712478,12501539
+37,GOL,Monza - Empoli,COINCIDE,,49' Lorenzo Colombo (Empoli),49' Lorenzo Colombo (Empoli),712478,12501539
+37,GOL,Monza - Empoli,COINCIDE,,51' Mattia Viti (Empoli),51' Mattia Viti (Empoli),712478,12501539
+37,GOL,Monza - Empoli,COINCIDE,,59' Semuel Pizzignacco (Empoli) AUTOGOL,59' Semuel Pizzignacco (Empoli) AUTOGOL,712478,12501539
+37,PARTIDO,Parma - Napoli,COINCIDE,,2025-05-18T18:45Z 0-0 (0 goles),2025-05-18T18:45Z 0-0 (0 goles),712477,12501537
