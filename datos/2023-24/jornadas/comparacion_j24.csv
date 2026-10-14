@@ -1,5 +1,9 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
-24,PARTIDO,US Salernitana 1919 - Empoli,SOLO_SOFASCORE,partido,,,,11406879,,
+24,PARTIDO,Salernitana - Empoli,COINCIDE,,2024-02-09T19:45Z 1-3 (4 goles),2024-02-09T19:45Z 1-3 (4 goles),679450,11406879,,
+24,GOL,Salernitana - Empoli,COINCIDE,,23' Alessandro Zanoli (Empoli) AUTOGOL,23' Alessandro Zanoli (Empoli) AUTOGOL,679450,11406879,,
+24,GOL,Salernitana - Empoli,COINCIDE,,69' Shon Weissman (Salernitana),69' Shon Weissman (US Salernitana 1919),679450,11406879,,
+24,GOL,Salernitana - Empoli,COINCIDE,,88' M'Baye Niang (Empoli) PEN,88' M'Baye Niang (Empoli) PEN,679450,11406879,,
+24,GOL,Salernitana - Empoli,COINCIDE,,90+4' Matteo Cancellieri (Empoli),90+4' Matteo Cancellieri (Empoli),679450,11406879,,
 24,PARTIDO,Cagliari - Lazio,COINCIDE,,2024-02-10T14:00Z 1-3 (4 goles),2024-02-10T14:00Z 1-3 (4 goles),679459,11406856,,
 24,GOL,Cagliari - Lazio,COINCIDE,,26' Alessandro Deiola (Lazio) AUTOGOL,26' Alessandro Deiola (Lazio) AUTOGOL,679459,11406856,,
 24,GOL,Cagliari - Lazio,COINCIDE,,49' Ciro Immobile (Lazio),49' Ciro Immobile (Lazio),679459,11406856,,
