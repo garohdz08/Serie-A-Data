@@ -1,4 +1,5 @@
 fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+espn,679313,2023-10-27T18:45Z,Genoa,Salernitana,1,0,STATUS_FULL_TIME
 espn,679310,2023-10-28T13:00Z,Sassuolo,Bologna,1,1,STATUS_FULL_TIME
 espn,679316,2023-10-28T16:00Z,Lecce,Torino,0,1,STATUS_FULL_TIME
 espn,679311,2023-10-28T18:45Z,Juventus,Hellas Verona,1,0,STATUS_FULL_TIME

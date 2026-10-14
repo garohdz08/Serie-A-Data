@@ -1,4 +1,5 @@
 fuente,partido_id,fecha_utc,local,visitante,gol_n,minuto_txt,minuto,anadido,goleador,equipo,penal,autogol,marcador_local_tras_gol,marcador_visitante_tras_gol,nota
+espn,679313,2023-10-27T18:45Z,Genoa,Salernitana,1,35,35,0,Albert Gudmundsson,Genoa,False,False,,,
 espn,679310,2023-10-28T13:00Z,Sassuolo,Bologna,1,3,3,0,Joshua Zirkzee,Bologna,False,False,,,
 espn,679310,2023-10-28T13:00Z,Sassuolo,Bologna,2,44,44,0,Daniel Boloca,Sassuolo,False,False,,,
 espn,679316,2023-10-28T16:00Z,Lecce,Torino,1,41,41,0,Alessandro Buongiorno,Torino,False,False,,,

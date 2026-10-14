@@ -1,5 +1,6 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
-10,PARTIDO,Genoa - US Salernitana 1919,SOLO_SOFASCORE,partido,,,,11407427,,
+10,PARTIDO,Genoa - Salernitana,COINCIDE,,2023-10-27T18:45Z 1-0 (1 goles),2023-10-27T18:45Z 1-0 (1 goles),679313,11407427,,
+10,GOL,Genoa - Salernitana,COINCIDE,,35' Albert Gudmundsson (Genoa),35' Albert Guðmundsson (Genoa),679313,11407427,,
 10,PARTIDO,Sassuolo - Bologna,COINCIDE,,2023-10-28T13:00Z 1-1 (2 goles),2023-10-28T13:00Z 1-1 (2 goles),679310,11407434,,
 10,GOL,Sassuolo - Bologna,COINCIDE,,3' Joshua Zirkzee (Bologna),3' Joshua Zirkzee (Bologna),679310,11407434,,
 10,GOL,Sassuolo - Bologna,COINCIDE,,44' Daniel Boloca (Sassuolo),44' Daniel Boloca (Sassuolo),679310,11407434,,
