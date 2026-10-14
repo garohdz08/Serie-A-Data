@@ -53,7 +53,7 @@ def pares_nombres():
 
 # Fechas originales: NO vienen de ESPN ni de Sofascore (ninguna conserva la fecha original del evento
 # reprogramado; ni el scoreboard de ESPN de esos dias los lista). Solo constan las que la prensa confirmo.
-U19 = ("2025-01-05 (domingo); hora original no asignada. Aportado por el usuario tras su busqueda; "
+U19 = ("2025-01-05 (domingo). Aportado por el usuario tras su busqueda; "
        "no verificado por Claude (legaseriea.it inaccesible); coherente con la prensa: resto de la 19a el 4-5 enero")
 ORIGINAL_PRENSA = {
     ("bologna", "ac milan"): ("2024-10-26 (prensa: Sky Sport, calcioefinanza; partido de la 9a, aplazado por temporal)", ),

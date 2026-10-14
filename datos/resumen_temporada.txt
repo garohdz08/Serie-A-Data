@@ -23,17 +23,16 @@ sofascore,922,81,22,922
 == Comparacion ESPN vs Sofascore
 nivel,estado,filas
 GOL,COINCIDE,902
-GOL,DISCREPA,3
-GOL,RESUELTO_POR_USUARIO,17
+GOL,RESUELTO_POR_USUARIO,20
 PARTIDO,COINCIDE,380
 
 -- Discrepancias (todas las filas que no COINCIDEN), CSV crudo
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
-"1","GOL","Internazionale - Torino","DISCREPA","minuto","51' Lautaro Martínez (Internazionale)","52' Lautaro Martínez (Inter)"
-"4","GOL","Udinese - AC Milan","DISCREPA","minuto","39' Christian Pulisic (AC Milan)","40' Christian Pulišić (AC Milan)"
+"1","GOL","Internazionale - Torino","RESUELTO_POR_USUARIO","minuto","51' Lautaro Martínez (Internazionale)","52' Lautaro Martínez (Inter)"
+"4","GOL","Udinese - AC Milan","RESUELTO_POR_USUARIO","minuto","39' Christian Pulisic (AC Milan)","40' Christian Pulišić (AC Milan)"
 "4","GOL","Fiorentina - Como","RESUELTO_POR_USUARIO","goleador_variante","65' Marc-Oliver Kempf (Como)","65' Marc Kempf (Como)"
 "7","GOL","Como - Juventus","RESUELTO_POR_USUARIO","goleador_variante","4' Marc-Oliver Kempf (Como)","4' Marc Kempf (Como)"
-"8","GOL","Fiorentina - Bologna","DISCREPA","minuto","73' Albert Gudmundsson (Fiorentina) PEN","74' Albert Guðmundsson (Fiorentina) PEN"
+"8","GOL","Fiorentina - Bologna","RESUELTO_POR_USUARIO","minuto","73' Albert Gudmundsson (Fiorentina) PEN","74' Albert Guðmundsson (Fiorentina) PEN"
 "12","GOL","Sassuolo - Pisa","RESUELTO_POR_USUARIO","goleador_variante","81' Henrik Meister (Pisa)","81' Henrik Wendel Meister (Pisa)"
 "16","GOL","Como - AC Milan","RESUELTO_POR_USUARIO","goleador_variante","10' Marc-Oliver Kempf (Como)","10' Marc Kempf (Como)"
 "20","GOL","Udinese - Pisa","RESUELTO_POR_USUARIO","goleador_variante","67' Henrik Meister (Pisa)","67' Henrik Wendel Meister (Pisa)"
@@ -51,7 +50,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
 "36","GOL","Napoli - Bologna","RESUELTO_POR_USUARIO","goleador_variante","90+1' Jon Rowe (Bologna)","90+1' Jonathan Rowe (Bologna)"
 
 resumen por tipo: {'minuto': 3, 'goleador_variante': 16, 'goleador_distinto': 1}
-sin resolver=3 resueltas_por_usuario=17
+sin resolver=0 resueltas_por_usuario=20
 minuto=3 goleador_distinto=1 goleador_variante(nombre corto/largo)=16 sin_pareja=0
 
 == Validaciones (suma=marcador, minutos 1-120, sin duplicados)

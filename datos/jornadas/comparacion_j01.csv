@@ -29,4 +29,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 1,GOL,Internazionale - Torino,COINCIDE,,36' Marcus Thuram (Internazionale),36' Marcus Thuram (Inter),736791,13981421,,
 1,GOL,Internazionale - Torino,COINCIDE,,62' Marcus Thuram (Internazionale),62' Marcus Thuram (Inter),736791,13981421,,
 1,GOL,Internazionale - Torino,COINCIDE,,72' Ange-Yoan Bonny (Internazionale),72' Ange-Yoan Bonny (Inter),736791,13981421,,
-1,GOL,Internazionale - Torino,DISCREPA,minuto,51' Lautaro Martínez (Internazionale),52' Lautaro Martínez (Inter),736791,13981421,,
+1,GOL,Internazionale - Torino,RESUELTO_POR_USUARIO,minuto,51' Lautaro Martínez (Internazionale),52' Lautaro Martínez (Inter),736791,13981421,minuto elegido: 51' (RESUELTO_POR_CRITERIO_USUARIO),

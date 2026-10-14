@@ -13,7 +13,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 4,PARTIDO,Udinese - AC Milan,COINCIDE,,2025-09-20T18:45Z 0-3 (3 goles),2025-09-20T18:45Z 0-3 (3 goles),736818,13981453,,
 4,GOL,Udinese - AC Milan,COINCIDE,,46' Youssouf Fofana (AC Milan),46' Youssouf Fofana (AC Milan),736818,13981453,,
 4,GOL,Udinese - AC Milan,COINCIDE,,53' Christian Pulisic (AC Milan),53' Christian Pulišić (AC Milan),736818,13981453,,
-4,GOL,Udinese - AC Milan,DISCREPA,minuto,39' Christian Pulisic (AC Milan),40' Christian Pulišić (AC Milan),736818,13981453,,
+4,GOL,Udinese - AC Milan,RESUELTO_POR_USUARIO,minuto,39' Christian Pulisic (AC Milan),40' Christian Pulišić (AC Milan),736818,13981453,minuto elegido: 39' (RESUELTO_POR_CRITERIO_USUARIO),
 4,PARTIDO,Lazio - AS Roma,COINCIDE,,2025-09-21T10:30Z 0-1 (1 goles),2025-09-21T10:30Z 0-1 (1 goles),736819,13981457,,
 4,GOL,Lazio - AS Roma,COINCIDE,,38' Lorenzo Pellegrini (AS Roma),38' Lorenzo Pellegrini (AS Roma),736819,13981457,,
 4,PARTIDO,Cremonese - Parma,COINCIDE,,2025-09-21T13:00Z 0-0 (0 goles),2025-09-21T13:00Z 0-0 (0 goles),736816,13981463,,
