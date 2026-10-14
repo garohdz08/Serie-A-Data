@@ -26,4 +26,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 22,PARTIDO,Lazio - Napoli,COINCIDE,,2024-01-28T17:00Z 0-0 (0 goles),2024-01-28T17:00Z 0-0 (0 goles),679434,11406886,,
 22,PARTIDO,Fiorentina - Internazionale,COINCIDE,,2024-01-28T19:45Z 0-1 (1 goles),2024-01-28T19:45Z 0-1 (1 goles),679435,11406883,,
 22,GOL,Fiorentina - Internazionale,COINCIDE,,14' Lautaro Martínez (Internazionale),14' Lautaro Martínez (Inter),679435,11406883,,
-22,PARTIDO,US Salernitana 1919 - AS Roma,SOLO_SOFASCORE,partido,,,,11406889,,
+22,PARTIDO,Salernitana - AS Roma,COINCIDE,,2024-01-29T19:45Z 1-2 (3 goles),2024-01-29T19:45Z 1-2 (3 goles),679431,11406889,,
+22,GOL,Salernitana - AS Roma,COINCIDE,,51' Paulo Dybala (AS Roma) PEN,51' Paulo Dybala (AS Roma) PEN,679431,11406889,,
+22,GOL,Salernitana - AS Roma,COINCIDE,,66' Lorenzo Pellegrini (AS Roma),66' Lorenzo Pellegrini (AS Roma),679431,11406889,,
+22,GOL,Salernitana - AS Roma,COINCIDE,,70' Grigoris Kastanos (Salernitana),70' Grigoris Kastanos (US Salernitana 1919),679431,11406889,,
