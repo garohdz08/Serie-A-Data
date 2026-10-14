@@ -1,0 +1,41 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+12,PARTIDO,Genoa - Como,COINCIDE,,2024-11-07T19:45Z 1-1 (2 goles),2024-11-07T19:45Z 1-1 (2 goles),712229,12504693
+12,GOL,Genoa - Como,COINCIDE,,17' Lucas Da Cunha (Como),17' Lucas Da Cunha (Como),712229,12504693
+12,GOL,Genoa - Como,COINCIDE,,90+2' Alessandro Vogliacco (Genoa),90+2' Alessandro Vogliacco (Genoa),712229,12504693
+12,PARTIDO,Lecce - Empoli,COINCIDE,,2024-11-08T19:45Z 1-1 (2 goles),2024-11-08T19:45Z 1-1 (2 goles),712231,12504694
+12,GOL,Lecce - Empoli,COINCIDE,,33' Pietro Pellegri (Empoli),33' Pietro Pellegri (Empoli),712231,12504694
+12,GOL,Lecce - Empoli,COINCIDE,,77' Santiago Pierotti (Lecce),77' Santiago Pierotti (Lecce),712231,12504694
+12,PARTIDO,Venezia - Parma,COINCIDE,,2024-11-09T14:00Z 1-2 (3 goles),2024-11-09T14:00Z 1-2 (3 goles),712224,12504688
+12,GOL,Venezia - Parma,COINCIDE,,5' Hans Nicolussi Caviglia (Venezia),5' Hans Nicolussi Caviglia (Venezia),712224,12504688
+12,GOL,Venezia - Parma,COINCIDE,,17' Emanuele Valeri (Parma),17' Emanuele Valeri (Parma),712224,12504688
+12,GOL,Venezia - Parma,COINCIDE,,68' Ange-Yoan Bonny (Parma),68' Ange-Yoan Bonny (Parma),712224,12504688
+12,PARTIDO,Cagliari - AC Milan,COINCIDE,,2024-11-09T17:00Z 3-3 (6 goles),2024-11-09T17:00Z 3-3 (6 goles),712232,12504701
+12,GOL,Cagliari - AC Milan,COINCIDE,,2' Nadir Zortea (Cagliari),2' Nadir Zortea (Cagliari),712232,12504701
+12,GOL,Cagliari - AC Milan,COINCIDE,,15' Rafael Leão (AC Milan),15' Rafael Leão (AC Milan),712232,12504701
+12,GOL,Cagliari - AC Milan,COINCIDE,,40' Rafael Leão (AC Milan),40' Rafael Leão (AC Milan),712232,12504701
+12,GOL,Cagliari - AC Milan,COINCIDE,,53' Gabriele Zappa (Cagliari),53' Gabriele Zappa (Cagliari),712232,12504701
+12,GOL,Cagliari - AC Milan,COINCIDE,,69' Tammy Abraham (AC Milan),69' Tammy Abraham (AC Milan),712232,12504701
+12,GOL,Cagliari - AC Milan,COINCIDE,,89' Gabriele Zappa (Cagliari),89' Gabriele Zappa (Cagliari),712232,12504701
+12,PARTIDO,Juventus - Torino,COINCIDE,,2024-11-09T19:45Z 2-0 (2 goles),2024-11-09T19:45Z 2-0 (2 goles),712230,12504692
+12,GOL,Juventus - Torino,COINCIDE,,18' Timothy Weah (Juventus),18' Timothy Weah (Juventus),712230,12504692
+12,GOL,Juventus - Torino,COINCIDE,,84' Kenan Yildiz (Juventus),84' Kenan Yıldız (Juventus),712230,12504692
+12,PARTIDO,Atalanta - Udinese,COINCIDE,,2024-11-10T11:30Z 2-1 (3 goles),2024-11-10T11:30Z 2-1 (3 goles),712226,12504697
+12,GOL,Atalanta - Udinese,COINCIDE,,45+3' Hassane Kamara (Udinese),45+3' Hassane Kamara (Udinese),712226,12504697
+12,GOL,Atalanta - Udinese,COINCIDE,,56' Mario Pasalic (Atalanta),56' Mario Pašalić (Atalanta),712226,12504697
+12,GOL,Atalanta - Udinese,COINCIDE,,60' Isaak Touré (Atalanta) AUTOGOL,60' Isaak Touré (Atalanta) AUTOGOL,712226,12504697
+12,PARTIDO,AS Roma - Bologna,COINCIDE,,2024-11-10T14:00Z 2-3 (5 goles),2024-11-10T14:00Z 2-3 (5 goles),712223,12504690
+12,GOL,AS Roma - Bologna,COINCIDE,,25' Santiago Castro (Bologna),25' Santiago Castro (Bologna),712223,12504690
+12,GOL,AS Roma - Bologna,COINCIDE,,63' Stephan El Shaarawy (AS Roma),63' Stephan El Shaarawy (AS Roma),712223,12504690
+12,GOL,AS Roma - Bologna,COINCIDE,,66' Riccardo Orsolini (Bologna),66' Riccardo Orsolini (Bologna),712223,12504690
+12,GOL,AS Roma - Bologna,COINCIDE,,77' Jesper Karlsson (Bologna),77' Jesper Karlsson (Bologna),712223,12504690
+12,GOL,AS Roma - Bologna,COINCIDE,,82' Stephan El Shaarawy (AS Roma),82' Stephan El Shaarawy (AS Roma),712223,12504690
+12,PARTIDO,Fiorentina - Hellas Verona,COINCIDE,,2024-11-10T14:00Z 3-1 (4 goles),2024-11-10T14:00Z 3-1 (4 goles),712228,12504696
+12,GOL,Fiorentina - Hellas Verona,COINCIDE,,4' Moise Kean (Fiorentina),4' Moise Kean (Fiorentina),712228,12504696
+12,GOL,Fiorentina - Hellas Verona,COINCIDE,,18' Suat Serdar (Hellas Verona),18' Suat Serdar (Hellas Verona),712228,12504696
+12,GOL,Fiorentina - Hellas Verona,COINCIDE,,59' Moise Kean (Fiorentina),59' Moise Kean (Fiorentina),712228,12504696
+12,GOL,Fiorentina - Hellas Verona,COINCIDE,,90+2' Moise Kean (Fiorentina),90+2' Moise Kean (Fiorentina),712228,12504696
+12,PARTIDO,Monza - Lazio,COINCIDE,,2024-11-10T17:00Z 0-1 (1 goles),2024-11-10T17:00Z 0-1 (1 goles),712227,12504691
+12,GOL,Monza - Lazio,COINCIDE,,36' Mattia Zaccagni (Lazio),36' Mattia Zaccagni (Lazio),712227,12504691
+12,PARTIDO,Internazionale - Napoli,COINCIDE,,2024-11-10T19:45Z 1-1 (2 goles),2024-11-10T19:45Z 1-1 (2 goles),712225,12504695
+12,GOL,Internazionale - Napoli,COINCIDE,,23' Scott McTominay (Napoli),23' Scott McTominay (SSC Napoli),712225,12504695
+12,GOL,Internazionale - Napoli,COINCIDE,,43' Hakan Çalhanoglu (Internazionale),43' Hakan Çalhanoğlu (Inter),712225,12504695
