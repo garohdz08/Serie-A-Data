@@ -1,0 +1,33 @@
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id
+31,PARTIDO,Genoa - Udinese,COINCIDE,,2025-04-04T18:45Z 1-0 (1 goles),2025-04-04T18:45Z 1-0 (1 goles),712415,12501560
+31,GOL,Genoa - Udinese,COINCIDE,,77' Alessandro Zanoli (Genoa),77' Alessandro Zanoli (Genoa),712415,12501560
+31,PARTIDO,Monza - Como,COINCIDE,,2025-04-05T13:00Z 1-3 (4 goles),2025-04-05T13:00Z 1-3 (4 goles),712418,12501551
+31,GOL,Monza - Como,COINCIDE,,5' Dany Mota (Monza),5' Dany Mota (Monza),712418,12501551
+31,GOL,Monza - Como,COINCIDE,,16' Jonathan Ikoné (Como),16' Jonathan Ikoné (Como),712418,12501551
+31,GOL,Monza - Como,COINCIDE,,39' Assane Diao (Como),39' Assane Diao (Como),712418,12501551
+31,GOL,Monza - Como,COINCIDE,,51' Mërgim Vojvoda (Como),51' Mërgim Vojvoda (Como),712418,12501551
+31,PARTIDO,Parma - Internazionale,COINCIDE,,2025-04-05T16:00Z 2-2 (4 goles),2025-04-05T16:00Z 2-2 (4 goles),712420,12501556
+31,GOL,Parma - Internazionale,COINCIDE,,15' Matteo Darmian (Internazionale),15' Matteo Darmian (Inter),712420,12501556
+31,GOL,Parma - Internazionale,COINCIDE,,45' Marcus Thuram (Internazionale),45' Marcus Thuram (Inter),712420,12501556
+31,GOL,Parma - Internazionale,COINCIDE,,60' Adrián Bernabé (Parma),60' Adrián Bernabé (Parma),712420,12501556
+31,GOL,Parma - Internazionale,COINCIDE,,69' Jacob Ondrejka (Parma),69' Jacob Ondrejka (Parma),712420,12501556
+31,PARTIDO,AC Milan - Fiorentina,COINCIDE,,2025-04-05T18:45Z 2-2 (4 goles),2025-04-05T18:45Z 2-2 (4 goles),712422,12501557
+31,GOL,AC Milan - Fiorentina,COINCIDE,,7' Malick Thiaw (Fiorentina) AUTOGOL,7' Malick Thiaw (Fiorentina) AUTOGOL,712422,12501557
+31,GOL,AC Milan - Fiorentina,COINCIDE,,10' Moise Kean (Fiorentina),10' Moise Kean (Fiorentina),712422,12501557
+31,GOL,AC Milan - Fiorentina,COINCIDE,,23' Tammy Abraham (AC Milan),23' Tammy Abraham (AC Milan),712422,12501557
+31,GOL,AC Milan - Fiorentina,COINCIDE,,64' Luka Jovic (AC Milan),64' Luka Jović (AC Milan),712422,12501557
+31,PARTIDO,Lecce - Venezia,COINCIDE,,2025-04-06T10:30Z 1-1 (2 goles),2025-04-06T10:30Z 1-1 (2 goles),712416,12501549
+31,GOL,Lecce - Venezia,COINCIDE,,50' Antonino Gallo (Venezia) AUTOGOL,50' Antonino Gallo (Venezia) AUTOGOL,712416,12501549
+31,GOL,Lecce - Venezia,COINCIDE,,65' Federico Baschirotto (Lecce),65' Federico Baschirotto (Lecce),712416,12501549
+31,PARTIDO,Empoli - Cagliari,COINCIDE,,2025-04-06T13:00Z 0-0 (0 goles),2025-04-06T13:00Z 0-0 (0 goles),712414,12501554
+31,PARTIDO,Torino - Hellas Verona,COINCIDE,,2025-04-06T13:00Z 1-1 (2 goles),2025-04-06T13:00Z 1-1 (2 goles),712419,12501555
+31,GOL,Torino - Hellas Verona,COINCIDE,,64' Amin Sarr (Hellas Verona),64' Amin Sarr (Hellas Verona),712419,12501555
+31,GOL,Torino - Hellas Verona,COINCIDE,,67' Eljif Elmas (Torino),67' Eljif Elmas (Torino),712419,12501555
+31,PARTIDO,Atalanta - Lazio,COINCIDE,,2025-04-06T16:00Z 0-1 (1 goles),2025-04-06T16:00Z 0-1 (1 goles),712417,12501550
+31,GOL,Atalanta - Lazio,COINCIDE,,54' Gustav Isaksen (Lazio),54' Gustav Isaksen (Lazio),712417,12501550
+31,PARTIDO,AS Roma - Juventus,COINCIDE,,2025-04-06T18:45Z 1-1 (2 goles),2025-04-06T18:45Z 1-1 (2 goles),712421,12501558
+31,GOL,AS Roma - Juventus,COINCIDE,,40' Manuel Locatelli (Juventus),40' Manuel Locatelli (Juventus),712421,12501558
+31,GOL,AS Roma - Juventus,COINCIDE,,49' Eldor Shomurodov (AS Roma),49' Eldor Shomurodov (AS Roma),712421,12501558
+31,PARTIDO,Bologna - Napoli,COINCIDE,,2025-04-07T18:45Z 1-1 (2 goles),2025-04-07T18:45Z 1-1 (2 goles),712413,12501553
+31,GOL,Bologna - Napoli,COINCIDE,,18' Frank Anguissa (Napoli),18' Frank Anguissa (SSC Napoli),712413,12501553
+31,GOL,Bologna - Napoli,COINCIDE,,64' Dan Ndoye (Bologna),64' Dan Ndoye (Bologna),712413,12501553
