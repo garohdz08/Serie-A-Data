@@ -1,5 +1,10 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
-32,PARTIDO,Lazio - US Salernitana 1919,SOLO_SOFASCORE,partido,,,,11406776,,
+32,PARTIDO,Lazio - Salernitana,COINCIDE,,2024-04-12T18:45Z 4-1 (5 goles),2024-04-12T18:45Z 4-1 (5 goles),679154,11406776,,
+32,GOL,Lazio - Salernitana,COINCIDE,,7' Felipe Anderson (Lazio),7' Felipe Anderson (Lazio),679154,11406776,,
+32,GOL,Lazio - Salernitana,COINCIDE,,14' Matías Vecino (Lazio),14' Matías Vecino (Lazio),679154,11406776,,
+32,GOL,Lazio - Salernitana,COINCIDE,,16' Loum Tchaouna (Salernitana),16' Loum Tchaouna (US Salernitana 1919),679154,11406776,,
+32,GOL,Lazio - Salernitana,COINCIDE,,35' Felipe Anderson (Lazio),35' Felipe Anderson (Lazio),679154,11406776,,
+32,GOL,Lazio - Salernitana,COINCIDE,,87' Gustav Isaksen (Lazio),87' Gustav Isaksen (Lazio),679154,11406776,,
 32,PARTIDO,Lecce - Empoli,COINCIDE,,2024-04-13T13:00Z 1-0 (1 goles),2024-04-13T13:00Z 1-0 (1 goles),679153,11406774,,
 32,GOL,Lecce - Empoli,COINCIDE,,89' Nicola Sansone (Lecce),89' Nicola Sansone (Lecce),679153,11406774,,
 32,PARTIDO,Torino - Juventus,COINCIDE,,2024-04-13T16:00Z 0-0 (0 goles),2024-04-13T16:00Z 0-0 (0 goles),679150,11406780,,
