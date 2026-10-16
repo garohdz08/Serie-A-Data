@@ -25,7 +25,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 6,GOL,Napoli - Udinese,COINCIDE,,81' Giovanni Simeone (Napoli),81' Giovanni Simeone (SSC Napoli),679278,11407394,,
 6,PARTIDO,Frosinone - Fiorentina,COINCIDE,,2023-09-28T16:30Z 1-1 (2 goles),2023-09-28T16:30Z 1-1 (2 goles),679272,11407387,,
 6,GOL,Frosinone - Fiorentina,COINCIDE,,70' Matìas Soulè (Frosinone),70' Matías Soulé (Frosinone),679272,11407387,,
-6,GOL,Frosinone - Fiorentina,DISCREPA,goleador_variante,19' Nico González (Fiorentina),19' Nicolás González (Fiorentina),679272,11407387,,
+6,GOL,Frosinone - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,19' Nico González (Fiorentina),19' Nicolás González (Fiorentina),679272,11407387,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 6,PARTIDO,Monza - Bologna,COINCIDE,,2023-09-28T16:30Z 0-0 (0 goles),2023-09-28T16:30Z 0-0 (0 goles),679277,11407393,,
 6,PARTIDO,Genoa - AS Roma,COINCIDE,,2023-09-28T18:45Z 4-1 (5 goles),2023-09-28T18:45Z 4-1 (5 goles),679273,11407388,,
 6,GOL,Genoa - AS Roma,COINCIDE,,5' Albert Gudmundsson (Genoa),5' Albert Guðmundsson (Genoa),679273,11407388,,

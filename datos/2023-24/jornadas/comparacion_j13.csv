@@ -36,7 +36,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 13,GOL,Hellas Verona - Lecce,COINCIDE,,30' Rémi Oudin (Lecce),30' Rémi Oudin (Lecce),679342,11407460,,
 13,GOL,Hellas Verona - Lecce,COINCIDE,,41' Cyril Ngonge (Hellas Verona),41' Cyril Ngonge (Hellas Verona),679342,11407460,,
 13,GOL,Hellas Verona - Lecce,COINCIDE,,69' Joan Gonzàlez (Lecce),69' Joan González (Lecce),679342,11407460,,
-13,GOL,Hellas Verona - Lecce,DISCREPA,goleador_distinto,77' Milan Djuric (Hellas Verona),77' Milan Đurić (Hellas Verona),679342,11407460,,
+13,GOL,Hellas Verona - Lecce,RESUELTO_POR_USUARIO,goleador_distinto,77' Milan Djuric (Hellas Verona),77' Milan Đurić (Hellas Verona),679342,11407460,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 13,PARTIDO,Bologna - Torino,COINCIDE,,2023-11-27T19:45Z 2-0 (2 goles),2023-11-27T19:45Z 2-0 (2 goles),679345,11407456,,
 13,GOL,Bologna - Torino,COINCIDE,,56' Giovanni Fabbian (Bologna),56' Giovanni Fabbian (Bologna),679345,11407456,,
 13,GOL,Bologna - Torino,COINCIDE,,90+1' Joshua Zirkzee (Bologna),90+1' Joshua Zirkzee (Bologna),679345,11407456,,

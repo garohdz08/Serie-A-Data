@@ -19,8 +19,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 8,GOL,Monza - Salernitana,COINCIDE,,82' Matteo Pessina (Monza) PEN,82' Matteo Pessina (Monza) PEN,679291,11407413,,
 8,PARTIDO,Frosinone - Hellas Verona,COINCIDE,,2023-10-08T13:00Z 2-1 (3 goles),2023-10-08T13:00Z 2-1 (3 goles),679292,11407407,,
 8,GOL,Frosinone - Hellas Verona,COINCIDE,,66' Matìas Soulè (Frosinone),66' Matías Soulé (Frosinone),679292,11407407,,
-8,GOL,Frosinone - Hellas Verona,DISCREPA,goleador_distinto,45+1' Reiner (Frosinone),45+1' Reinier (Frosinone),679292,11407407,,
-8,GOL,Frosinone - Hellas Verona,DISCREPA,goleador_distinto,90+4' Milan Djuric (Hellas Verona),90+4' Milan Đurić (Hellas Verona),679292,11407407,,
+8,GOL,Frosinone - Hellas Verona,RESUELTO_POR_USUARIO,goleador_distinto,45+1' Reiner (Frosinone),45+1' Reinier (Frosinone),679292,11407407,misma persona; nombre canonico = el mas largo (mismo criterio que 2024-25 y 2025-26),Reinier
+8,GOL,Frosinone - Hellas Verona,RESUELTO_POR_USUARIO,goleador_distinto,90+4' Milan Djuric (Hellas Verona),90+4' Milan Đurić (Hellas Verona),679292,11407407,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 8,PARTIDO,Lazio - Atalanta,COINCIDE,,2023-10-08T13:00Z 3-2 (5 goles),2023-10-08T13:00Z 3-2 (5 goles),679298,11407411,,
 8,GOL,Lazio - Atalanta,COINCIDE,,5' Charles De Ketelaere (Lazio) AUTOGOL,5' Charles De Ketelaere (Lazio) AUTOGOL,679298,11407411,,
 8,GOL,Lazio - Atalanta,COINCIDE,,11' Valentín Castellanos (Lazio),11' Valentín Castellanos (Lazio),679298,11407411,,
@@ -37,4 +37,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 8,GOL,Napoli - Fiorentina,COINCIDE,,7' Josip Brekalo (Fiorentina),7' Josip Brekalo (Fiorentina),679295,11407414,,
 8,GOL,Napoli - Fiorentina,COINCIDE,,45+5' Victor Osimhen (Napoli) PEN,45+5' Victor Osimhen (SSC Napoli) PEN,679295,11407414,,
 8,GOL,Napoli - Fiorentina,COINCIDE,,63' Giacomo Bonaventura (Fiorentina),63' Giacomo Bonaventura (Fiorentina),679295,11407414,,
-8,GOL,Napoli - Fiorentina,DISCREPA,goleador_variante,90+3' Nico González (Fiorentina),90+3' Nicolás González (Fiorentina),679295,11407414,,
+8,GOL,Napoli - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,90+3' Nico González (Fiorentina),90+3' Nicolás González (Fiorentina),679295,11407414,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González

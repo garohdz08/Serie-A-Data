@@ -13,7 +13,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 21,GOL,Frosinone - Cagliari,COINCIDE,,64' Luca Mazzitelli (Frosinone),64' Luca Mazzitelli (Frosinone),679425,11406904,,
 21,GOL,Frosinone - Cagliari,COINCIDE,,75' Matìas Soulè (Frosinone),75' Matías Soulé (Frosinone),679425,11406904,,
 21,GOL,Frosinone - Cagliari,COINCIDE,,90+6' Kaio Jorge (Frosinone),90+6' Kaio Jorge (Frosinone),679425,11406904,,
-21,GOL,Frosinone - Cagliari,DISCREPA,goleador_variante,26' Sulemana (Cagliari),26' Ibrahim Sulemana (Cagliari),679425,11406904,,
+21,GOL,Frosinone - Cagliari,RESUELTO_POR_USUARIO,goleador_variante,26' Sulemana (Cagliari),26' Ibrahim Sulemana (Cagliari),679425,11406904,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Ibrahim Sulemana
 21,PARTIDO,Empoli - Monza,COINCIDE,,2024-01-21T14:00Z 3-0 (3 goles),2024-01-21T14:00Z 3-0 (3 goles),679422,11406906,,
 21,GOL,Empoli - Monza,COINCIDE,,13' Szymon Zurkowski (Empoli),13' Szymon Żurkowski (Empoli),679422,11406906,,
 21,GOL,Empoli - Monza,COINCIDE,,38' Szymon Zurkowski (Empoli),38' Szymon Żurkowski (Empoli),679422,11406906,,
@@ -25,7 +25,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 21,PARTIDO,Lecce - Juventus,COINCIDE,,2024-01-21T19:45Z 0-3 (3 goles),2024-01-21T19:45Z 0-3 (3 goles),679427,11406905,,
 21,GOL,Lecce - Juventus,COINCIDE,,59' Dusan Vlahovic (Juventus),59' Dušan Vlahović (Juventus),679427,11406905,,
 21,GOL,Lecce - Juventus,COINCIDE,,68' Dusan Vlahovic (Juventus),68' Dušan Vlahović (Juventus),679427,11406905,,
-21,GOL,Lecce - Juventus,DISCREPA,goleador_variante,85' Bremer (Juventus),85' Gleison Bremer (Juventus),679427,11406905,,
+21,GOL,Lecce - Juventus,RESUELTO_POR_USUARIO,goleador_variante,85' Bremer (Juventus),85' Gleison Bremer (Juventus),679427,11406905,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Gleison Bremer
 21,PARTIDO,Bologna - Fiorentina,COINCIDE,,2024-02-14T18:00Z 2-0 (2 goles),2024-02-14T18:00Z 2-0 (2 goles),679423,11406907,,
 21,GOL,Bologna - Fiorentina,COINCIDE,,12' Riccardo Orsolini (Bologna),12' Riccardo Orsolini (Bologna),679423,11406907,,
 21,GOL,Bologna - Fiorentina,COINCIDE,,90+5' Jens Odgaard (Bologna),90+5' Jens Odgaard (Bologna),679423,11406907,,

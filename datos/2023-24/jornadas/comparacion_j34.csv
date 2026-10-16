@@ -28,8 +28,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 34,GOL,Fiorentina - Sassuolo,COINCIDE,,54' Lucas Martínez Quarta (Fiorentina),54' Lucas Martínez Quarta (Fiorentina),679177,11406766,,
 34,GOL,Fiorentina - Sassuolo,COINCIDE,,57' Kristian Thorstvedt (Sassuolo),57' Kristian Thorstvedt (Sassuolo),679177,11406766,,
 34,GOL,Fiorentina - Sassuolo,COINCIDE,,62' Antonín Barák (Fiorentina),62' Antonín Barák (Fiorentina),679177,11406766,,
-34,GOL,Fiorentina - Sassuolo,DISCREPA,goleador_variante,58' Nico González (Fiorentina),58' Nicolás González (Fiorentina),679177,11406766,,
-34,GOL,Fiorentina - Sassuolo,DISCREPA,goleador_variante,66' Nico González (Fiorentina),66' Nicolás González (Fiorentina),679177,11406766,,
+34,GOL,Fiorentina - Sassuolo,RESUELTO_POR_USUARIO,goleador_variante,58' Nico González (Fiorentina),58' Nicolás González (Fiorentina),679177,11406766,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
+34,GOL,Fiorentina - Sassuolo,RESUELTO_POR_USUARIO,goleador_variante,66' Nico González (Fiorentina),66' Nicolás González (Fiorentina),679177,11406766,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 34,PARTIDO,Genoa - Cagliari,COINCIDE,,2024-04-29T18:45Z 3-0 (3 goles),2024-04-29T18:45Z 3-0 (3 goles),679175,11406767,,
 34,GOL,Genoa - Cagliari,COINCIDE,,17' Morten Thorsby (Genoa),17' Morten Thorsby (Genoa),679175,11406767,,
 34,GOL,Genoa - Cagliari,COINCIDE,,27' Morten Frendrup (Genoa),27' Morten Frendrup (Genoa),679175,11406767,,

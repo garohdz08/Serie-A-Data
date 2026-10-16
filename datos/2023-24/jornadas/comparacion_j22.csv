@@ -5,7 +5,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 22,GOL,Cagliari - Torino,COINCIDE,,77' Nicolas Viola (Cagliari),77' Nicolas Viola (Cagliari),679439,11406884,,
 22,PARTIDO,Atalanta - Udinese,COINCIDE,,2024-01-27T14:00Z 2-0 (2 goles),2024-01-27T14:00Z 2-0 (2 goles),679430,11406881,,
 22,GOL,Atalanta - Udinese,COINCIDE,,45+1' Gianluca Scamacca (Atalanta),45+1' Gianluca Scamacca (Atalanta),679430,11406881,,
-22,GOL,Atalanta - Udinese,DISCREPA,goleador_distinto,33' Alexey Miranchuk (Atalanta),33' Aleksey Miranchuk (Atalanta),679430,11406881,,
+22,GOL,Atalanta - Udinese,RESUELTO_POR_USUARIO,goleador_distinto,33' Alexey Miranchuk (Atalanta),33' Aleksey Miranchuk (Atalanta),679430,11406881,misma persona; nombre canonico = el mas largo (mismo criterio que 2024-25 y 2025-26),Aleksey Miranchuk
 22,PARTIDO,Juventus - Empoli,COINCIDE,,2024-01-27T17:00Z 1-1 (2 goles),2024-01-27T17:00Z 1-1 (2 goles),679437,11406885,,
 22,GOL,Juventus - Empoli,COINCIDE,,50' Dusan Vlahovic (Juventus),50' Dušan Vlahović (Juventus),679437,11406885,,
 22,GOL,Juventus - Empoli,COINCIDE,,70' Tommaso Baldanzi (Empoli),70' Tommaso Baldanzi (Empoli),679437,11406885,,

@@ -38,5 +38,5 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 36,GOL,Lecce - Udinese,COINCIDE,,85' Lazar Samardzic (Udinese),85' Lazar Samardžić (Udinese),679192,11406728,,
 36,PARTIDO,Fiorentina - Monza,COINCIDE,,2024-05-13T18:45Z 2-1 (3 goles),2024-05-13T18:45Z 2-1 (3 goles),679197,11406765,,
 36,GOL,Fiorentina - Monza,COINCIDE,,78' Arthur (Fiorentina),78' Arthur (Fiorentina),679197,11406765,,
-36,GOL,Fiorentina - Monza,DISCREPA,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),679197,11406765,,
-36,GOL,Fiorentina - Monza,DISCREPA,goleador_variante,32' Nico González (Fiorentina),32' Nicolás González (Fiorentina),679197,11406765,,
+36,GOL,Fiorentina - Monza,RESUELTO_POR_USUARIO,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),679197,11406765,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
+36,GOL,Fiorentina - Monza,RESUELTO_POR_USUARIO,goleador_variante,32' Nico González (Fiorentina),32' Nicolás González (Fiorentina),679197,11406765,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González

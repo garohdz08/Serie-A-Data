@@ -24,7 +24,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 17,GOL,Torino - Udinese,COINCIDE,,88' Ivan Ilic (Torino),88' Ivan Ilić (Torino),679385,11407504,,
 17,PARTIDO,Hellas Verona - Cagliari,COINCIDE,,2023-12-23T17:00Z 2-0 (2 goles),2023-12-23T17:00Z 2-0 (2 goles),679386,11407498,,
 17,GOL,Hellas Verona - Cagliari,COINCIDE,,53' Cyril Ngonge (Hellas Verona),53' Cyril Ngonge (Hellas Verona),679386,11407498,,
-17,GOL,Hellas Verona - Cagliari,DISCREPA,goleador_distinto,90' Milan Djuric (Hellas Verona),90' Milan Đurić (Hellas Verona),679386,11407498,,
+17,GOL,Hellas Verona - Cagliari,RESUELTO_POR_USUARIO,goleador_distinto,90' Milan Djuric (Hellas Verona),90' Milan Đurić (Hellas Verona),679386,11407498,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 17,PARTIDO,Internazionale - Lecce,COINCIDE,,2023-12-23T17:00Z 2-0 (2 goles),2023-12-23T17:00Z 2-0 (2 goles),679380,11407499,,
 17,GOL,Internazionale - Lecce,COINCIDE,,43' Yann Bisseck (Internazionale),43' Yann Bisseck (Inter),679380,11407499,,
 17,GOL,Internazionale - Lecce,COINCIDE,,78' Nicolò Barella (Internazionale),78' Nicolò Barella (Inter),679380,11407499,,

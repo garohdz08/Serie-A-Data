@@ -23,7 +23,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 31,GOL,Monza - Napoli,COINCIDE,,61' Piotr Zielinski (Napoli),61' Piotr Zieliński (SSC Napoli),679143,11406788,,
 31,GOL,Monza - Napoli,COINCIDE,,62' Andrea Colpani (Monza),62' Andrea Colpani (Monza),679143,11406788,,
 31,GOL,Monza - Napoli,COINCIDE,,69' Giacomo Raspadori (Napoli),69' Giacomo Raspadori (SSC Napoli),679143,11406788,,
-31,GOL,Monza - Napoli,DISCREPA,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),679143,11406788,,
+31,GOL,Monza - Napoli,RESUELTO_POR_USUARIO,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),679143,11406788,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 31,PARTIDO,Cagliari - Atalanta,COINCIDE,,2024-04-07T16:00Z 2-1 (3 goles),2024-04-07T16:00Z 2-1 (3 goles),679148,11406812,,
 31,GOL,Cagliari - Atalanta,COINCIDE,,13' Gianluca Scamacca (Atalanta),13' Gianluca Scamacca (Atalanta),679148,11406812,,
 31,GOL,Cagliari - Atalanta,COINCIDE,,42' Tommaso Augello (Cagliari),42' Tommaso Augello (Cagliari),679148,11406812,,

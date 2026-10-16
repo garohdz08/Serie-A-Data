@@ -4,7 +4,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 38,GOL,Cagliari - Fiorentina,COINCIDE,,64' Alessandro Deiola (Cagliari),64' Alessandro Deiola (Cagliari),679218,11406729,,
 38,GOL,Cagliari - Fiorentina,COINCIDE,,85' Kingstone Mutandwa (Cagliari),85' Kingstone Mutandwa (Cagliari),679218,11406729,,
 38,GOL,Cagliari - Fiorentina,COINCIDE,,90+13' Arthur (Fiorentina) PEN,90+13' Arthur (Fiorentina) PEN,679218,11406729,,
-38,GOL,Cagliari - Fiorentina,DISCREPA,goleador_variante,89' Nico González (Fiorentina),89' Nicolás González (Fiorentina),679218,11406729,,
+38,GOL,Cagliari - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,89' Nico González (Fiorentina),89' Nicolás González (Fiorentina),679218,11406729,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 38,PARTIDO,Genoa - Bologna,COINCIDE,,2024-05-24T18:45Z 2-0 (2 goles),2024-05-24T18:45Z 2-0 (2 goles),679215,11406723,,
 38,GOL,Genoa - Bologna,COINCIDE,,13' Ruslan Malinovskyi (Genoa),13' Ruslan Malinovskyi (Genoa),679215,11406723,,
 38,GOL,Genoa - Bologna,COINCIDE,,59' Vitinha (Genoa),59' Vitinha (Genoa),679215,11406723,,

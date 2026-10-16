@@ -11,7 +11,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 1,GOL,Genoa - Fiorentina,COINCIDE,,11' Giacomo Bonaventura (Fiorentina),11' Giacomo Bonaventura (Fiorentina),679228,11407337,,
 1,GOL,Genoa - Fiorentina,COINCIDE,,56' Rolando Mandragora (Fiorentina),56' Rolando Mandragora (Fiorentina),679228,11407337,,
 1,GOL,Genoa - Fiorentina,COINCIDE,,58' Davide Biraschi (Genoa),58' Davide Biraschi (Genoa),679228,11407337,,
-1,GOL,Genoa - Fiorentina,DISCREPA,goleador_variante,40' Nico González (Fiorentina),40' Nicolás González (Fiorentina),679228,11407337,,
+1,GOL,Genoa - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,40' Nico González (Fiorentina),40' Nicolás González (Fiorentina),679228,11407337,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 1,PARTIDO,Internazionale - Monza,COINCIDE,,2023-08-19T18:45Z 2-0 (2 goles),2023-08-19T18:45Z 2-0 (2 goles),679229,11407338,,
 1,GOL,Internazionale - Monza,COINCIDE,,8' Lautaro Martínez (Internazionale),8' Lautaro Martínez (Inter),679229,11407338,,
 1,GOL,Internazionale - Monza,COINCIDE,,76' Lautaro Martínez (Internazionale),76' Lautaro Martínez (Inter),679229,11407338,,

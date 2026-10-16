@@ -20,7 +20,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 2,GOL,Fiorentina - Lecce,COINCIDE,,25' Alfred Duncan (Fiorentina),25' Alfred Duncan (Fiorentina),679239,11407345,,
 2,GOL,Fiorentina - Lecce,COINCIDE,,49' Hamza Rafia (Lecce),49' Hamza Rafia (Lecce),679239,11407345,,
 2,GOL,Fiorentina - Lecce,COINCIDE,,76' Nikola Krstovic (Lecce),76' Nikola Krstović (Lecce),679239,11407345,,
-2,GOL,Fiorentina - Lecce,DISCREPA,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),679239,11407345,,
+2,GOL,Fiorentina - Lecce,RESUELTO_POR_USUARIO,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),679239,11407345,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 2,PARTIDO,Juventus - Bologna,COINCIDE,,2023-08-27T16:30Z 1-1 (2 goles),2023-08-27T16:30Z 1-1 (2 goles),679236,11407348,,
 2,GOL,Juventus - Bologna,COINCIDE,,24' Lewis Ferguson (Bologna),24' Lewis Ferguson (Bologna),679236,11407348,,
 2,GOL,Juventus - Bologna,COINCIDE,,80' Dusan Vlahovic (Juventus),80' Dušan Vlahović (Juventus),679236,11407348,,

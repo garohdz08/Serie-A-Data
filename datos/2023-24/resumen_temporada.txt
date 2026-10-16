@@ -18,45 +18,45 @@ sofascore,992,102,24,992
 == Comparacion ESPN vs Sofascore
 nivel,estado,filas
 GOL,COINCIDE,961
-GOL,DISCREPA,31
+GOL,RESUELTO_POR_USUARIO,31
 PARTIDO,COINCIDE,380
 
 -- Discrepancias (todas las filas que no COINCIDEN), CSV crudo
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
-"1","GOL","Genoa - Fiorentina","DISCREPA","goleador_variante","40' Nico González (Fiorentina)","40' Nicolás González (Fiorentina)"
-"2","GOL","Fiorentina - Lecce","DISCREPA","goleador_variante","3' Nico González (Fiorentina)","3' Nicolás González (Fiorentina)"
-"6","GOL","Frosinone - Fiorentina","DISCREPA","goleador_variante","19' Nico González (Fiorentina)","19' Nicolás González (Fiorentina)"
-"7","GOL","Fiorentina - Cagliari","DISCREPA","goleador_variante","3' Nico González (Fiorentina)","3' Nicolás González (Fiorentina)"
-"8","GOL","Frosinone - Hellas Verona","DISCREPA","goleador_distinto","45+1' Reiner (Frosinone)","45+1' Reinier (Frosinone)"
-"8","GOL","Frosinone - Hellas Verona","DISCREPA","goleador_distinto","90+4' Milan Djuric (Hellas Verona)","90+4' Milan Đurić (Hellas Verona)"
-"8","GOL","Napoli - Fiorentina","DISCREPA","goleador_variante","90+3' Nico González (Fiorentina)","90+3' Nicolás González (Fiorentina)"
-"12","GOL","Juventus - Cagliari","DISCREPA","goleador_variante","60' Bremer (Juventus)","60' Gleison Bremer (Juventus)"
-"12","GOL","Fiorentina - Bologna","DISCREPA","goleador_variante","48' Nico González (Fiorentina) PEN","48' Nicolás González (Fiorentina) PEN"
-"13","GOL","Hellas Verona - Lecce","DISCREPA","goleador_distinto","77' Milan Djuric (Hellas Verona)","77' Milan Đurić (Hellas Verona)"
-"14","GOL","Udinese - Hellas Verona","DISCREPA","goleador_distinto","37' Milan Djuric (Hellas Verona) PEN","37' Milan Đurić (Hellas Verona) PEN"
-"16","GOL","Atalanta - Salernitana","DISCREPA","goleador_distinto","89' Alexey Miranchuk (Atalanta)","89' Aleksey Miranchuk (Atalanta)"
-"17","GOL","Hellas Verona - Cagliari","DISCREPA","goleador_distinto","90' Milan Djuric (Hellas Verona)","90' Milan Đurić (Hellas Verona)"
-"20","GOL","Hellas Verona - Empoli","DISCREPA","goleador_distinto","3' Milan Djuric (Hellas Verona)","3' Milan Đurić (Hellas Verona)"
-"21","GOL","Frosinone - Cagliari","DISCREPA","goleador_variante","26' Sulemana (Cagliari)","26' Ibrahim Sulemana (Cagliari)"
-"21","GOL","Lecce - Juventus","DISCREPA","goleador_variante","85' Bremer (Juventus)","85' Gleison Bremer (Juventus)"
-"22","GOL","Atalanta - Udinese","DISCREPA","goleador_distinto","33' Alexey Miranchuk (Atalanta)","33' Aleksey Miranchuk (Atalanta)"
-"24","GOL","Fiorentina - Frosinone","DISCREPA","goleador_variante","53' Nico González (Fiorentina)","53' Nicolás González (Fiorentina)"
-"29","GOL","Atalanta - Fiorentina","DISCREPA","goleador_variante","19' Nico González (Fiorentina)","19' Nicolás González (Fiorentina)"
-"30","GOL","Napoli - Atalanta","DISCREPA","goleador_distinto","26' Alexey Miranchuk (Atalanta)","26' Aleksey Miranchuk (Atalanta)"
-"30","GOL","Genoa - Frosinone","DISCREPA","goleador_distinto","36' Reiner (Frosinone)","36' Reinier (Frosinone)"
-"30","GOL","Cagliari - Hellas Verona","DISCREPA","goleador_variante","74' Sulemana (Cagliari)","74' Ibrahim Sulemana (Cagliari)"
-"31","GOL","Monza - Napoli","DISCREPA","goleador_distinto","9' Milan Djuric (Monza)","9' Milan Đurić (Monza)"
-"34","GOL","Fiorentina - Sassuolo","DISCREPA","goleador_variante","58' Nico González (Fiorentina)","58' Nicolás González (Fiorentina)"
-"34","GOL","Fiorentina - Sassuolo","DISCREPA","goleador_variante","66' Nico González (Fiorentina)","66' Nicolás González (Fiorentina)"
-"35","GOL","Monza - Lazio","DISCREPA","goleador_distinto","73' Milan Djuric (Monza)","73' Milan Đurić (Monza)"
-"35","GOL","Monza - Lazio","DISCREPA","goleador_distinto","90+2' Milan Djuric (Monza)","90+2' Milan Đurić (Monza)"
-"35","GOL","AS Roma - Juventus","DISCREPA","goleador_variante","31' Bremer (Juventus)","31' Gleison Bremer (Juventus)"
-"36","GOL","Fiorentina - Monza","DISCREPA","goleador_distinto","9' Milan Djuric (Monza)","9' Milan Đurić (Monza)"
-"36","GOL","Fiorentina - Monza","DISCREPA","goleador_variante","32' Nico González (Fiorentina)","32' Nicolás González (Fiorentina)"
-"38","GOL","Cagliari - Fiorentina","DISCREPA","goleador_variante","89' Nico González (Fiorentina)","89' Nicolás González (Fiorentina)"
+"1","GOL","Genoa - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","40' Nico González (Fiorentina)","40' Nicolás González (Fiorentina)"
+"2","GOL","Fiorentina - Lecce","RESUELTO_POR_USUARIO","goleador_variante","3' Nico González (Fiorentina)","3' Nicolás González (Fiorentina)"
+"6","GOL","Frosinone - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","19' Nico González (Fiorentina)","19' Nicolás González (Fiorentina)"
+"7","GOL","Fiorentina - Cagliari","RESUELTO_POR_USUARIO","goleador_variante","3' Nico González (Fiorentina)","3' Nicolás González (Fiorentina)"
+"8","GOL","Frosinone - Hellas Verona","RESUELTO_POR_USUARIO","goleador_distinto","45+1' Reiner (Frosinone)","45+1' Reinier (Frosinone)"
+"8","GOL","Frosinone - Hellas Verona","RESUELTO_POR_USUARIO","goleador_distinto","90+4' Milan Djuric (Hellas Verona)","90+4' Milan Đurić (Hellas Verona)"
+"8","GOL","Napoli - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","90+3' Nico González (Fiorentina)","90+3' Nicolás González (Fiorentina)"
+"12","GOL","Juventus - Cagliari","RESUELTO_POR_USUARIO","goleador_variante","60' Bremer (Juventus)","60' Gleison Bremer (Juventus)"
+"12","GOL","Fiorentina - Bologna","RESUELTO_POR_USUARIO","goleador_variante","48' Nico González (Fiorentina) PEN","48' Nicolás González (Fiorentina) PEN"
+"13","GOL","Hellas Verona - Lecce","RESUELTO_POR_USUARIO","goleador_distinto","77' Milan Djuric (Hellas Verona)","77' Milan Đurić (Hellas Verona)"
+"14","GOL","Udinese - Hellas Verona","RESUELTO_POR_USUARIO","goleador_distinto","37' Milan Djuric (Hellas Verona) PEN","37' Milan Đurić (Hellas Verona) PEN"
+"16","GOL","Atalanta - Salernitana","RESUELTO_POR_USUARIO","goleador_distinto","89' Alexey Miranchuk (Atalanta)","89' Aleksey Miranchuk (Atalanta)"
+"17","GOL","Hellas Verona - Cagliari","RESUELTO_POR_USUARIO","goleador_distinto","90' Milan Djuric (Hellas Verona)","90' Milan Đurić (Hellas Verona)"
+"20","GOL","Hellas Verona - Empoli","RESUELTO_POR_USUARIO","goleador_distinto","3' Milan Djuric (Hellas Verona)","3' Milan Đurić (Hellas Verona)"
+"21","GOL","Frosinone - Cagliari","RESUELTO_POR_USUARIO","goleador_variante","26' Sulemana (Cagliari)","26' Ibrahim Sulemana (Cagliari)"
+"21","GOL","Lecce - Juventus","RESUELTO_POR_USUARIO","goleador_variante","85' Bremer (Juventus)","85' Gleison Bremer (Juventus)"
+"22","GOL","Atalanta - Udinese","RESUELTO_POR_USUARIO","goleador_distinto","33' Alexey Miranchuk (Atalanta)","33' Aleksey Miranchuk (Atalanta)"
+"24","GOL","Fiorentina - Frosinone","RESUELTO_POR_USUARIO","goleador_variante","53' Nico González (Fiorentina)","53' Nicolás González (Fiorentina)"
+"29","GOL","Atalanta - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","19' Nico González (Fiorentina)","19' Nicolás González (Fiorentina)"
+"30","GOL","Napoli - Atalanta","RESUELTO_POR_USUARIO","goleador_distinto","26' Alexey Miranchuk (Atalanta)","26' Aleksey Miranchuk (Atalanta)"
+"30","GOL","Genoa - Frosinone","RESUELTO_POR_USUARIO","goleador_distinto","36' Reiner (Frosinone)","36' Reinier (Frosinone)"
+"30","GOL","Cagliari - Hellas Verona","RESUELTO_POR_USUARIO","goleador_variante","74' Sulemana (Cagliari)","74' Ibrahim Sulemana (Cagliari)"
+"31","GOL","Monza - Napoli","RESUELTO_POR_USUARIO","goleador_distinto","9' Milan Djuric (Monza)","9' Milan Đurić (Monza)"
+"34","GOL","Fiorentina - Sassuolo","RESUELTO_POR_USUARIO","goleador_variante","58' Nico González (Fiorentina)","58' Nicolás González (Fiorentina)"
+"34","GOL","Fiorentina - Sassuolo","RESUELTO_POR_USUARIO","goleador_variante","66' Nico González (Fiorentina)","66' Nicolás González (Fiorentina)"
+"35","GOL","Monza - Lazio","RESUELTO_POR_USUARIO","goleador_distinto","73' Milan Djuric (Monza)","73' Milan Đurić (Monza)"
+"35","GOL","Monza - Lazio","RESUELTO_POR_USUARIO","goleador_distinto","90+2' Milan Djuric (Monza)","90+2' Milan Đurić (Monza)"
+"35","GOL","AS Roma - Juventus","RESUELTO_POR_USUARIO","goleador_variante","31' Bremer (Juventus)","31' Gleison Bremer (Juventus)"
+"36","GOL","Fiorentina - Monza","RESUELTO_POR_USUARIO","goleador_distinto","9' Milan Djuric (Monza)","9' Milan Đurić (Monza)"
+"36","GOL","Fiorentina - Monza","RESUELTO_POR_USUARIO","goleador_variante","32' Nico González (Fiorentina)","32' Nicolás González (Fiorentina)"
+"38","GOL","Cagliari - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","89' Nico González (Fiorentina)","89' Nicolás González (Fiorentina)"
 
 resumen por tipo: {'goleador_variante': 17, 'goleador_distinto': 14}
-sin resolver=31 resueltas_por_usuario=0
+sin resolver=0 resueltas_por_usuario=31
 minuto=0 goleador_distinto=14 goleador_variante(nombre corto/largo)=17 sin_pareja=0
 
 == Validaciones (suma=marcador, minutos 1-120, sin duplicados)

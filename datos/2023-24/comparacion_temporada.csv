@@ -11,7 +11,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 1,GOL,Genoa - Fiorentina,COINCIDE,,11' Giacomo Bonaventura (Fiorentina),11' Giacomo Bonaventura (Fiorentina),679228,11407337,,
 1,GOL,Genoa - Fiorentina,COINCIDE,,56' Rolando Mandragora (Fiorentina),56' Rolando Mandragora (Fiorentina),679228,11407337,,
 1,GOL,Genoa - Fiorentina,COINCIDE,,58' Davide Biraschi (Genoa),58' Davide Biraschi (Genoa),679228,11407337,,
-1,GOL,Genoa - Fiorentina,DISCREPA,goleador_variante,40' Nico González (Fiorentina),40' Nicolás González (Fiorentina),679228,11407337,,
+1,GOL,Genoa - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,40' Nico González (Fiorentina),40' Nicolás González (Fiorentina),679228,11407337,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 1,PARTIDO,Internazionale - Monza,COINCIDE,,2023-08-19T18:45Z 2-0 (2 goles),2023-08-19T18:45Z 2-0 (2 goles),679229,11407338,,
 1,GOL,Internazionale - Monza,COINCIDE,,8' Lautaro Martínez (Internazionale),8' Lautaro Martínez (Inter),679229,11407338,,
 1,GOL,Internazionale - Monza,COINCIDE,,76' Lautaro Martínez (Internazionale),76' Lautaro Martínez (Inter),679229,11407338,,
@@ -56,7 +56,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 2,GOL,Fiorentina - Lecce,COINCIDE,,25' Alfred Duncan (Fiorentina),25' Alfred Duncan (Fiorentina),679239,11407345,,
 2,GOL,Fiorentina - Lecce,COINCIDE,,49' Hamza Rafia (Lecce),49' Hamza Rafia (Lecce),679239,11407345,,
 2,GOL,Fiorentina - Lecce,COINCIDE,,76' Nikola Krstovic (Lecce),76' Nikola Krstović (Lecce),679239,11407345,,
-2,GOL,Fiorentina - Lecce,DISCREPA,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),679239,11407345,,
+2,GOL,Fiorentina - Lecce,RESUELTO_POR_USUARIO,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),679239,11407345,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 2,PARTIDO,Juventus - Bologna,COINCIDE,,2023-08-27T16:30Z 1-1 (2 goles),2023-08-27T16:30Z 1-1 (2 goles),679236,11407348,,
 2,GOL,Juventus - Bologna,COINCIDE,,24' Lewis Ferguson (Bologna),24' Lewis Ferguson (Bologna),679236,11407348,,
 2,GOL,Juventus - Bologna,COINCIDE,,80' Dusan Vlahovic (Juventus),80' Dušan Vlahović (Juventus),679236,11407348,,
@@ -208,7 +208,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 6,GOL,Napoli - Udinese,COINCIDE,,81' Giovanni Simeone (Napoli),81' Giovanni Simeone (SSC Napoli),679278,11407394,,
 6,PARTIDO,Frosinone - Fiorentina,COINCIDE,,2023-09-28T16:30Z 1-1 (2 goles),2023-09-28T16:30Z 1-1 (2 goles),679272,11407387,,
 6,GOL,Frosinone - Fiorentina,COINCIDE,,70' Matìas Soulè (Frosinone),70' Matías Soulé (Frosinone),679272,11407387,,
-6,GOL,Frosinone - Fiorentina,DISCREPA,goleador_variante,19' Nico González (Fiorentina),19' Nicolás González (Fiorentina),679272,11407387,,
+6,GOL,Frosinone - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,19' Nico González (Fiorentina),19' Nicolás González (Fiorentina),679272,11407387,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 6,PARTIDO,Monza - Bologna,COINCIDE,,2023-09-28T16:30Z 0-0 (0 goles),2023-09-28T16:30Z 0-0 (0 goles),679277,11407393,,
 6,PARTIDO,Genoa - AS Roma,COINCIDE,,2023-09-28T18:45Z 4-1 (5 goles),2023-09-28T18:45Z 4-1 (5 goles),679273,11407388,,
 6,GOL,Genoa - AS Roma,COINCIDE,,5' Albert Gudmundsson (Genoa),5' Albert Guðmundsson (Genoa),679273,11407388,,
@@ -248,7 +248,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 7,PARTIDO,Fiorentina - Cagliari,COINCIDE,,2023-10-02T18:45Z 3-0 (3 goles),2023-10-02T18:45Z 3-0 (3 goles),679282,11407397,,
 7,GOL,Fiorentina - Cagliari,COINCIDE,,21' Alberto Dossena (Fiorentina) AUTOGOL,21' Alberto Dossena (Fiorentina) AUTOGOL,679282,11407397,,
 7,GOL,Fiorentina - Cagliari,COINCIDE,,90+4' M'Bala Nzola (Fiorentina),90+4' M'bala Nzola (Fiorentina),679282,11407397,,
-7,GOL,Fiorentina - Cagliari,DISCREPA,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),679282,11407397,,
+7,GOL,Fiorentina - Cagliari,RESUELTO_POR_USUARIO,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),679282,11407397,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 8,PARTIDO,Empoli - Udinese,COINCIDE,,2023-10-06T16:30Z 0-0 (0 goles),2023-10-06T16:30Z 0-0 (0 goles),679293,11407406,,
 8,PARTIDO,Lecce - Sassuolo,COINCIDE,,2023-10-06T18:45Z 1-1 (2 goles),2023-10-06T18:45Z 1-1 (2 goles),679297,11407412,,
 8,GOL,Lecce - Sassuolo,COINCIDE,,22' Domenico Berardi (Sassuolo) PEN,22' Domenico Berardi (Sassuolo) PEN,679297,11407412,,
@@ -269,8 +269,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 8,GOL,Monza - Salernitana,COINCIDE,,82' Matteo Pessina (Monza) PEN,82' Matteo Pessina (Monza) PEN,679291,11407413,,
 8,PARTIDO,Frosinone - Hellas Verona,COINCIDE,,2023-10-08T13:00Z 2-1 (3 goles),2023-10-08T13:00Z 2-1 (3 goles),679292,11407407,,
 8,GOL,Frosinone - Hellas Verona,COINCIDE,,66' Matìas Soulè (Frosinone),66' Matías Soulé (Frosinone),679292,11407407,,
-8,GOL,Frosinone - Hellas Verona,DISCREPA,goleador_distinto,45+1' Reiner (Frosinone),45+1' Reinier (Frosinone),679292,11407407,,
-8,GOL,Frosinone - Hellas Verona,DISCREPA,goleador_distinto,90+4' Milan Djuric (Hellas Verona),90+4' Milan Đurić (Hellas Verona),679292,11407407,,
+8,GOL,Frosinone - Hellas Verona,RESUELTO_POR_USUARIO,goleador_distinto,45+1' Reiner (Frosinone),45+1' Reinier (Frosinone),679292,11407407,misma persona; nombre canonico = el mas largo (mismo criterio que 2024-25 y 2025-26),Reinier
+8,GOL,Frosinone - Hellas Verona,RESUELTO_POR_USUARIO,goleador_distinto,90+4' Milan Djuric (Hellas Verona),90+4' Milan Đurić (Hellas Verona),679292,11407407,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 8,PARTIDO,Lazio - Atalanta,COINCIDE,,2023-10-08T13:00Z 3-2 (5 goles),2023-10-08T13:00Z 3-2 (5 goles),679298,11407411,,
 8,GOL,Lazio - Atalanta,COINCIDE,,5' Charles De Ketelaere (Lazio) AUTOGOL,5' Charles De Ketelaere (Lazio) AUTOGOL,679298,11407411,,
 8,GOL,Lazio - Atalanta,COINCIDE,,11' Valentín Castellanos (Lazio),11' Valentín Castellanos (Lazio),679298,11407411,,
@@ -287,7 +287,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 8,GOL,Napoli - Fiorentina,COINCIDE,,7' Josip Brekalo (Fiorentina),7' Josip Brekalo (Fiorentina),679295,11407414,,
 8,GOL,Napoli - Fiorentina,COINCIDE,,45+5' Victor Osimhen (Napoli) PEN,45+5' Victor Osimhen (SSC Napoli) PEN,679295,11407414,,
 8,GOL,Napoli - Fiorentina,COINCIDE,,63' Giacomo Bonaventura (Fiorentina),63' Giacomo Bonaventura (Fiorentina),679295,11407414,,
-8,GOL,Napoli - Fiorentina,DISCREPA,goleador_variante,90+3' Nico González (Fiorentina),90+3' Nicolás González (Fiorentina),679295,11407414,,
+8,GOL,Napoli - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,90+3' Nico González (Fiorentina),90+3' Nicolás González (Fiorentina),679295,11407414,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 9,PARTIDO,Hellas Verona - Napoli,COINCIDE,,2023-10-21T13:00Z 1-3 (4 goles),2023-10-21T13:00Z 1-3 (4 goles),679308,11407418,,
 9,GOL,Hellas Verona - Napoli,COINCIDE,,27' Matteo Politano (Napoli),27' Matteo Politano (SSC Napoli),679308,11407418,,
 9,GOL,Hellas Verona - Napoli,COINCIDE,,43' Khvicha Kvaratskhelia (Napoli),43' Khvicha Kvaratskhelia (SSC Napoli),679308,11407418,,
@@ -404,7 +404,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 12,PARTIDO,Juventus - Cagliari,COINCIDE,,2023-11-11T17:00Z 2-1 (3 goles),2023-11-11T17:00Z 2-1 (3 goles),679336,11407448,,
 12,GOL,Juventus - Cagliari,COINCIDE,,70' Daniele Rugani (Juventus),70' Daniele Rugani (Juventus),679336,11407448,,
 12,GOL,Juventus - Cagliari,COINCIDE,,75' Alberto Dossena (Cagliari),75' Alberto Dossena (Cagliari),679336,11407448,,
-12,GOL,Juventus - Cagliari,DISCREPA,goleador_variante,60' Bremer (Juventus),60' Gleison Bremer (Juventus),679336,11407448,,
+12,GOL,Juventus - Cagliari,RESUELTO_POR_USUARIO,goleador_variante,60' Bremer (Juventus),60' Gleison Bremer (Juventus),679336,11407448,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Gleison Bremer
 12,PARTIDO,Monza - Torino,COINCIDE,,2023-11-11T19:45Z 1-1 (2 goles),2023-11-11T19:45Z 1-1 (2 goles),679338,11407451,,
 12,GOL,Monza - Torino,COINCIDE,,55' Ivan Ilic (Torino),55' Ivan Ilić (Torino),679338,11407451,,
 12,GOL,Monza - Torino,COINCIDE,,65' Andrea Colpani (Monza),65' Andrea Colpani (Monza),679338,11407451,,
@@ -413,7 +413,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 12,PARTIDO,Fiorentina - Bologna,COINCIDE,,2023-11-12T14:00Z 2-1 (3 goles),2023-11-12T14:00Z 2-1 (3 goles),679333,11407445,,
 12,GOL,Fiorentina - Bologna,COINCIDE,,17' Giacomo Bonaventura (Fiorentina),17' Giacomo Bonaventura (Fiorentina),679333,11407445,,
 12,GOL,Fiorentina - Bologna,COINCIDE,,33' Joshua Zirkzee (Bologna) PEN,33' Joshua Zirkzee (Bologna) PEN,679333,11407445,,
-12,GOL,Fiorentina - Bologna,DISCREPA,goleador_variante,48' Nico González (Fiorentina) PEN,48' Nicolás González (Fiorentina) PEN,679333,11407445,,
+12,GOL,Fiorentina - Bologna,RESUELTO_POR_USUARIO,goleador_variante,48' Nico González (Fiorentina) PEN,48' Nicolás González (Fiorentina) PEN,679333,11407445,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 12,PARTIDO,Udinese - Atalanta,COINCIDE,,2023-11-12T14:00Z 1-1 (2 goles),2023-11-12T14:00Z 1-1 (2 goles),679331,11407454,,
 12,GOL,Udinese - Atalanta,COINCIDE,,44' Walace (Udinese),44' Walace (Udinese),679331,11407454,,
 12,GOL,Udinese - Atalanta,COINCIDE,,90+2' Éderson (Atalanta),90+2' Éderson (Atalanta),679331,11407454,,
@@ -458,7 +458,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 13,GOL,Hellas Verona - Lecce,COINCIDE,,30' Rémi Oudin (Lecce),30' Rémi Oudin (Lecce),679342,11407460,,
 13,GOL,Hellas Verona - Lecce,COINCIDE,,41' Cyril Ngonge (Hellas Verona),41' Cyril Ngonge (Hellas Verona),679342,11407460,,
 13,GOL,Hellas Verona - Lecce,COINCIDE,,69' Joan Gonzàlez (Lecce),69' Joan González (Lecce),679342,11407460,,
-13,GOL,Hellas Verona - Lecce,DISCREPA,goleador_distinto,77' Milan Djuric (Hellas Verona),77' Milan Đurić (Hellas Verona),679342,11407460,,
+13,GOL,Hellas Verona - Lecce,RESUELTO_POR_USUARIO,goleador_distinto,77' Milan Djuric (Hellas Verona),77' Milan Đurić (Hellas Verona),679342,11407460,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 13,PARTIDO,Bologna - Torino,COINCIDE,,2023-11-27T19:45Z 2-0 (2 goles),2023-11-27T19:45Z 2-0 (2 goles),679345,11407456,,
 13,GOL,Bologna - Torino,COINCIDE,,56' Giovanni Fabbian (Bologna),56' Giovanni Fabbian (Bologna),679345,11407456,,
 13,GOL,Bologna - Torino,COINCIDE,,90+1' Joshua Zirkzee (Bologna),90+1' Joshua Zirkzee (Bologna),679345,11407456,,
@@ -489,7 +489,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 14,GOL,Udinese - Hellas Verona,COINCIDE,,61' Cyril Ngonge (Hellas Verona),61' Cyril Ngonge (Hellas Verona),679357,11407474,,
 14,GOL,Udinese - Hellas Verona,COINCIDE,,72' Lorenzo Lucca (Udinese),72' Lorenzo Lucca (Udinese),679357,11407474,,
 14,GOL,Udinese - Hellas Verona,COINCIDE,,90+7' Thomas Henry (Hellas Verona),90+7' Thomas Henry (Hellas Verona),679357,11407474,,
-14,GOL,Udinese - Hellas Verona,DISCREPA,goleador_distinto,37' Milan Djuric (Hellas Verona) PEN,37' Milan Đurić (Hellas Verona) PEN,679357,11407474,,
+14,GOL,Udinese - Hellas Verona,RESUELTO_POR_USUARIO,goleador_distinto,37' Milan Djuric (Hellas Verona) PEN,37' Milan Đurić (Hellas Verona) PEN,679357,11407474,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 14,PARTIDO,Sassuolo - AS Roma,COINCIDE,,2023-12-03T17:00Z 1-2 (3 goles),2023-12-03T17:00Z 1-2 (3 goles),679354,11407472,,
 14,GOL,Sassuolo - AS Roma,COINCIDE,,25' Matheus Henrique (Sassuolo),25' Matheus Henrique (Sassuolo),679354,11407472,,
 14,GOL,Sassuolo - AS Roma,COINCIDE,,76' Paulo Dybala (AS Roma) PEN,76' Paulo Dybala (AS Roma) PEN,679354,11407472,,
@@ -570,7 +570,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 16,GOL,Atalanta - Salernitana,COINCIDE,,47' Luis Muriel (Atalanta),47' Luis Muriel (Atalanta),679370,11407485,,
 16,GOL,Atalanta - Salernitana,COINCIDE,,52' Mario Pasalic (Atalanta),52' Mario Pašalić (Atalanta),679370,11407485,,
 16,GOL,Atalanta - Salernitana,COINCIDE,,83' Charles De Ketelaere (Atalanta),83' Charles De Ketelaere (Atalanta),679370,11407485,,
-16,GOL,Atalanta - Salernitana,DISCREPA,goleador_distinto,89' Alexey Miranchuk (Atalanta),89' Aleksey Miranchuk (Atalanta),679370,11407485,,
+16,GOL,Atalanta - Salernitana,RESUELTO_POR_USUARIO,goleador_distinto,89' Alexey Miranchuk (Atalanta),89' Aleksey Miranchuk (Atalanta),679370,11407485,misma persona; nombre canonico = el mas largo (mismo criterio que 2024-25 y 2025-26),Aleksey Miranchuk
 17,PARTIDO,Empoli - Lazio,COINCIDE,,2023-12-22T17:30Z 0-2 (2 goles),2023-12-22T17:30Z 0-2 (2 goles),679389,11407496,,
 17,GOL,Empoli - Lazio,COINCIDE,,9' Matteo Guendouzi (Lazio),9' Mattéo Guendouzi (Lazio),679389,11407496,,
 17,GOL,Empoli - Lazio,COINCIDE,,67' Mattia Zaccagni (Lazio),67' Mattia Zaccagni (Lazio),679389,11407496,,
@@ -596,7 +596,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 17,GOL,Torino - Udinese,COINCIDE,,88' Ivan Ilic (Torino),88' Ivan Ilić (Torino),679385,11407504,,
 17,PARTIDO,Hellas Verona - Cagliari,COINCIDE,,2023-12-23T17:00Z 2-0 (2 goles),2023-12-23T17:00Z 2-0 (2 goles),679386,11407498,,
 17,GOL,Hellas Verona - Cagliari,COINCIDE,,53' Cyril Ngonge (Hellas Verona),53' Cyril Ngonge (Hellas Verona),679386,11407498,,
-17,GOL,Hellas Verona - Cagliari,DISCREPA,goleador_distinto,90' Milan Djuric (Hellas Verona),90' Milan Đurić (Hellas Verona),679386,11407498,,
+17,GOL,Hellas Verona - Cagliari,RESUELTO_POR_USUARIO,goleador_distinto,90' Milan Djuric (Hellas Verona),90' Milan Đurić (Hellas Verona),679386,11407498,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 17,PARTIDO,Internazionale - Lecce,COINCIDE,,2023-12-23T17:00Z 2-0 (2 goles),2023-12-23T17:00Z 2-0 (2 goles),679380,11407499,,
 17,GOL,Internazionale - Lecce,COINCIDE,,43' Yann Bisseck (Internazionale),43' Yann Bisseck (Inter),679380,11407499,,
 17,GOL,Internazionale - Lecce,COINCIDE,,78' Nicolò Barella (Internazionale),78' Nicolò Barella (Inter),679380,11407499,,
@@ -672,7 +672,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 20,PARTIDO,Hellas Verona - Empoli,COINCIDE,,2024-01-13T17:00Z 2-1 (3 goles),2024-01-13T17:00Z 2-1 (3 goles),679414,11406898,,
 20,GOL,Hellas Verona - Empoli,COINCIDE,,56' Cyril Ngonge (Hellas Verona),56' Cyril Ngonge (Hellas Verona),679414,11406898,,
 20,GOL,Hellas Verona - Empoli,COINCIDE,,64' Szymon Zurkowski (Empoli),64' Szymon Żurkowski (Empoli),679414,11406898,,
-20,GOL,Hellas Verona - Empoli,DISCREPA,goleador_distinto,3' Milan Djuric (Hellas Verona),3' Milan Đurić (Hellas Verona),679414,11406898,,
+20,GOL,Hellas Verona - Empoli,RESUELTO_POR_USUARIO,goleador_distinto,3' Milan Djuric (Hellas Verona),3' Milan Đurić (Hellas Verona),679414,11406898,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 20,PARTIDO,Monza - Internazionale,COINCIDE,,2024-01-13T19:45Z 1-5 (6 goles),2024-01-13T19:45Z 1-5 (6 goles),679412,11406903,,
 20,GOL,Monza - Internazionale,COINCIDE,,12' Hakan Çalhanoglu (Internazionale) PEN,12' Hakan Çalhanoğlu (Inter) PEN,679412,11406903,,
 20,GOL,Monza - Internazionale,COINCIDE,,14' Lautaro Martínez (Internazionale),14' Lautaro Martínez (Inter),679412,11406903,,
@@ -720,7 +720,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 21,GOL,Frosinone - Cagliari,COINCIDE,,64' Luca Mazzitelli (Frosinone),64' Luca Mazzitelli (Frosinone),679425,11406904,,
 21,GOL,Frosinone - Cagliari,COINCIDE,,75' Matìas Soulè (Frosinone),75' Matías Soulé (Frosinone),679425,11406904,,
 21,GOL,Frosinone - Cagliari,COINCIDE,,90+6' Kaio Jorge (Frosinone),90+6' Kaio Jorge (Frosinone),679425,11406904,,
-21,GOL,Frosinone - Cagliari,DISCREPA,goleador_variante,26' Sulemana (Cagliari),26' Ibrahim Sulemana (Cagliari),679425,11406904,,
+21,GOL,Frosinone - Cagliari,RESUELTO_POR_USUARIO,goleador_variante,26' Sulemana (Cagliari),26' Ibrahim Sulemana (Cagliari),679425,11406904,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Ibrahim Sulemana
 21,PARTIDO,Empoli - Monza,COINCIDE,,2024-01-21T14:00Z 3-0 (3 goles),2024-01-21T14:00Z 3-0 (3 goles),679422,11406906,,
 21,GOL,Empoli - Monza,COINCIDE,,13' Szymon Zurkowski (Empoli),13' Szymon Żurkowski (Empoli),679422,11406906,,
 21,GOL,Empoli - Monza,COINCIDE,,38' Szymon Zurkowski (Empoli),38' Szymon Żurkowski (Empoli),679422,11406906,,
@@ -732,7 +732,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 21,PARTIDO,Lecce - Juventus,COINCIDE,,2024-01-21T19:45Z 0-3 (3 goles),2024-01-21T19:45Z 0-3 (3 goles),679427,11406905,,
 21,GOL,Lecce - Juventus,COINCIDE,,59' Dusan Vlahovic (Juventus),59' Dušan Vlahović (Juventus),679427,11406905,,
 21,GOL,Lecce - Juventus,COINCIDE,,68' Dusan Vlahovic (Juventus),68' Dušan Vlahović (Juventus),679427,11406905,,
-21,GOL,Lecce - Juventus,DISCREPA,goleador_variante,85' Bremer (Juventus),85' Gleison Bremer (Juventus),679427,11406905,,
+21,GOL,Lecce - Juventus,RESUELTO_POR_USUARIO,goleador_variante,85' Bremer (Juventus),85' Gleison Bremer (Juventus),679427,11406905,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Gleison Bremer
 21,PARTIDO,Bologna - Fiorentina,COINCIDE,,2024-02-14T18:00Z 2-0 (2 goles),2024-02-14T18:00Z 2-0 (2 goles),679423,11406907,,
 21,GOL,Bologna - Fiorentina,COINCIDE,,12' Riccardo Orsolini (Bologna),12' Riccardo Orsolini (Bologna),679423,11406907,,
 21,GOL,Bologna - Fiorentina,COINCIDE,,90+5' Jens Odgaard (Bologna),90+5' Jens Odgaard (Bologna),679423,11406907,,
@@ -758,7 +758,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 22,GOL,Cagliari - Torino,COINCIDE,,77' Nicolas Viola (Cagliari),77' Nicolas Viola (Cagliari),679439,11406884,,
 22,PARTIDO,Atalanta - Udinese,COINCIDE,,2024-01-27T14:00Z 2-0 (2 goles),2024-01-27T14:00Z 2-0 (2 goles),679430,11406881,,
 22,GOL,Atalanta - Udinese,COINCIDE,,45+1' Gianluca Scamacca (Atalanta),45+1' Gianluca Scamacca (Atalanta),679430,11406881,,
-22,GOL,Atalanta - Udinese,DISCREPA,goleador_distinto,33' Alexey Miranchuk (Atalanta),33' Aleksey Miranchuk (Atalanta),679430,11406881,,
+22,GOL,Atalanta - Udinese,RESUELTO_POR_USUARIO,goleador_distinto,33' Alexey Miranchuk (Atalanta),33' Aleksey Miranchuk (Atalanta),679430,11406881,misma persona; nombre canonico = el mas largo (mismo criterio que 2024-25 y 2025-26),Aleksey Miranchuk
 22,PARTIDO,Juventus - Empoli,COINCIDE,,2024-01-27T17:00Z 1-1 (2 goles),2024-01-27T17:00Z 1-1 (2 goles),679437,11406885,,
 22,GOL,Juventus - Empoli,COINCIDE,,50' Dusan Vlahovic (Juventus),50' Dušan Vlahović (Juventus),679437,11406885,,
 22,GOL,Juventus - Empoli,COINCIDE,,70' Tommaso Baldanzi (Empoli),70' Tommaso Baldanzi (Empoli),679437,11406885,,
@@ -847,7 +847,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 24,GOL,Fiorentina - Frosinone,COINCIDE,,43' Lucas Martínez Quarta (Fiorentina),43' Lucas Martínez Quarta (Fiorentina),679455,11406858,,
 24,GOL,Fiorentina - Frosinone,COINCIDE,,66' Luca Mazzitelli (Frosinone),66' Luca Mazzitelli (Frosinone),679455,11406858,,
 24,GOL,Fiorentina - Frosinone,COINCIDE,,85' Antonín Barák (Fiorentina),85' Antonín Barák (Fiorentina),679455,11406858,,
-24,GOL,Fiorentina - Frosinone,DISCREPA,goleador_variante,53' Nico González (Fiorentina),53' Nicolás González (Fiorentina),679455,11406858,,
+24,GOL,Fiorentina - Frosinone,RESUELTO_POR_USUARIO,goleador_variante,53' Nico González (Fiorentina),53' Nicolás González (Fiorentina),679455,11406858,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 24,PARTIDO,Bologna - Lecce,COINCIDE,,2024-02-11T14:00Z 4-0 (4 goles),2024-02-11T14:00Z 4-0 (4 goles),679453,11406855,,
 24,GOL,Bologna - Lecce,COINCIDE,,5' Sam Beukema (Bologna),5' Sam Beukema (Bologna),679453,11406855,,
 24,GOL,Bologna - Lecce,COINCIDE,,27' Riccardo Orsolini (Bologna),27' Riccardo Orsolini (Bologna),679453,11406855,,
@@ -1047,14 +1047,14 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 29,GOL,Atalanta - Fiorentina,COINCIDE,,12' Ademola Lookman (Atalanta),12' Ademola Lookman (Atalanta),679120,12327421,,
 29,GOL,Atalanta - Fiorentina,COINCIDE,,32' Giorgio Scalvini (Atalanta),32' Giorgio Scalvini (Atalanta),679120,12327421,,
 29,GOL,Atalanta - Fiorentina,COINCIDE,,45+1' Andrea Belotti (Fiorentina),45+1' Andrea Belotti (Fiorentina),679120,12327421,,
-29,GOL,Atalanta - Fiorentina,DISCREPA,goleador_variante,19' Nico González (Fiorentina),19' Nicolás González (Fiorentina),679120,12327421,,
+29,GOL,Atalanta - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,19' Nico González (Fiorentina),19' Nicolás González (Fiorentina),679120,12327421,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 30,PARTIDO,Napoli - Atalanta,COINCIDE,,2024-03-30T11:30Z 0-3 (3 goles),2024-03-30T11:30Z 0-3 (3 goles),679132,11406806,,
 30,GOL,Napoli - Atalanta,COINCIDE,,45' Gianluca Scamacca (Atalanta),45' Gianluca Scamacca (Atalanta),679132,11406806,,
 30,GOL,Napoli - Atalanta,COINCIDE,,88' Teun Koopmeiners (Atalanta),88' Teun Koopmeiners (Atalanta),679132,11406806,,
-30,GOL,Napoli - Atalanta,DISCREPA,goleador_distinto,26' Alexey Miranchuk (Atalanta),26' Aleksey Miranchuk (Atalanta),679132,11406806,,
+30,GOL,Napoli - Atalanta,RESUELTO_POR_USUARIO,goleador_distinto,26' Alexey Miranchuk (Atalanta),26' Aleksey Miranchuk (Atalanta),679132,11406806,misma persona; nombre canonico = el mas largo (mismo criterio que 2024-25 y 2025-26),Aleksey Miranchuk
 30,PARTIDO,Genoa - Frosinone,COINCIDE,,2024-03-30T14:00Z 1-1 (2 goles),2024-03-30T14:00Z 1-1 (2 goles),679136,11406814,,
 30,GOL,Genoa - Frosinone,COINCIDE,,30' Albert Gudmundsson (Genoa) PEN,30' Albert Guðmundsson (Genoa) PEN,679136,11406814,,
-30,GOL,Genoa - Frosinone,DISCREPA,goleador_distinto,36' Reiner (Frosinone),36' Reinier (Frosinone),679136,11406814,,
+30,GOL,Genoa - Frosinone,RESUELTO_POR_USUARIO,goleador_distinto,36' Reiner (Frosinone),36' Reinier (Frosinone),679136,11406814,misma persona; nombre canonico = el mas largo (mismo criterio que 2024-25 y 2025-26),Reinier
 30,PARTIDO,Torino - Monza,COINCIDE,,2024-03-30T14:00Z 1-0 (1 goles),2024-03-30T14:00Z 1-0 (1 goles),679134,11406810,,
 30,GOL,Torino - Monza,COINCIDE,,69' Antonio Sanabria (Torino) PEN,69' Antonio Sanabria (Torino) PEN,679134,11406810,,
 30,PARTIDO,Lazio - Juventus,COINCIDE,,2024-03-30T17:00Z 1-0 (1 goles),2024-03-30T17:00Z 1-0 (1 goles),679139,11406809,,
@@ -1069,7 +1069,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 30,GOL,Bologna - Salernitana,COINCIDE,,90+2' Charalampos Lykogiannis (Bologna),90+2' Charalampos Lykogiannis (Bologna),679130,11406799,,
 30,PARTIDO,Cagliari - Hellas Verona,COINCIDE,,2024-04-01T13:00Z 1-1 (2 goles),2024-04-01T13:00Z 1-1 (2 goles),679138,11406801,,
 30,GOL,Cagliari - Hellas Verona,COINCIDE,,30' Federico Bonazzoli (Hellas Verona),30' Federico Bonazzoli (Hellas Verona),679138,11406801,,
-30,GOL,Cagliari - Hellas Verona,DISCREPA,goleador_variante,74' Sulemana (Cagliari),74' Ibrahim Sulemana (Cagliari),679138,11406801,,
+30,GOL,Cagliari - Hellas Verona,RESUELTO_POR_USUARIO,goleador_variante,74' Sulemana (Cagliari),74' Ibrahim Sulemana (Cagliari),679138,11406801,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Ibrahim Sulemana
 30,PARTIDO,Sassuolo - Udinese,COINCIDE,,2024-04-01T13:00Z 1-1 (2 goles),2024-04-01T13:00Z 1-1 (2 goles),679131,11406816,,
 30,GOL,Sassuolo - Udinese,COINCIDE,,41' Grégoire Defrel (Sassuolo),41' Grégoire Defrel (Sassuolo),679131,11406816,,
 30,GOL,Sassuolo - Udinese,COINCIDE,,44' Florian Thauvin (Udinese),44' Florian Thauvin (Udinese),679131,11406816,,
@@ -1101,7 +1101,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 31,GOL,Monza - Napoli,COINCIDE,,61' Piotr Zielinski (Napoli),61' Piotr Zieliński (SSC Napoli),679143,11406788,,
 31,GOL,Monza - Napoli,COINCIDE,,62' Andrea Colpani (Monza),62' Andrea Colpani (Monza),679143,11406788,,
 31,GOL,Monza - Napoli,COINCIDE,,69' Giacomo Raspadori (Napoli),69' Giacomo Raspadori (SSC Napoli),679143,11406788,,
-31,GOL,Monza - Napoli,DISCREPA,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),679143,11406788,,
+31,GOL,Monza - Napoli,RESUELTO_POR_USUARIO,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),679143,11406788,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 31,PARTIDO,Cagliari - Atalanta,COINCIDE,,2024-04-07T16:00Z 2-1 (3 goles),2024-04-07T16:00Z 2-1 (3 goles),679148,11406812,,
 31,GOL,Cagliari - Atalanta,COINCIDE,,13' Gianluca Scamacca (Atalanta),13' Gianluca Scamacca (Atalanta),679148,11406812,,
 31,GOL,Cagliari - Atalanta,COINCIDE,,42' Tommaso Augello (Cagliari),42' Tommaso Augello (Cagliari),679148,11406812,,
@@ -1216,8 +1216,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 34,GOL,Fiorentina - Sassuolo,COINCIDE,,54' Lucas Martínez Quarta (Fiorentina),54' Lucas Martínez Quarta (Fiorentina),679177,11406766,,
 34,GOL,Fiorentina - Sassuolo,COINCIDE,,57' Kristian Thorstvedt (Sassuolo),57' Kristian Thorstvedt (Sassuolo),679177,11406766,,
 34,GOL,Fiorentina - Sassuolo,COINCIDE,,62' Antonín Barák (Fiorentina),62' Antonín Barák (Fiorentina),679177,11406766,,
-34,GOL,Fiorentina - Sassuolo,DISCREPA,goleador_variante,58' Nico González (Fiorentina),58' Nicolás González (Fiorentina),679177,11406766,,
-34,GOL,Fiorentina - Sassuolo,DISCREPA,goleador_variante,66' Nico González (Fiorentina),66' Nicolás González (Fiorentina),679177,11406766,,
+34,GOL,Fiorentina - Sassuolo,RESUELTO_POR_USUARIO,goleador_variante,58' Nico González (Fiorentina),58' Nicolás González (Fiorentina),679177,11406766,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
+34,GOL,Fiorentina - Sassuolo,RESUELTO_POR_USUARIO,goleador_variante,66' Nico González (Fiorentina),66' Nicolás González (Fiorentina),679177,11406766,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 34,PARTIDO,Genoa - Cagliari,COINCIDE,,2024-04-29T18:45Z 3-0 (3 goles),2024-04-29T18:45Z 3-0 (3 goles),679175,11406767,,
 34,GOL,Genoa - Cagliari,COINCIDE,,17' Morten Thorsby (Genoa),17' Morten Thorsby (Genoa),679175,11406767,,
 34,GOL,Genoa - Cagliari,COINCIDE,,27' Morten Frendrup (Genoa),27' Morten Frendrup (Genoa),679175,11406767,,
@@ -1226,8 +1226,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 35,PARTIDO,Monza - Lazio,COINCIDE,,2024-05-04T16:00Z 2-2 (4 goles),2024-05-04T16:00Z 2-2 (4 goles),679185,11406752,,
 35,GOL,Monza - Lazio,COINCIDE,,11' Ciro Immobile (Lazio),11' Ciro Immobile (Lazio),679185,11406752,,
 35,GOL,Monza - Lazio,COINCIDE,,83' Matías Vecino (Lazio),83' Matías Vecino (Lazio),679185,11406752,,
-35,GOL,Monza - Lazio,DISCREPA,goleador_distinto,73' Milan Djuric (Monza),73' Milan Đurić (Monza),679185,11406752,,
-35,GOL,Monza - Lazio,DISCREPA,goleador_distinto,90+2' Milan Djuric (Monza),90+2' Milan Đurić (Monza),679185,11406752,,
+35,GOL,Monza - Lazio,RESUELTO_POR_USUARIO,goleador_distinto,73' Milan Djuric (Monza),73' Milan Đurić (Monza),679185,11406752,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
+35,GOL,Monza - Lazio,RESUELTO_POR_USUARIO,goleador_distinto,90+2' Milan Djuric (Monza),90+2' Milan Đurić (Monza),679185,11406752,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 35,PARTIDO,Sassuolo - Internazionale,COINCIDE,,2024-05-04T18:45Z 1-0 (1 goles),2024-05-04T18:45Z 1-0 (1 goles),679182,11406753,,
 35,GOL,Sassuolo - Internazionale,COINCIDE,,20' Armand Laurienté (Sassuolo),20' Armand Laurienté (Sassuolo),679182,11406753,,
 35,PARTIDO,Cagliari - Lecce,COINCIDE,,2024-05-05T10:30Z 1-1 (2 goles),2024-05-05T10:30Z 1-1 (2 goles),679188,11406743,,
@@ -1247,7 +1247,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 35,GOL,AC Milan - Genoa,COINCIDE,,87' Malick Thiaw (Genoa) AUTOGOL,87' Malick Thiaw (Genoa) AUTOGOL,679186,11406750,,
 35,PARTIDO,AS Roma - Juventus,COINCIDE,,2024-05-05T18:45Z 1-1 (2 goles),2024-05-05T18:45Z 1-1 (2 goles),679189,11406751,,
 35,GOL,AS Roma - Juventus,COINCIDE,,15' Romelu Lukaku (AS Roma),15' Romelu Lukaku (AS Roma),679189,11406751,,
-35,GOL,AS Roma - Juventus,DISCREPA,goleador_variante,31' Bremer (Juventus),31' Gleison Bremer (Juventus),679189,11406751,,
+35,GOL,AS Roma - Juventus,RESUELTO_POR_USUARIO,goleador_variante,31' Bremer (Juventus),31' Gleison Bremer (Juventus),679189,11406751,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Gleison Bremer
 35,PARTIDO,Salernitana - Atalanta,COINCIDE,,2024-05-06T16:00Z 1-2 (3 goles),2024-05-06T16:00Z 1-2 (3 goles),679183,11406754,,
 35,GOL,Salernitana - Atalanta,COINCIDE,,18' Loum Tchaouna (Salernitana),18' Loum Tchaouna (US Salernitana 1919),679183,11406754,,
 35,GOL,Salernitana - Atalanta,COINCIDE,,57' Gianluca Scamacca (Atalanta),57' Gianluca Scamacca (Atalanta),679183,11406754,,
@@ -1294,8 +1294,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 36,GOL,Lecce - Udinese,COINCIDE,,85' Lazar Samardzic (Udinese),85' Lazar Samardžić (Udinese),679192,11406728,,
 36,PARTIDO,Fiorentina - Monza,COINCIDE,,2024-05-13T18:45Z 2-1 (3 goles),2024-05-13T18:45Z 2-1 (3 goles),679197,11406765,,
 36,GOL,Fiorentina - Monza,COINCIDE,,78' Arthur (Fiorentina),78' Arthur (Fiorentina),679197,11406765,,
-36,GOL,Fiorentina - Monza,DISCREPA,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),679197,11406765,,
-36,GOL,Fiorentina - Monza,DISCREPA,goleador_variante,32' Nico González (Fiorentina),32' Nicolás González (Fiorentina),679197,11406765,,
+36,GOL,Fiorentina - Monza,RESUELTO_POR_USUARIO,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),679197,11406765,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
+36,GOL,Fiorentina - Monza,RESUELTO_POR_USUARIO,goleador_variante,32' Nico González (Fiorentina),32' Nicolás González (Fiorentina),679197,11406765,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 37,PARTIDO,Fiorentina - Napoli,COINCIDE,,2024-05-17T18:45Z 2-2 (4 goles),2024-05-17T18:45Z 2-2 (4 goles),679201,11406749,,
 37,GOL,Fiorentina - Napoli,COINCIDE,,8' Amir Rrahmani (Napoli),8' Amir Rrahmani (SSC Napoli),679201,11406749,,
 37,GOL,Fiorentina - Napoli,COINCIDE,,40' Cristiano Biraghi (Fiorentina),40' Cristiano Biraghi (Fiorentina),679201,11406749,,
@@ -1338,7 +1338,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 38,GOL,Cagliari - Fiorentina,COINCIDE,,64' Alessandro Deiola (Cagliari),64' Alessandro Deiola (Cagliari),679218,11406729,,
 38,GOL,Cagliari - Fiorentina,COINCIDE,,85' Kingstone Mutandwa (Cagliari),85' Kingstone Mutandwa (Cagliari),679218,11406729,,
 38,GOL,Cagliari - Fiorentina,COINCIDE,,90+13' Arthur (Fiorentina) PEN,90+13' Arthur (Fiorentina) PEN,679218,11406729,,
-38,GOL,Cagliari - Fiorentina,DISCREPA,goleador_variante,89' Nico González (Fiorentina),89' Nicolás González (Fiorentina),679218,11406729,,
+38,GOL,Cagliari - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,89' Nico González (Fiorentina),89' Nicolás González (Fiorentina),679218,11406729,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 38,PARTIDO,Genoa - Bologna,COINCIDE,,2024-05-24T18:45Z 2-0 (2 goles),2024-05-24T18:45Z 2-0 (2 goles),679215,11406723,,
 38,GOL,Genoa - Bologna,COINCIDE,,13' Ruslan Malinovskyi (Genoa),13' Ruslan Malinovskyi (Genoa),679215,11406723,,
 38,GOL,Genoa - Bologna,COINCIDE,,59' Vitinha (Genoa),59' Vitinha (Genoa),679215,11406723,,

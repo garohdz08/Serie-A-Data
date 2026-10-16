@@ -31,4 +31,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 7,PARTIDO,Fiorentina - Cagliari,COINCIDE,,2023-10-02T18:45Z 3-0 (3 goles),2023-10-02T18:45Z 3-0 (3 goles),679282,11407397,,
 7,GOL,Fiorentina - Cagliari,COINCIDE,,21' Alberto Dossena (Fiorentina) AUTOGOL,21' Alberto Dossena (Fiorentina) AUTOGOL,679282,11407397,,
 7,GOL,Fiorentina - Cagliari,COINCIDE,,90+4' M'Bala Nzola (Fiorentina),90+4' M'bala Nzola (Fiorentina),679282,11407397,,
-7,GOL,Fiorentina - Cagliari,DISCREPA,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),679282,11407397,,
+7,GOL,Fiorentina - Cagliari,RESUELTO_POR_USUARIO,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),679282,11407397,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González

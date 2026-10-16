@@ -34,4 +34,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 16,GOL,Atalanta - Salernitana,COINCIDE,,47' Luis Muriel (Atalanta),47' Luis Muriel (Atalanta),679370,11407485,,
 16,GOL,Atalanta - Salernitana,COINCIDE,,52' Mario Pasalic (Atalanta),52' Mario Pašalić (Atalanta),679370,11407485,,
 16,GOL,Atalanta - Salernitana,COINCIDE,,83' Charles De Ketelaere (Atalanta),83' Charles De Ketelaere (Atalanta),679370,11407485,,
-16,GOL,Atalanta - Salernitana,DISCREPA,goleador_distinto,89' Alexey Miranchuk (Atalanta),89' Aleksey Miranchuk (Atalanta),679370,11407485,,
+16,GOL,Atalanta - Salernitana,RESUELTO_POR_USUARIO,goleador_distinto,89' Alexey Miranchuk (Atalanta),89' Aleksey Miranchuk (Atalanta),679370,11407485,misma persona; nombre canonico = el mas largo (mismo criterio que 2024-25 y 2025-26),Aleksey Miranchuk

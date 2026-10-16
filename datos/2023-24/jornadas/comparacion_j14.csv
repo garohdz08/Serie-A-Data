@@ -26,7 +26,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 14,GOL,Udinese - Hellas Verona,COINCIDE,,61' Cyril Ngonge (Hellas Verona),61' Cyril Ngonge (Hellas Verona),679357,11407474,,
 14,GOL,Udinese - Hellas Verona,COINCIDE,,72' Lorenzo Lucca (Udinese),72' Lorenzo Lucca (Udinese),679357,11407474,,
 14,GOL,Udinese - Hellas Verona,COINCIDE,,90+7' Thomas Henry (Hellas Verona),90+7' Thomas Henry (Hellas Verona),679357,11407474,,
-14,GOL,Udinese - Hellas Verona,DISCREPA,goleador_distinto,37' Milan Djuric (Hellas Verona) PEN,37' Milan Đurić (Hellas Verona) PEN,679357,11407474,,
+14,GOL,Udinese - Hellas Verona,RESUELTO_POR_USUARIO,goleador_distinto,37' Milan Djuric (Hellas Verona) PEN,37' Milan Đurić (Hellas Verona) PEN,679357,11407474,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 14,PARTIDO,Sassuolo - AS Roma,COINCIDE,,2023-12-03T17:00Z 1-2 (3 goles),2023-12-03T17:00Z 1-2 (3 goles),679354,11407472,,
 14,GOL,Sassuolo - AS Roma,COINCIDE,,25' Matheus Henrique (Sassuolo),25' Matheus Henrique (Sassuolo),679354,11407472,,
 14,GOL,Sassuolo - AS Roma,COINCIDE,,76' Paulo Dybala (AS Roma) PEN,76' Paulo Dybala (AS Roma) PEN,679354,11407472,,

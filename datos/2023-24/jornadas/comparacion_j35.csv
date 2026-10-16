@@ -3,8 +3,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 35,PARTIDO,Monza - Lazio,COINCIDE,,2024-05-04T16:00Z 2-2 (4 goles),2024-05-04T16:00Z 2-2 (4 goles),679185,11406752,,
 35,GOL,Monza - Lazio,COINCIDE,,11' Ciro Immobile (Lazio),11' Ciro Immobile (Lazio),679185,11406752,,
 35,GOL,Monza - Lazio,COINCIDE,,83' Matías Vecino (Lazio),83' Matías Vecino (Lazio),679185,11406752,,
-35,GOL,Monza - Lazio,DISCREPA,goleador_distinto,73' Milan Djuric (Monza),73' Milan Đurić (Monza),679185,11406752,,
-35,GOL,Monza - Lazio,DISCREPA,goleador_distinto,90+2' Milan Djuric (Monza),90+2' Milan Đurić (Monza),679185,11406752,,
+35,GOL,Monza - Lazio,RESUELTO_POR_USUARIO,goleador_distinto,73' Milan Djuric (Monza),73' Milan Đurić (Monza),679185,11406752,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
+35,GOL,Monza - Lazio,RESUELTO_POR_USUARIO,goleador_distinto,90+2' Milan Djuric (Monza),90+2' Milan Đurić (Monza),679185,11406752,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 35,PARTIDO,Sassuolo - Internazionale,COINCIDE,,2024-05-04T18:45Z 1-0 (1 goles),2024-05-04T18:45Z 1-0 (1 goles),679182,11406753,,
 35,GOL,Sassuolo - Internazionale,COINCIDE,,20' Armand Laurienté (Sassuolo),20' Armand Laurienté (Sassuolo),679182,11406753,,
 35,PARTIDO,Cagliari - Lecce,COINCIDE,,2024-05-05T10:30Z 1-1 (2 goles),2024-05-05T10:30Z 1-1 (2 goles),679188,11406743,,
@@ -24,7 +24,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 35,GOL,AC Milan - Genoa,COINCIDE,,87' Malick Thiaw (Genoa) AUTOGOL,87' Malick Thiaw (Genoa) AUTOGOL,679186,11406750,,
 35,PARTIDO,AS Roma - Juventus,COINCIDE,,2024-05-05T18:45Z 1-1 (2 goles),2024-05-05T18:45Z 1-1 (2 goles),679189,11406751,,
 35,GOL,AS Roma - Juventus,COINCIDE,,15' Romelu Lukaku (AS Roma),15' Romelu Lukaku (AS Roma),679189,11406751,,
-35,GOL,AS Roma - Juventus,DISCREPA,goleador_variante,31' Bremer (Juventus),31' Gleison Bremer (Juventus),679189,11406751,,
+35,GOL,AS Roma - Juventus,RESUELTO_POR_USUARIO,goleador_variante,31' Bremer (Juventus),31' Gleison Bremer (Juventus),679189,11406751,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Gleison Bremer
 35,PARTIDO,Salernitana - Atalanta,COINCIDE,,2024-05-06T16:00Z 1-2 (3 goles),2024-05-06T16:00Z 1-2 (3 goles),679183,11406754,,
 35,GOL,Salernitana - Atalanta,COINCIDE,,18' Loum Tchaouna (Salernitana),18' Loum Tchaouna (US Salernitana 1919),679183,11406754,,
 35,GOL,Salernitana - Atalanta,COINCIDE,,57' Gianluca Scamacca (Atalanta),57' Gianluca Scamacca (Atalanta),679183,11406754,,

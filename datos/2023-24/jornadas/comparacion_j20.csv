@@ -7,7 +7,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 20,PARTIDO,Hellas Verona - Empoli,COINCIDE,,2024-01-13T17:00Z 2-1 (3 goles),2024-01-13T17:00Z 2-1 (3 goles),679414,11406898,,
 20,GOL,Hellas Verona - Empoli,COINCIDE,,56' Cyril Ngonge (Hellas Verona),56' Cyril Ngonge (Hellas Verona),679414,11406898,,
 20,GOL,Hellas Verona - Empoli,COINCIDE,,64' Szymon Zurkowski (Empoli),64' Szymon Żurkowski (Empoli),679414,11406898,,
-20,GOL,Hellas Verona - Empoli,DISCREPA,goleador_distinto,3' Milan Djuric (Hellas Verona),3' Milan Đurić (Hellas Verona),679414,11406898,,
+20,GOL,Hellas Verona - Empoli,RESUELTO_POR_USUARIO,goleador_distinto,3' Milan Djuric (Hellas Verona),3' Milan Đurić (Hellas Verona),679414,11406898,"misma persona; grafia real del jugador (Đurić), mismo criterio que 2024-25",Milan Đurić
 20,PARTIDO,Monza - Internazionale,COINCIDE,,2024-01-13T19:45Z 1-5 (6 goles),2024-01-13T19:45Z 1-5 (6 goles),679412,11406903,,
 20,GOL,Monza - Internazionale,COINCIDE,,12' Hakan Çalhanoglu (Internazionale) PEN,12' Hakan Çalhanoğlu (Inter) PEN,679412,11406903,,
 20,GOL,Monza - Internazionale,COINCIDE,,14' Lautaro Martínez (Internazionale),14' Lautaro Martínez (Inter),679412,11406903,,

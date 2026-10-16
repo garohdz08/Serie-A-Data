@@ -25,7 +25,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 24,GOL,Fiorentina - Frosinone,COINCIDE,,43' Lucas Martínez Quarta (Fiorentina),43' Lucas Martínez Quarta (Fiorentina),679455,11406858,,
 24,GOL,Fiorentina - Frosinone,COINCIDE,,66' Luca Mazzitelli (Frosinone),66' Luca Mazzitelli (Frosinone),679455,11406858,,
 24,GOL,Fiorentina - Frosinone,COINCIDE,,85' Antonín Barák (Fiorentina),85' Antonín Barák (Fiorentina),679455,11406858,,
-24,GOL,Fiorentina - Frosinone,DISCREPA,goleador_variante,53' Nico González (Fiorentina),53' Nicolás González (Fiorentina),679455,11406858,,
+24,GOL,Fiorentina - Frosinone,RESUELTO_POR_USUARIO,goleador_variante,53' Nico González (Fiorentina),53' Nicolás González (Fiorentina),679455,11406858,misma persona; forma larga (mismo criterio que 2024-25 y 2025-26),Nicolás González
 24,PARTIDO,Bologna - Lecce,COINCIDE,,2024-02-11T14:00Z 4-0 (4 goles),2024-02-11T14:00Z 4-0 (4 goles),679453,11406855,,
 24,GOL,Bologna - Lecce,COINCIDE,,5' Sam Beukema (Bologna),5' Sam Beukema (Bologna),679453,11406855,,
 24,GOL,Bologna - Lecce,COINCIDE,,27' Riccardo Orsolini (Bologna),27' Riccardo Orsolini (Bologna),679453,11406855,,
