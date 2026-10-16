@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+espn,644724,2022-10-21T18:45Z,Juventus,Empoli,4,0,STATUS_FULL_TIME
+espn,644721,2022-10-22T13:00Z,Salernitana,Spezia,1,0,STATUS_FULL_TIME
+espn,644723,2022-10-22T16:00Z,AC Milan,Monza,4,1,STATUS_FULL_TIME
+espn,644725,2022-10-22T18:45Z,Fiorentina,Internazionale,3,4,STATUS_FULL_TIME
+espn,644719,2022-10-23T10:30Z,Udinese,Torino,1,2,STATUS_FULL_TIME
+espn,644718,2022-10-23T13:00Z,Bologna,Lecce,2,0,STATUS_FULL_TIME
+espn,644717,2022-10-23T16:00Z,Atalanta,Lazio,0,2,STATUS_FULL_TIME
+espn,644722,2022-10-23T18:45Z,AS Roma,Napoli,0,1,STATUS_FULL_TIME
+espn,644726,2022-10-24T16:30Z,Cremonese,Sampdoria,0,1,STATUS_FULL_TIME
+espn,644720,2022-10-24T18:45Z,Sassuolo,Hellas Verona,2,1,STATUS_FULL_TIME
