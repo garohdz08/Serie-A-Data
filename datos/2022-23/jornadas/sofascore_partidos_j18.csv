@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+sofascore,10411624,2023-01-13T19:45Z,SSC Napoli,Juventus,5,1,finished
+sofascore,10411626,2023-01-14T14:00Z,Cremonese,Monza,2,3,finished
+sofascore,10411621,2023-01-14T17:00Z,Lecce,AC Milan,2,2,finished
+sofascore,10411619,2023-01-14T19:45Z,Inter,Hellas Verona,1,0,finished
+sofascore,10411636,2023-01-15T11:30Z,Sassuolo,Lazio,0,2,finished
+sofascore,10411625,2023-01-15T14:00Z,Torino,Spezia,0,1,finished
+sofascore,10411634,2023-01-15T14:00Z,Udinese,Bologna,1,2,finished
+sofascore,10411633,2023-01-15T17:00Z,Atalanta,US Salernitana 1919,8,2,finished
+sofascore,10411627,2023-01-15T19:45Z,AS Roma,Fiorentina,2,0,finished
+sofascore,10411631,2023-01-16T19:45Z,Empoli,Sampdoria,1,0,finished
