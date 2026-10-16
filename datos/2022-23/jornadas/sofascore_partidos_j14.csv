@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+sofascore,10411590,2022-11-08T17:30Z,SSC Napoli,Empoli,2,0,finished
+sofascore,10411591,2022-11-08T17:30Z,Spezia,Udinese,1,1,finished
+sofascore,10411585,2022-11-08T19:45Z,Cremonese,AC Milan,0,0,finished
+sofascore,10411588,2022-11-09T17:30Z,Lecce,Atalanta,2,1,finished
+sofascore,10411593,2022-11-09T17:30Z,Sassuolo,AS Roma,1,1,finished
+sofascore,10411580,2022-11-09T19:45Z,Fiorentina,US Salernitana 1919,2,1,finished
+sofascore,10411586,2022-11-09T19:45Z,Inter,Bologna,6,1,finished
+sofascore,10411589,2022-11-09T19:45Z,Torino,Sampdoria,2,0,finished
+sofascore,10411584,2022-11-10T17:30Z,Hellas Verona,Juventus,0,1,finished
+sofascore,10411582,2022-11-10T19:45Z,Lazio,Monza,1,0,finished
