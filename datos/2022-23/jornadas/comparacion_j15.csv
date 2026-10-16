@@ -19,8 +19,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 15,GOL,Atalanta - Internazionale,COINCIDE,,25' Ademola Lookman (Atalanta) PEN,25' Ademola Lookman (Atalanta) PEN,644761,10411598,,
 15,GOL,Atalanta - Internazionale,COINCIDE,,36' Edin Dzeko (Internazionale),36' Edin Džeko (Inter),644761,10411598,,
 15,GOL,Atalanta - Internazionale,COINCIDE,,56' Edin Dzeko (Internazionale),56' Edin Džeko (Inter),644761,10411598,,
-15,GOL,Atalanta - Internazionale,DISCREPA,goleador_variante,61' José Palomino (Internazionale) AUTOGOL,61' José Luis Palomino (Inter) AUTOGOL,644761,10411598,,
-15,GOL,Atalanta - Internazionale,DISCREPA,goleador_variante,77' José Palomino (Atalanta),77' José Luis Palomino (Atalanta),644761,10411598,,
+15,GOL,Atalanta - Internazionale,RESUELTO_POR_USUARIO,goleador_variante,61' José Palomino (Internazionale) AUTOGOL,61' José Luis Palomino (Inter) AUTOGOL,644761,10411598,misma persona; forma larga (mismo criterio que otras temporadas),José Luis Palomino
+15,GOL,Atalanta - Internazionale,RESUELTO_POR_USUARIO,goleador_variante,77' José Palomino (Atalanta),77' José Luis Palomino (Atalanta),644761,10411598,misma persona; forma larga (mismo criterio que otras temporadas),José Luis Palomino
 15,PARTIDO,AS Roma - Torino,COINCIDE,,2022-11-13T14:00Z 1-1 (2 goles),2022-11-13T14:00Z 1-1 (2 goles),644759,10411596,,
 15,GOL,AS Roma - Torino,COINCIDE,,55' Karol Linetty (Torino),55' Karol Linetty (Torino),644759,10411596,,
 15,GOL,AS Roma - Torino,COINCIDE,,90+4' Nemanja Matic (AS Roma),90+4' Nemanja Matić (AS Roma),644759,10411596,,

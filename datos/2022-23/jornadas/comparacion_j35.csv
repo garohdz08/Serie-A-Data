@@ -27,7 +27,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 35,PARTIDO,Bologna - AS Roma,COINCIDE,,2023-05-14T16:00Z 0-0 (0 goles),2023-05-14T16:00Z 0-0 (0 goles),644960,10411489,,
 35,PARTIDO,Juventus - Cremonese,COINCIDE,,2023-05-14T18:45Z 2-0 (2 goles),2023-05-14T18:45Z 2-0 (2 goles),644957,10411509,,
 35,GOL,Juventus - Cremonese,COINCIDE,,55' Nicolò Fagioli (Juventus),55' Nicolò Fagioli (Juventus),644957,10411509,,
-35,GOL,Juventus - Cremonese,DISCREPA,goleador_variante,79' Bremer (Juventus),79' Gleison Bremer (Juventus),644957,10411509,,
+35,GOL,Juventus - Cremonese,RESUELTO_POR_USUARIO,goleador_variante,79' Bremer (Juventus),79' Gleison Bremer (Juventus),644957,10411509,misma persona; forma larga (mismo criterio que otras temporadas),Gleison Bremer
 35,PARTIDO,Sampdoria - Empoli,COINCIDE,,2023-05-15T18:45Z 1-1 (2 goles),2023-05-15T18:45Z 1-1 (2 goles),644964,10411508,,
 35,GOL,Sampdoria - Empoli,COINCIDE,,34' Alessandro Zanoli (Sampdoria),34' Alessandro Zanoli (Sampdoria),644964,10411508,,
 35,GOL,Sampdoria - Empoli,COINCIDE,,90+3' Roberto Piccoli (Empoli),90+3' Roberto Piccoli (Empoli),644964,10411508,,

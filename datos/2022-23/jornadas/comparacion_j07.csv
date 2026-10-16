@@ -10,7 +10,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 7,GOL,Spezia - Sampdoria,COINCIDE,,12' Jeison Murillo (Spezia) AUTOGOL,12' Jeison Murillo (Spezia) AUTOGOL,644682,10411478,,
 7,GOL,Spezia - Sampdoria,COINCIDE,,72' M'Bala Nzola (Spezia),72' M'bala Nzola (Spezia),644682,10411478,,
 7,PARTIDO,Torino - Sassuolo,COINCIDE,,2022-09-17T18:45Z 0-1 (1 goles),2022-09-17T18:45Z 0-1 (1 goles),644681,10411460,,
-7,GOL,Torino - Sassuolo,DISCREPA,goleador_variante,90+3' Agustín Álvarez Martínez (Sassuolo),90+3' Agustín Álvarez (Sassuolo),644681,10411460,,
+7,GOL,Torino - Sassuolo,RESUELTO_POR_USUARIO,goleador_variante,90+3' Agustín Álvarez Martínez (Sassuolo),90+3' Agustín Álvarez (Sassuolo),644681,10411460,misma persona; forma larga (mismo criterio que otras temporadas),Agustín Álvarez Martínez
 7,PARTIDO,Udinese - Internazionale,COINCIDE,,2022-09-18T10:30Z 3-1 (4 goles),2022-09-18T10:30Z 3-1 (4 goles),644680,10411457,,
 7,GOL,Udinese - Internazionale,COINCIDE,,5' Nicolò Barella (Internazionale),5' Nicolò Barella (Inter),644680,10411457,,
 7,GOL,Udinese - Internazionale,COINCIDE,,22' Milan Skriniar (Udinese) AUTOGOL,22' Milan Škriniar (Udinese) AUTOGOL,644680,10411457,,
@@ -23,7 +23,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 7,GOL,Cremonese - Lazio,COINCIDE,,79' Pedro (Lazio),79' Pedro (Lazio),644678,10411442,,
 7,PARTIDO,Fiorentina - Hellas Verona,COINCIDE,,2022-09-18T13:00Z 2-0 (2 goles),2022-09-18T13:00Z 2-0 (2 goles),644677,10411446,,
 7,GOL,Fiorentina - Hellas Verona,COINCIDE,,13' Jonathan Ikoné (Fiorentina),13' Jonathan Ikoné (Fiorentina),644677,10411446,,
-7,GOL,Fiorentina - Hellas Verona,DISCREPA,goleador_variante,90' Nico González (Fiorentina),90' Nicolás González (Fiorentina),644677,10411446,,
+7,GOL,Fiorentina - Hellas Verona,RESUELTO_POR_USUARIO,goleador_variante,90' Nico González (Fiorentina),90' Nicolás González (Fiorentina),644677,10411446,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González
 7,PARTIDO,Monza - Juventus,COINCIDE,,2022-09-18T13:00Z 1-0 (1 goles),2022-09-18T13:00Z 1-0 (1 goles),644685,10411468,,
 7,GOL,Monza - Juventus,COINCIDE,,74' Christian Gytkjaer (Monza),74' Christian Gytkjær (Monza),644685,10411468,,
 7,PARTIDO,AS Roma - Atalanta,COINCIDE,,2022-09-18T16:00Z 0-1 (1 goles),2022-09-18T16:00Z 0-1 (1 goles),644686,10411465,,

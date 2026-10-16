@@ -6,7 +6,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 19,GOL,Salernitana - Napoli,COINCIDE,,45+3' Giovanni Di Lorenzo (Napoli),45+3' Giovanni Di Lorenzo (SSC Napoli),644803,10411642,,
 19,GOL,Salernitana - Napoli,COINCIDE,,48' Victor Osimhen (Napoli),48' Victor Osimhen (SSC Napoli),644803,10411642,,
 19,PARTIDO,Fiorentina - Torino,COINCIDE,,2023-01-21T19:45Z 0-1 (1 goles),2023-01-21T19:45Z 0-1 (1 goles),644798,10411637,,
-19,GOL,Fiorentina - Torino,DISCREPA,goleador_distinto,33' Alexey Miranchuk (Torino),33' Aleksey Miranchuk (Torino),644798,10411637,,
+19,GOL,Fiorentina - Torino,RESUELTO_POR_USUARIO,goleador_distinto,33' Alexey Miranchuk (Torino),33' Aleksey Miranchuk (Torino),644798,10411637,misma persona; nombre canonico = el mas largo (mismo criterio que otras temporadas),Aleksey Miranchuk
 19,PARTIDO,Sampdoria - Udinese,COINCIDE,,2023-01-22T11:30Z 0-1 (1 goles),2023-01-22T11:30Z 0-1 (1 goles),644804,10411647,,
 19,GOL,Sampdoria - Udinese,COINCIDE,,88' Kingsley Ehizibue (Udinese),88' Kingsley Ehizibue (Udinese),644804,10411647,,
 19,PARTIDO,Monza - Sassuolo,COINCIDE,,2023-01-22T14:00Z 1-1 (2 goles),2023-01-22T14:00Z 1-1 (2 goles),644802,10411635,,

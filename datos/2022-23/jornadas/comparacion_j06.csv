@@ -6,7 +6,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 6,PARTIDO,Sampdoria - AC Milan,COINCIDE,,2022-09-10T18:45Z 1-2 (3 goles),2022-09-10T18:45Z 1-2 (3 goles),644673,10411451,,
 6,GOL,Sampdoria - AC Milan,COINCIDE,,6' Junior Messias (AC Milan),6' Junior Messias (AC Milan),644673,10411451,,
 6,GOL,Sampdoria - AC Milan,COINCIDE,,67' Olivier Giroud (AC Milan) PEN,67' Olivier Giroud (AC Milan) PEN,644673,10411451,,
-6,GOL,Sampdoria - AC Milan,DISCREPA,goleador_distinto,57' Filip Djuricic (Sampdoria),57' Filip Đuričić (Sampdoria),644673,10411451,,
+6,GOL,Sampdoria - AC Milan,RESUELTO_POR_USUARIO,goleador_distinto,57' Filip Djuricic (Sampdoria),57' Filip Đuričić (Sampdoria),644673,10411451,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Milan Đurić
 6,PARTIDO,Atalanta - Cremonese,COINCIDE,,2022-09-11T10:30Z 1-1 (2 goles),2022-09-11T10:30Z 1-1 (2 goles),644667,10411440,,
 6,GOL,Atalanta - Cremonese,COINCIDE,,74' Merih Demiral (Atalanta),74' Merih Demiral (Atalanta),644667,10411440,,
 6,GOL,Atalanta - Cremonese,COINCIDE,,78' Emanuele Valeri (Cremonese),78' Emanuele Valeri (Cremonese),644667,10411440,,
@@ -29,7 +29,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 6,GOL,Juventus - Salernitana,COINCIDE,,18' Antonio Candreva (Salernitana),18' Antonio Candreva (US Salernitana 1919),644669,10411429,,
 6,GOL,Juventus - Salernitana,COINCIDE,,45+5' Krzysztof Piatek (Salernitana) PEN,45+5' Krzysztof Piątek (US Salernitana 1919) PEN,644669,10411429,,
 6,GOL,Juventus - Salernitana,COINCIDE,,90+3' Leonardo Bonucci (Juventus),90+3' Leonardo Bonucci (Juventus),644669,10411429,,
-6,GOL,Juventus - Salernitana,DISCREPA,goleador_variante,51' Bremer (Juventus),51' Gleison Bremer (Juventus),644669,10411429,,
+6,GOL,Juventus - Salernitana,RESUELTO_POR_USUARIO,goleador_variante,51' Bremer (Juventus),51' Gleison Bremer (Juventus),644669,10411429,misma persona; forma larga (mismo criterio que otras temporadas),Gleison Bremer
 6,PARTIDO,Empoli - AS Roma,COINCIDE,,2022-09-12T18:45Z 1-2 (3 goles),2022-09-12T18:45Z 1-2 (3 goles),644668,10411405,,
 6,GOL,Empoli - AS Roma,COINCIDE,,17' Paulo Dybala (AS Roma),17' Paulo Dybala (AS Roma),644668,10411405,,
 6,GOL,Empoli - AS Roma,COINCIDE,,43' Filippo Bandinelli (Empoli),43' Filippo Bandinelli (Empoli),644668,10411405,,

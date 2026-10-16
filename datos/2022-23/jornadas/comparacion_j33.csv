@@ -15,7 +15,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 33,GOL,Salernitana - Fiorentina,COINCIDE,,71' Jonathan Ikoné (Fiorentina),71' Jonathan Ikoné (Fiorentina),644942,10411467,,
 33,GOL,Salernitana - Fiorentina,COINCIDE,,81' Boulaye Dia (Salernitana) PEN,81' Boulaye Dia (US Salernitana 1919) PEN,644942,10411467,,
 33,GOL,Salernitana - Fiorentina,COINCIDE,,84' Cristiano Biraghi (Fiorentina),84' Cristiano Biraghi (Fiorentina),644942,10411467,,
-33,GOL,Salernitana - Fiorentina,DISCREPA,goleador_variante,36' Nico González (Fiorentina),36' Nicolás González (Fiorentina),644942,10411467,,
+33,GOL,Salernitana - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,36' Nico González (Fiorentina),36' Nicolás González (Fiorentina),644942,10411467,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González
 33,PARTIDO,Sampdoria - Torino,COINCIDE,,2023-05-03T16:00Z 0-2 (2 goles),2023-05-03T16:00Z 0-2 (2 goles),644941,10411488,,
 33,GOL,Sampdoria - Torino,COINCIDE,,31' Alessandro Buongiorno (Torino),31' Alessandro Buongiorno (Torino),644941,10411488,,
 33,GOL,Sampdoria - Torino,COINCIDE,,90+4' Pietro Pellegri (Torino),90+4' Pietro Pellegri (Torino),644941,10411488,,

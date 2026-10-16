@@ -9,7 +9,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 25,PARTIDO,Fiorentina - AC Milan,COINCIDE,,2023-03-04T19:45Z 2-1 (3 goles),2023-03-04T19:45Z 2-1 (3 goles),644859,10411706,,
 25,GOL,Fiorentina - AC Milan,COINCIDE,,87' Luka Jovic (Fiorentina),87' Luka Jović (Fiorentina),644859,10411706,,
 25,GOL,Fiorentina - AC Milan,COINCIDE,,90+5' Theo Hernández (AC Milan),90+5' Theo Hernández (AC Milan),644859,10411706,,
-25,GOL,Fiorentina - AC Milan,DISCREPA,goleador_variante,49' Nico González (Fiorentina) PEN,49' Nicolás González (Fiorentina) PEN,644859,10411706,,
+25,GOL,Fiorentina - AC Milan,RESUELTO_POR_USUARIO,goleador_variante,49' Nico González (Fiorentina) PEN,49' Nicolás González (Fiorentina) PEN,644859,10411706,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González
 25,PARTIDO,Spezia - Hellas Verona,COINCIDE,,2023-03-05T11:30Z 0-0 (0 goles),2023-03-05T11:30Z 0-0 (0 goles),644865,10411705,,
 25,PARTIDO,Sampdoria - Salernitana,COINCIDE,,2023-03-05T14:00Z 0-0 (0 goles),2023-03-05T14:00Z 0-0 (0 goles),644863,10411700,,
 25,PARTIDO,Internazionale - Lecce,COINCIDE,,2023-03-05T17:00Z 2-0 (2 goles),2023-03-05T17:00Z 2-0 (2 goles),644858,10411702,,

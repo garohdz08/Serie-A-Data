@@ -13,7 +13,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 30,GOL,Internazionale - Monza,COINCIDE,,78' Luca Caldirola (Monza),78' Luca Caldirola (Monza),644907,10411759,,
 30,PARTIDO,Lecce - Sampdoria,COINCIDE,,2023-04-16T10:30Z 1-1 (2 goles),2023-04-16T10:30Z 1-1 (2 goles),644911,10411769,,
 30,GOL,Lecce - Sampdoria,COINCIDE,,31' Assan Ceesay (Lecce),31' Assan Ceesay (Lecce),644911,10411769,,
-30,GOL,Lecce - Sampdoria,DISCREPA,goleador_variante,75' Jesé (Sampdoria),75' Jesé Rodríguez (Sampdoria),644911,10411769,,
+30,GOL,Lecce - Sampdoria,RESUELTO_POR_USUARIO,goleador_variante,75' Jesé (Sampdoria),75' Jesé Rodríguez (Sampdoria),644911,10411769,misma persona; forma larga (mismo criterio que otras temporadas),Jesé Rodríguez
 30,PARTIDO,Torino - Salernitana,COINCIDE,,2023-04-16T13:00Z 1-1 (2 goles),2023-04-16T13:00Z 1-1 (2 goles),644912,10411412,,
 30,GOL,Torino - Salernitana,COINCIDE,,9' Tonny Vilhena (Salernitana),9' Tonny Vilhena (US Salernitana 1919),644912,10411412,,
 30,GOL,Torino - Salernitana,COINCIDE,,57' Antonio Sanabria (Torino),57' Antonio Sanabria (Torino),644912,10411412,,

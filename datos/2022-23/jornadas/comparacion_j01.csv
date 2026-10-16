@@ -16,7 +16,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 1,PARTIDO,Monza - Torino,COINCIDE,,2022-08-13T18:45Z 1-2 (3 goles),2022-08-13T18:45Z 1-2 (3 goles),644620,10411196,,
 1,GOL,Monza - Torino,COINCIDE,,66' Antonio Sanabria (Torino),66' Antonio Sanabria (Torino),644620,10411196,,
 1,GOL,Monza - Torino,COINCIDE,,90+4' Dany Mota (Monza),90+4' Dany Mota (Monza),644620,10411196,,
-1,GOL,Monza - Torino,DISCREPA,goleador_distinto,43' Alexey Miranchuk (Torino),43' Aleksey Miranchuk (Torino),644620,10411196,,
+1,GOL,Monza - Torino,RESUELTO_POR_USUARIO,goleador_distinto,43' Alexey Miranchuk (Torino),43' Aleksey Miranchuk (Torino),644620,10411196,misma persona; nombre canonico = el mas largo (mismo criterio que otras temporadas),Aleksey Miranchuk
 1,PARTIDO,Fiorentina - Cremonese,COINCIDE,,2022-08-14T16:30Z 3-2 (5 goles),2022-08-14T16:30Z 3-2 (5 goles),644625,10411201,,
 1,GOL,Fiorentina - Cremonese,COINCIDE,,16' Giacomo Bonaventura (Fiorentina),16' Giacomo Bonaventura (Fiorentina),644625,10411201,,
 1,GOL,Fiorentina - Cremonese,COINCIDE,,19' David Okereke (Cremonese),19' David Okereke (Cremonese),644625,10411201,,

@@ -1,0 +1,62 @@
+== Jornadas con CSV por fuente (de 38)
+espn: 38 jornadas
+sofascore: 38 jornadas
+
+== Partidos totales (esperado 380)
+espn: filas=380 disputados=380 ids_unicos=380 pares_local-visitante_unicos=380 estados={'STATUS_FULL_TIME': 380}
+sofascore: filas=380 disputados=380 ids_unicos=380 pares_local-visitante_unicos=380 estados={'finished': 380}
+
+== Partidos por equipo (esperado 38 cada uno)
+espn: 20 equipos; con != 38: ninguno
+sofascore: 20 equipos; con != 38: ninguno
+
+== Goles, penales y autogoles por fuente
+fuente,goles,penales,autogoles,suma_marcadores
+espn,974,85,31,974
+sofascore,974,85,31,974
+
+== Comparacion ESPN vs Sofascore
+nivel,estado,filas
+GOL,COINCIDE,950
+GOL,RESUELTO_POR_USUARIO,24
+PARTIDO,COINCIDE,380
+
+-- Discrepancias (todas las filas que no COINCIDEN), CSV crudo
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
+"1","GOL","Monza - Torino","RESUELTO_POR_USUARIO","goleador_distinto","43' Alexey Miranchuk (Torino)","43' Aleksey Miranchuk (Torino)"
+"6","GOL","Sampdoria - AC Milan","RESUELTO_POR_USUARIO","goleador_distinto","57' Filip Djuricic (Sampdoria)","57' Filip Đuričić (Sampdoria)"
+"6","GOL","Juventus - Salernitana","RESUELTO_POR_USUARIO","goleador_variante","51' Bremer (Juventus)","51' Gleison Bremer (Juventus)"
+"7","GOL","Torino - Sassuolo","RESUELTO_POR_USUARIO","goleador_variante","90+3' Agustín Álvarez Martínez (Sassuolo)","90+3' Agustín Álvarez (Sassuolo)"
+"7","GOL","Fiorentina - Hellas Verona","RESUELTO_POR_USUARIO","goleador_variante","90' Nico González (Fiorentina)","90' Nicolás González (Fiorentina)"
+"9","GOL","Bologna - Sampdoria","RESUELTO_POR_USUARIO","goleador_distinto","72' Filip Djuricic (Sampdoria)","72' Filip Đuričić (Sampdoria)"
+"12","GOL","Torino - AC Milan","RESUELTO_POR_USUARIO","goleador_distinto","37' Alexey Miranchuk (Torino)","37' Aleksey Miranchuk (Torino)"
+"15","GOL","Atalanta - Internazionale","RESUELTO_POR_USUARIO","goleador_variante","61' José Palomino (Internazionale) AUTOGOL","61' José Luis Palomino (Inter) AUTOGOL"
+"15","GOL","Atalanta - Internazionale","RESUELTO_POR_USUARIO","goleador_variante","77' José Palomino (Atalanta)","77' José Luis Palomino (Atalanta)"
+"16","GOL","Torino - Hellas Verona","RESUELTO_POR_USUARIO","goleador_distinto","45' Milan Djuric (Hellas Verona)","45' Milan Đurić (Hellas Verona)"
+"16","GOL","Torino - Hellas Verona","RESUELTO_POR_USUARIO","goleador_distinto","64' Alexey Miranchuk (Torino)","64' Aleksey Miranchuk (Torino)"
+"17","GOL","Fiorentina - Sassuolo","RESUELTO_POR_USUARIO","goleador_variante","90+1' Nico González (Fiorentina) PEN","90+1' Nicolás González (Fiorentina) PEN"
+"19","GOL","Fiorentina - Torino","RESUELTO_POR_USUARIO","goleador_distinto","33' Alexey Miranchuk (Torino)","33' Aleksey Miranchuk (Torino)"
+"20","GOL","Lazio - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","49' Nico González (Fiorentina)","49' Nicolás González (Fiorentina)"
+"24","GOL","Empoli - Napoli","RESUELTO_POR_USUARIO","goleador_distinto","17' Adrian Ismajli (Napoli) AUTOGOL","17' Ardian Ismajli (SSC Napoli) AUTOGOL"
+"24","GOL","Juventus - Torino","RESUELTO_POR_USUARIO","goleador_variante","71' Bremer (Juventus)","71' Gleison Bremer (Juventus)"
+"25","GOL","Fiorentina - AC Milan","RESUELTO_POR_USUARIO","goleador_variante","49' Nico González (Fiorentina) PEN","49' Nicolás González (Fiorentina) PEN"
+"26","GOL","Juventus - Sampdoria","RESUELTO_POR_USUARIO","goleador_variante","11' Bremer (Juventus)","11' Gleison Bremer (Juventus)"
+"26","GOL","Juventus - Sampdoria","RESUELTO_POR_USUARIO","goleador_distinto","32' Filip Djuricic (Sampdoria)","32' Filip Đuričić (Sampdoria)"
+"30","GOL","Lecce - Sampdoria","RESUELTO_POR_USUARIO","goleador_variante","75' Jesé (Sampdoria)","75' Jesé Rodríguez (Sampdoria)"
+"33","GOL","Salernitana - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","36' Nico González (Fiorentina)","36' Nicolás González (Fiorentina)"
+"35","GOL","Juventus - Cremonese","RESUELTO_POR_USUARIO","goleador_variante","79' Bremer (Juventus)","79' Gleison Bremer (Juventus)"
+"38","GOL","Sassuolo - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","83' Nico González (Fiorentina)","83' Nicolás González (Fiorentina)"
+"38","GOL","AS Roma - Spezia","RESUELTO_POR_USUARIO","goleador_distinto","6' Dimitris Nikolaou (Spezia)","6' Dimitrios Nikolaou (Spezia)"
+
+resumen por tipo: {'goleador_distinto': 10, 'goleador_variante': 14}
+sin resolver=0 resueltas_por_usuario=24
+minuto=0 goleador_distinto=10 goleador_variante(nombre corto/largo)=14 sin_pareja=0
+
+== Validaciones (suma=marcador, minutos 1-120, sin duplicados)
+OK en todas las jornadas y fuentes
+
+== Eventos de ESPN en los scoreboard descargados que no estan en ninguna jornada
+0 eventos
+
+== Llamadas fallidas (datos/fallos.csv)
+ninguna (no existe fallos.csv)

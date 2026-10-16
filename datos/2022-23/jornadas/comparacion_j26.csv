@@ -31,8 +31,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 26,GOL,Juventus - Sampdoria,COINCIDE,,31' Tommaso Augello (Sampdoria),31' Tommaso Augello (Sampdoria),644867,10411704,,
 26,GOL,Juventus - Sampdoria,COINCIDE,,64' Adrien Rabiot (Juventus),64' Adrien Rabiot (Juventus),644867,10411704,,
 26,GOL,Juventus - Sampdoria,COINCIDE,,90+4' Matìas Soulè (Juventus),90+4' Matías Soulé (Juventus),644867,10411704,,
-26,GOL,Juventus - Sampdoria,DISCREPA,goleador_variante,11' Bremer (Juventus),11' Gleison Bremer (Juventus),644867,10411704,,
-26,GOL,Juventus - Sampdoria,DISCREPA,goleador_distinto,32' Filip Djuricic (Sampdoria),32' Filip Đuričić (Sampdoria),644867,10411704,,
+26,GOL,Juventus - Sampdoria,RESUELTO_POR_USUARIO,goleador_variante,11' Bremer (Juventus),11' Gleison Bremer (Juventus),644867,10411704,misma persona; forma larga (mismo criterio que otras temporadas),Gleison Bremer
+26,GOL,Juventus - Sampdoria,RESUELTO_POR_USUARIO,goleador_distinto,32' Filip Djuricic (Sampdoria),32' Filip Đuričić (Sampdoria),644867,10411704,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Milan Đurić
 26,PARTIDO,AC Milan - Salernitana,COINCIDE,,2023-03-13T19:45Z 1-1 (2 goles),2023-03-13T19:45Z 1-1 (2 goles),644876,10411716,,
 26,GOL,AC Milan - Salernitana,COINCIDE,,45+1' Olivier Giroud (AC Milan),45+1' Olivier Giroud (AC Milan),644876,10411716,,
 26,GOL,AC Milan - Salernitana,COINCIDE,,61' Boulaye Dia (Salernitana),61' Boulaye Dia (US Salernitana 1919),644876,10411716,,

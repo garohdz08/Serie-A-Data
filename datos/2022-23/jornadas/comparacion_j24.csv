@@ -1,7 +1,7 @@
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn_id,sofascore_id,decision_usuario,nombre_elegido
 24,PARTIDO,Empoli - Napoli,COINCIDE,,2023-02-25T17:00Z 0-2 (2 goles),2023-02-25T17:00Z 0-2 (2 goles),644854,10411696,,
 24,GOL,Empoli - Napoli,COINCIDE,,28' Victor Osimhen (Napoli),28' Victor Osimhen (SSC Napoli),644854,10411696,,
-24,GOL,Empoli - Napoli,DISCREPA,goleador_distinto,17' Adrian Ismajli (Napoli) AUTOGOL,17' Ardian Ismajli (SSC Napoli) AUTOGOL,644854,10411696,,
+24,GOL,Empoli - Napoli,RESUELTO_POR_USUARIO,goleador_distinto,17' Adrian Ismajli (Napoli) AUTOGOL,17' Ardian Ismajli (SSC Napoli) AUTOGOL,644854,10411696,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Ardian Ismajli
 24,PARTIDO,Lecce - Sassuolo,COINCIDE,,2023-02-25T19:45Z 0-1 (1 goles),2023-02-25T19:45Z 0-1 (1 goles),644856,10411687,,
 24,GOL,Lecce - Sassuolo,COINCIDE,,65' Kristian Thorstvedt (Sassuolo),65' Kristian Thorstvedt (Sassuolo),644856,10411687,,
 24,PARTIDO,Bologna - Internazionale,COINCIDE,,2023-02-26T11:30Z 1-0 (1 goles),2023-02-26T11:30Z 1-0 (1 goles),644847,10411684,,
@@ -34,4 +34,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 24,GOL,Juventus - Torino,COINCIDE,,43' Antonio Sanabria (Torino),43' Antonio Sanabria (Torino),644853,10411685,,
 24,GOL,Juventus - Torino,COINCIDE,,45+1' Danilo (Juventus),45+1' Danilo (Juventus),644853,10411685,,
 24,GOL,Juventus - Torino,COINCIDE,,80' Adrien Rabiot (Juventus),80' Adrien Rabiot (Juventus),644853,10411685,,
-24,GOL,Juventus - Torino,DISCREPA,goleador_variante,71' Bremer (Juventus),71' Gleison Bremer (Juventus),644853,10411685,,
+24,GOL,Juventus - Torino,RESUELTO_POR_USUARIO,goleador_variante,71' Bremer (Juventus),71' Gleison Bremer (Juventus),644853,10411685,misma persona; forma larga (mismo criterio que otras temporadas),Gleison Bremer

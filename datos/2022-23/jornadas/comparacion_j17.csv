@@ -2,7 +2,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 17,PARTIDO,Fiorentina - Sassuolo,COINCIDE,,2023-01-07T14:00Z 2-1 (3 goles),2023-01-07T14:00Z 2-1 (3 goles),644779,10411618,,
 17,GOL,Fiorentina - Sassuolo,COINCIDE,,48' Riccardo Saponara (Fiorentina),48' Riccardo Saponara (Fiorentina),644779,10411618,,
 17,GOL,Fiorentina - Sassuolo,COINCIDE,,57' Domenico Berardi (Sassuolo) PEN,57' Domenico Berardi (Sassuolo) PEN,644779,10411618,,
-17,GOL,Fiorentina - Sassuolo,DISCREPA,goleador_variante,90+1' Nico González (Fiorentina) PEN,90+1' Nicolás González (Fiorentina) PEN,644779,10411618,,
+17,GOL,Fiorentina - Sassuolo,RESUELTO_POR_USUARIO,goleador_variante,90+1' Nico González (Fiorentina) PEN,90+1' Nicolás González (Fiorentina) PEN,644779,10411618,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González
 17,PARTIDO,Juventus - Udinese,COINCIDE,,2023-01-07T17:00Z 1-0 (1 goles),2023-01-07T17:00Z 1-0 (1 goles),644778,10411614,,
 17,GOL,Juventus - Udinese,COINCIDE,,86' Danilo (Juventus),86' Danilo (Juventus),644778,10411614,,
 17,PARTIDO,Monza - Internazionale,COINCIDE,,2023-01-07T19:45Z 2-2 (4 goles),2023-01-07T19:45Z 2-2 (4 goles),644786,10411615,,

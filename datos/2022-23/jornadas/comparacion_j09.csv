@@ -8,7 +8,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 9,GOL,AC Milan - Juventus,COINCIDE,,54' Brahim Díaz (AC Milan),54' Brahim Díaz (AC Milan),644702,10411499,,
 9,PARTIDO,Bologna - Sampdoria,COINCIDE,,2022-10-08T18:45Z 1-1 (2 goles),2022-10-08T18:45Z 1-1 (2 goles),644705,10411504,,
 9,GOL,Bologna - Sampdoria,COINCIDE,,32' Nicolás Domínguez (Bologna),32' Nicolás Domínguez (Bologna),644705,10411504,,
-9,GOL,Bologna - Sampdoria,DISCREPA,goleador_distinto,72' Filip Djuricic (Sampdoria),72' Filip Đuričić (Sampdoria),644705,10411504,,
+9,GOL,Bologna - Sampdoria,RESUELTO_POR_USUARIO,goleador_distinto,72' Filip Djuricic (Sampdoria),72' Filip Đuričić (Sampdoria),644705,10411504,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Milan Đurić
 9,PARTIDO,Torino - Empoli,COINCIDE,,2022-10-09T10:30Z 1-1 (2 goles),2022-10-09T10:30Z 1-1 (2 goles),644697,10411517,,
 9,GOL,Torino - Empoli,COINCIDE,,49' Mattia Destro (Empoli),49' Mattia Destro (Empoli),644697,10411517,,
 9,GOL,Torino - Empoli,COINCIDE,,90' Sasa Lukic (Torino),90' Saša Lukić (Torino),644697,10411517,,
