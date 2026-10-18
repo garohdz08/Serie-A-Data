@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+sofascore,9645056,2022-03-18T17:45Z,Sassuolo,Spezia,4,1,finished
+sofascore,9645055,2022-03-18T20:00Z,Genoa,Torino,1,0,finished
+sofascore,9645058,2022-03-19T14:00Z,SSC Napoli,Udinese,2,1,finished
+sofascore,9645059,2022-03-19T17:00Z,Inter,Fiorentina,1,1,finished
+sofascore,9645072,2022-03-19T19:45Z,Cagliari,AC Milan,0,1,finished
+sofascore,9645052,2022-03-20T11:30Z,Venezia,Sampdoria,0,2,finished
+sofascore,9645079,2022-03-20T14:00Z,Empoli,Hellas Verona,1,1,finished
+sofascore,9645057,2022-03-20T14:00Z,Juventus,US Salernitana 1919,2,0,finished
+sofascore,9645054,2022-03-20T17:00Z,AS Roma,Lazio,3,0,finished
+sofascore,9645078,2022-03-20T19:45Z,Bologna,Atalanta,0,1,finished
