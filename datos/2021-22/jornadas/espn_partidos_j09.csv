@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+espn,614838,2021-10-22T16:30Z,Torino,Genoa,3,2,STATUS_FULL_TIME
+espn,614843,2021-10-22T18:45Z,Sampdoria,Spezia,2,1,STATUS_FULL_TIME
+espn,614837,2021-10-23T13:00Z,Salernitana,Empoli,2,4,STATUS_FULL_TIME
+espn,614845,2021-10-23T16:00Z,Sassuolo,Venezia,3,1,STATUS_FULL_TIME
+espn,614841,2021-10-23T18:45Z,Bologna,AC Milan,2,4,STATUS_FULL_TIME
+espn,614844,2021-10-24T10:30Z,Atalanta,Udinese,1,1,STATUS_FULL_TIME
+espn,614836,2021-10-24T13:00Z,Fiorentina,Cagliari,3,0,STATUS_FULL_TIME
+espn,614840,2021-10-24T13:00Z,Hellas Verona,Lazio,4,1,STATUS_FULL_TIME
+espn,614842,2021-10-24T16:00Z,AS Roma,Napoli,0,0,STATUS_FULL_TIME
+espn,614839,2021-10-24T18:45Z,Internazionale,Juventus,1,1,STATUS_FULL_TIME
