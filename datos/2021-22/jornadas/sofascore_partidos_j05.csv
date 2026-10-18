@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+sofascore,9644963,2021-09-21T16:30Z,Bologna,Genoa,2,2,finished
+sofascore,9644962,2021-09-21T18:45Z,Atalanta,Sassuolo,2,1,finished
+sofascore,9644961,2021-09-21T18:45Z,Fiorentina,Inter,1,3,finished
+sofascore,9644967,2021-09-22T16:30Z,Spezia,Juventus,2,3,finished
+sofascore,9644966,2021-09-22T16:30Z,US Salernitana 1919,Hellas Verona,2,2,finished
+sofascore,9644968,2021-09-22T18:45Z,AC Milan,Venezia,2,0,finished
+sofascore,9644960,2021-09-22T18:45Z,Cagliari,Empoli,0,2,finished
+sofascore,9644965,2021-09-23T16:30Z,Sampdoria,SSC Napoli,0,4,finished
+sofascore,9644964,2021-09-23T16:30Z,Torino,Lazio,1,1,finished
+sofascore,9644969,2021-09-23T18:45Z,AS Roma,Udinese,1,0,finished
