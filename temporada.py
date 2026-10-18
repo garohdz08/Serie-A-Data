@@ -13,6 +13,7 @@ TEMPORADAS = {
     "2024-25": dict(sofa_season=63515, sofa_anio="24/25", datos=RAIZ / "datos" / "2024-25"),
     "2023-24": dict(sofa_season=52760, sofa_anio="23/24", datos=RAIZ / "datos" / "2023-24"),
     "2022-23": dict(sofa_season=42415, sofa_anio="22/23", datos=RAIZ / "datos" / "2022-23"),
+    "2021-22": dict(sofa_season=37475, sofa_anio="21/22", datos=RAIZ / "datos" / "2021-22"),
 }
 NOMBRE = os.environ.get("SERIE_A_TEMPORADA", "2025-26")
 if NOMBRE not in TEMPORADAS:
