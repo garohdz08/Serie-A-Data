@@ -9,7 +9,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 38,GOL,Atalanta - Empoli,COINCIDE,,79' Leo Stulac (Empoli),79' Leo Štulac (Empoli),614548,9645018,,
 38,PARTIDO,Fiorentina - Juventus,COINCIDE,,2022-05-21T18:45Z 2-0 (2 goles),2022-05-21T18:45Z 2-0 (2 goles),614550,9645037,,
 38,GOL,Fiorentina - Juventus,COINCIDE,,45+1' Alfred Duncan (Fiorentina),45+1' Alfred Duncan (Fiorentina),614550,9645037,,
-38,GOL,Fiorentina - Juventus,DISCREPA,goleador_variante,90+2' Nico González (Fiorentina) PEN,90+2' Nicolás González (Fiorentina) PEN,614550,9645037,,
+38,GOL,Fiorentina - Juventus,RESUELTO_POR_USUARIO,goleador_variante,90+2' Nico González (Fiorentina) PEN,90+2' Nicolás González (Fiorentina) PEN,614550,9645037,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González
 38,PARTIDO,Lazio - Hellas Verona,COINCIDE,,2022-05-21T18:45Z 3-3 (6 goles),2022-05-21T18:45Z 3-3 (6 goles),614549,9645026,,
 38,GOL,Lazio - Hellas Verona,COINCIDE,,6' Giovanni Simeone (Hellas Verona),6' Giovanni Simeone (Hellas Verona),614549,9645026,,
 38,GOL,Lazio - Hellas Verona,COINCIDE,,14' Kevin Lasagna (Hellas Verona),14' Kevin Lasagna (Hellas Verona),614549,9645026,,

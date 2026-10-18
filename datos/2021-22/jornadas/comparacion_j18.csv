@@ -31,7 +31,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 18,GOL,Fiorentina - Sassuolo,COINCIDE,,61' Lucas Torreira (Fiorentina),61' Lucas Torreira (Fiorentina),614753,9645143,,
 18,PARTIDO,Spezia - Empoli,COINCIDE,,2021-12-19T14:00Z 1-1 (2 goles),2021-12-19T14:00Z 1-1 (2 goles),614746,9645142,,
 18,GOL,Spezia - Empoli,COINCIDE,,50' Riccardo Marchizza (Spezia) AUTOGOL,50' Riccardo Marchizza (Spezia) AUTOGOL,614746,9645142,,
-18,GOL,Spezia - Empoli,DISCREPA,goleador_distinto,71' Dimitris Nikolaou (Empoli) AUTOGOL,71' Dimitrios Nikolaou (Empoli) AUTOGOL,614746,9645142,,
+18,GOL,Spezia - Empoli,RESUELTO_POR_USUARIO,goleador_distinto,71' Dimitris Nikolaou (Empoli) AUTOGOL,71' Dimitrios Nikolaou (Empoli) AUTOGOL,614746,9645142,misma persona; nombre canonico = el mas largo (mismo criterio que otras temporadas),Dimitrios Nikolaou
 18,PARTIDO,Sampdoria - Venezia,COINCIDE,,2021-12-19T17:00Z 1-1 (2 goles),2021-12-19T17:00Z 1-1 (2 goles),614755,9645137,,
 18,GOL,Sampdoria - Venezia,COINCIDE,,1' Manolo Gabbiadini (Sampdoria),1' Manolo Gabbiadini (Sampdoria),614755,9645137,,
 18,GOL,Sampdoria - Venezia,COINCIDE,,87' Thomas Henry (Venezia),87' Thomas Henry (Venezia),614755,9645137,,

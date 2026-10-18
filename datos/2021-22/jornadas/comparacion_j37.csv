@@ -35,7 +35,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 37,GOL,Sampdoria - Fiorentina,COINCIDE,,30' Fabio Quagliarella (Sampdoria),30' Fabio Quagliarella (Sampdoria),614557,9645028,,
 37,GOL,Sampdoria - Fiorentina,COINCIDE,,71' Morten Thorsby (Sampdoria),71' Morten Thorsby (Sampdoria),614557,9645028,,
 37,GOL,Sampdoria - Fiorentina,COINCIDE,,83' Abdelhamid Sabiri (Sampdoria),83' Abdelhamid Sabiri (Sampdoria),614557,9645028,,
-37,GOL,Sampdoria - Fiorentina,DISCREPA,goleador_variante,89' Nico González (Fiorentina) PEN,89' Nicolás González (Fiorentina) PEN,614557,9645028,,
+37,GOL,Sampdoria - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,89' Nico González (Fiorentina) PEN,89' Nicolás González (Fiorentina) PEN,614557,9645028,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González
 37,PARTIDO,Juventus - Lazio,COINCIDE,,2022-05-16T18:45Z 2-2 (4 goles),2022-05-16T18:45Z 2-2 (4 goles),614560,9645017,,
 37,GOL,Juventus - Lazio,COINCIDE,,10' Dusan Vlahovic (Juventus),10' Dušan Vlahović (Juventus),614560,9645017,,
 37,GOL,Juventus - Lazio,COINCIDE,,36' Álvaro Morata (Juventus),36' Álvaro Morata (Juventus),614560,9645017,,

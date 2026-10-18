@@ -33,7 +33,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 4,GOL,Lazio - Cagliari,COINCIDE,,45' Ciro Immobile (Lazio),45' Ciro Immobile (Lazio),614888,9644959,,
 4,GOL,Lazio - Cagliari,COINCIDE,,62' Keita Baldé (Cagliari),62' Keita Baldé (Cagliari),614888,9644959,,
 4,GOL,Lazio - Cagliari,COINCIDE,,83' Danilo Cataldi (Lazio),83' Danilo Cataldi (Lazio),614888,9644959,,
-4,GOL,Lazio - Cagliari,DISCREPA,goleador_variante,46' João Pedro (Cagliari),46' João Pedro Galvão (Cagliari),614888,9644959,,
+4,GOL,Lazio - Cagliari,RESUELTO_POR_USUARIO,goleador_variante,46' João Pedro (Cagliari),46' João Pedro Galvão (Cagliari),614888,9644959,misma persona; forma larga (mismo criterio que otras temporadas),João Pedro Galvão
 4,PARTIDO,Juventus - AC Milan,COINCIDE,,2021-09-19T18:45Z 1-1 (2 goles),2021-09-19T18:45Z 1-1 (2 goles),614890,9644958,,
 4,GOL,Juventus - AC Milan,COINCIDE,,4' Álvaro Morata (Juventus),4' Álvaro Morata (Juventus),614890,9644958,,
 4,GOL,Juventus - AC Milan,COINCIDE,,76' Ante Rebic (AC Milan),76' Ante Rebić (AC Milan),614890,9644958,,

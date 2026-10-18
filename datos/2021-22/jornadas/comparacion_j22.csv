@@ -28,8 +28,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 22,GOL,AC Milan - Spezia,COINCIDE,,64' Kevin Agudelo (Spezia),64' Kevin Agudelo (Spezia),614713,9645222,,
 22,GOL,AC Milan - Spezia,COINCIDE,,90+6' Emmanuel Gyasi (Spezia),90+6' Emmanuel Gyasi (Spezia),614713,9645222,,
 22,PARTIDO,Bologna - Napoli,COINCIDE,,2022-01-17T17:30Z 0-2 (2 goles),2022-01-17T17:30Z 0-2 (2 goles),614712,9645102,,
-22,GOL,Bologna - Napoli,DISCREPA,goleador_variante,20' Hirving Lozano (Napoli),20' Hirvinggg Lozano (SSC Napoli),614712,9645102,,
-22,GOL,Bologna - Napoli,DISCREPA,goleador_variante,47' Hirving Lozano (Napoli),47' Hirvinggg Lozano (SSC Napoli),614712,9645102,,
+22,GOL,Bologna - Napoli,RESUELTO_POR_USUARIO,goleador_variante,20' Hirving Lozano (Napoli),20' Hirvinggg Lozano (SSC Napoli),614712,9645102,"misma persona; se usa la grafia de ESPN porque ""Hirvinggg"" (Sofascore, mas larga) es un error evidente de escritura",Hirving Lozano
+22,GOL,Bologna - Napoli,RESUELTO_POR_USUARIO,goleador_variante,47' Hirving Lozano (Napoli),47' Hirvinggg Lozano (SSC Napoli),614712,9645102,"misma persona; se usa la grafia de ESPN porque ""Hirvinggg"" (Sofascore, mas larga) es un error evidente de escritura",Hirving Lozano
 22,PARTIDO,Fiorentina - Genoa,COINCIDE,,2022-01-17T19:45Z 6-0 (6 goles),2022-01-17T19:45Z 6-0 (6 goles),614708,9645103,,
 22,GOL,Fiorentina - Genoa,COINCIDE,,15' Álvaro Odriozola (Fiorentina),15' Álvaro Odriozola (Fiorentina),614708,9645103,,
 22,GOL,Fiorentina - Genoa,COINCIDE,,34' Giacomo Bonaventura (Fiorentina),34' Giacomo Bonaventura (Fiorentina),614708,9645103,,

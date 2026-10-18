@@ -34,7 +34,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 21,PARTIDO,Hellas Verona - Salernitana,COINCIDE,,2022-01-09T19:45Z 1-2 (3 goles),2022-01-09T19:45Z 1-2 (3 goles),614722,9645083,,
 21,GOL,Hellas Verona - Salernitana,COINCIDE,,63' Darko Lazovic (Hellas Verona),63' Darko Lazović (Hellas Verona),614722,9645083,,
 21,GOL,Hellas Verona - Salernitana,COINCIDE,,70' Grigoris Kastanos (Salernitana),70' Grigoris Kastanos (US Salernitana 1919),614722,9645083,,
-21,GOL,Hellas Verona - Salernitana,DISCREPA,goleador_distinto,29' Milan Djuric (Salernitana) PEN,29' Milan Đurić (US Salernitana 1919) PEN,614722,9645083,,
+21,GOL,Hellas Verona - Salernitana,RESUELTO_POR_USUARIO,goleador_distinto,29' Milan Djuric (Salernitana) PEN,29' Milan Đurić (US Salernitana 1919) PEN,614722,9645083,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Milan Đurić
 21,PARTIDO,Internazionale - Lazio,COINCIDE,,2022-01-09T19:45Z 2-1 (3 goles),2022-01-09T19:45Z 2-1 (3 goles),614720,9645085,,
 21,GOL,Internazionale - Lazio,COINCIDE,,30' Alessandro Bastoni (Internazionale),30' Alessandro Bastoni (Inter),614720,9645085,,
 21,GOL,Internazionale - Lazio,COINCIDE,,35' Ciro Immobile (Lazio),35' Ciro Immobile (Lazio),614720,9645085,,

@@ -3,8 +3,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 1,GOL,Hellas Verona - Sassuolo,COINCIDE,,32' Giacomo Raspadori (Sassuolo),32' Giacomo Raspadori (Sassuolo),614923,9644905,,
 1,GOL,Hellas Verona - Sassuolo,COINCIDE,,71' Mattia Zaccagni (Hellas Verona) PEN,71' Mattia Zaccagni (Hellas Verona) PEN,614923,9644905,,
 1,GOL,Hellas Verona - Sassuolo,COINCIDE,,90' Mattia Zaccagni (Hellas Verona),90' Mattia Zaccagni (Hellas Verona),614923,9644905,,
-1,GOL,Hellas Verona - Sassuolo,DISCREPA,goleador_distinto,51' Filip Djuricic (Sassuolo),51' Filip Đuričić (Sassuolo),614923,9644905,,
-1,GOL,Hellas Verona - Sassuolo,DISCREPA,goleador_variante,77' Hamed Traoré (Sassuolo),77' Hamed Junior Traorè (Sassuolo),614923,9644905,,
+1,GOL,Hellas Verona - Sassuolo,RESUELTO_POR_USUARIO,goleador_distinto,51' Filip Djuricic (Sassuolo),51' Filip Đuričić (Sassuolo),614923,9644905,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Filip Đuričić
+1,GOL,Hellas Verona - Sassuolo,RESUELTO_POR_USUARIO,goleador_variante,77' Hamed Traoré (Sassuolo),77' Hamed Junior Traorè (Sassuolo),614923,9644905,misma persona; forma larga (mismo criterio que otras temporadas),Hamed Junior Traorè
 1,PARTIDO,Internazionale - Genoa,COINCIDE,,2021-08-21T16:30Z 4-0 (4 goles),2021-08-21T16:30Z 4-0 (4 goles),614918,9644908,,
 1,GOL,Internazionale - Genoa,COINCIDE,,6' Milan Skriniar (Internazionale),6' Milan Škriniar (Inter),614918,9644908,,
 1,GOL,Internazionale - Genoa,COINCIDE,,14' Hakan Çalhanoglu (Internazionale),14' Hakan Çalhanoğlu (Inter),614918,9644908,,
@@ -41,7 +41,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 1,PARTIDO,Cagliari - Spezia,COINCIDE,,2021-08-23T16:30Z 2-2 (4 goles),2021-08-23T16:30Z 2-2 (4 goles),614924,9644904,,
 1,GOL,Cagliari - Spezia,COINCIDE,,7' Emmanuel Gyasi (Spezia),7' Emmanuel Gyasi (Spezia),614924,9644904,,
 1,GOL,Cagliari - Spezia,COINCIDE,,58' Simone Bastoni (Spezia),58' Simone Bastoni (Spezia),614924,9644904,,
-1,GOL,Cagliari - Spezia,DISCREPA,goleador_variante,62' João Pedro (Cagliari),62' João Pedro Galvão (Cagliari),614924,9644904,,
-1,GOL,Cagliari - Spezia,DISCREPA,goleador_variante,66' João Pedro (Cagliari) PEN,66' João Pedro Galvão (Cagliari) PEN,614924,9644904,,
+1,GOL,Cagliari - Spezia,RESUELTO_POR_USUARIO,goleador_variante,62' João Pedro (Cagliari),62' João Pedro Galvão (Cagliari),614924,9644904,misma persona; forma larga (mismo criterio que otras temporadas),João Pedro Galvão
+1,GOL,Cagliari - Spezia,RESUELTO_POR_USUARIO,goleador_variante,66' João Pedro (Cagliari) PEN,66' João Pedro Galvão (Cagliari) PEN,614924,9644904,misma persona; forma larga (mismo criterio que otras temporadas),João Pedro Galvão
 1,PARTIDO,Sampdoria - AC Milan,COINCIDE,,2021-08-23T18:45Z 0-1 (1 goles),2021-08-23T18:45Z 0-1 (1 goles),614921,9644902,,
 1,GOL,Sampdoria - AC Milan,COINCIDE,,9' Brahim Díaz (AC Milan),9' Brahim Díaz (AC Milan),614921,9644902,,

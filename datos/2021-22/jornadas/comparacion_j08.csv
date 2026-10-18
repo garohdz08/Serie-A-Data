@@ -17,8 +17,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 8,PARTIDO,Cagliari - Sampdoria,COINCIDE,,2021-10-17T10:30Z 3-1 (4 goles),2021-10-17T10:30Z 3-1 (4 goles),614853,9645251,,
 8,GOL,Cagliari - Sampdoria,COINCIDE,,74' Martín Cáceres (Cagliari),74' Martín Cáceres (Cagliari),614853,9645251,,
 8,GOL,Cagliari - Sampdoria,COINCIDE,,82' Morten Thorsby (Sampdoria),82' Morten Thorsby (Sampdoria),614853,9645251,,
-8,GOL,Cagliari - Sampdoria,DISCREPA,goleador_variante,4' João Pedro (Cagliari),4' João Pedro Galvão (Cagliari),614853,9645251,,
-8,GOL,Cagliari - Sampdoria,DISCREPA,goleador_variante,90+4' João Pedro (Cagliari),90+4' João Pedro Galvão (Cagliari),614853,9645251,,
+8,GOL,Cagliari - Sampdoria,RESUELTO_POR_USUARIO,goleador_variante,4' João Pedro (Cagliari),4' João Pedro Galvão (Cagliari),614853,9645251,misma persona; forma larga (mismo criterio que otras temporadas),João Pedro Galvão
+8,GOL,Cagliari - Sampdoria,RESUELTO_POR_USUARIO,goleador_variante,90+4' João Pedro (Cagliari),90+4' João Pedro Galvão (Cagliari),614853,9645251,misma persona; forma larga (mismo criterio que otras temporadas),João Pedro Galvão
 8,PARTIDO,Empoli - Atalanta,COINCIDE,,2021-10-17T13:00Z 1-4 (5 goles),2021-10-17T13:00Z 1-4 (5 goles),614846,9645265,,
 8,GOL,Empoli - Atalanta,COINCIDE,,11' Josip Ilicic (Atalanta),11' Josip Iličić (Atalanta),614846,9645265,,
 8,GOL,Empoli - Atalanta,COINCIDE,,26' Josip Ilicic (Atalanta),26' Josip Iličić (Atalanta),614846,9645265,,

@@ -2,7 +2,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 35,PARTIDO,Cagliari - Hellas Verona,COINCIDE,,2022-04-30T13:00Z 1-2 (3 goles),2022-04-30T13:00Z 1-2 (3 goles),614579,9645046,,
 35,GOL,Cagliari - Hellas Verona,COINCIDE,,8' Antonín Barák (Hellas Verona),8' Antonín Barák (Hellas Verona),614579,9645046,,
 35,GOL,Cagliari - Hellas Verona,COINCIDE,,44' Gianluca Caprari (Hellas Verona),44' Gianluca Caprari (Hellas Verona),614579,9645046,,
-35,GOL,Cagliari - Hellas Verona,DISCREPA,goleador_variante,57' João Pedro (Cagliari),57' João Pedro Galvão (Cagliari),614579,9645046,,
+35,GOL,Cagliari - Hellas Verona,RESUELTO_POR_USUARIO,goleador_variante,57' João Pedro (Cagliari),57' João Pedro Galvão (Cagliari),614579,9645046,misma persona; forma larga (mismo criterio que otras temporadas),João Pedro Galvão
 35,PARTIDO,Napoli - Sassuolo,COINCIDE,,2022-04-30T13:00Z 6-1 (7 goles),2022-04-30T13:00Z 6-1 (7 goles),614583,9645024,,
 35,GOL,Napoli - Sassuolo,COINCIDE,,7' Kalidou Koulibaly (Napoli),7' Kalidou Koulibaly (SSC Napoli),614583,9645024,,
 35,GOL,Napoli - Sassuolo,COINCIDE,,15' Victor Osimhen (Napoli),15' Victor Osimhen (SSC Napoli),614583,9645024,,

@@ -78,30 +78,56 @@ ORIGINALES = {
 
 
 def aplazados():
-    """Un partido es reprogramado si su fecha UTC cae a mas de 5 dias de la mediana de su jornada
-    (heuristica propia) o si su estado no es finalizado. Se listan todos, en ambas fuentes."""
+    """Lista TODOS los partidos reprogramados, en ambas fuentes, sin excluir ninguno:
+      - eventos no finalizados (p.ej. 'postponed' en Sofascore): su fecha es la del evento aplazado; se
+        enlaza con el gemelo disputado (mismo local-visitante) para dar la fecha real y su jornada;
+      - eventos disputados cuya fecha UTC cae a mas de 5 dias de la mediana de su jornada (heuristica propia).
+    Fecha original: la de ORIGINALES (prensa/usuario) o, si la otra fuente guarda el evento aplazado, la de ese evento."""
     from datetime import datetime
-    filas = []
+    todos = {}
     for f in FUENTES:
+        todos[f] = []
         for ruta in sorted(JORNADAS.glob(f"{f}_partidos_j*.csv")):
             n = int(ruta.stem[-2:])
             ps = leer(ruta)
             ds = [datetime.strptime(p["fecha_utc"], "%Y-%m-%dT%H:%MZ") for p in ps]
             med = sorted(ds)[len(ds) // 2]
             for p, d in zip(ps, ds):
-                if p["estado"] in FINALES and abs((d - med).days) <= 5:
-                    continue
-                k = clave(p)
-                orig = ORIGINALES.get(NOMBRE_TEMP, {}).get(k, "NO DISPONIBLE en las fuentes")
-                filas.append(dict(fuente=f, jornada=n, partido=f"{p['local']} - {p['visitante']}",
+                todos[f].append(dict(p, jornada=n, _d=d, _med=med))
+    no_final = {}
+    for f in FUENTES:
+        for p in todos[f]:
+            if p["estado"] not in FINALES:
+                no_final.setdefault(clave(p), []).append((f, p))
+    filas = []
+    for f in FUENTES:
+        jugados = [p for p in todos[f] if p["estado"] in FINALES]
+        for p in todos[f]:
+            k = clave(p)
+            if p["estado"] not in FINALES:
+                gem = [q for q in jugados if clave(q) == k]
+                filas.append(dict(fuente=f, jornada=p["jornada"], partido=f"{p['local']} - {p['visitante']}",
                                   partido_id=p["partido_id"], estado=p["estado"],
-                                  fecha_real_utc=p["fecha_utc"], mediana_jornada=med.strftime("%Y-%m-%d"),
-                                  fecha_original=orig,
-                                  criterio="estado no finalizado" if p["estado"] not in FINALES
-                                  else "fecha a mas de 5 dias de la mediana de la jornada"))
+                                  fecha_real_utc=gem[0]["fecha_utc"] if gem else "",
+                                  mediana_jornada=p["_med"].strftime("%Y-%m-%d"),
+                                  fecha_original=f"{p['fecha_utc']} (fecha del evento '{p['estado']}' en {f}, id {p['partido_id']})",
+                                  criterio="estado no finalizado; jornada del partido disputado: "
+                                           + (str(gem[0]["jornada"]) if gem else "SIN GEMELO DISPUTADO"),
+                                  jornada_partido_disputado=gem[0]["jornada"] if gem else ""))
+            elif abs((p["_d"] - p["_med"]).days) > 5:
+                orig = ORIGINALES.get(NOMBRE_TEMP, {}).get(k)
+                if not orig and k in no_final:
+                    orig = "; ".join(f"{q['fecha_utc']} (evento '{q['estado']}' de {fu}, id {q['partido_id']}, jornada {q['jornada']})"
+                                     for fu, q in no_final[k])
+                filas.append(dict(fuente=f, jornada=p["jornada"], partido=f"{p['local']} - {p['visitante']}",
+                                  partido_id=p["partido_id"], estado=p["estado"],
+                                  fecha_real_utc=p["fecha_utc"], mediana_jornada=p["_med"].strftime("%Y-%m-%d"),
+                                  fecha_original=orig or "NO DISPONIBLE en las fuentes",
+                                  criterio="fecha a mas de 5 dias de la mediana de la jornada",
+                                  jornada_partido_disputado=p["jornada"]))
     escribir(DATOS / "aplazados.csv",
              ["fuente", "jornada", "partido", "partido_id", "estado", "fecha_real_utc", "mediana_jornada",
-              "fecha_original", "criterio"], filas)
+              "fecha_original", "criterio", "jornada_partido_disputado"], filas)
     return filas
 
 

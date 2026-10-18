@@ -18,7 +18,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 33,GOL,Udinese - Empoli,COINCIDE,,70' Andrea Pinamonti (Empoli) PEN,70' Andrea Pinamonti (Empoli) PEN,614597,9645086,,
 33,GOL,Udinese - Empoli,COINCIDE,,79' Ignacio Pussetto (Udinese),79' Ignacio Pussetto (Udinese),614597,9645086,,
 33,GOL,Udinese - Empoli,COINCIDE,,87' Lazar Samardzic (Udinese),87' Lazar Samardžić (Udinese),614597,9645086,,
-33,GOL,Udinese - Empoli,DISCREPA,goleador_distinto,6' Adrian Ismajli (Udinese) AUTOGOL,6' Ardian Ismajli (Udinese) AUTOGOL,614597,9645086,,
+33,GOL,Udinese - Empoli,RESUELTO_POR_USUARIO,goleador_distinto,6' Adrian Ismajli (Udinese) AUTOGOL,6' Ardian Ismajli (Udinese) AUTOGOL,614597,9645086,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Ardian Ismajli
 33,PARTIDO,Fiorentina - Venezia,COINCIDE,,2022-04-16T14:30Z 1-0 (1 goles),2022-04-16T14:30Z 1-0 (1 goles),614605,9645403,,
 33,GOL,Fiorentina - Venezia,COINCIDE,,30' Lucas Torreira (Fiorentina),30' Lucas Torreira (Fiorentina),614605,9645403,,
 33,PARTIDO,Juventus - Bologna,COINCIDE,,2022-04-16T16:30Z 1-1 (2 goles),2022-04-16T16:30Z 1-1 (2 goles),614596,9645264,,

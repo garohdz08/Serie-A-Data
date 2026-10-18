@@ -22,7 +22,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 17,PARTIDO,Hellas Verona - Atalanta,COINCIDE,,2021-12-12T14:00Z 1-2 (3 goles),2021-12-12T14:00Z 1-2 (3 goles),614756,9645158,,
 17,GOL,Hellas Verona - Atalanta,COINCIDE,,22' Giovanni Simeone (Hellas Verona),22' Giovanni Simeone (Hellas Verona),614756,9645158,,
 17,GOL,Hellas Verona - Atalanta,COINCIDE,,62' Teun Koopmeiners (Atalanta),62' Teun Koopmeiners (Atalanta),614756,9645158,,
-17,GOL,Hellas Verona - Atalanta,DISCREPA,goleador_distinto,37' Alexey Miranchuk (Atalanta),37' Aleksey Miranchuk (Atalanta),614756,9645158,,
+17,GOL,Hellas Verona - Atalanta,RESUELTO_POR_USUARIO,goleador_distinto,37' Alexey Miranchuk (Atalanta),37' Aleksey Miranchuk (Atalanta),614756,9645158,misma persona; nombre canonico = el mas largo (mismo criterio que otras temporadas),Aleksey Miranchuk
 17,PARTIDO,Napoli - Empoli,COINCIDE,,2021-12-12T17:00Z 0-1 (1 goles),2021-12-12T17:00Z 0-1 (1 goles),614759,9645157,,
 17,GOL,Napoli - Empoli,COINCIDE,,70' Patrick Cutrone (Empoli),70' Patrick Cutrone (Empoli),614759,9645157,,
 17,PARTIDO,Sassuolo - Lazio,COINCIDE,,2021-12-12T17:00Z 2-1 (3 goles),2021-12-12T17:00Z 2-1 (3 goles),614761,9645130,,

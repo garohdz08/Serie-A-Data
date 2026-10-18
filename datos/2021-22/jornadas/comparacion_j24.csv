@@ -11,7 +11,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 24,PARTIDO,Atalanta - Cagliari,COINCIDE,,2022-02-06T11:30Z 1-2 (3 goles),2022-02-06T11:30Z 1-2 (3 goles),614686,9645224,,
 24,GOL,Atalanta - Cagliari,COINCIDE,,50' Gastón Pereiro (Cagliari),50' Gastón Pereiro (Cagliari),614686,9645224,,
 24,GOL,Atalanta - Cagliari,COINCIDE,,68' Gastón Pereiro (Cagliari),68' Gastón Pereiro (Cagliari),614686,9645224,,
-24,GOL,Atalanta - Cagliari,DISCREPA,goleador_variante,64' José Palomino (Atalanta),64' José Luis Palomino (Atalanta),614686,9645224,,
+24,GOL,Atalanta - Cagliari,RESUELTO_POR_USUARIO,goleador_variante,64' José Palomino (Atalanta),64' José Luis Palomino (Atalanta),614686,9645224,misma persona; forma larga (mismo criterio que otras temporadas),José Luis Palomino
 24,PARTIDO,Bologna - Empoli,COINCIDE,,2022-02-06T14:00Z 0-0 (0 goles),2022-02-06T14:00Z 0-0 (0 goles),614687,9645399,,
 24,PARTIDO,Sampdoria - Sassuolo,COINCIDE,,2022-02-06T14:00Z 4-0 (4 goles),2022-02-06T14:00Z 4-0 (4 goles),614693,9645262,,
 24,GOL,Sampdoria - Sassuolo,COINCIDE,,5' Francesco Caputo (Sampdoria),5' Francesco Caputo (Sampdoria),614693,9645262,,

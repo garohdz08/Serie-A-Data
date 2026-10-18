@@ -2,8 +2,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 29,PARTIDO,Salernitana - Sassuolo,COINCIDE,,2022-03-12T14:00Z 2-2 (4 goles),2022-03-12T14:00Z 2-2 (4 goles),614644,9645087,,
 29,GOL,Salernitana - Sassuolo,COINCIDE,,8' Federico Bonazzoli (Salernitana),8' Federico Bonazzoli (US Salernitana 1919),614644,9645087,,
 29,GOL,Salernitana - Sassuolo,COINCIDE,,20' Gianluca Scamacca (Sassuolo),20' Gianluca Scamacca (Sassuolo),614644,9645087,,
-29,GOL,Salernitana - Sassuolo,DISCREPA,goleador_variante,30' Hamed Traoré (Sassuolo),30' Hamed Junior Traorè (Sassuolo),614644,9645087,,
-29,GOL,Salernitana - Sassuolo,DISCREPA,goleador_distinto,81' Milan Djuric (Salernitana),81' Milan Đurić (US Salernitana 1919),614644,9645087,,
+29,GOL,Salernitana - Sassuolo,RESUELTO_POR_USUARIO,goleador_variante,30' Hamed Traoré (Sassuolo),30' Hamed Junior Traorè (Sassuolo),614644,9645087,misma persona; forma larga (mismo criterio que otras temporadas),Hamed Junior Traorè
+29,GOL,Salernitana - Sassuolo,RESUELTO_POR_USUARIO,goleador_distinto,81' Milan Djuric (Salernitana),81' Milan Đurić (US Salernitana 1919),614644,9645087,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Milan Đurić
 29,PARTIDO,Spezia - Cagliari,COINCIDE,,2022-03-12T14:00Z 2-0 (2 goles),2022-03-12T14:00Z 2-0 (2 goles),614637,9645084,,
 29,GOL,Spezia - Cagliari,COINCIDE,,55' Martin Erlic (Spezia),55' Martin Erlić (Spezia),614637,9645084,,
 29,GOL,Spezia - Cagliari,COINCIDE,,74' Rey Manaj (Spezia),74' Rey Manaj (Spezia),614637,9645084,,
@@ -26,6 +26,6 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 29,GOL,Udinese - AS Roma,COINCIDE,,90+4' Lorenzo Pellegrini (AS Roma) PEN,90+4' Lorenzo Pellegrini (AS Roma) PEN,614643,9645075,,
 29,PARTIDO,Torino - Internazionale,COINCIDE,,2022-03-13T19:45Z 1-1 (2 goles),2022-03-13T19:45Z 1-1 (2 goles),614640,9645081,,
 29,GOL,Torino - Internazionale,COINCIDE,,90+3' Alexis Sánchez (Internazionale),90+3' Alexis Sánchez (Inter),614640,9645081,,
-29,GOL,Torino - Internazionale,DISCREPA,goleador_variante,12' Bremer (Torino),12' Gleison Bremer (Torino),614640,9645081,,
+29,GOL,Torino - Internazionale,RESUELTO_POR_USUARIO,goleador_variante,12' Bremer (Torino),12' Gleison Bremer (Torino),614640,9645081,misma persona; forma larga (mismo criterio que otras temporadas),Gleison Bremer
 29,PARTIDO,Lazio - Venezia,COINCIDE,,2022-03-14T19:45Z 1-0 (1 goles),2022-03-14T19:45Z 1-0 (1 goles),614645,9645063,,
 29,GOL,Lazio - Venezia,COINCIDE,,58' Ciro Immobile (Lazio) PEN,58' Ciro Immobile (Lazio) PEN,614645,9645063,,

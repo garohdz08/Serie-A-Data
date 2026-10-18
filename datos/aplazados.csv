@@ -1,0 +1,16 @@
+fuente,jornada,partido,partido_id,estado,fecha_real_utc,mediana_jornada,fecha_original,criterio,jornada_partido_disputado
+espn,16,Napoli - Parma,736937,STATUS_FULL_TIME,2026-01-14T17:30Z,2025-12-21,"2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981578, jornada 16)",fecha a mas de 5 dias de la mediana de la jornada,16
+espn,16,Internazionale - Lecce,736940,STATUS_FULL_TIME,2026-01-14T19:45Z,2025-12-21,"2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981574, jornada 16)",fecha a mas de 5 dias de la mediana de la jornada,16
+espn,16,Hellas Verona - Bologna,736941,STATUS_FULL_TIME,2026-01-15T17:30Z,2025-12-21,"2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981576, jornada 16)",fecha a mas de 5 dias de la mediana de la jornada,16
+espn,16,Como - AC Milan,736935,STATUS_FULL_TIME,2026-01-15T19:45Z,2025-12-21,"2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981567, jornada 16)",fecha a mas de 5 dias de la mediana de la jornada,16
+espn,24,AC Milan - Como,737015,STATUS_FULL_TIME,2026-02-18T19:45Z,2026-02-08,"2026-02-08T14:00Z (evento 'postponed' de sofascore, id 13981661, jornada 24)",fecha a mas de 5 dias de la mediana de la jornada,24
+sofascore,16,Como - AC Milan,13981567,postponed,2026-01-15T19:45Z,2025-12-21,"2025-12-21T14:00Z (fecha del evento 'postponed' en sofascore, id 13981567)",estado no finalizado; jornada del partido disputado: 16,16
+sofascore,16,Hellas Verona - Bologna,13981576,postponed,2026-01-15T17:30Z,2025-12-21,"2025-12-21T14:00Z (fecha del evento 'postponed' en sofascore, id 13981576)",estado no finalizado; jornada del partido disputado: 16,16
+sofascore,16,Inter - Lecce,13981574,postponed,2026-01-14T19:45Z,2025-12-21,"2025-12-21T14:00Z (fecha del evento 'postponed' en sofascore, id 13981574)",estado no finalizado; jornada del partido disputado: 16,16
+sofascore,16,SSC Napoli - Parma,13981578,postponed,2026-01-14T17:30Z,2025-12-21,"2025-12-21T14:00Z (fecha del evento 'postponed' en sofascore, id 13981578)",estado no finalizado; jornada del partido disputado: 16,16
+sofascore,16,SSC Napoli - Parma,14844295,finished,2026-01-14T17:30Z,2025-12-21,"2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981578, jornada 16)",fecha a mas de 5 dias de la mediana de la jornada,16
+sofascore,16,Inter - Lecce,14844287,finished,2026-01-14T19:45Z,2025-12-21,"2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981574, jornada 16)",fecha a mas de 5 dias de la mediana de la jornada,16
+sofascore,16,Hellas Verona - Bologna,14844293,finished,2026-01-15T17:30Z,2025-12-21,"2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981576, jornada 16)",fecha a mas de 5 dias de la mediana de la jornada,16
+sofascore,16,Como - AC Milan,14844296,finished,2026-01-15T19:45Z,2025-12-21,"2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981567, jornada 16)",fecha a mas de 5 dias de la mediana de la jornada,16
+sofascore,24,AC Milan - Como,13981661,postponed,2026-02-18T19:45Z,2026-02-08,"2026-02-08T14:00Z (fecha del evento 'postponed' en sofascore, id 13981661)",estado no finalizado; jornada del partido disputado: 24,24
+sofascore,24,AC Milan - Como,15462526,finished,2026-02-18T19:45Z,2026-02-08,"2026-02-08T14:00Z (evento 'postponed' de sofascore, id 13981661, jornada 24)",fecha a mas de 5 dias de la mediana de la jornada,24

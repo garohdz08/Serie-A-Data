@@ -3,7 +3,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 7,GOL,Cagliari - Venezia,COINCIDE,,19' Keita Baldé (Cagliari),19' Keita Baldé (Cagliari),614865,9645002,,
 7,GOL,Cagliari - Venezia,COINCIDE,,90+2' Gianluca Busio (Venezia),90+2' Gianluca Busio (Venezia),614865,9645002,,
 7,PARTIDO,Salernitana - Genoa,COINCIDE,,2021-10-02T13:00Z 1-0 (1 goles),2021-10-02T13:00Z 1-0 (1 goles),614857,9644983,,
-7,GOL,Salernitana - Genoa,DISCREPA,goleador_distinto,66' Milan Djuric (Salernitana),66' Milan Đurić (US Salernitana 1919),614857,9644983,,
+7,GOL,Salernitana - Genoa,RESUELTO_POR_USUARIO,goleador_distinto,66' Milan Djuric (Salernitana),66' Milan Đurić (US Salernitana 1919),614857,9644983,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Milan Đurić
 7,PARTIDO,Torino - Juventus,COINCIDE,,2021-10-02T16:00Z 0-1 (1 goles),2021-10-02T16:00Z 0-1 (1 goles),614859,9644981,,
 7,GOL,Torino - Juventus,COINCIDE,,86' Manuel Locatelli (Juventus),86' Manuel Locatelli (Juventus),614859,9644981,,
 7,PARTIDO,Sassuolo - Internazionale,COINCIDE,,2021-10-02T18:45Z 1-2 (3 goles),2021-10-02T18:45Z 1-2 (3 goles),614858,9645112,,

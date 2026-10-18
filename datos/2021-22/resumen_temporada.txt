@@ -1,0 +1,96 @@
+== Jornadas con CSV por fuente (de 38)
+espn: 38 jornadas
+sofascore: 38 jornadas
+
+== Partidos totales (esperado 380)
+espn: filas=380 disputados=380 ids_unicos=380 pares_local-visitante_unicos=380 estados={'STATUS_FULL_TIME': 380}
+sofascore: filas=386 disputados=380 ids_unicos=386 pares_local-visitante_unicos=380 estados={'finished': 380, 'postponed': 6}
+   no disputado J19 id=9645212 2021-12-21T17:30Z Udinese - US Salernitana 1919 (postponed); gemelo disputado: [('10226891', '2022-04-20T16:45Z')]
+   no disputado J20 id=9645420 2022-01-06T11:30Z Bologna - Inter (postponed); gemelo disputado: [('10226862', '2022-04-27T18:15Z')]
+   no disputado J20 id=9645207 2022-01-06T15:30Z Atalanta - Torino (postponed); gemelo disputado: [('10226860', '2022-04-27T18:15Z')]
+   no disputado J20 id=9645443 2022-01-06T17:30Z US Salernitana 1919 - Venezia (postponed); gemelo disputado: [('10269142', '2022-05-05T16:00Z')]
+   no disputado J20 id=9645233 2022-01-06T19:45Z Fiorentina - Udinese (postponed); gemelo disputado: [('10226857', '2022-04-27T16:00Z')]
+   no disputado J20 id=10226858 2022-04-27T16:00Z US Salernitana 1919 - Venezia (postponed); gemelo disputado: [('10269142', '2022-05-05T16:00Z')]
+
+== Partidos por equipo (esperado 38 cada uno)
+espn: 20 equipos; con != 38: ninguno
+sofascore: 20 equipos; con != 38: ninguno
+
+== Goles, penales y autogoles por fuente
+fuente,goles,penales,autogoles,suma_marcadores
+espn,1089,110,37,1089
+sofascore,1088,110,37,1089
+
+== Comparacion ESPN vs Sofascore
+nivel,estado,filas
+GOL,COINCIDE,1042
+GOL,RESUELTO_POR_USUARIO,46
+GOL,SOLO_ESPN,1
+PARTIDO,COINCIDE,377
+PARTIDO,DISCREPA,3
+
+-- Discrepancias (todas las filas que no COINCIDEN), CSV crudo
+jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
+"1","GOL","Hellas Verona - Sassuolo","RESUELTO_POR_USUARIO","goleador_distinto","51' Filip Djuricic (Sassuolo)","51' Filip Đuričić (Sassuolo)"
+"1","GOL","Hellas Verona - Sassuolo","RESUELTO_POR_USUARIO","goleador_variante","77' Hamed Traoré (Sassuolo)","77' Hamed Junior Traorè (Sassuolo)"
+"1","GOL","Cagliari - Spezia","RESUELTO_POR_USUARIO","goleador_variante","62' João Pedro (Cagliari)","62' João Pedro Galvão (Cagliari)"
+"1","GOL","Cagliari - Spezia","RESUELTO_POR_USUARIO","goleador_variante","66' João Pedro (Cagliari) PEN","66' João Pedro Galvão (Cagliari) PEN"
+"2","GOL","Fiorentina - Torino","RESUELTO_POR_USUARIO","goleador_variante","41' Nico González (Fiorentina)","41' Nicolás González (Fiorentina)"
+"3","GOL","Cagliari - Genoa","RESUELTO_POR_USUARIO","goleador_variante","16' João Pedro (Cagliari) PEN","16' João Pedro Galvão (Cagliari) PEN"
+"3","GOL","Torino - Salernitana","RESUELTO_POR_USUARIO","goleador_variante","65' Bremer (Torino)","65' Gleison Bremer (Torino)"
+"3","GOL","AS Roma - Sassuolo","RESUELTO_POR_USUARIO","goleador_distinto","57' Filip Djuricic (Sassuolo)","57' Filip Đuričić (Sassuolo)"
+"4","GOL","Lazio - Cagliari","RESUELTO_POR_USUARIO","goleador_variante","46' João Pedro (Cagliari)","46' João Pedro Galvão (Cagliari)"
+"7","GOL","Salernitana - Genoa","RESUELTO_POR_USUARIO","goleador_distinto","66' Milan Djuric (Salernitana)","66' Milan Đurić (US Salernitana 1919)"
+"8","GOL","Cagliari - Sampdoria","RESUELTO_POR_USUARIO","goleador_variante","4' João Pedro (Cagliari)","4' João Pedro Galvão (Cagliari)"
+"8","GOL","Cagliari - Sampdoria","RESUELTO_POR_USUARIO","goleador_variante","90+4' João Pedro (Cagliari)","90+4' João Pedro Galvão (Cagliari)"
+"9","GOL","Salernitana - Empoli","RESUELTO_POR_USUARIO","goleador_distinto","55' Adrian Ismajli (Salernitana) AUTOGOL","55' Ardian Ismajli (US Salernitana 1919) AUTOGOL"
+"9","GOL","Fiorentina - Cagliari","RESUELTO_POR_USUARIO","goleador_variante","42' Nico González (Fiorentina)","42' Nicolás González (Fiorentina)"
+"12","GOL","Empoli - Genoa","RESUELTO_POR_USUARIO","goleador_variante","89' Flavio Junior Bianchi (Genoa)","89' Flavio Bianchi (Genoa)"
+"12","GOL","Cagliari - Atalanta","RESUELTO_POR_USUARIO","goleador_variante","27' João Pedro (Cagliari)","27' João Pedro Galvão (Cagliari)"
+"13","GOL","Sassuolo - Cagliari","RESUELTO_POR_USUARIO","goleador_variante","56' João Pedro (Cagliari) PEN","56' João Pedro Galvão (Cagliari) PEN"
+"13","GOL","Torino - Udinese","RESUELTO_POR_USUARIO","goleador_variante","48' Bremer (Torino)","48' Gleison Bremer (Torino)"
+"16","GOL","Cagliari - Torino","RESUELTO_POR_USUARIO","goleador_variante","53' João Pedro (Cagliari)","53' João Pedro Galvão (Cagliari)"
+"17","GOL","Hellas Verona - Atalanta","RESUELTO_POR_USUARIO","goleador_distinto","37' Alexey Miranchuk (Atalanta)","37' Aleksey Miranchuk (Atalanta)"
+"18","GOL","Spezia - Empoli","RESUELTO_POR_USUARIO","goleador_distinto","71' Dimitris Nikolaou (Empoli) AUTOGOL","71' Dimitrios Nikolaou (Empoli) AUTOGOL"
+"19","PARTIDO","Udinese - Salernitana","DISCREPA","n_goles","2022-04-20T16:45Z 0-1 (1 goles)","2022-04-20T16:45Z 0-1 (0 goles)"
+"19","GOL","Udinese - Salernitana","SOLO_ESPN","gol","90+3' Simone Verdi (Salernitana)",""
+"21","GOL","Hellas Verona - Salernitana","RESUELTO_POR_USUARIO","goleador_distinto","29' Milan Djuric (Salernitana) PEN","29' Milan Đurić (US Salernitana 1919) PEN"
+"22","GOL","Bologna - Napoli","RESUELTO_POR_USUARIO","goleador_variante","20' Hirving Lozano (Napoli)","20' Hirvinggg Lozano (SSC Napoli)"
+"22","GOL","Bologna - Napoli","RESUELTO_POR_USUARIO","goleador_variante","47' Hirving Lozano (Napoli)","47' Hirvinggg Lozano (SSC Napoli)"
+"23","GOL","Cagliari - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","47' João Pedro (Cagliari)","47' João Pedro Galvão (Cagliari)"
+"24","GOL","Atalanta - Cagliari","RESUELTO_POR_USUARIO","goleador_variante","64' José Palomino (Atalanta)","64' José Luis Palomino (Atalanta)"
+"25","GOL","Sassuolo - AS Roma","RESUELTO_POR_USUARIO","goleador_variante","73' Hamed Traoré (Sassuolo)","73' Hamed Junior Traorè (Sassuolo)"
+"26","GOL","Salernitana - AC Milan","RESUELTO_POR_USUARIO","goleador_distinto","72' Milan Djuric (Salernitana)","72' Milan Đurić (US Salernitana 1919)"
+"27","PARTIDO","AC Milan - Udinese","DISCREPA","fecha_utc","2022-02-25T17:50Z 1-1 (2 goles)","2022-02-25T17:45Z 1-1 (2 goles)"
+"27","PARTIDO","Genoa - Internazionale","DISCREPA","fecha_utc","2022-02-25T20:05Z 0-0 (0 goles)","2022-02-25T20:00Z 0-0 (0 goles)"
+"27","GOL","Sassuolo - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","19' Hamed Traoré (Sassuolo)","19' Hamed Junior Traorè (Sassuolo)"
+"27","GOL","Atalanta - Sampdoria","RESUELTO_POR_USUARIO","goleador_distinto","86' Alexey Miranchuk (Atalanta)","86' Aleksey Miranchuk (Atalanta)"
+"29","GOL","Salernitana - Sassuolo","RESUELTO_POR_USUARIO","goleador_variante","30' Hamed Traoré (Sassuolo)","30' Hamed Junior Traorè (Sassuolo)"
+"29","GOL","Salernitana - Sassuolo","RESUELTO_POR_USUARIO","goleador_distinto","81' Milan Djuric (Salernitana)","81' Milan Đurić (US Salernitana 1919)"
+"29","GOL","Torino - Internazionale","RESUELTO_POR_USUARIO","goleador_variante","12' Bremer (Torino)","12' Gleison Bremer (Torino)"
+"31","GOL","Lazio - Sassuolo","RESUELTO_POR_USUARIO","goleador_variante","90+4' Hamed Traoré (Sassuolo)","90+4' Hamed Junior Traorè (Sassuolo)"
+"31","GOL","Fiorentina - Empoli","RESUELTO_POR_USUARIO","goleador_variante","58' Nico González (Fiorentina)","58' Nicolás González (Fiorentina)"
+"31","GOL","Udinese - Cagliari","RESUELTO_POR_USUARIO","goleador_variante","32' João Pedro (Cagliari)","32' João Pedro Galvão (Cagliari)"
+"32","GOL","Cagliari - Juventus","RESUELTO_POR_USUARIO","goleador_variante","10' João Pedro (Cagliari)","10' João Pedro Galvão (Cagliari)"
+"32","GOL","Napoli - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","29' Nico González (Fiorentina)","29' Nicolás González (Fiorentina)"
+"32","GOL","Sassuolo - Atalanta","RESUELTO_POR_USUARIO","goleador_variante","24' Hamed Traoré (Sassuolo)","24' Hamed Junior Traorè (Sassuolo)"
+"32","GOL","Sassuolo - Atalanta","RESUELTO_POR_USUARIO","goleador_variante","61' Hamed Traoré (Sassuolo)","61' Hamed Junior Traorè (Sassuolo)"
+"33","GOL","Udinese - Empoli","RESUELTO_POR_USUARIO","goleador_distinto","6' Adrian Ismajli (Udinese) AUTOGOL","6' Ardian Ismajli (Udinese) AUTOGOL"
+"34","GOL","Salernitana - Fiorentina","RESUELTO_POR_USUARIO","goleador_distinto","9' Milan Djuric (Salernitana)","9' Milan Đurić (US Salernitana 1919)"
+"35","GOL","Cagliari - Hellas Verona","RESUELTO_POR_USUARIO","goleador_variante","57' João Pedro (Cagliari)","57' João Pedro Galvão (Cagliari)"
+"36","GOL","Fiorentina - AS Roma","RESUELTO_POR_USUARIO","goleador_variante","5' Nico González (Fiorentina) PEN","5' Nicolás González (Fiorentina) PEN"
+"37","GOL","Sampdoria - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","89' Nico González (Fiorentina) PEN","89' Nicolás González (Fiorentina) PEN"
+"38","GOL","Fiorentina - Juventus","RESUELTO_POR_USUARIO","goleador_variante","90+2' Nico González (Fiorentina) PEN","90+2' Nicolás González (Fiorentina) PEN"
+
+resumen por tipo: {'goleador_distinto': 12, 'goleador_variante': 34, 'n_goles': 1, 'gol': 1, 'fecha_utc': 2}
+sin resolver=4 resueltas_por_usuario=46
+minuto=0 goleador_distinto=12 goleador_variante(nombre corto/largo)=34 sin_pareja=1
+
+== Validaciones (suma=marcador, minutos 1-120, sin duplicados)
+"19","sofascore","Udinese - US Salernitana 1919","suma_goles_vs_marcador","marcador 0-1 pero goles listados 0-0"
+
+== Eventos de ESPN en los scoreboard descargados que no estan en ninguna jornada
+0 eventos
+
+== Llamadas fallidas (datos/fallos.csv)
+ninguna (no existe fallos.csv)

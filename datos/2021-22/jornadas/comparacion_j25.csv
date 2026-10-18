@@ -27,7 +27,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 25,GOL,Sassuolo - AS Roma,COINCIDE,,45+1' Tammy Abraham (AS Roma) PEN,45+1' Tammy Abraham (AS Roma) PEN,614681,9645213,,
 25,GOL,Sassuolo - AS Roma,COINCIDE,,47' Chris Smalling (Sassuolo) AUTOGOL,47' Chris Smalling (Sassuolo) AUTOGOL,614681,9645213,,
 25,GOL,Sassuolo - AS Roma,COINCIDE,,90+4' Bryan Cristante (AS Roma),90+4' Bryan Cristante (AS Roma),614681,9645213,,
-25,GOL,Sassuolo - AS Roma,DISCREPA,goleador_variante,73' Hamed Traoré (Sassuolo),73' Hamed Junior Traorè (Sassuolo),614681,9645213,,
+25,GOL,Sassuolo - AS Roma,RESUELTO_POR_USUARIO,goleador_variante,73' Hamed Traoré (Sassuolo),73' Hamed Junior Traorè (Sassuolo),614681,9645213,misma persona; forma larga (mismo criterio que otras temporadas),Hamed Junior Traorè
 25,PARTIDO,Atalanta - Juventus,COINCIDE,,2022-02-13T19:45Z 1-1 (2 goles),2022-02-13T19:45Z 1-1 (2 goles),614680,9645430,,
 25,GOL,Atalanta - Juventus,COINCIDE,,76' Ruslan Malinovskyi (Atalanta),76' Ruslan Malinovskyi (Atalanta),614680,9645430,,
 25,GOL,Atalanta - Juventus,COINCIDE,,90+2' Danilo (Juventus),90+2' Danilo (Juventus),614680,9645430,,

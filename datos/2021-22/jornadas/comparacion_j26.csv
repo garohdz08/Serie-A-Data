@@ -14,7 +14,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 26,GOL,Salernitana - AC Milan,COINCIDE,,5' Junior Messias (AC Milan),5' Junior Messias (AC Milan),614671,9645216,,
 26,GOL,Salernitana - AC Milan,COINCIDE,,29' Federico Bonazzoli (Salernitana),29' Federico Bonazzoli (US Salernitana 1919),614671,9645216,,
 26,GOL,Salernitana - AC Milan,COINCIDE,,77' Ante Rebic (AC Milan),77' Ante Rebić (AC Milan),614671,9645216,,
-26,GOL,Salernitana - AC Milan,DISCREPA,goleador_distinto,72' Milan Djuric (Salernitana),72' Milan Đurić (US Salernitana 1919),614671,9645216,,
+26,GOL,Salernitana - AC Milan,RESUELTO_POR_USUARIO,goleador_distinto,72' Milan Djuric (Salernitana),72' Milan Đurić (US Salernitana 1919),614671,9645216,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Milan Đurić
 26,PARTIDO,Fiorentina - Atalanta,COINCIDE,,2022-02-20T11:30Z 1-0 (1 goles),2022-02-20T11:30Z 1-0 (1 goles),614666,9645722,,
 26,GOL,Fiorentina - Atalanta,COINCIDE,,56' Krzysztof Piatek (Fiorentina),56' Krzysztof Piątek (Fiorentina),614666,9645722,,
 26,PARTIDO,Venezia - Genoa,COINCIDE,,2022-02-20T14:00Z 1-1 (2 goles),2022-02-20T14:00Z 1-1 (2 goles),614668,9645725,,

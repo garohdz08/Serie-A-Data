@@ -41,4 +41,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 36,GOL,Hellas Verona - AC Milan,COINCIDE,,86' Alessandro Florenzi (AC Milan),86' Alessandro Florenzi (AC Milan),614571,9645047,,
 36,PARTIDO,Fiorentina - AS Roma,COINCIDE,,2022-05-09T18:45Z 2-0 (2 goles),2022-05-09T18:45Z 2-0 (2 goles),614573,9645203,,
 36,GOL,Fiorentina - AS Roma,COINCIDE,,11' Giacomo Bonaventura (Fiorentina),11' Giacomo Bonaventura (Fiorentina),614573,9645203,,
-36,GOL,Fiorentina - AS Roma,DISCREPA,goleador_variante,5' Nico González (Fiorentina) PEN,5' Nicolás González (Fiorentina) PEN,614573,9645203,,
+36,GOL,Fiorentina - AS Roma,RESUELTO_POR_USUARIO,goleador_variante,5' Nico González (Fiorentina) PEN,5' Nicolás González (Fiorentina) PEN,614573,9645203,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González

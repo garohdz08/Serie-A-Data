@@ -15,7 +15,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 9,GOL,Salernitana - Empoli,COINCIDE,,13' Stefan Strandberg (Empoli) AUTOGOL,13' Stefan Strandberg (Empoli) AUTOGOL,614837,9644995,,
 9,GOL,Salernitana - Empoli,COINCIDE,,45' Andrea Pinamonti (Empoli) PEN,45' Andrea Pinamonti (Empoli) PEN,614837,9644995,,
 9,GOL,Salernitana - Empoli,COINCIDE,,48' Luca Ranieri (Salernitana),48' Luca Ranieri (US Salernitana 1919),614837,9644995,,
-9,GOL,Salernitana - Empoli,DISCREPA,goleador_distinto,55' Adrian Ismajli (Salernitana) AUTOGOL,55' Ardian Ismajli (US Salernitana 1919) AUTOGOL,614837,9644995,,
+9,GOL,Salernitana - Empoli,RESUELTO_POR_USUARIO,goleador_distinto,55' Adrian Ismajli (Salernitana) AUTOGOL,55' Ardian Ismajli (US Salernitana 1919) AUTOGOL,614837,9644995,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Ardian Ismajli
 9,PARTIDO,Sassuolo - Venezia,COINCIDE,,2021-10-23T16:00Z 3-1 (4 goles),2021-10-23T16:00Z 3-1 (4 goles),614845,9645240,,
 9,GOL,Sassuolo - Venezia,COINCIDE,,32' David Okereke (Venezia),32' David Okereke (Venezia),614845,9645240,,
 9,GOL,Sassuolo - Venezia,COINCIDE,,37' Domenico Berardi (Sassuolo),37' Domenico Berardi (Sassuolo),614845,9645240,,
@@ -34,7 +34,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 9,PARTIDO,Fiorentina - Cagliari,COINCIDE,,2021-10-24T13:00Z 3-0 (3 goles),2021-10-24T13:00Z 3-0 (3 goles),614836,9644994,,
 9,GOL,Fiorentina - Cagliari,COINCIDE,,21' Cristiano Biraghi (Fiorentina) PEN,21' Cristiano Biraghi (Fiorentina) PEN,614836,9644994,,
 9,GOL,Fiorentina - Cagliari,COINCIDE,,49' Dusan Vlahovic (Fiorentina),49' Dušan Vlahović (Fiorentina),614836,9644994,,
-9,GOL,Fiorentina - Cagliari,DISCREPA,goleador_variante,42' Nico González (Fiorentina),42' Nicolás González (Fiorentina),614836,9644994,,
+9,GOL,Fiorentina - Cagliari,RESUELTO_POR_USUARIO,goleador_variante,42' Nico González (Fiorentina),42' Nicolás González (Fiorentina),614836,9644994,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González
 9,PARTIDO,Hellas Verona - Lazio,COINCIDE,,2021-10-24T13:00Z 4-1 (5 goles),2021-10-24T13:00Z 4-1 (5 goles),614840,9645209,,
 9,GOL,Hellas Verona - Lazio,COINCIDE,,30' Giovanni Simeone (Hellas Verona),30' Giovanni Simeone (Hellas Verona),614840,9645209,,
 9,GOL,Hellas Verona - Lazio,COINCIDE,,36' Giovanni Simeone (Hellas Verona),36' Giovanni Simeone (Hellas Verona),614840,9645209,,

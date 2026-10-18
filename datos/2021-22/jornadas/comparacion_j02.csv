@@ -20,7 +20,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 2,PARTIDO,Fiorentina - Torino,COINCIDE,,2021-08-28T18:45Z 2-1 (3 goles),2021-08-28T18:45Z 2-1 (3 goles),614914,9644933,,
 2,GOL,Fiorentina - Torino,COINCIDE,,69' Dusan Vlahovic (Fiorentina),69' Dušan Vlahović (Fiorentina),614914,9644933,,
 2,GOL,Fiorentina - Torino,COINCIDE,,89' Simone Verdi (Torino),89' Simone Verdi (Torino),614914,9644933,,
-2,GOL,Fiorentina - Torino,DISCREPA,goleador_variante,41' Nico González (Fiorentina),41' Nicolás González (Fiorentina),614914,9644933,,
+2,GOL,Fiorentina - Torino,RESUELTO_POR_USUARIO,goleador_variante,41' Nico González (Fiorentina),41' Nicolás González (Fiorentina),614914,9644933,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González
 2,PARTIDO,Juventus - Empoli,COINCIDE,,2021-08-28T18:45Z 0-1 (1 goles),2021-08-28T18:45Z 0-1 (1 goles),614908,9644932,,
 2,GOL,Juventus - Empoli,COINCIDE,,21' Leonardo Mancuso (Empoli),21' Leonardo Mancuso (Empoli),614908,9644932,,
 2,PARTIDO,Genoa - Napoli,COINCIDE,,2021-08-29T16:30Z 1-2 (3 goles),2021-08-29T16:30Z 1-2 (3 goles),614910,9644942,,

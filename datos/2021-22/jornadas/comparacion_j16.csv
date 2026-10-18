@@ -46,4 +46,4 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 16,GOL,Empoli - Udinese,COINCIDE,,78' Andrea Pinamonti (Empoli),78' Andrea Pinamonti (Empoli),614775,9645149,,
 16,PARTIDO,Cagliari - Torino,COINCIDE,,2021-12-06T19:45Z 1-1 (2 goles),2021-12-06T19:45Z 1-1 (2 goles),614774,9645151,,
 16,GOL,Cagliari - Torino,COINCIDE,,31' Andrea Carboni (Torino) AUTOGOL,31' Andrea Carboni (Torino) AUTOGOL,614774,9645151,,
-16,GOL,Cagliari - Torino,DISCREPA,goleador_variante,53' João Pedro (Cagliari),53' João Pedro Galvão (Cagliari),614774,9645151,,
+16,GOL,Cagliari - Torino,RESUELTO_POR_USUARIO,goleador_variante,53' João Pedro (Cagliari),53' João Pedro Galvão (Cagliari),614774,9645151,misma persona; forma larga (mismo criterio que otras temporadas),João Pedro Galvão

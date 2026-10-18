@@ -19,7 +19,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 34,PARTIDO,Salernitana - Fiorentina,COINCIDE,,2022-04-24T10:30Z 2-1 (3 goles),2022-04-24T10:30Z 2-1 (3 goles),614588,9645250,,
 34,GOL,Salernitana - Fiorentina,COINCIDE,,64' Riccardo Saponara (Fiorentina),64' Riccardo Saponara (Fiorentina),614588,9645250,,
 34,GOL,Salernitana - Fiorentina,COINCIDE,,79' Federico Bonazzoli (Salernitana),79' Federico Bonazzoli (US Salernitana 1919),614588,9645250,,
-34,GOL,Salernitana - Fiorentina,DISCREPA,goleador_distinto,9' Milan Djuric (Salernitana),9' Milan Đurić (US Salernitana 1919),614588,9645250,,
+34,GOL,Salernitana - Fiorentina,RESUELTO_POR_USUARIO,goleador_distinto,9' Milan Djuric (Salernitana),9' Milan Đurić (US Salernitana 1919),614588,9645250,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Milan Đurić
 34,PARTIDO,Bologna - Udinese,COINCIDE,,2022-04-24T13:00Z 2-2 (4 goles),2022-04-24T13:00Z 2-2 (4 goles),614595,9645091,,
 34,GOL,Bologna - Udinese,COINCIDE,,6' Aaron Hickey (Bologna),6' Aaron Hickey (Bologna),614595,9645091,,
 34,GOL,Bologna - Udinese,COINCIDE,,25' Destiny Udogie (Udinese),25' Destiny Udogie (Udinese),614595,9645091,,

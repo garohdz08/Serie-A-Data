@@ -6,7 +6,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 32,PARTIDO,Cagliari - Juventus,COINCIDE,,2022-04-09T18:45Z 1-2 (3 goles),2022-04-09T18:45Z 1-2 (3 goles),614609,9645428,,
 32,GOL,Cagliari - Juventus,COINCIDE,,45' Matthijs de Ligt (Juventus),45' Matthijs de Ligt (Juventus),614609,9645428,,
 32,GOL,Cagliari - Juventus,COINCIDE,,75' Dusan Vlahovic (Juventus),75' Dušan Vlahović (Juventus),614609,9645428,,
-32,GOL,Cagliari - Juventus,DISCREPA,goleador_variante,10' João Pedro (Cagliari),10' João Pedro Galvão (Cagliari),614609,9645428,,
+32,GOL,Cagliari - Juventus,RESUELTO_POR_USUARIO,goleador_variante,10' João Pedro (Cagliari),10' João Pedro Galvão (Cagliari),614609,9645428,misma persona; forma larga (mismo criterio que otras temporadas),João Pedro Galvão
 32,PARTIDO,Genoa - Lazio,COINCIDE,,2022-04-10T10:30Z 1-4 (5 goles),2022-04-10T10:30Z 1-4 (5 goles),614610,9645442,,
 32,GOL,Genoa - Lazio,COINCIDE,,31' Adam Marusic (Lazio),31' Adam Marušić (Lazio),614610,9645442,,
 32,GOL,Genoa - Lazio,COINCIDE,,45+1' Ciro Immobile (Lazio),45+1' Ciro Immobile (Lazio),614610,9645442,,
@@ -18,11 +18,11 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 32,GOL,Napoli - Fiorentina,COINCIDE,,66' Jonathan Ikoné (Fiorentina),66' Jonathan Ikoné (Fiorentina),614607,9645217,,
 32,GOL,Napoli - Fiorentina,COINCIDE,,72' Arthur Cabral (Fiorentina),72' Arthur Cabral (Fiorentina),614607,9645217,,
 32,GOL,Napoli - Fiorentina,COINCIDE,,84' Victor Osimhen (Napoli),84' Victor Osimhen (SSC Napoli),614607,9645217,,
-32,GOL,Napoli - Fiorentina,DISCREPA,goleador_variante,29' Nico González (Fiorentina),29' Nicolás González (Fiorentina),614607,9645217,,
+32,GOL,Napoli - Fiorentina,RESUELTO_POR_USUARIO,goleador_variante,29' Nico González (Fiorentina),29' Nicolás González (Fiorentina),614607,9645217,misma persona; forma larga (mismo criterio que otras temporadas),Nicolás González
 32,PARTIDO,Sassuolo - Atalanta,COINCIDE,,2022-04-10T13:00Z 2-1 (3 goles),2022-04-10T13:00Z 2-1 (3 goles),614606,9645411,,
 32,GOL,Sassuolo - Atalanta,COINCIDE,,90+3' Luis Muriel (Atalanta),90+3' Luis Muriel (Atalanta),614606,9645411,,
-32,GOL,Sassuolo - Atalanta,DISCREPA,goleador_variante,24' Hamed Traoré (Sassuolo),24' Hamed Junior Traorè (Sassuolo),614606,9645411,,
-32,GOL,Sassuolo - Atalanta,DISCREPA,goleador_variante,61' Hamed Traoré (Sassuolo),61' Hamed Junior Traorè (Sassuolo),614606,9645411,,
+32,GOL,Sassuolo - Atalanta,RESUELTO_POR_USUARIO,goleador_variante,24' Hamed Traoré (Sassuolo),24' Hamed Junior Traorè (Sassuolo),614606,9645411,misma persona; forma larga (mismo criterio que otras temporadas),Hamed Junior Traorè
+32,GOL,Sassuolo - Atalanta,RESUELTO_POR_USUARIO,goleador_variante,61' Hamed Traoré (Sassuolo),61' Hamed Junior Traorè (Sassuolo),614606,9645411,misma persona; forma larga (mismo criterio que otras temporadas),Hamed Junior Traorè
 32,PARTIDO,Venezia - Udinese,COINCIDE,,2022-04-10T13:00Z 1-2 (3 goles),2022-04-10T13:00Z 1-2 (3 goles),614615,9645253,,
 32,GOL,Venezia - Udinese,COINCIDE,,35' Gerard Deulofeu (Udinese) PEN,35' Gerard Deulofeu (Udinese) PEN,614615,9645253,,
 32,GOL,Venezia - Udinese,COINCIDE,,86' Thomas Henry (Venezia),86' Thomas Henry (Venezia),614615,9645253,,
