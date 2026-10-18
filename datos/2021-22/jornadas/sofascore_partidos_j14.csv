@@ -1,0 +1,11 @@
+fuente,partido_id,fecha_utc,local,visitante,goles_local,goles_visitante,estado
+sofascore,9645191,2021-11-26T19:45Z,Cagliari,US Salernitana 1919,1,1,finished
+sofascore,9645190,2021-11-27T14:00Z,Empoli,Fiorentina,2,1,finished
+sofascore,9645172,2021-11-27T14:00Z,Sampdoria,Hellas Verona,3,1,finished
+sofascore,9645183,2021-11-27T17:00Z,Juventus,Atalanta,0,1,finished
+sofascore,9645169,2021-11-27T19:45Z,Venezia,Inter,0,2,finished
+sofascore,9645171,2021-11-28T11:30Z,Udinese,Genoa,0,0,finished
+sofascore,9645167,2021-11-28T14:00Z,AC Milan,Sassuolo,1,3,finished
+sofascore,9645164,2021-11-28T14:00Z,Spezia,Bologna,0,1,finished
+sofascore,9645170,2021-11-28T17:00Z,AS Roma,Torino,1,0,finished
+sofascore,9645166,2021-11-28T19:45Z,SSC Napoli,Lazio,4,0,finished
