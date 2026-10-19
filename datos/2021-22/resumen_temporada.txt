@@ -27,7 +27,8 @@ GOL,COINCIDE,1042
 GOL,RESUELTO_POR_USUARIO,46
 GOL,SOLO_ESPN,1
 PARTIDO,COINCIDE,377
-PARTIDO,DISCREPA,3
+PARTIDO,DISCREPA,1
+PARTIDO,RESUELTO_POR_USUARIO,2
 
 -- Discrepancias (todas las filas que no COINCIDEN), CSV crudo
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
@@ -61,8 +62,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
 "24","GOL","Atalanta - Cagliari","RESUELTO_POR_USUARIO","goleador_variante","64' José Palomino (Atalanta)","64' José Luis Palomino (Atalanta)"
 "25","GOL","Sassuolo - AS Roma","RESUELTO_POR_USUARIO","goleador_variante","73' Hamed Traoré (Sassuolo)","73' Hamed Junior Traorè (Sassuolo)"
 "26","GOL","Salernitana - AC Milan","RESUELTO_POR_USUARIO","goleador_distinto","72' Milan Djuric (Salernitana)","72' Milan Đurić (US Salernitana 1919)"
-"27","PARTIDO","AC Milan - Udinese","DISCREPA","fecha_utc","2022-02-25T17:50Z 1-1 (2 goles)","2022-02-25T17:45Z 1-1 (2 goles)"
-"27","PARTIDO","Genoa - Internazionale","DISCREPA","fecha_utc","2022-02-25T20:05Z 0-0 (0 goles)","2022-02-25T20:00Z 0-0 (0 goles)"
+"27","PARTIDO","AC Milan - Udinese","RESUELTO_POR_USUARIO","fecha_utc","2022-02-25T17:50Z 1-1 (2 goles)","2022-02-25T17:45Z 1-1 (2 goles)"
+"27","PARTIDO","Genoa - Internazionale","RESUELTO_POR_USUARIO","fecha_utc","2022-02-25T20:05Z 0-0 (0 goles)","2022-02-25T20:00Z 0-0 (0 goles)"
 "27","GOL","Sassuolo - Fiorentina","RESUELTO_POR_USUARIO","goleador_variante","19' Hamed Traoré (Sassuolo)","19' Hamed Junior Traorè (Sassuolo)"
 "27","GOL","Atalanta - Sampdoria","RESUELTO_POR_USUARIO","goleador_distinto","86' Alexey Miranchuk (Atalanta)","86' Aleksey Miranchuk (Atalanta)"
 "29","GOL","Salernitana - Sassuolo","RESUELTO_POR_USUARIO","goleador_variante","30' Hamed Traoré (Sassuolo)","30' Hamed Junior Traorè (Sassuolo)"
@@ -83,7 +84,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
 "38","GOL","Fiorentina - Juventus","RESUELTO_POR_USUARIO","goleador_variante","90+2' Nico González (Fiorentina) PEN","90+2' Nicolás González (Fiorentina) PEN"
 
 resumen por tipo: {'goleador_distinto': 12, 'goleador_variante': 34, 'n_goles': 1, 'gol': 1, 'fecha_utc': 2}
-sin resolver=4 resueltas_por_usuario=46
+sin resolver=2 resueltas_por_usuario=48
 minuto=0 goleador_distinto=12 goleador_variante(nombre corto/largo)=34 sin_pareja=1
 
 == Validaciones (suma=marcador, minutos 1-120, sin duplicados)

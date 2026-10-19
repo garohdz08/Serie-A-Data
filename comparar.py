@@ -48,13 +48,14 @@ def decisiones_nombres():
             if r["decision_usuario"] and r["nombre_elegido"]}
 
 
-def decisiones_minuto():
-    """Discrepancias de MINUTO ya decididas por el usuario en discrepancias_resueltas.csv (estado RESUELTO*).
-    Solo resuelven filas cuya unica diferencia es el minuto; los valores crudos de cada fuente no se modifican."""
+def decisiones_campo(campo):
+    """Discrepancias de un CAMPO ('minuto' de un gol, 'fecha_utc' de un partido) ya decididas por el usuario en
+    discrepancias_resueltas.csv (estado RESUELTO*). Solo resuelven filas cuya unica diferencia es ese campo;
+    los valores crudos de cada fuente no se modifican."""
     ruta = DATOS / "discrepancias_resueltas.csv"
     if not ruta.exists():
         return []
-    return [r for r in leer(ruta) if r["campo"] == "minuto" and r["estado"].startswith("RESUELTO")]
+    return [r for r in leer(ruta) if r["campo"] == campo and r["estado"].startswith("RESUELTO")]
 
 
 def clave(p):
@@ -130,7 +131,8 @@ def comparar_jornada(n):
     val = [dict(jornada=n, fuente=f, partido=pt, chequeo=ch, detalle=d)
            for f in FUENTES for pt, ch, d in validar(f, P[f], G[f])]
     dec = decisiones_nombres()
-    dec_min = decisiones_minuto()
+    dec_min = decisiones_campo("minuto")
+    dec_fecha = decisiones_campo("fecha_utc")
     pe, ps = {clave(p): p for p in P["espn"]}, {clave(p): p for p in P["sofascore"]}
     filas = []
     for k in sorted(set(pe) | set(ps), key=lambda k: (pe.get(k) or ps[k])["fecha_utc"] + str(k)):
@@ -148,7 +150,13 @@ def comparar_jornada(n):
         if a["fecha_utc"] != b["fecha_utc"]: difs.append("fecha_utc")
         if ma != mb: difs.append("marcador")
         if len(ge) != len(gs): difs.append("n_goles")
-        filas.append(dict(jornada=n, nivel="PARTIDO", partido=nombre, estado="DISCREPA" if difs else "COINCIDE",
+        estado_p, extra_p = "DISCREPA" if difs else "COINCIDE", {}
+        if difs == ["fecha_utc"]:                  # unica diferencia: la hora de inicio
+            for m in dec_fecha:
+                if m["jornada"] == str(n) and tuple(equipo(x) for x in m["partido"].split(" - ")) == k:
+                    estado_p = RESUELTO
+                    extra_p = dict(decision_usuario=f"fecha_utc elegida: {m['decision']} ({m['estado']})", nombre_elegido="")
+        filas.append(dict(jornada=n, nivel="PARTIDO", partido=nombre, estado=estado_p, **extra_p,
                           campos_discrepantes="|".join(difs),
                           espn_valor=f"{a['fecha_utc']} {ma} ({len(ge)} goles)",
                           sofascore_valor=f"{b['fecha_utc']} {mb} ({len(gs)} goles)",
