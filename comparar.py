@@ -128,11 +128,22 @@ def comparar_jornada(n):
         return None
     P = {f: sin_aplazados(leer(rutas[f, "partidos"])) for f in FUENTES}
     G = {f: leer(rutas[f, "goles"]) for f in FUENTES}
-    val = [dict(jornada=n, fuente=f, partido=pt, chequeo=ch, detalle=d)
-           for f in FUENTES for pt, ch, d in validar(f, P[f], G[f])]
     dec = decisiones_nombres()
     dec_min = decisiones_campo("minuto")
     dec_fecha = decisiones_campo("fecha_utc")
+    dec_gol, dec_ngoles = decisiones_campo("gol"), decisiones_campo("n_goles")
+    def cubre(lista, m_partido, goleador=None):
+        for m in lista:
+            if (m["jornada"] == str(n) and tuple(equipo(x) for x in m["partido"].split(" - ")) == m_partido
+                    and (goleador is None or relacion_nombres(m["goleador"], goleador) != "distinto")):
+                return m
+        return None
+    val = [dict(jornada=n, fuente=f, partido=pt, chequeo=ch, detalle=d)
+           for f in FUENTES for pt, ch, d in validar(f, P[f], G[f])]
+    for v in val:        # hueco de fuente ya decidido por el usuario: se sigue informando, pero como conocido
+        if v["chequeo"] == "suma_goles_vs_marcador" and cubre(
+                decisiones_campo("gol"), tuple(equipo(x) for x in v["partido"].split(" - "))):
+            v["detalle"] += " [CONOCIDO: gol faltante en la fuente, ver discrepancias_resueltas.csv]"
     pe, ps = {clave(p): p for p in P["espn"]}, {clave(p): p for p in P["sofascore"]}
     filas = []
     for k in sorted(set(pe) | set(ps), key=lambda k: (pe.get(k) or ps[k])["fecha_utc"] + str(k)):
@@ -151,6 +162,10 @@ def comparar_jornada(n):
         if ma != mb: difs.append("marcador")
         if len(ge) != len(gs): difs.append("n_goles")
         estado_p, extra_p = "DISCREPA" if difs else "COINCIDE", {}
+        if difs == ["n_goles"] and cubre(dec_ngoles, k):   # un gol solo en una fuente, ya decidido
+            m = cubre(dec_ngoles, k)
+            estado_p = RESUELTO
+            extra_p = dict(decision_usuario=f"n_goles: {m['decision']} ({m['estado']})", nombre_elegido="")
         if difs == ["fecha_utc"]:                  # unica diferencia: la hora de inicio
             for m in dec_fecha:
                 if m["jornada"] == str(n) and tuple(equipo(x) for x in m["partido"].split(" - ")) == k:
@@ -164,10 +179,13 @@ def comparar_jornada(n):
         for ga, gb in emparejar(ge, gs):
             if not (ga and gb):
                 g = ga or gb
+                m = cubre(dec_gol, k, g["goleador"])
+                extra_g = dict(decision_usuario=f"gol: {m['decision']} ({m['estado']})", nombre_elegido="") if m else {}
                 filas.append(dict(jornada=n, nivel="GOL", partido=nombre,
-                                  estado="SOLO_ESPN" if ga else "SOLO_SOFASCORE", campos_discrepantes="gol",
+                                  estado=RESUELTO if m else ("SOLO_ESPN" if ga else "SOLO_SOFASCORE"),
+                                  campos_discrepantes="gol",
                                   **{"espn_valor" if ga else "sofascore_valor": fmt(g)},
-                                  espn_id=a["partido_id"], sofascore_id=b["partido_id"]))
+                                  espn_id=a["partido_id"], sofascore_id=b["partido_id"], **extra_g))
                 continue
             rel = relacion_nombres(ga["goleador"], gb["goleador"])
             d = [c for c, bad in (("equipo", equipo(ga["equipo"]) != equipo(gb["equipo"])),
@@ -222,9 +240,11 @@ def main():
         escribir(DATOS / "validaciones_temporada.csv", VAL_COLS, val)
     malos = [r for r in comp if r["estado"] not in ("COINCIDE", RESUELTO)]
     resueltos = sum(r["estado"] == RESUELTO for r in comp)
+    val_nuevas = [v for v in val if "[CONOCIDO" not in v["detalle"]]
     print(f"comparacion: {len(comp)} filas, {len(malos)} sin resolver, {resueltos} resueltas por el usuario; "
-          f"validaciones: {len(val)} incumplimientos")
-    return 1 if malos or val else 0
+          f"validaciones: {len(val)} incumplimientos"
+          f" ({len(val) - len(val_nuevas)} conocidos)")
+    return 1 if malos or val_nuevas else 0
 
 
 if __name__ == "__main__":

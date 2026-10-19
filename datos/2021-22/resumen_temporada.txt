@@ -24,11 +24,9 @@ sofascore,1088,110,37,1089
 == Comparacion ESPN vs Sofascore
 nivel,estado,filas
 GOL,COINCIDE,1042
-GOL,RESUELTO_POR_USUARIO,46
-GOL,SOLO_ESPN,1
+GOL,RESUELTO_POR_USUARIO,47
 PARTIDO,COINCIDE,377
-PARTIDO,DISCREPA,1
-PARTIDO,RESUELTO_POR_USUARIO,2
+PARTIDO,RESUELTO_POR_USUARIO,3
 
 -- Discrepancias (todas las filas que no COINCIDEN), CSV crudo
 jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
@@ -53,8 +51,8 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
 "16","GOL","Cagliari - Torino","RESUELTO_POR_USUARIO","goleador_variante","53' João Pedro (Cagliari)","53' João Pedro Galvão (Cagliari)"
 "17","GOL","Hellas Verona - Atalanta","RESUELTO_POR_USUARIO","goleador_distinto","37' Alexey Miranchuk (Atalanta)","37' Aleksey Miranchuk (Atalanta)"
 "18","GOL","Spezia - Empoli","RESUELTO_POR_USUARIO","goleador_distinto","71' Dimitris Nikolaou (Empoli) AUTOGOL","71' Dimitrios Nikolaou (Empoli) AUTOGOL"
-"19","PARTIDO","Udinese - Salernitana","DISCREPA","n_goles","2022-04-20T16:45Z 0-1 (1 goles)","2022-04-20T16:45Z 0-1 (0 goles)"
-"19","GOL","Udinese - Salernitana","SOLO_ESPN","gol","90+3' Simone Verdi (Salernitana)",""
+"19","PARTIDO","Udinese - Salernitana","RESUELTO_POR_USUARIO","n_goles","2022-04-20T16:45Z 0-1 (1 goles)","2022-04-20T16:45Z 0-1 (0 goles)"
+"19","GOL","Udinese - Salernitana","RESUELTO_POR_USUARIO","gol","90+3' Simone Verdi (Salernitana)",""
 "21","GOL","Hellas Verona - Salernitana","RESUELTO_POR_USUARIO","goleador_distinto","29' Milan Djuric (Salernitana) PEN","29' Milan Đurić (US Salernitana 1919) PEN"
 "22","GOL","Bologna - Napoli","RESUELTO_POR_USUARIO","goleador_variante","20' Hirving Lozano (Napoli)","20' Hirvinggg Lozano (SSC Napoli)"
 "22","GOL","Bologna - Napoli","RESUELTO_POR_USUARIO","goleador_variante","47' Hirving Lozano (Napoli)","47' Hirvinggg Lozano (SSC Napoli)"
@@ -84,11 +82,11 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor
 "38","GOL","Fiorentina - Juventus","RESUELTO_POR_USUARIO","goleador_variante","90+2' Nico González (Fiorentina) PEN","90+2' Nicolás González (Fiorentina) PEN"
 
 resumen por tipo: {'goleador_distinto': 12, 'goleador_variante': 34, 'n_goles': 1, 'gol': 1, 'fecha_utc': 2}
-sin resolver=2 resueltas_por_usuario=48
+sin resolver=0 resueltas_por_usuario=50
 minuto=0 goleador_distinto=12 goleador_variante(nombre corto/largo)=34 sin_pareja=1
 
 == Validaciones (suma=marcador, minutos 1-120, sin duplicados)
-"19","sofascore","Udinese - US Salernitana 1919","suma_goles_vs_marcador","marcador 0-1 pero goles listados 0-0"
+"19","sofascore","Udinese - US Salernitana 1919","suma_goles_vs_marcador","marcador 0-1 pero goles listados 0-0 [CONOCIDO: gol faltante en la fuente, ver discrepancias_resueltas.csv]"
 
 == Eventos de ESPN en los scoreboard descargados que no estan en ninguna jornada
 0 eventos
