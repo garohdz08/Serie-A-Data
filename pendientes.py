@@ -54,23 +54,31 @@ def pares_nombres():
 # Fechas originales: NO vienen de ESPN ni de Sofascore (ninguna conserva la fecha original del evento
 # reprogramado). Solo constan las confirmadas por prensa o aportadas por el usuario, por temporada.
 NOMBRE_TEMP = CFG["datos"].name if CFG["datos"].name != "datos" else "2025-26"
-U19 = ("2025-01-05 (domingo). Fuente: busqueda en la web hecha con Claude Cowork (segun el usuario); "
-       "no verificada en esta sesion (legaseriea.it inaccesible); coherente con la prensa: resto de la 19a el 4-5 enero")
-U21 = ("fin de semana del 20-21 enero 2024; dia y hora exactos por partido NO CONFIRMADOS "
-       "(prensa: Goal, SOS Fanta; rinviata por la Supercoppa en Riad)")
+def U19(repr_local):
+    return ("NO ENCONTRADA. Una busqueda anterior indico 5-01-2025, pero Cowork no pudo verificarla y ninguna fuente lo dice; "
+            "se descarta como dato. El calendario publicado el 1-11-2024 ya traia estos tres partidos el 14-15 enero "
+            f"(Goal, Fantamaster, Calcio e Finanza), por lo que probablemente no hubo fecha original. Reprogramado: {repr_local}")
+
+
+def U21(repr_local):
+    return ("fin de semana del 20-21 enero 2024 (Toro News, Sportface); dia y hora originales NO ENCONTRADOS en busqueda con "
+            "Cowork; probablemente nunca se fijaron (Fantacalcio, 22-12-2023, ya los listaba como aplazados). "
+            f"Reprogramado (Toro News, Fantacalcio, Sportface): {repr_local}")
+
+
 ORIGINALES = {
     "2024-25": {
         ("bologna", "ac milan"): "2024-10-26 (prensa: Sky Sport, calcioefinanza; partido de la 9a, aplazado por temporal)",
-        ("como", "ac milan"): U19,
-        ("atalanta", "juventus"): U19,
-        ("inter", "bologna"): U19,
+        ("como", "ac milan"): U19("martes 14-01-2025, 18:30"),
+        ("atalanta", "juventus"): U19("martes 14-01-2025, 20:45"),
+        ("inter", "bologna"): U19("miercoles 15-01-2025, 20:45"),
         ("fiorentina", "inter"): "2024-12-01 (prensa: Corriere dello Sport; suspendido en el 17' por el malestar de Bove, reanudado el 06-02-2025)",
     },
     "2023-24": {
-        ("bologna", "fiorentina"): U21,
-        ("torino", "lazio"): U21,
-        ("sassuolo", "napoli"): U21,
-        ("inter", "atalanta"): U21,
+        ("bologna", "fiorentina"): U21("miercoles 14-02-2024, 19:00"),
+        ("torino", "lazio"): U21("jueves 22-02-2024, 20:45"),
+        ("sassuolo", "napoli"): U21("miercoles 28-02-2024, 18:00"),
+        ("inter", "atalanta"): U21("miercoles 28-02-2024, 20:45"),
         ("atalanta", "fiorentina"): "2024-03-17 18:00 local (prensa: fantacalcio.it, Lega Serie A; aplazado el mismo dia por el malestar de Joe Barone)",
         ("udinese", "as roma"): "2024-04-14 (prensa: Sky Sport; suspendido por el malestar de Ndicka con 1-1, reanudado el 25-04-2024; minuto de reanudacion no coincide entre medios: 71'-73')",
     },
