@@ -6,7 +6,7 @@ jornada,nivel,partido,estado,campos_discrepantes,espn_valor,sofascore_valor,espn
 6,PARTIDO,Sampdoria - AC Milan,COINCIDE,,2022-09-10T18:45Z 1-2 (3 goles),2022-09-10T18:45Z 1-2 (3 goles),644673,10411451,,
 6,GOL,Sampdoria - AC Milan,COINCIDE,,6' Junior Messias (AC Milan),6' Junior Messias (AC Milan),644673,10411451,,
 6,GOL,Sampdoria - AC Milan,COINCIDE,,67' Olivier Giroud (AC Milan) PEN,67' Olivier Giroud (AC Milan) PEN,644673,10411451,,
-6,GOL,Sampdoria - AC Milan,RESUELTO_POR_USUARIO,goleador_distinto,57' Filip Djuricic (Sampdoria),57' Filip Đuričić (Sampdoria),644673,10411451,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Milan Đurić
+6,GOL,Sampdoria - AC Milan,RESUELTO_POR_USUARIO,goleador_distinto,57' Filip Djuricic (Sampdoria),57' Filip Đuričić (Sampdoria),644673,10411451,misma persona; grafia real del jugador (mismo criterio que Đurić en otras temporadas),Filip Đuričić
 6,PARTIDO,Atalanta - Cremonese,COINCIDE,,2022-09-11T10:30Z 1-1 (2 goles),2022-09-11T10:30Z 1-1 (2 goles),644667,10411440,,
 6,GOL,Atalanta - Cremonese,COINCIDE,,74' Merih Demiral (Atalanta),74' Merih Demiral (Atalanta),644667,10411440,,
 6,GOL,Atalanta - Cremonese,COINCIDE,,78' Emanuele Valeri (Cremonese),78' Emanuele Valeri (Cremonese),644667,10411440,,

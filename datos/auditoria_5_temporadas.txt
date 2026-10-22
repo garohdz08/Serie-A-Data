@@ -1,0 +1,306 @@
+AUDITORIA 5 TEMPORADAS (calculada de los CSV del repositorio)
+====================================================================================================
+2. TABLA POR TEMPORADA Y FUENTE (partidos disputados = estado final; 'filas' incluye eventos no disputados)
+====================================================================================================
+temporada  fuente     filas  partidos(380)  ids_unicos  equipos(20)  equipos!=38  goles  penales  autogoles  suma_marcadores  0-0  llamadas_fallidas  sin_descargar
+---------  ---------  -----  -------------  ----------  -----------  -----------  -----  -------  ---------  ---------------  ---  -----------------  -------------
+2021-22    espn       380    380            380         20           0            1089   110      37         1089             22   0                  0            
+2021-22    sofascore  386    380            386         20           0            1088   110      37         1089             22   0                  0            
+2022-23    espn       380    380            380         20           0            974    85       31         974              20   0                  0            
+2022-23    sofascore  380    380            380         20           0            974    85       31         974              20   0                  0            
+2023-24    espn       380    380            380         20           0            992    102      24         992              30   0                  0            
+2023-24    sofascore  380    380            380         20           0            992    102      24         992              30   0                  0            
+2024-25    espn       380    380            380         20           0            973    80       37         973              28   0                  0            
+2024-25    sofascore  380    380            380         20           0            973    80       37         973              28   0                  0            
+2025-26    espn       380    380            380         20           0            922    81       22         922              36   0                  0            
+2025-26    sofascore  385    380            385         20           0            922    81       22         922              36   0                  0            
+
+Equipos que no cumplen 38 partidos (o temporadas con != 20 equipos): NINGUNO
+
+====================================================================================================
+3. VALIDACIONES (suma de goles = marcador; minuto entre 1 y 120; sin goles duplicados; equipo del partido)
+====================================================================================================
+2021-22 espn: OK, 0 incumplimientos
+2021-22 sofascore: 1 incumplimiento(s)
+   J19 | Udinese - US Salernitana 1919 | suma_goles_vs_marcador | marcador crudo 0-1; goles listados 0-0: (ninguno)
+2022-23 espn: OK, 0 incumplimientos
+2022-23 sofascore: OK, 0 incumplimientos
+2023-24 espn: OK, 0 incumplimientos
+2023-24 sofascore: OK, 0 incumplimientos
+2024-25 espn: OK, 0 incumplimientos
+2024-25 sofascore: OK, 0 incumplimientos
+2025-26 espn: OK, 0 incumplimientos
+2025-26 sofascore: OK, 0 incumplimientos
+
+====================================================================================================
+4. PARTIDOS APLAZADOS / REPROGRAMADOS (no finalizados, o fecha a mas de 5 dias de la mediana de su jornada)
+====================================================================================================
+--- 2021-22: 16 filas calculadas ({'espn': 5, 'sofascore': 11}); aplazados.csv: 16 filas ({'espn': 5, 'sofascore': 11}) -> COINCIDE
+partido                   fecha real jugada (UTC) y jornada asignada                                                 eventos no disputados en las fuentes (fecha del evento)                                                                          
+------------------------  -----------------------------------------------------------------------------------------  ---------------------------------------------------------------------------------------------------------------------------------
+Udinese - Salernitana     espn: 2022-04-20T16:45Z (J19, id 614742); sofascore: 2022-04-20T16:45Z (J19, id 10226891)  sofascore: 2021-12-21T17:30Z estado=postponed (J19, id 9645212)                                                                  
+Bologna - Internazionale  espn: 2022-04-27T18:15Z (J20, id 614730); sofascore: 2022-04-27T18:15Z (J20, id 10226862)  sofascore: 2022-01-06T11:30Z estado=postponed (J20, id 9645420)                                                                  
+Atalanta - Torino         espn: 2022-04-27T18:15Z (J20, id 614733); sofascore: 2022-04-27T18:15Z (J20, id 10226860)  sofascore: 2022-01-06T15:30Z estado=postponed (J20, id 9645207)                                                                  
+Salernitana - Venezia     espn: 2022-05-05T16:00Z (J20, id 614735); sofascore: 2022-05-05T16:00Z (J20, id 10269142)  sofascore: 2022-01-06T17:30Z estado=postponed (J20, id 9645443); sofascore: 2022-04-27T16:00Z estado=postponed (J20, id 10226858)
+Fiorentina - Udinese      espn: 2022-04-27T16:00Z (J20, id 614734); sofascore: 2022-04-27T16:00Z (J20, id 10226857)  sofascore: 2022-01-06T19:45Z estado=postponed (J20, id 9645233)                                                                  
+   fecha_original registrada [Atalanta - Torino]: 2022-01-06T15:30Z (evento 'postponed' de sofascore, id 9645207, jornada 20)
+   fecha_original registrada [Bologna - Internazionale]: 2022-01-06T11:30Z (evento 'postponed' de sofascore, id 9645420, jornada 20)
+   fecha_original registrada [Fiorentina - Udinese]: 2022-01-06T19:45Z (evento 'postponed' de sofascore, id 9645233, jornada 20)
+   fecha_original registrada [Salernitana - Venezia]: 2022-01-06T17:30Z (evento 'postponed' de sofascore, id 9645443, jornada 20); 2022-04-27T16:00Z (evento 'postponed' de sofascore, id 10226858, jornada 20)
+   fecha_original registrada [Udinese - Salernitana]: 2021-12-21T17:30Z (evento 'postponed' de sofascore, id 9645212, jornada 19)
+--- 2022-23: 0 filas calculadas ({}); aplazados.csv: 0 filas ({}) -> COINCIDE
+   (ninguno)
+--- 2023-24: 12 filas calculadas ({'espn': 6, 'sofascore': 6}); aplazados.csv: 12 filas ({'espn': 6, 'sofascore': 6}) -> COINCIDE
+partido                    fecha real jugada (UTC) y jornada asignada                                                 eventos no disputados en las fuentes (fecha del evento)
+-------------------------  -----------------------------------------------------------------------------------------  -------------------------------------------------------
+Bologna - Fiorentina       espn: 2024-02-14T18:00Z (J21, id 679423); sofascore: 2024-02-14T18:00Z (J21, id 11406907)  -                                                      
+Torino - Lazio             espn: 2024-02-22T19:45Z (J21, id 679420); sofascore: 2024-02-22T19:45Z (J21, id 11406912)  -                                                      
+Sassuolo - Napoli          espn: 2024-02-28T17:00Z (J21, id 679424); sofascore: 2024-02-28T17:00Z (J21, id 11406910)  -                                                      
+Internazionale - Atalanta  espn: 2024-02-28T19:45Z (J21, id 679426); sofascore: 2024-02-28T19:45Z (J21, id 11930405)  -                                                      
+Udinese - AS Roma          espn: 2024-04-25T18:00Z (J32, id 679159); sofascore: 2024-04-25T18:00Z (J32, id 11406783)  -                                                      
+Atalanta - Fiorentina      espn: 2024-06-02T16:00Z (J29, id 679120); sofascore: 2024-06-02T16:00Z (J29, id 12327421)  -                                                      
+   fecha_original registrada [Atalanta - Fiorentina]: 2024-03-17 18:00 local (prensa: fantacalcio.it, Lega Serie A; aplazado el mismo dia por el malestar de Joe Barone)
+   fecha_original registrada [Bologna - Fiorentina]: fin de semana del 20-21 enero 2024 (Toro News, Sportface); dia y hora originales NO ENCONTRADOS en busqueda con Cowork; probablemente nunca se fijaron (Fantacalcio, 22-12-2023, ya los listaba como aplazados). Reprogramado (Toro News, Fantacalcio, Sportface): miercoles 14-02-2024, 19:00
+   fecha_original registrada [Internazionale - Atalanta]: fin de semana del 20-21 enero 2024 (Toro News, Sportface); dia y hora originales NO ENCONTRADOS en busqueda con Cowork; probablemente nunca se fijaron (Fantacalcio, 22-12-2023, ya los listaba como aplazados). Reprogramado (Toro News, Fantacalcio, Sportface): miercoles 28-02-2024, 20:45
+   fecha_original registrada [Sassuolo - Napoli]: fin de semana del 20-21 enero 2024 (Toro News, Sportface); dia y hora originales NO ENCONTRADOS en busqueda con Cowork; probablemente nunca se fijaron (Fantacalcio, 22-12-2023, ya los listaba como aplazados). Reprogramado (Toro News, Fantacalcio, Sportface): miercoles 28-02-2024, 18:00
+   fecha_original registrada [Torino - Lazio]: fin de semana del 20-21 enero 2024 (Toro News, Sportface); dia y hora originales NO ENCONTRADOS en busqueda con Cowork; probablemente nunca se fijaron (Fantacalcio, 22-12-2023, ya los listaba como aplazados). Reprogramado (Toro News, Fantacalcio, Sportface): jueves 22-02-2024, 20:45
+   fecha_original registrada [Udinese - AS Roma]: 2024-04-14 (prensa: Sky Sport; suspendido por el malestar de Ndicka con 1-1, reanudado el 25-04-2024; minuto de reanudacion no coincide entre medios: 71'-73')
+--- 2024-25: 10 filas calculadas ({'espn': 5, 'sofascore': 5}); aplazados.csv: 10 filas ({'espn': 5, 'sofascore': 5}) -> COINCIDE
+partido                      fecha real jugada (UTC) y jornada asignada                                                 eventos no disputados en las fuentes (fecha del evento)
+---------------------------  -----------------------------------------------------------------------------------------  -------------------------------------------------------
+Como - AC Milan              espn: 2025-01-14T17:30Z (J19, id 712300); sofascore: 2025-01-14T17:30Z (J19, id 12504625)  -                                                      
+Atalanta - Juventus          espn: 2025-01-14T19:45Z (J19, id 712301); sofascore: 2025-01-14T19:45Z (J19, id 12504624)  -                                                      
+Internazionale - Bologna     espn: 2025-01-15T19:45Z (J19, id 712302); sofascore: 2025-01-15T19:45Z (J19, id 12504620)  -                                                      
+Fiorentina - Internazionale  espn: 2025-02-06T19:45Z (J14, id 712244); sofascore: 2025-02-06T19:45Z (J14, id 12504676)  -                                                      
+Bologna - AC Milan           espn: 2025-02-27T19:45Z (J9, id 712200); sofascore: 2025-02-27T19:45Z (J9, id 13416148)    -                                                      
+   fecha_original registrada [Atalanta - Juventus]: NO ENCONTRADA. Una busqueda anterior indico 5-01-2025, pero Cowork no pudo verificarla y ninguna fuente lo dice; se descarta como dato. El calendario publicado el 1-11-2024 ya traia estos tres partidos el 14-15 enero (Goal, Fantamaster, Calcio e Finanza), por lo que probablemente no hubo fecha original. Reprogramado: martes 14-01-2025, 20:45
+   fecha_original registrada [Bologna - AC Milan]: 2024-10-26 (prensa: Sky Sport, calcioefinanza; partido de la 9a, aplazado por temporal)
+   fecha_original registrada [Como - AC Milan]: NO ENCONTRADA. Una busqueda anterior indico 5-01-2025, pero Cowork no pudo verificarla y ninguna fuente lo dice; se descarta como dato. El calendario publicado el 1-11-2024 ya traia estos tres partidos el 14-15 enero (Goal, Fantamaster, Calcio e Finanza), por lo que probablemente no hubo fecha original. Reprogramado: martes 14-01-2025, 18:30
+   fecha_original registrada [Fiorentina - Internazionale]: 2024-12-01 (prensa: Corriere dello Sport; suspendido en el 17' por el malestar de Bove, reanudado el 06-02-2025)
+   fecha_original registrada [Internazionale - Bologna]: NO ENCONTRADA. Una busqueda anterior indico 5-01-2025, pero Cowork no pudo verificarla y ninguna fuente lo dice; se descarta como dato. El calendario publicado el 1-11-2024 ya traia estos tres partidos el 14-15 enero (Goal, Fantamaster, Calcio e Finanza), por lo que probablemente no hubo fecha original. Reprogramado: miercoles 15-01-2025, 20:45
+--- 2025-26: 15 filas calculadas ({'espn': 5, 'sofascore': 10}); aplazados.csv: 15 filas ({'espn': 5, 'sofascore': 10}) -> COINCIDE
+partido                  fecha real jugada (UTC) y jornada asignada                                                 eventos no disputados en las fuentes (fecha del evento)         
+-----------------------  -----------------------------------------------------------------------------------------  ----------------------------------------------------------------
+Napoli - Parma           espn: 2026-01-14T17:30Z (J16, id 736937); sofascore: 2026-01-14T17:30Z (J16, id 14844295)  sofascore: 2025-12-21T14:00Z estado=postponed (J16, id 13981578)
+Internazionale - Lecce   espn: 2026-01-14T19:45Z (J16, id 736940); sofascore: 2026-01-14T19:45Z (J16, id 14844287)  sofascore: 2025-12-21T14:00Z estado=postponed (J16, id 13981574)
+Hellas Verona - Bologna  espn: 2026-01-15T17:30Z (J16, id 736941); sofascore: 2026-01-15T17:30Z (J16, id 14844293)  sofascore: 2025-12-21T14:00Z estado=postponed (J16, id 13981576)
+Como - AC Milan          espn: 2026-01-15T19:45Z (J16, id 736935); sofascore: 2026-01-15T19:45Z (J16, id 14844296)  sofascore: 2025-12-21T14:00Z estado=postponed (J16, id 13981567)
+AC Milan - Como          espn: 2026-02-18T19:45Z (J24, id 737015); sofascore: 2026-02-18T19:45Z (J24, id 15462526)  sofascore: 2026-02-08T14:00Z estado=postponed (J24, id 13981661)
+   fecha_original registrada [AC Milan - Como]: 2026-02-08T14:00Z (evento 'postponed' de sofascore, id 13981661, jornada 24)
+   fecha_original registrada [Como - AC Milan]: 2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981567, jornada 16)
+   fecha_original registrada [Hellas Verona - Bologna]: 2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981576, jornada 16)
+   fecha_original registrada [Internazionale - Lecce]: 2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981574, jornada 16)
+   fecha_original registrada [Napoli - Parma]: 2025-12-21T14:00Z (evento 'postponed' de sofascore, id 13981578, jornada 16)
+
+====================================================================================================
+5. DISCREPANCIAS ESPN vs SOFASCORE -> datos/discrepancias_5_temporadas.csv
+====================================================================================================
+2021-22: goles espn en CSV de jornadas=1089; en comparacion_temporada.csv=1089
+2021-22: goles sofascore en CSV de jornadas=1088; en comparacion_temporada.csv=1088
+2021-22: partidos con goles distintos en (equipo, minuto, tipo) recomputados=1; partidos distintos con esas diferencias en la comparacion=1
+2022-23: goles espn en CSV de jornadas=974; en comparacion_temporada.csv=974
+2022-23: goles sofascore en CSV de jornadas=974; en comparacion_temporada.csv=974
+2022-23: partidos con goles distintos en (equipo, minuto, tipo) recomputados=0; partidos distintos con esas diferencias en la comparacion=0
+2023-24: goles espn en CSV de jornadas=992; en comparacion_temporada.csv=992
+2023-24: goles sofascore en CSV de jornadas=992; en comparacion_temporada.csv=992
+2023-24: partidos con goles distintos en (equipo, minuto, tipo) recomputados=0; partidos distintos con esas diferencias en la comparacion=0
+2024-25: goles espn en CSV de jornadas=973; en comparacion_temporada.csv=973
+2024-25: goles sofascore en CSV de jornadas=973; en comparacion_temporada.csv=973
+2024-25: partidos con goles distintos en (equipo, minuto, tipo) recomputados=0; partidos distintos con esas diferencias en la comparacion=0
+2025-26: goles espn en CSV de jornadas=922; en comparacion_temporada.csv=922
+2025-26: goles sofascore en CSV de jornadas=922; en comparacion_temporada.csv=922
+2025-26: partidos con goles distintos en (equipo, minuto, tipo) recomputados=3; partidos distintos con esas diferencias en la comparacion=3
+
+Comprobacion: nombre_elegido registrado distinto de los dos nombres crudos: 0 caso(s)
+
+Filas por temporada / nivel / estado:
+   ('2021-22', 'GOL', 'resuelta') 47
+   ('2021-22', 'PARTIDO', 'resuelta') 3
+   ('2022-23', 'GOL', 'resuelta') 24
+   ('2023-24', 'GOL', 'resuelta') 31
+   ('2024-25', 'GOL', 'resuelta') 20
+   ('2025-26', 'GOL', 'resuelta') 20
+Filas por tipo: {'fecha_utc': 2, 'gol': 1, 'goleador_distinto': 49, 'goleador_variante': 89, 'minuto': 3, 'n_goles': 1}
+
+--- CONTENIDO COMPLETO de datos/discrepancias_5_temporadas.csv (campos: temporada, jornada, nivel, partido, tipo, valor_espn, valor_sofascore, estado, estado_en_comparacion) ---
+temporada,jornada,nivel,partido,tipo,valor_espn,valor_sofascore,estado,estado_en_comparacion
+2021-22,1,GOL,Hellas Verona - Sassuolo,goleador_distinto,51' Filip Djuricic (Sassuolo),51' Filip Đuričić (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2021-22,1,GOL,Hellas Verona - Sassuolo,goleador_variante,77' Hamed Traoré (Sassuolo),77' Hamed Junior Traorè (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2021-22,1,GOL,Cagliari - Spezia,goleador_variante,62' João Pedro (Cagliari),62' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,1,GOL,Cagliari - Spezia,goleador_variante,66' João Pedro (Cagliari) PEN,66' João Pedro Galvão (Cagliari) PEN,resuelta,RESUELTO_POR_USUARIO
+2021-22,2,GOL,Fiorentina - Torino,goleador_variante,41' Nico González (Fiorentina),41' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2021-22,3,GOL,Cagliari - Genoa,goleador_variante,16' João Pedro (Cagliari) PEN,16' João Pedro Galvão (Cagliari) PEN,resuelta,RESUELTO_POR_USUARIO
+2021-22,3,GOL,Torino - Salernitana,goleador_variante,65' Bremer (Torino),65' Gleison Bremer (Torino),resuelta,RESUELTO_POR_USUARIO
+2021-22,3,GOL,AS Roma - Sassuolo,goleador_distinto,57' Filip Djuricic (Sassuolo),57' Filip Đuričić (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2021-22,4,GOL,Lazio - Cagliari,goleador_variante,46' João Pedro (Cagliari),46' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,7,GOL,Salernitana - Genoa,goleador_distinto,66' Milan Djuric (Salernitana),66' Milan Đurić (US Salernitana 1919),resuelta,RESUELTO_POR_USUARIO
+2021-22,8,GOL,Cagliari - Sampdoria,goleador_variante,4' João Pedro (Cagliari),4' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,8,GOL,Cagliari - Sampdoria,goleador_variante,90+4' João Pedro (Cagliari),90+4' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,9,GOL,Salernitana - Empoli,goleador_distinto,55' Adrian Ismajli (Salernitana) AUTOGOL,55' Ardian Ismajli (US Salernitana 1919) AUTOGOL,resuelta,RESUELTO_POR_USUARIO
+2021-22,9,GOL,Fiorentina - Cagliari,goleador_variante,42' Nico González (Fiorentina),42' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2021-22,12,GOL,Empoli - Genoa,goleador_variante,89' Flavio Junior Bianchi (Genoa),89' Flavio Bianchi (Genoa),resuelta,RESUELTO_POR_USUARIO
+2021-22,12,GOL,Cagliari - Atalanta,goleador_variante,27' João Pedro (Cagliari),27' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,13,GOL,Sassuolo - Cagliari,goleador_variante,56' João Pedro (Cagliari) PEN,56' João Pedro Galvão (Cagliari) PEN,resuelta,RESUELTO_POR_USUARIO
+2021-22,13,GOL,Torino - Udinese,goleador_variante,48' Bremer (Torino),48' Gleison Bremer (Torino),resuelta,RESUELTO_POR_USUARIO
+2021-22,16,GOL,Cagliari - Torino,goleador_variante,53' João Pedro (Cagliari),53' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,17,GOL,Hellas Verona - Atalanta,goleador_distinto,37' Alexey Miranchuk (Atalanta),37' Aleksey Miranchuk (Atalanta),resuelta,RESUELTO_POR_USUARIO
+2021-22,18,GOL,Spezia - Empoli,goleador_distinto,71' Dimitris Nikolaou (Empoli) AUTOGOL,71' Dimitrios Nikolaou (Empoli) AUTOGOL,resuelta,RESUELTO_POR_USUARIO
+2021-22,19,PARTIDO,Udinese - Salernitana,n_goles,2022-04-20T16:45Z 0-1 (1 goles),2022-04-20T16:45Z 0-1 (0 goles),resuelta,RESUELTO_POR_USUARIO
+2021-22,19,GOL,Udinese - Salernitana,gol,90+3' Simone Verdi (Salernitana),,resuelta,RESUELTO_POR_USUARIO
+2021-22,21,GOL,Hellas Verona - Salernitana,goleador_distinto,29' Milan Djuric (Salernitana) PEN,29' Milan Đurić (US Salernitana 1919) PEN,resuelta,RESUELTO_POR_USUARIO
+2021-22,22,GOL,Bologna - Napoli,goleador_variante,20' Hirving Lozano (Napoli),20' Hirvinggg Lozano (SSC Napoli),resuelta,RESUELTO_POR_USUARIO
+2021-22,22,GOL,Bologna - Napoli,goleador_variante,47' Hirving Lozano (Napoli),47' Hirvinggg Lozano (SSC Napoli),resuelta,RESUELTO_POR_USUARIO
+2021-22,23,GOL,Cagliari - Fiorentina,goleador_variante,47' João Pedro (Cagliari),47' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,24,GOL,Atalanta - Cagliari,goleador_variante,64' José Palomino (Atalanta),64' José Luis Palomino (Atalanta),resuelta,RESUELTO_POR_USUARIO
+2021-22,25,GOL,Sassuolo - AS Roma,goleador_variante,73' Hamed Traoré (Sassuolo),73' Hamed Junior Traorè (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2021-22,26,GOL,Salernitana - AC Milan,goleador_distinto,72' Milan Djuric (Salernitana),72' Milan Đurić (US Salernitana 1919),resuelta,RESUELTO_POR_USUARIO
+2021-22,27,PARTIDO,AC Milan - Udinese,fecha_utc,2022-02-25T17:50Z 1-1 (2 goles),2022-02-25T17:45Z 1-1 (2 goles),resuelta,RESUELTO_POR_USUARIO
+2021-22,27,PARTIDO,Genoa - Internazionale,fecha_utc,2022-02-25T20:05Z 0-0 (0 goles),2022-02-25T20:00Z 0-0 (0 goles),resuelta,RESUELTO_POR_USUARIO
+2021-22,27,GOL,Sassuolo - Fiorentina,goleador_variante,19' Hamed Traoré (Sassuolo),19' Hamed Junior Traorè (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2021-22,27,GOL,Atalanta - Sampdoria,goleador_distinto,86' Alexey Miranchuk (Atalanta),86' Aleksey Miranchuk (Atalanta),resuelta,RESUELTO_POR_USUARIO
+2021-22,29,GOL,Salernitana - Sassuolo,goleador_variante,30' Hamed Traoré (Sassuolo),30' Hamed Junior Traorè (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2021-22,29,GOL,Salernitana - Sassuolo,goleador_distinto,81' Milan Djuric (Salernitana),81' Milan Đurić (US Salernitana 1919),resuelta,RESUELTO_POR_USUARIO
+2021-22,29,GOL,Torino - Internazionale,goleador_variante,12' Bremer (Torino),12' Gleison Bremer (Torino),resuelta,RESUELTO_POR_USUARIO
+2021-22,31,GOL,Lazio - Sassuolo,goleador_variante,90+4' Hamed Traoré (Sassuolo),90+4' Hamed Junior Traorè (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2021-22,31,GOL,Fiorentina - Empoli,goleador_variante,58' Nico González (Fiorentina),58' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2021-22,31,GOL,Udinese - Cagliari,goleador_variante,32' João Pedro (Cagliari),32' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,32,GOL,Cagliari - Juventus,goleador_variante,10' João Pedro (Cagliari),10' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,32,GOL,Napoli - Fiorentina,goleador_variante,29' Nico González (Fiorentina),29' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2021-22,32,GOL,Sassuolo - Atalanta,goleador_variante,24' Hamed Traoré (Sassuolo),24' Hamed Junior Traorè (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2021-22,32,GOL,Sassuolo - Atalanta,goleador_variante,61' Hamed Traoré (Sassuolo),61' Hamed Junior Traorè (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2021-22,33,GOL,Udinese - Empoli,goleador_distinto,6' Adrian Ismajli (Udinese) AUTOGOL,6' Ardian Ismajli (Udinese) AUTOGOL,resuelta,RESUELTO_POR_USUARIO
+2021-22,34,GOL,Salernitana - Fiorentina,goleador_distinto,9' Milan Djuric (Salernitana),9' Milan Đurić (US Salernitana 1919),resuelta,RESUELTO_POR_USUARIO
+2021-22,35,GOL,Cagliari - Hellas Verona,goleador_variante,57' João Pedro (Cagliari),57' João Pedro Galvão (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2021-22,36,GOL,Fiorentina - AS Roma,goleador_variante,5' Nico González (Fiorentina) PEN,5' Nicolás González (Fiorentina) PEN,resuelta,RESUELTO_POR_USUARIO
+2021-22,37,GOL,Sampdoria - Fiorentina,goleador_variante,89' Nico González (Fiorentina) PEN,89' Nicolás González (Fiorentina) PEN,resuelta,RESUELTO_POR_USUARIO
+2021-22,38,GOL,Fiorentina - Juventus,goleador_variante,90+2' Nico González (Fiorentina) PEN,90+2' Nicolás González (Fiorentina) PEN,resuelta,RESUELTO_POR_USUARIO
+2022-23,1,GOL,Monza - Torino,goleador_distinto,43' Alexey Miranchuk (Torino),43' Aleksey Miranchuk (Torino),resuelta,RESUELTO_POR_USUARIO
+2022-23,6,GOL,Sampdoria - AC Milan,goleador_distinto,57' Filip Djuricic (Sampdoria),57' Filip Đuričić (Sampdoria),resuelta,RESUELTO_POR_USUARIO
+2022-23,6,GOL,Juventus - Salernitana,goleador_variante,51' Bremer (Juventus),51' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2022-23,7,GOL,Torino - Sassuolo,goleador_variante,90+3' Agustín Álvarez Martínez (Sassuolo),90+3' Agustín Álvarez (Sassuolo),resuelta,RESUELTO_POR_USUARIO
+2022-23,7,GOL,Fiorentina - Hellas Verona,goleador_variante,90' Nico González (Fiorentina),90' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2022-23,9,GOL,Bologna - Sampdoria,goleador_distinto,72' Filip Djuricic (Sampdoria),72' Filip Đuričić (Sampdoria),resuelta,RESUELTO_POR_USUARIO
+2022-23,12,GOL,Torino - AC Milan,goleador_distinto,37' Alexey Miranchuk (Torino),37' Aleksey Miranchuk (Torino),resuelta,RESUELTO_POR_USUARIO
+2022-23,15,GOL,Atalanta - Internazionale,goleador_variante,61' José Palomino (Internazionale) AUTOGOL,61' José Luis Palomino (Inter) AUTOGOL,resuelta,RESUELTO_POR_USUARIO
+2022-23,15,GOL,Atalanta - Internazionale,goleador_variante,77' José Palomino (Atalanta),77' José Luis Palomino (Atalanta),resuelta,RESUELTO_POR_USUARIO
+2022-23,16,GOL,Torino - Hellas Verona,goleador_distinto,45' Milan Djuric (Hellas Verona),45' Milan Đurić (Hellas Verona),resuelta,RESUELTO_POR_USUARIO
+2022-23,16,GOL,Torino - Hellas Verona,goleador_distinto,64' Alexey Miranchuk (Torino),64' Aleksey Miranchuk (Torino),resuelta,RESUELTO_POR_USUARIO
+2022-23,17,GOL,Fiorentina - Sassuolo,goleador_variante,90+1' Nico González (Fiorentina) PEN,90+1' Nicolás González (Fiorentina) PEN,resuelta,RESUELTO_POR_USUARIO
+2022-23,19,GOL,Fiorentina - Torino,goleador_distinto,33' Alexey Miranchuk (Torino),33' Aleksey Miranchuk (Torino),resuelta,RESUELTO_POR_USUARIO
+2022-23,20,GOL,Lazio - Fiorentina,goleador_variante,49' Nico González (Fiorentina),49' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2022-23,24,GOL,Empoli - Napoli,goleador_distinto,17' Adrian Ismajli (Napoli) AUTOGOL,17' Ardian Ismajli (SSC Napoli) AUTOGOL,resuelta,RESUELTO_POR_USUARIO
+2022-23,24,GOL,Juventus - Torino,goleador_variante,71' Bremer (Juventus),71' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2022-23,25,GOL,Fiorentina - AC Milan,goleador_variante,49' Nico González (Fiorentina) PEN,49' Nicolás González (Fiorentina) PEN,resuelta,RESUELTO_POR_USUARIO
+2022-23,26,GOL,Juventus - Sampdoria,goleador_variante,11' Bremer (Juventus),11' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2022-23,26,GOL,Juventus - Sampdoria,goleador_distinto,32' Filip Djuricic (Sampdoria),32' Filip Đuričić (Sampdoria),resuelta,RESUELTO_POR_USUARIO
+2022-23,30,GOL,Lecce - Sampdoria,goleador_variante,75' Jesé (Sampdoria),75' Jesé Rodríguez (Sampdoria),resuelta,RESUELTO_POR_USUARIO
+2022-23,33,GOL,Salernitana - Fiorentina,goleador_variante,36' Nico González (Fiorentina),36' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2022-23,35,GOL,Juventus - Cremonese,goleador_variante,79' Bremer (Juventus),79' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2022-23,38,GOL,Sassuolo - Fiorentina,goleador_variante,83' Nico González (Fiorentina),83' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2022-23,38,GOL,AS Roma - Spezia,goleador_distinto,6' Dimitris Nikolaou (Spezia),6' Dimitrios Nikolaou (Spezia),resuelta,RESUELTO_POR_USUARIO
+2023-24,1,GOL,Genoa - Fiorentina,goleador_variante,40' Nico González (Fiorentina),40' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,2,GOL,Fiorentina - Lecce,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,6,GOL,Frosinone - Fiorentina,goleador_variante,19' Nico González (Fiorentina),19' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,7,GOL,Fiorentina - Cagliari,goleador_variante,3' Nico González (Fiorentina),3' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,8,GOL,Frosinone - Hellas Verona,goleador_distinto,45+1' Reiner (Frosinone),45+1' Reinier (Frosinone),resuelta,RESUELTO_POR_USUARIO
+2023-24,8,GOL,Frosinone - Hellas Verona,goleador_distinto,90+4' Milan Djuric (Hellas Verona),90+4' Milan Đurić (Hellas Verona),resuelta,RESUELTO_POR_USUARIO
+2023-24,8,GOL,Napoli - Fiorentina,goleador_variante,90+3' Nico González (Fiorentina),90+3' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,12,GOL,Juventus - Cagliari,goleador_variante,60' Bremer (Juventus),60' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2023-24,12,GOL,Fiorentina - Bologna,goleador_variante,48' Nico González (Fiorentina) PEN,48' Nicolás González (Fiorentina) PEN,resuelta,RESUELTO_POR_USUARIO
+2023-24,13,GOL,Hellas Verona - Lecce,goleador_distinto,77' Milan Djuric (Hellas Verona),77' Milan Đurić (Hellas Verona),resuelta,RESUELTO_POR_USUARIO
+2023-24,14,GOL,Udinese - Hellas Verona,goleador_distinto,37' Milan Djuric (Hellas Verona) PEN,37' Milan Đurić (Hellas Verona) PEN,resuelta,RESUELTO_POR_USUARIO
+2023-24,16,GOL,Atalanta - Salernitana,goleador_distinto,89' Alexey Miranchuk (Atalanta),89' Aleksey Miranchuk (Atalanta),resuelta,RESUELTO_POR_USUARIO
+2023-24,17,GOL,Hellas Verona - Cagliari,goleador_distinto,90' Milan Djuric (Hellas Verona),90' Milan Đurić (Hellas Verona),resuelta,RESUELTO_POR_USUARIO
+2023-24,20,GOL,Hellas Verona - Empoli,goleador_distinto,3' Milan Djuric (Hellas Verona),3' Milan Đurić (Hellas Verona),resuelta,RESUELTO_POR_USUARIO
+2023-24,21,GOL,Frosinone - Cagliari,goleador_variante,26' Sulemana (Cagliari),26' Ibrahim Sulemana (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2023-24,21,GOL,Lecce - Juventus,goleador_variante,85' Bremer (Juventus),85' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2023-24,22,GOL,Atalanta - Udinese,goleador_distinto,33' Alexey Miranchuk (Atalanta),33' Aleksey Miranchuk (Atalanta),resuelta,RESUELTO_POR_USUARIO
+2023-24,24,GOL,Fiorentina - Frosinone,goleador_variante,53' Nico González (Fiorentina),53' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,29,GOL,Atalanta - Fiorentina,goleador_variante,19' Nico González (Fiorentina),19' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,30,GOL,Napoli - Atalanta,goleador_distinto,26' Alexey Miranchuk (Atalanta),26' Aleksey Miranchuk (Atalanta),resuelta,RESUELTO_POR_USUARIO
+2023-24,30,GOL,Genoa - Frosinone,goleador_distinto,36' Reiner (Frosinone),36' Reinier (Frosinone),resuelta,RESUELTO_POR_USUARIO
+2023-24,30,GOL,Cagliari - Hellas Verona,goleador_variante,74' Sulemana (Cagliari),74' Ibrahim Sulemana (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2023-24,31,GOL,Monza - Napoli,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),resuelta,RESUELTO_POR_USUARIO
+2023-24,34,GOL,Fiorentina - Sassuolo,goleador_variante,58' Nico González (Fiorentina),58' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,34,GOL,Fiorentina - Sassuolo,goleador_variante,66' Nico González (Fiorentina),66' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,35,GOL,Monza - Lazio,goleador_distinto,73' Milan Djuric (Monza),73' Milan Đurić (Monza),resuelta,RESUELTO_POR_USUARIO
+2023-24,35,GOL,Monza - Lazio,goleador_distinto,90+2' Milan Djuric (Monza),90+2' Milan Đurić (Monza),resuelta,RESUELTO_POR_USUARIO
+2023-24,35,GOL,AS Roma - Juventus,goleador_variante,31' Bremer (Juventus),31' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2023-24,36,GOL,Fiorentina - Monza,goleador_distinto,9' Milan Djuric (Monza),9' Milan Đurić (Monza),resuelta,RESUELTO_POR_USUARIO
+2023-24,36,GOL,Fiorentina - Monza,goleador_variante,32' Nico González (Fiorentina),32' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2023-24,38,GOL,Cagliari - Fiorentina,goleador_variante,89' Nico González (Fiorentina),89' Nicolás González (Fiorentina),resuelta,RESUELTO_POR_USUARIO
+2024-25,1,GOL,Hellas Verona - Napoli,goleador_variante,50' Dailon Livramento (Hellas Verona),50' Dailon Rocha Livramento (Hellas Verona),resuelta,RESUELTO_POR_USUARIO
+2024-25,3,GOL,Fiorentina - Monza,goleador_distinto,18' Milan Djuric (Monza),18' Milan Đurić (Monza),resuelta,RESUELTO_POR_USUARIO
+2024-25,5,GOL,Monza - Bologna,goleador_distinto,43' Milan Djuric (Monza),43' Milan Đurić (Monza),resuelta,RESUELTO_POR_USUARIO
+2024-25,8,GOL,Cagliari - Torino,goleador_variante,74' José Palomino (Cagliari),74' José Luis Palomino (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2024-25,8,GOL,Hellas Verona - Monza,goleador_distinto,79' Alessandro Bianconi (Monza),79' Alessandro Bianco (Monza),resuelta,RESUELTO_POR_USUARIO
+2024-25,9,GOL,Monza - Venezia,goleador_distinto,44' Milan Djuric (Monza),44' Milan Đurić (Monza),resuelta,RESUELTO_POR_USUARIO
+2024-25,13,GOL,Torino - Monza,goleador_distinto,63' Milan Djuric (Monza),63' Milan Đurić (Monza),resuelta,RESUELTO_POR_USUARIO
+2024-25,14,GOL,Parma - Lazio,goleador_variante,53' Mohamed Anas Haj (Parma),53' Anas Haj Mohamed (Parma),resuelta,RESUELTO_POR_USUARIO
+2024-25,16,GOL,Lecce - Monza,goleador_distinto,3' José Antonio Morente (Lecce),3' Tete Morente (Lecce),resuelta,RESUELTO_POR_USUARIO
+2024-25,17,GOL,Lecce - Lazio,goleador_distinto,50' José Antonio Morente (Lecce),50' Tete Morente (Lecce),resuelta,RESUELTO_POR_USUARIO
+2024-25,17,GOL,Monza - Juventus,goleador_variante,39' Nico González (Juventus),39' Nicolás González (Juventus),resuelta,RESUELTO_POR_USUARIO
+2024-25,20,GOL,Empoli - Lecce,goleador_distinto,6' José Antonio Morente (Lecce),6' Tete Morente (Lecce),resuelta,RESUELTO_POR_USUARIO
+2024-25,33,GOL,Empoli - Venezia,goleador_distinto,87' Faustino Anjorin (Empoli),87' Tino Anjorin (Empoli),resuelta,RESUELTO_POR_USUARIO
+2024-25,34,GOL,Juventus - Monza,goleador_variante,11' Nico González (Juventus),11' Nicolás González (Juventus),resuelta,RESUELTO_POR_USUARIO
+2024-25,35,GOL,Torino - Venezia,goleador_distinto,37' Enrique Perez (Venezia),37' Kike Pérez (Venezia),resuelta,RESUELTO_POR_USUARIO
+2024-25,36,GOL,Empoli - Parma,goleador_distinto,73' Milan Djuric (Parma),73' Milan Đurić (Parma),resuelta,RESUELTO_POR_USUARIO
+2024-25,36,GOL,Empoli - Parma,goleador_distinto,86' Faustino Anjorin (Empoli),86' Tino Anjorin (Empoli),resuelta,RESUELTO_POR_USUARIO
+2024-25,36,GOL,Atalanta - AS Roma,goleador_variante,76' Sulemana (Atalanta),76' Ibrahim Sulemana (Atalanta),resuelta,RESUELTO_POR_USUARIO
+2024-25,37,GOL,Genoa - Atalanta,goleador_variante,47' Sulemana (Atalanta),47' Ibrahim Sulemana (Atalanta),resuelta,RESUELTO_POR_USUARIO
+2024-25,37,GOL,Juventus - Udinese,goleador_variante,61' Nico González (Juventus),61' Nicolás González (Juventus),resuelta,RESUELTO_POR_USUARIO
+2025-26,1,GOL,Internazionale - Torino,minuto,51' Lautaro Martínez (Internazionale),52' Lautaro Martínez (Inter),resuelta,RESUELTO_POR_USUARIO
+2025-26,4,GOL,Udinese - AC Milan,minuto,39' Christian Pulisic (AC Milan),40' Christian Pulišić (AC Milan),resuelta,RESUELTO_POR_USUARIO
+2025-26,4,GOL,Fiorentina - Como,goleador_variante,65' Marc-Oliver Kempf (Como),65' Marc Kempf (Como),resuelta,RESUELTO_POR_USUARIO
+2025-26,7,GOL,Como - Juventus,goleador_variante,4' Marc-Oliver Kempf (Como),4' Marc Kempf (Como),resuelta,RESUELTO_POR_USUARIO
+2025-26,8,GOL,Fiorentina - Bologna,minuto,73' Albert Gudmundsson (Fiorentina) PEN,74' Albert Guðmundsson (Fiorentina) PEN,resuelta,RESUELTO_POR_USUARIO
+2025-26,12,GOL,Sassuolo - Pisa,goleador_variante,81' Henrik Meister (Pisa),81' Henrik Wendel Meister (Pisa),resuelta,RESUELTO_POR_USUARIO
+2025-26,16,GOL,Como - AC Milan,goleador_variante,10' Marc-Oliver Kempf (Como),10' Marc Kempf (Como),resuelta,RESUELTO_POR_USUARIO
+2025-26,20,GOL,Udinese - Pisa,goleador_variante,67' Henrik Meister (Pisa),67' Henrik Wendel Meister (Pisa),resuelta,RESUELTO_POR_USUARIO
+2025-26,20,GOL,Juventus - Cremonese,goleador_variante,12' Bremer (Juventus),12' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2025-26,22,GOL,Como - Torino,goleador_variante,70' Nicolas Kühn (Como),70' Nicolas-Gerrit Kühn (Como),resuelta,RESUELTO_POR_USUARIO
+2025-26,23,GOL,Cagliari - Hellas Verona,goleador_variante,84' Sulemana (Cagliari),84' Ibrahim Sulemana (Cagliari),resuelta,RESUELTO_POR_USUARIO
+2025-26,23,GOL,Parma - Juventus,goleador_variante,15' Bremer (Juventus),15' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2025-26,23,GOL,Parma - Juventus,goleador_variante,54' Bremer (Juventus),54' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2025-26,27,GOL,Como - Lecce,goleador_variante,44' Marc-Oliver Kempf (Como),44' Marc Kempf (Como),resuelta,RESUELTO_POR_USUARIO
+2025-26,28,GOL,Bologna - Hellas Verona,goleador_variante,49' Jon Rowe (Bologna),49' Jonathan Rowe (Bologna),resuelta,RESUELTO_POR_USUARIO
+2025-26,31,GOL,Cremonese - Bologna,goleador_distinto,3' Joao Victor (Bologna),3' João Mário (Bologna),resuelta,RESUELTO_POR_USUARIO
+2025-26,31,GOL,Cremonese - Bologna,goleador_variante,16' Jon Rowe (Bologna),16' Jonathan Rowe (Bologna),resuelta,RESUELTO_POR_USUARIO
+2025-26,31,GOL,Juventus - Genoa,goleador_variante,4' Bremer (Juventus),4' Gleison Bremer (Juventus),resuelta,RESUELTO_POR_USUARIO
+2025-26,36,GOL,Torino - Sassuolo,goleador_variante,70' Marcus Holmgren Pedersen (Torino),70' Marcus Pedersen (Torino),resuelta,RESUELTO_POR_USUARIO
+2025-26,36,GOL,Napoli - Bologna,goleador_variante,90+1' Jon Rowe (Bologna),90+1' Jonathan Rowe (Bologna),resuelta,RESUELTO_POR_USUARIO
+
+====================================================================================================
+6. PARES DE NOMBRES DISTINTOS (sin unificar; tipo = el que marca la comparacion) -> datos/pares_nombres_5_temporadas.csv
+====================================================================================================
+nombre ESPN               nombre Sofascore         tipo               casos  temporadas                        
+------------------------  -----------------------  -----------------  -----  ----------------------------------
+Agustín Álvarez Martínez  Agustín Álvarez          goleador_variante  1      2022-23                           
+Alexey Miranchuk          Aleksey Miranchuk        goleador_distinto  9      2021-22, 2022-23, 2023-24         
+Alessandro Bianconi       Alessandro Bianco        goleador_distinto  1      2024-25                           
+Mohamed Anas Haj          Anas Haj Mohamed         goleador_variante  1      2024-25                           
+Adrian Ismajli            Ardian Ismajli           goleador_distinto  3      2021-22, 2022-23                  
+Dailon Livramento         Dailon Rocha Livramento  goleador_variante  1      2024-25                           
+Dimitris Nikolaou         Dimitrios Nikolaou       goleador_distinto  2      2021-22, 2022-23                  
+Filip Djuricic            Filip Đuričić            goleador_distinto  5      2021-22, 2022-23                  
+Flavio Junior Bianchi     Flavio Bianchi           goleador_variante  1      2021-22                           
+Bremer                    Gleison Bremer           goleador_variante  14     2021-22, 2022-23, 2023-24, 2025-26
+Hamed Traoré              Hamed Junior Traorè      goleador_variante  7      2021-22                           
+Henrik Meister            Henrik Wendel Meister    goleador_variante  2      2025-26                           
+Hirving Lozano            Hirvinggg Lozano         goleador_variante  2      2021-22                           
+Sulemana                  Ibrahim Sulemana         goleador_variante  5      2023-24, 2024-25, 2025-26         
+Jesé                      Jesé Rodríguez           goleador_variante  1      2022-23                           
+Joao Victor               João Mário               goleador_distinto  1      2025-26                           
+João Pedro                João Pedro Galvão        goleador_variante  13     2021-22                           
+Jon Rowe                  Jonathan Rowe            goleador_variante  3      2025-26                           
+José Palomino             José Luis Palomino       goleador_variante  4      2021-22, 2022-23, 2024-25         
+Enrique Perez             Kike Pérez               goleador_distinto  1      2024-25                           
+Marc-Oliver Kempf         Marc Kempf               goleador_variante  4      2025-26                           
+Marcus Holmgren Pedersen  Marcus Pedersen          goleador_variante  1      2025-26                           
+Milan Djuric              Milan Đurić              goleador_distinto  20     2021-22, 2022-23, 2023-24, 2024-25
+Nicolas Kühn              Nicolas-Gerrit Kühn      goleador_variante  1      2025-26                           
+Nico González             Nicolás González         goleador_variante  28     2021-22, 2022-23, 2023-24, 2024-25
+Reiner                    Reinier                  goleador_distinto  2      2023-24                           
+José Antonio Morente      Tete Morente             goleador_distinto  3      2024-25                           
+Faustino Anjorin          Tino Anjorin             goleador_distinto  2      2024-25                           
+Total: 28 pares distintos, 138 casos.
